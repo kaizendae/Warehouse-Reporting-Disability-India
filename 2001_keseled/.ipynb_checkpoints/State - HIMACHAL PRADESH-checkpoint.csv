@@ -1,0 +1,2881 @@
+State Code,District Code,Area Name,Total/ Rural/ Urban,Age-group,Gender,Type,Rate
+2,1,District - Chamba  01,Rural,0-4,Male,In seeing,174
+2,1,District - Chamba  01,Rural,5-9,Male,In seeing,196
+2,1,District - Chamba  01,Rural,10-19,Male,In seeing,436
+2,1,District - Chamba  01,Rural,20-29,Male,In seeing,319
+2,1,District - Chamba  01,Rural,30-39,Male,In seeing,281
+2,1,District - Chamba  01,Rural,40-49,Male,In seeing,274
+2,1,District - Chamba  01,Rural,50-59,Male,In seeing,215
+2,1,District - Chamba  01,Rural,60-69,Male,In seeing,245
+2,1,District - Chamba  01,Rural,70-79,Male,In seeing,226
+2,1,District - Chamba  01,Rural,80-89,Male,In seeing,99
+2,1,District - Chamba  01,Rural,90+,Male,In seeing,53
+2,1,District - Chamba  01,Rural,Age not stated,Male,In seeing,11
+2,1,District - Chamba  01,Urban,0-4,Male,In seeing,31
+2,1,District - Chamba  01,Urban,5-9,Male,In seeing,45
+2,1,District - Chamba  01,Urban,10-19,Male,In seeing,124
+2,1,District - Chamba  01,Urban,20-29,Male,In seeing,47
+2,1,District - Chamba  01,Urban,30-39,Male,In seeing,50
+2,1,District - Chamba  01,Urban,40-49,Male,In seeing,47
+2,1,District - Chamba  01,Urban,50-59,Male,In seeing,26
+2,1,District - Chamba  01,Urban,60-69,Male,In seeing,22
+2,1,District - Chamba  01,Urban,70-79,Male,In seeing,15
+2,1,District - Chamba  01,Urban,80-89,Male,In seeing,5
+2,1,District - Chamba  01,Urban,90+,Male,In seeing,0
+2,1,District - Chamba  01,Urban,Age not stated,Male,In seeing,1
+2,2,District - Kangra  02,Rural,0-4,Male,In seeing,265
+2,2,District - Kangra  02,Rural,5-9,Male,In seeing,347
+2,2,District - Kangra  02,Rural,10-19,Male,In seeing,838
+2,2,District - Kangra  02,Rural,20-29,Male,In seeing,624
+2,2,District - Kangra  02,Rural,30-39,Male,In seeing,563
+2,2,District - Kangra  02,Rural,40-49,Male,In seeing,633
+2,2,District - Kangra  02,Rural,50-59,Male,In seeing,594
+2,2,District - Kangra  02,Rural,60-69,Male,In seeing,653
+2,2,District - Kangra  02,Rural,70-79,Male,In seeing,561
+2,2,District - Kangra  02,Rural,80-89,Male,In seeing,306
+2,2,District - Kangra  02,Rural,90+,Male,In seeing,93
+2,2,District - Kangra  02,Rural,Age not stated,Male,In seeing,17
+2,2,District - Kangra  02,Urban,0-4,Male,In seeing,18
+2,2,District - Kangra  02,Urban,5-9,Male,In seeing,18
+2,2,District - Kangra  02,Urban,10-19,Male,In seeing,51
+2,2,District - Kangra  02,Urban,20-29,Male,In seeing,49
+2,2,District - Kangra  02,Urban,30-39,Male,In seeing,51
+2,2,District - Kangra  02,Urban,40-49,Male,In seeing,59
+2,2,District - Kangra  02,Urban,50-59,Male,In seeing,42
+2,2,District - Kangra  02,Urban,60-69,Male,In seeing,28
+2,2,District - Kangra  02,Urban,70-79,Male,In seeing,22
+2,2,District - Kangra  02,Urban,80-89,Male,In seeing,7
+2,2,District - Kangra  02,Urban,90+,Male,In seeing,3
+2,2,District - Kangra  02,Urban,Age not stated,Male,In seeing,0
+2,3,District - Lahul & Spiti  03,Rural,0-4,Male,In seeing,8
+2,3,District - Lahul & Spiti  03,Rural,5-9,Male,In seeing,11
+2,3,District - Lahul & Spiti  03,Rural,10-19,Male,In seeing,37
+2,3,District - Lahul & Spiti  03,Rural,20-29,Male,In seeing,64
+2,3,District - Lahul & Spiti  03,Rural,30-39,Male,In seeing,56
+2,3,District - Lahul & Spiti  03,Rural,40-49,Male,In seeing,27
+2,3,District - Lahul & Spiti  03,Rural,50-59,Male,In seeing,31
+2,3,District - Lahul & Spiti  03,Rural,60-69,Male,In seeing,19
+2,3,District - Lahul & Spiti  03,Rural,70-79,Male,In seeing,10
+2,3,District - Lahul & Spiti  03,Rural,80-89,Male,In seeing,10
+2,3,District - Lahul & Spiti  03,Rural,90+,Male,In seeing,3
+2,3,District - Lahul & Spiti  03,Rural,Age not stated,Male,In seeing,1
+2,3,District - Lahul & Spiti  03,Urban,0-4,Male,In seeing,0
+2,3,District - Lahul & Spiti  03,Urban,5-9,Male,In seeing,0
+2,3,District - Lahul & Spiti  03,Urban,10-19,Male,In seeing,0
+2,3,District - Lahul & Spiti  03,Urban,20-29,Male,In seeing,0
+2,3,District - Lahul & Spiti  03,Urban,30-39,Male,In seeing,0
+2,3,District - Lahul & Spiti  03,Urban,40-49,Male,In seeing,0
+2,3,District - Lahul & Spiti  03,Urban,50-59,Male,In seeing,0
+2,3,District - Lahul & Spiti  03,Urban,60-69,Male,In seeing,0
+2,3,District - Lahul & Spiti  03,Urban,70-79,Male,In seeing,0
+2,3,District - Lahul & Spiti  03,Urban,80-89,Male,In seeing,0
+2,3,District - Lahul & Spiti  03,Urban,90+,Male,In seeing,0
+2,3,District - Lahul & Spiti  03,Urban,Age not stated,Male,In seeing,0
+2,4,District - Kullu  04,Rural,0-4,Male,In seeing,107
+2,4,District - Kullu  04,Rural,5-9,Male,In seeing,168
+2,4,District - Kullu  04,Rural,10-19,Male,In seeing,354
+2,4,District - Kullu  04,Rural,20-29,Male,In seeing,291
+2,4,District - Kullu  04,Rural,30-39,Male,In seeing,257
+2,4,District - Kullu  04,Rural,40-49,Male,In seeing,237
+2,4,District - Kullu  04,Rural,50-59,Male,In seeing,199
+2,4,District - Kullu  04,Rural,60-69,Male,In seeing,253
+2,4,District - Kullu  04,Rural,70-79,Male,In seeing,196
+2,4,District - Kullu  04,Rural,80-89,Male,In seeing,112
+2,4,District - Kullu  04,Rural,90+,Male,In seeing,32
+2,4,District - Kullu  04,Rural,Age not stated,Male,In seeing,3
+2,4,District - Kullu  04,Urban,0-4,Male,In seeing,8
+2,4,District - Kullu  04,Urban,5-9,Male,In seeing,11
+2,4,District - Kullu  04,Urban,10-19,Male,In seeing,19
+2,4,District - Kullu  04,Urban,20-29,Male,In seeing,21
+2,4,District - Kullu  04,Urban,30-39,Male,In seeing,21
+2,4,District - Kullu  04,Urban,40-49,Male,In seeing,18
+2,4,District - Kullu  04,Urban,50-59,Male,In seeing,12
+2,4,District - Kullu  04,Urban,60-69,Male,In seeing,5
+2,4,District - Kullu  04,Urban,70-79,Male,In seeing,5
+2,4,District - Kullu  04,Urban,80-89,Male,In seeing,0
+2,4,District - Kullu  04,Urban,90+,Male,In seeing,1
+2,4,District - Kullu  04,Urban,Age not stated,Male,In seeing,0
+2,5,District - Mandi  05,Rural,0-4,Male,In seeing,241
+2,5,District - Mandi  05,Rural,5-9,Male,In seeing,250
+2,5,District - Mandi  05,Rural,10-19,Male,In seeing,586
+2,5,District - Mandi  05,Rural,20-29,Male,In seeing,536
+2,5,District - Mandi  05,Rural,30-39,Male,In seeing,500
+2,5,District - Mandi  05,Rural,40-49,Male,In seeing,534
+2,5,District - Mandi  05,Rural,50-59,Male,In seeing,525
+2,5,District - Mandi  05,Rural,60-69,Male,In seeing,539
+2,5,District - Mandi  05,Rural,70-79,Male,In seeing,518
+2,5,District - Mandi  05,Rural,80-89,Male,In seeing,306
+2,5,District - Mandi  05,Rural,90+,Male,In seeing,100
+2,5,District - Mandi  05,Rural,Age not stated,Male,In seeing,31
+2,5,District - Mandi  05,Urban,0-4,Male,In seeing,13
+2,5,District - Mandi  05,Urban,5-9,Male,In seeing,14
+2,5,District - Mandi  05,Urban,10-19,Male,In seeing,24
+2,5,District - Mandi  05,Urban,20-29,Male,In seeing,47
+2,5,District - Mandi  05,Urban,30-39,Male,In seeing,72
+2,5,District - Mandi  05,Urban,40-49,Male,In seeing,95
+2,5,District - Mandi  05,Urban,50-59,Male,In seeing,79
+2,5,District - Mandi  05,Urban,60-69,Male,In seeing,55
+2,5,District - Mandi  05,Urban,70-79,Male,In seeing,35
+2,5,District - Mandi  05,Urban,80-89,Male,In seeing,11
+2,5,District - Mandi  05,Urban,90+,Male,In seeing,3
+2,5,District - Mandi  05,Urban,Age not stated,Male,In seeing,0
+2,6,District - Hamirpur  06,Rural,0-4,Male,In seeing,186
+2,6,District - Hamirpur  06,Rural,5-9,Male,In seeing,209
+2,6,District - Hamirpur  06,Rural,10-19,Male,In seeing,526
+2,6,District - Hamirpur  06,Rural,20-29,Male,In seeing,453
+2,6,District - Hamirpur  06,Rural,30-39,Male,In seeing,309
+2,6,District - Hamirpur  06,Rural,40-49,Male,In seeing,241
+2,6,District - Hamirpur  06,Rural,50-59,Male,In seeing,226
+2,6,District - Hamirpur  06,Rural,60-69,Male,In seeing,241
+2,6,District - Hamirpur  06,Rural,70-79,Male,In seeing,191
+2,6,District - Hamirpur  06,Rural,80-89,Male,In seeing,141
+2,6,District - Hamirpur  06,Rural,90+,Male,In seeing,54
+2,6,District - Hamirpur  06,Rural,Age not stated,Male,In seeing,9
+2,6,District - Hamirpur  06,Urban,0-4,Male,In seeing,15
+2,6,District - Hamirpur  06,Urban,5-9,Male,In seeing,24
+2,6,District - Hamirpur  06,Urban,10-19,Male,In seeing,67
+2,6,District - Hamirpur  06,Urban,20-29,Male,In seeing,51
+2,6,District - Hamirpur  06,Urban,30-39,Male,In seeing,46
+2,6,District - Hamirpur  06,Urban,40-49,Male,In seeing,51
+2,6,District - Hamirpur  06,Urban,50-59,Male,In seeing,24
+2,6,District - Hamirpur  06,Urban,60-69,Male,In seeing,16
+2,6,District - Hamirpur  06,Urban,70-79,Male,In seeing,11
+2,6,District - Hamirpur  06,Urban,80-89,Male,In seeing,7
+2,6,District - Hamirpur  06,Urban,90+,Male,In seeing,1
+2,6,District - Hamirpur  06,Urban,Age not stated,Male,In seeing,0
+2,7,District - Una  07,Rural,0-4,Male,In seeing,113
+2,7,District - Una  07,Rural,5-9,Male,In seeing,123
+2,7,District - Una  07,Rural,10-19,Male,In seeing,271
+2,7,District - Una  07,Rural,20-29,Male,In seeing,247
+2,7,District - Una  07,Rural,30-39,Male,In seeing,210
+2,7,District - Una  07,Rural,40-49,Male,In seeing,242
+2,7,District - Una  07,Rural,50-59,Male,In seeing,220
+2,7,District - Una  07,Rural,60-69,Male,In seeing,244
+2,7,District - Una  07,Rural,70-79,Male,In seeing,206
+2,7,District - Una  07,Rural,80-89,Male,In seeing,131
+2,7,District - Una  07,Rural,90+,Male,In seeing,33
+2,7,District - Una  07,Rural,Age not stated,Male,In seeing,8
+2,7,District - Una  07,Urban,0-4,Male,In seeing,14
+2,7,District - Una  07,Urban,5-9,Male,In seeing,18
+2,7,District - Una  07,Urban,10-19,Male,In seeing,24
+2,7,District - Una  07,Urban,20-29,Male,In seeing,12
+2,7,District - Una  07,Urban,30-39,Male,In seeing,14
+2,7,District - Una  07,Urban,40-49,Male,In seeing,10
+2,7,District - Una  07,Urban,50-59,Male,In seeing,11
+2,7,District - Una  07,Urban,60-69,Male,In seeing,10
+2,7,District - Una  07,Urban,70-79,Male,In seeing,7
+2,7,District - Una  07,Urban,80-89,Male,In seeing,3
+2,7,District - Una  07,Urban,90+,Male,In seeing,0
+2,7,District - Una  07,Urban,Age not stated,Male,In seeing,1
+2,8,District - Bilaspur  08,Rural,0-4,Male,In seeing,132
+2,8,District - Bilaspur  08,Rural,5-9,Male,In seeing,135
+2,8,District - Bilaspur  08,Rural,10-19,Male,In seeing,339
+2,8,District - Bilaspur  08,Rural,20-29,Male,In seeing,284
+2,8,District - Bilaspur  08,Rural,30-39,Male,In seeing,227
+2,8,District - Bilaspur  08,Rural,40-49,Male,In seeing,211
+2,8,District - Bilaspur  08,Rural,50-59,Male,In seeing,196
+2,8,District - Bilaspur  08,Rural,60-69,Male,In seeing,199
+2,8,District - Bilaspur  08,Rural,70-79,Male,In seeing,224
+2,8,District - Bilaspur  08,Rural,80-89,Male,In seeing,134
+2,8,District - Bilaspur  08,Rural,90+,Male,In seeing,48
+2,8,District - Bilaspur  08,Rural,Age not stated,Male,In seeing,7
+2,8,District - Bilaspur  08,Urban,0-4,Male,In seeing,5
+2,8,District - Bilaspur  08,Urban,5-9,Male,In seeing,10
+2,8,District - Bilaspur  08,Urban,10-19,Male,In seeing,19
+2,8,District - Bilaspur  08,Urban,20-29,Male,In seeing,14
+2,8,District - Bilaspur  08,Urban,30-39,Male,In seeing,12
+2,8,District - Bilaspur  08,Urban,40-49,Male,In seeing,14
+2,8,District - Bilaspur  08,Urban,50-59,Male,In seeing,7
+2,8,District - Bilaspur  08,Urban,60-69,Male,In seeing,6
+2,8,District - Bilaspur  08,Urban,70-79,Male,In seeing,4
+2,8,District - Bilaspur  08,Urban,80-89,Male,In seeing,3
+2,8,District - Bilaspur  08,Urban,90+,Male,In seeing,1
+2,8,District - Bilaspur  08,Urban,Age not stated,Male,In seeing,0
+2,9,District - Solan  09,Rural,0-4,Male,In seeing,146
+2,9,District - Solan  09,Rural,5-9,Male,In seeing,152
+2,9,District - Solan  09,Rural,10-19,Male,In seeing,343
+2,9,District - Solan  09,Rural,20-29,Male,In seeing,352
+2,9,District - Solan  09,Rural,30-39,Male,In seeing,287
+2,9,District - Solan  09,Rural,40-49,Male,In seeing,189
+2,9,District - Solan  09,Rural,50-59,Male,In seeing,167
+2,9,District - Solan  09,Rural,60-69,Male,In seeing,206
+2,9,District - Solan  09,Rural,70-79,Male,In seeing,183
+2,9,District - Solan  09,Rural,80-89,Male,In seeing,105
+2,9,District - Solan  09,Rural,90+,Male,In seeing,31
+2,9,District - Solan  09,Rural,Age not stated,Male,In seeing,13
+2,9,District - Solan  09,Urban,0-4,Male,In seeing,15
+2,9,District - Solan  09,Urban,5-9,Male,In seeing,11
+2,9,District - Solan  09,Urban,10-19,Male,In seeing,53
+2,9,District - Solan  09,Urban,20-29,Male,In seeing,92
+2,9,District - Solan  09,Urban,30-39,Male,In seeing,49
+2,9,District - Solan  09,Urban,40-49,Male,In seeing,42
+2,9,District - Solan  09,Urban,50-59,Male,In seeing,27
+2,9,District - Solan  09,Urban,60-69,Male,In seeing,9
+2,9,District - Solan  09,Urban,70-79,Male,In seeing,2
+2,9,District - Solan  09,Urban,80-89,Male,In seeing,3
+2,9,District - Solan  09,Urban,90+,Male,In seeing,0
+2,9,District - Solan  09,Urban,Age not stated,Male,In seeing,0
+2,10,District - Sirmaur  10,Rural,0-4,Male,In seeing,158
+2,10,District - Sirmaur  10,Rural,5-9,Male,In seeing,178
+2,10,District - Sirmaur  10,Rural,10-19,Male,In seeing,417
+2,10,District - Sirmaur  10,Rural,20-29,Male,In seeing,454
+2,10,District - Sirmaur  10,Rural,30-39,Male,In seeing,416
+2,10,District - Sirmaur  10,Rural,40-49,Male,In seeing,375
+2,10,District - Sirmaur  10,Rural,50-59,Male,In seeing,383
+2,10,District - Sirmaur  10,Rural,60-69,Male,In seeing,416
+2,10,District - Sirmaur  10,Rural,70-79,Male,In seeing,339
+2,10,District - Sirmaur  10,Rural,80-89,Male,In seeing,173
+2,10,District - Sirmaur  10,Rural,90+,Male,In seeing,70
+2,10,District - Sirmaur  10,Rural,Age not stated,Male,In seeing,10
+2,10,District - Sirmaur  10,Urban,0-4,Male,In seeing,10
+2,10,District - Sirmaur  10,Urban,5-9,Male,In seeing,11
+2,10,District - Sirmaur  10,Urban,10-19,Male,In seeing,38
+2,10,District - Sirmaur  10,Urban,20-29,Male,In seeing,33
+2,10,District - Sirmaur  10,Urban,30-39,Male,In seeing,22
+2,10,District - Sirmaur  10,Urban,40-49,Male,In seeing,19
+2,10,District - Sirmaur  10,Urban,50-59,Male,In seeing,17
+2,10,District - Sirmaur  10,Urban,60-69,Male,In seeing,12
+2,10,District - Sirmaur  10,Urban,70-79,Male,In seeing,5
+2,10,District - Sirmaur  10,Urban,80-89,Male,In seeing,1
+2,10,District - Sirmaur  10,Urban,90+,Male,In seeing,0
+2,10,District - Sirmaur  10,Urban,Age not stated,Male,In seeing,0
+2,11,District - Shimla  11,Rural,0-4,Male,In seeing,127
+2,11,District - Shimla  11,Rural,5-9,Male,In seeing,177
+2,11,District - Shimla  11,Rural,10-19,Male,In seeing,404
+2,11,District - Shimla  11,Rural,20-29,Male,In seeing,330
+2,11,District - Shimla  11,Rural,30-39,Male,In seeing,316
+2,11,District - Shimla  11,Rural,40-49,Male,In seeing,299
+2,11,District - Shimla  11,Rural,50-59,Male,In seeing,243
+2,11,District - Shimla  11,Rural,60-69,Male,In seeing,264
+2,11,District - Shimla  11,Rural,70-79,Male,In seeing,280
+2,11,District - Shimla  11,Rural,80-89,Male,In seeing,161
+2,11,District - Shimla  11,Rural,90+,Male,In seeing,73
+2,11,District - Shimla  11,Rural,Age not stated,Male,In seeing,12
+2,11,District - Shimla  11,Urban,0-4,Male,In seeing,61
+2,11,District - Shimla  11,Urban,5-9,Male,In seeing,85
+2,11,District - Shimla  11,Urban,10-19,Male,In seeing,203
+2,11,District - Shimla  11,Urban,20-29,Male,In seeing,252
+2,11,District - Shimla  11,Urban,30-39,Male,In seeing,251
+2,11,District - Shimla  11,Urban,40-49,Male,In seeing,236
+2,11,District - Shimla  11,Urban,50-59,Male,In seeing,141
+2,11,District - Shimla  11,Urban,60-69,Male,In seeing,52
+2,11,District - Shimla  11,Urban,70-79,Male,In seeing,26
+2,11,District - Shimla  11,Urban,80-89,Male,In seeing,9
+2,11,District - Shimla  11,Urban,90+,Male,In seeing,3
+2,11,District - Shimla  11,Urban,Age not stated,Male,In seeing,4
+2,12,District - Kinnaur  12,Rural,0-4,Male,In seeing,43
+2,12,District - Kinnaur  12,Rural,5-9,Male,In seeing,49
+2,12,District - Kinnaur  12,Rural,10-19,Male,In seeing,110
+2,12,District - Kinnaur  12,Rural,20-29,Male,In seeing,117
+2,12,District - Kinnaur  12,Rural,30-39,Male,In seeing,122
+2,12,District - Kinnaur  12,Rural,40-49,Male,In seeing,85
+2,12,District - Kinnaur  12,Rural,50-59,Male,In seeing,63
+2,12,District - Kinnaur  12,Rural,60-69,Male,In seeing,72
+2,12,District - Kinnaur  12,Rural,70-79,Male,In seeing,56
+2,12,District - Kinnaur  12,Rural,80-89,Male,In seeing,39
+2,12,District - Kinnaur  12,Rural,90+,Male,In seeing,11
+2,12,District - Kinnaur  12,Rural,Age not stated,Male,In seeing,2
+2,12,District - Kinnaur  12,Urban,0-4,Male,In seeing,0
+2,12,District - Kinnaur  12,Urban,5-9,Male,In seeing,0
+2,12,District - Kinnaur  12,Urban,10-19,Male,In seeing,0
+2,12,District - Kinnaur  12,Urban,20-29,Male,In seeing,0
+2,12,District - Kinnaur  12,Urban,30-39,Male,In seeing,0
+2,12,District - Kinnaur  12,Urban,40-49,Male,In seeing,0
+2,12,District - Kinnaur  12,Urban,50-59,Male,In seeing,0
+2,12,District - Kinnaur  12,Urban,60-69,Male,In seeing,0
+2,12,District - Kinnaur  12,Urban,70-79,Male,In seeing,0
+2,12,District - Kinnaur  12,Urban,80-89,Male,In seeing,0
+2,12,District - Kinnaur  12,Urban,90+,Male,In seeing,0
+2,12,District - Kinnaur  12,Urban,Age not stated,Male,In seeing,0
+2,1,District - Chamba  01,Rural,0-4,Female,In seeing,183
+2,1,District - Chamba  01,Rural,5-9,Female,In seeing,163
+2,1,District - Chamba  01,Rural,10-19,Female,In seeing,342
+2,1,District - Chamba  01,Rural,20-29,Female,In seeing,279
+2,1,District - Chamba  01,Rural,30-39,Female,In seeing,276
+2,1,District - Chamba  01,Rural,40-49,Female,In seeing,188
+2,1,District - Chamba  01,Rural,50-59,Female,In seeing,194
+2,1,District - Chamba  01,Rural,60-69,Female,In seeing,260
+2,1,District - Chamba  01,Rural,70-79,Female,In seeing,175
+2,1,District - Chamba  01,Rural,80-89,Female,In seeing,117
+2,1,District - Chamba  01,Rural,90+,Female,In seeing,36
+2,1,District - Chamba  01,Rural,Age not stated,Female,In seeing,9
+2,1,District - Chamba  01,Urban,0-4,Female,In seeing,20
+2,1,District - Chamba  01,Urban,5-9,Female,In seeing,36
+2,1,District - Chamba  01,Urban,10-19,Female,In seeing,82
+2,1,District - Chamba  01,Urban,20-29,Female,In seeing,58
+2,1,District - Chamba  01,Urban,30-39,Female,In seeing,37
+2,1,District - Chamba  01,Urban,40-49,Female,In seeing,20
+2,1,District - Chamba  01,Urban,50-59,Female,In seeing,18
+2,1,District - Chamba  01,Urban,60-69,Female,In seeing,25
+2,1,District - Chamba  01,Urban,70-79,Female,In seeing,6
+2,1,District - Chamba  01,Urban,80-89,Female,In seeing,4
+2,1,District - Chamba  01,Urban,90+,Female,In seeing,1
+2,1,District - Chamba  01,Urban,Age not stated,Female,In seeing,0
+2,2,District - Kangra  02,Rural,0-4,Female,In seeing,233
+2,2,District - Kangra  02,Rural,5-9,Female,In seeing,290
+2,2,District - Kangra  02,Rural,10-19,Female,In seeing,714
+2,2,District - Kangra  02,Rural,20-29,Female,In seeing,559
+2,2,District - Kangra  02,Rural,30-39,Female,In seeing,535
+2,2,District - Kangra  02,Rural,40-49,Female,In seeing,547
+2,2,District - Kangra  02,Rural,50-59,Female,In seeing,564
+2,2,District - Kangra  02,Rural,60-69,Female,In seeing,629
+2,2,District - Kangra  02,Rural,70-79,Female,In seeing,570
+2,2,District - Kangra  02,Rural,80-89,Female,In seeing,316
+2,2,District - Kangra  02,Rural,90+,Female,In seeing,103
+2,2,District - Kangra  02,Rural,Age not stated,Female,In seeing,7
+2,2,District - Kangra  02,Urban,0-4,Female,In seeing,8
+2,2,District - Kangra  02,Urban,5-9,Female,In seeing,12
+2,2,District - Kangra  02,Urban,10-19,Female,In seeing,44
+2,2,District - Kangra  02,Urban,20-29,Female,In seeing,36
+2,2,District - Kangra  02,Urban,30-39,Female,In seeing,30
+2,2,District - Kangra  02,Urban,40-49,Female,In seeing,26
+2,2,District - Kangra  02,Urban,50-59,Female,In seeing,15
+2,2,District - Kangra  02,Urban,60-69,Female,In seeing,24
+2,2,District - Kangra  02,Urban,70-79,Female,In seeing,14
+2,2,District - Kangra  02,Urban,80-89,Female,In seeing,8
+2,2,District - Kangra  02,Urban,90+,Female,In seeing,2
+2,2,District - Kangra  02,Urban,Age not stated,Female,In seeing,0
+2,3,District - Lahul & Spiti  03,Rural,0-4,Female,In seeing,13
+2,3,District - Lahul & Spiti  03,Rural,5-9,Female,In seeing,13
+2,3,District - Lahul & Spiti  03,Rural,10-19,Female,In seeing,23
+2,3,District - Lahul & Spiti  03,Rural,20-29,Female,In seeing,23
+2,3,District - Lahul & Spiti  03,Rural,30-39,Female,In seeing,20
+2,3,District - Lahul & Spiti  03,Rural,40-49,Female,In seeing,15
+2,3,District - Lahul & Spiti  03,Rural,50-59,Female,In seeing,14
+2,3,District - Lahul & Spiti  03,Rural,60-69,Female,In seeing,21
+2,3,District - Lahul & Spiti  03,Rural,70-79,Female,In seeing,19
+2,3,District - Lahul & Spiti  03,Rural,80-89,Female,In seeing,16
+2,3,District - Lahul & Spiti  03,Rural,90+,Female,In seeing,4
+2,3,District - Lahul & Spiti  03,Rural,Age not stated,Female,In seeing,0
+2,3,District - Lahul & Spiti  03,Urban,0-4,Female,In seeing,0
+2,3,District - Lahul & Spiti  03,Urban,5-9,Female,In seeing,0
+2,3,District - Lahul & Spiti  03,Urban,10-19,Female,In seeing,0
+2,3,District - Lahul & Spiti  03,Urban,20-29,Female,In seeing,0
+2,3,District - Lahul & Spiti  03,Urban,30-39,Female,In seeing,0
+2,3,District - Lahul & Spiti  03,Urban,40-49,Female,In seeing,0
+2,3,District - Lahul & Spiti  03,Urban,50-59,Female,In seeing,0
+2,3,District - Lahul & Spiti  03,Urban,60-69,Female,In seeing,0
+2,3,District - Lahul & Spiti  03,Urban,70-79,Female,In seeing,0
+2,3,District - Lahul & Spiti  03,Urban,80-89,Female,In seeing,0
+2,3,District - Lahul & Spiti  03,Urban,90+,Female,In seeing,0
+2,3,District - Lahul & Spiti  03,Urban,Age not stated,Female,In seeing,0
+2,4,District - Kullu  04,Rural,0-4,Female,In seeing,100
+2,4,District - Kullu  04,Rural,5-9,Female,In seeing,132
+2,4,District - Kullu  04,Rural,10-19,Female,In seeing,282
+2,4,District - Kullu  04,Rural,20-29,Female,In seeing,232
+2,4,District - Kullu  04,Rural,30-39,Female,In seeing,205
+2,4,District - Kullu  04,Rural,40-49,Female,In seeing,176
+2,4,District - Kullu  04,Rural,50-59,Female,In seeing,160
+2,4,District - Kullu  04,Rural,60-69,Female,In seeing,259
+2,4,District - Kullu  04,Rural,70-79,Female,In seeing,170
+2,4,District - Kullu  04,Rural,80-89,Female,In seeing,106
+2,4,District - Kullu  04,Rural,90+,Female,In seeing,49
+2,4,District - Kullu  04,Rural,Age not stated,Female,In seeing,8
+2,4,District - Kullu  04,Urban,0-4,Female,In seeing,2
+2,4,District - Kullu  04,Urban,5-9,Female,In seeing,4
+2,4,District - Kullu  04,Urban,10-19,Female,In seeing,15
+2,4,District - Kullu  04,Urban,20-29,Female,In seeing,17
+2,4,District - Kullu  04,Urban,30-39,Female,In seeing,17
+2,4,District - Kullu  04,Urban,40-49,Female,In seeing,7
+2,4,District - Kullu  04,Urban,50-59,Female,In seeing,8
+2,4,District - Kullu  04,Urban,60-69,Female,In seeing,5
+2,4,District - Kullu  04,Urban,70-79,Female,In seeing,2
+2,4,District - Kullu  04,Urban,80-89,Female,In seeing,1
+2,4,District - Kullu  04,Urban,90+,Female,In seeing,4
+2,4,District - Kullu  04,Urban,Age not stated,Female,In seeing,0
+2,5,District - Mandi  05,Rural,0-4,Female,In seeing,221
+2,5,District - Mandi  05,Rural,5-9,Female,In seeing,231
+2,5,District - Mandi  05,Rural,10-19,Female,In seeing,452
+2,5,District - Mandi  05,Rural,20-29,Female,In seeing,466
+2,5,District - Mandi  05,Rural,30-39,Female,In seeing,442
+2,5,District - Mandi  05,Rural,40-49,Female,In seeing,381
+2,5,District - Mandi  05,Rural,50-59,Female,In seeing,365
+2,5,District - Mandi  05,Rural,60-69,Female,In seeing,513
+2,5,District - Mandi  05,Rural,70-79,Female,In seeing,453
+2,5,District - Mandi  05,Rural,80-89,Female,In seeing,286
+2,5,District - Mandi  05,Rural,90+,Female,In seeing,119
+2,5,District - Mandi  05,Rural,Age not stated,Female,In seeing,15
+2,5,District - Mandi  05,Urban,0-4,Female,In seeing,6
+2,5,District - Mandi  05,Urban,5-9,Female,In seeing,4
+2,5,District - Mandi  05,Urban,10-19,Female,In seeing,31
+2,5,District - Mandi  05,Urban,20-29,Female,In seeing,23
+2,5,District - Mandi  05,Urban,30-39,Female,In seeing,27
+2,5,District - Mandi  05,Urban,40-49,Female,In seeing,28
+2,5,District - Mandi  05,Urban,50-59,Female,In seeing,25
+2,5,District - Mandi  05,Urban,60-69,Female,In seeing,34
+2,5,District - Mandi  05,Urban,70-79,Female,In seeing,22
+2,5,District - Mandi  05,Urban,80-89,Female,In seeing,8
+2,5,District - Mandi  05,Urban,90+,Female,In seeing,5
+2,5,District - Mandi  05,Urban,Age not stated,Female,In seeing,1
+2,6,District - Hamirpur  06,Rural,0-4,Female,In seeing,144
+2,6,District - Hamirpur  06,Rural,5-9,Female,In seeing,179
+2,6,District - Hamirpur  06,Rural,10-19,Female,In seeing,548
+2,6,District - Hamirpur  06,Rural,20-29,Female,In seeing,391
+2,6,District - Hamirpur  06,Rural,30-39,Female,In seeing,294
+2,6,District - Hamirpur  06,Rural,40-49,Female,In seeing,211
+2,6,District - Hamirpur  06,Rural,50-59,Female,In seeing,201
+2,6,District - Hamirpur  06,Rural,60-69,Female,In seeing,220
+2,6,District - Hamirpur  06,Rural,70-79,Female,In seeing,237
+2,6,District - Hamirpur  06,Rural,80-89,Female,In seeing,114
+2,6,District - Hamirpur  06,Rural,90+,Female,In seeing,60
+2,6,District - Hamirpur  06,Rural,Age not stated,Female,In seeing,4
+2,6,District - Hamirpur  06,Urban,0-4,Female,In seeing,11
+2,6,District - Hamirpur  06,Urban,5-9,Female,In seeing,22
+2,6,District - Hamirpur  06,Urban,10-19,Female,In seeing,58
+2,6,District - Hamirpur  06,Urban,20-29,Female,In seeing,34
+2,6,District - Hamirpur  06,Urban,30-39,Female,In seeing,39
+2,6,District - Hamirpur  06,Urban,40-49,Female,In seeing,24
+2,6,District - Hamirpur  06,Urban,50-59,Female,In seeing,15
+2,6,District - Hamirpur  06,Urban,60-69,Female,In seeing,19
+2,6,District - Hamirpur  06,Urban,70-79,Female,In seeing,8
+2,6,District - Hamirpur  06,Urban,80-89,Female,In seeing,5
+2,6,District - Hamirpur  06,Urban,90+,Female,In seeing,1
+2,6,District - Hamirpur  06,Urban,Age not stated,Female,In seeing,0
+2,7,District - Una  07,Rural,0-4,Female,In seeing,104
+2,7,District - Una  07,Rural,5-9,Female,In seeing,115
+2,7,District - Una  07,Rural,10-19,Female,In seeing,279
+2,7,District - Una  07,Rural,20-29,Female,In seeing,224
+2,7,District - Una  07,Rural,30-39,Female,In seeing,208
+2,7,District - Una  07,Rural,40-49,Female,In seeing,227
+2,7,District - Una  07,Rural,50-59,Female,In seeing,215
+2,7,District - Una  07,Rural,60-69,Female,In seeing,218
+2,7,District - Una  07,Rural,70-79,Female,In seeing,178
+2,7,District - Una  07,Rural,80-89,Female,In seeing,97
+2,7,District - Una  07,Rural,90+,Female,In seeing,58
+2,7,District - Una  07,Rural,Age not stated,Female,In seeing,2
+2,7,District - Una  07,Urban,0-4,Female,In seeing,3
+2,7,District - Una  07,Urban,5-9,Female,In seeing,6
+2,7,District - Una  07,Urban,10-19,Female,In seeing,17
+2,7,District - Una  07,Urban,20-29,Female,In seeing,9
+2,7,District - Una  07,Urban,30-39,Female,In seeing,12
+2,7,District - Una  07,Urban,40-49,Female,In seeing,8
+2,7,District - Una  07,Urban,50-59,Female,In seeing,7
+2,7,District - Una  07,Urban,60-69,Female,In seeing,8
+2,7,District - Una  07,Urban,70-79,Female,In seeing,14
+2,7,District - Una  07,Urban,80-89,Female,In seeing,6
+2,7,District - Una  07,Urban,90+,Female,In seeing,2
+2,7,District - Una  07,Urban,Age not stated,Female,In seeing,0
+2,8,District - Bilaspur  08,Rural,0-4,Female,In seeing,111
+2,8,District - Bilaspur  08,Rural,5-9,Female,In seeing,128
+2,8,District - Bilaspur  08,Rural,10-19,Female,In seeing,295
+2,8,District - Bilaspur  08,Rural,20-29,Female,In seeing,226
+2,8,District - Bilaspur  08,Rural,30-39,Female,In seeing,219
+2,8,District - Bilaspur  08,Rural,40-49,Female,In seeing,180
+2,8,District - Bilaspur  08,Rural,50-59,Female,In seeing,200
+2,8,District - Bilaspur  08,Rural,60-69,Female,In seeing,237
+2,8,District - Bilaspur  08,Rural,70-79,Female,In seeing,191
+2,8,District - Bilaspur  08,Rural,80-89,Female,In seeing,113
+2,8,District - Bilaspur  08,Rural,90+,Female,In seeing,50
+2,8,District - Bilaspur  08,Rural,Age not stated,Female,In seeing,1
+2,8,District - Bilaspur  08,Urban,0-4,Female,In seeing,4
+2,8,District - Bilaspur  08,Urban,5-9,Female,In seeing,6
+2,8,District - Bilaspur  08,Urban,10-19,Female,In seeing,7
+2,8,District - Bilaspur  08,Urban,20-29,Female,In seeing,11
+2,8,District - Bilaspur  08,Urban,30-39,Female,In seeing,9
+2,8,District - Bilaspur  08,Urban,40-49,Female,In seeing,10
+2,8,District - Bilaspur  08,Urban,50-59,Female,In seeing,6
+2,8,District - Bilaspur  08,Urban,60-69,Female,In seeing,8
+2,8,District - Bilaspur  08,Urban,70-79,Female,In seeing,10
+2,8,District - Bilaspur  08,Urban,80-89,Female,In seeing,2
+2,8,District - Bilaspur  08,Urban,90+,Female,In seeing,0
+2,8,District - Bilaspur  08,Urban,Age not stated,Female,In seeing,0
+2,9,District - Solan  09,Rural,0-4,Female,In seeing,101
+2,9,District - Solan  09,Rural,5-9,Female,In seeing,147
+2,9,District - Solan  09,Rural,10-19,Female,In seeing,300
+2,9,District - Solan  09,Rural,20-29,Female,In seeing,217
+2,9,District - Solan  09,Rural,30-39,Female,In seeing,169
+2,9,District - Solan  09,Rural,40-49,Female,In seeing,142
+2,9,District - Solan  09,Rural,50-59,Female,In seeing,140
+2,9,District - Solan  09,Rural,60-69,Female,In seeing,206
+2,9,District - Solan  09,Rural,70-79,Female,In seeing,177
+2,9,District - Solan  09,Rural,80-89,Female,In seeing,95
+2,9,District - Solan  09,Rural,90+,Female,In seeing,37
+2,9,District - Solan  09,Rural,Age not stated,Female,In seeing,9
+2,9,District - Solan  09,Urban,0-4,Female,In seeing,9
+2,9,District - Solan  09,Urban,5-9,Female,In seeing,10
+2,9,District - Solan  09,Urban,10-19,Female,In seeing,25
+2,9,District - Solan  09,Urban,20-29,Female,In seeing,44
+2,9,District - Solan  09,Urban,30-39,Female,In seeing,25
+2,9,District - Solan  09,Urban,40-49,Female,In seeing,18
+2,9,District - Solan  09,Urban,50-59,Female,In seeing,7
+2,9,District - Solan  09,Urban,60-69,Female,In seeing,7
+2,9,District - Solan  09,Urban,70-79,Female,In seeing,5
+2,9,District - Solan  09,Urban,80-89,Female,In seeing,4
+2,9,District - Solan  09,Urban,90+,Female,In seeing,1
+2,9,District - Solan  09,Urban,Age not stated,Female,In seeing,0
+2,10,District - Sirmaur  10,Rural,0-4,Female,In seeing,150
+2,10,District - Sirmaur  10,Rural,5-9,Female,In seeing,203
+2,10,District - Sirmaur  10,Rural,10-19,Female,In seeing,402
+2,10,District - Sirmaur  10,Rural,20-29,Female,In seeing,199
+2,10,District - Sirmaur  10,Rural,30-39,Female,In seeing,199
+2,10,District - Sirmaur  10,Rural,40-49,Female,In seeing,209
+2,10,District - Sirmaur  10,Rural,50-59,Female,In seeing,272
+2,10,District - Sirmaur  10,Rural,60-69,Female,In seeing,357
+2,10,District - Sirmaur  10,Rural,70-79,Female,In seeing,255
+2,10,District - Sirmaur  10,Rural,80-89,Female,In seeing,146
+2,10,District - Sirmaur  10,Rural,90+,Female,In seeing,76
+2,10,District - Sirmaur  10,Rural,Age not stated,Female,In seeing,9
+2,10,District - Sirmaur  10,Urban,0-4,Female,In seeing,9
+2,10,District - Sirmaur  10,Urban,5-9,Female,In seeing,14
+2,10,District - Sirmaur  10,Urban,10-19,Female,In seeing,20
+2,10,District - Sirmaur  10,Urban,20-29,Female,In seeing,18
+2,10,District - Sirmaur  10,Urban,30-39,Female,In seeing,18
+2,10,District - Sirmaur  10,Urban,40-49,Female,In seeing,13
+2,10,District - Sirmaur  10,Urban,50-59,Female,In seeing,8
+2,10,District - Sirmaur  10,Urban,60-69,Female,In seeing,8
+2,10,District - Sirmaur  10,Urban,70-79,Female,In seeing,4
+2,10,District - Sirmaur  10,Urban,80-89,Female,In seeing,4
+2,10,District - Sirmaur  10,Urban,90+,Female,In seeing,2
+2,10,District - Sirmaur  10,Urban,Age not stated,Female,In seeing,0
+2,11,District - Shimla  11,Rural,0-4,Female,In seeing,114
+2,11,District - Shimla  11,Rural,5-9,Female,In seeing,178
+2,11,District - Shimla  11,Rural,10-19,Female,In seeing,344
+2,11,District - Shimla  11,Rural,20-29,Female,In seeing,301
+2,11,District - Shimla  11,Rural,30-39,Female,In seeing,245
+2,11,District - Shimla  11,Rural,40-49,Female,In seeing,233
+2,11,District - Shimla  11,Rural,50-59,Female,In seeing,231
+2,11,District - Shimla  11,Rural,60-69,Female,In seeing,286
+2,11,District - Shimla  11,Rural,70-79,Female,In seeing,255
+2,11,District - Shimla  11,Rural,80-89,Female,In seeing,111
+2,11,District - Shimla  11,Rural,90+,Female,In seeing,53
+2,11,District - Shimla  11,Rural,Age not stated,Female,In seeing,3
+2,11,District - Shimla  11,Urban,0-4,Female,In seeing,56
+2,11,District - Shimla  11,Urban,5-9,Female,In seeing,59
+2,11,District - Shimla  11,Urban,10-19,Female,In seeing,158
+2,11,District - Shimla  11,Urban,20-29,Female,In seeing,190
+2,11,District - Shimla  11,Urban,30-39,Female,In seeing,159
+2,11,District - Shimla  11,Urban,40-49,Female,In seeing,87
+2,11,District - Shimla  11,Urban,50-59,Female,In seeing,63
+2,11,District - Shimla  11,Urban,60-69,Female,In seeing,36
+2,11,District - Shimla  11,Urban,70-79,Female,In seeing,19
+2,11,District - Shimla  11,Urban,80-89,Female,In seeing,7
+2,11,District - Shimla  11,Urban,90+,Female,In seeing,3
+2,11,District - Shimla  11,Urban,Age not stated,Female,In seeing,1
+2,12,District - Kinnaur  12,Rural,0-4,Female,In seeing,38
+2,12,District - Kinnaur  12,Rural,5-9,Female,In seeing,39
+2,12,District - Kinnaur  12,Rural,10-19,Female,In seeing,108
+2,12,District - Kinnaur  12,Rural,20-29,Female,In seeing,87
+2,12,District - Kinnaur  12,Rural,30-39,Female,In seeing,61
+2,12,District - Kinnaur  12,Rural,40-49,Female,In seeing,55
+2,12,District - Kinnaur  12,Rural,50-59,Female,In seeing,37
+2,12,District - Kinnaur  12,Rural,60-69,Female,In seeing,66
+2,12,District - Kinnaur  12,Rural,70-79,Female,In seeing,72
+2,12,District - Kinnaur  12,Rural,80-89,Female,In seeing,44
+2,12,District - Kinnaur  12,Rural,90+,Female,In seeing,17
+2,12,District - Kinnaur  12,Rural,Age not stated,Female,In seeing,2
+2,12,District - Kinnaur  12,Urban,0-4,Female,In seeing,0
+2,12,District - Kinnaur  12,Urban,5-9,Female,In seeing,0
+2,12,District - Kinnaur  12,Urban,10-19,Female,In seeing,0
+2,12,District - Kinnaur  12,Urban,20-29,Female,In seeing,0
+2,12,District - Kinnaur  12,Urban,30-39,Female,In seeing,0
+2,12,District - Kinnaur  12,Urban,40-49,Female,In seeing,0
+2,12,District - Kinnaur  12,Urban,50-59,Female,In seeing,0
+2,12,District - Kinnaur  12,Urban,60-69,Female,In seeing,0
+2,12,District - Kinnaur  12,Urban,70-79,Female,In seeing,0
+2,12,District - Kinnaur  12,Urban,80-89,Female,In seeing,0
+2,12,District - Kinnaur  12,Urban,90+,Female,In seeing,0
+2,12,District - Kinnaur  12,Urban,Age not stated,Female,In seeing,0
+2,1,District - Chamba  01,Rural,0-4,Male,In speech,4
+2,1,District - Chamba  01,Rural,5-9,Male,In speech,86
+2,1,District - Chamba  01,Rural,10-19,Male,In speech,143
+2,1,District - Chamba  01,Rural,20-29,Male,In speech,99
+2,1,District - Chamba  01,Rural,30-39,Male,In speech,64
+2,1,District - Chamba  01,Rural,40-49,Male,In speech,47
+2,1,District - Chamba  01,Rural,50-59,Male,In speech,54
+2,1,District - Chamba  01,Rural,60-69,Male,In speech,37
+2,1,District - Chamba  01,Rural,70-79,Male,In speech,20
+2,1,District - Chamba  01,Rural,80-89,Male,In speech,5
+2,1,District - Chamba  01,Rural,90+,Male,In speech,1
+2,1,District - Chamba  01,Rural,Age not stated,Male,In speech,1
+2,1,District - Chamba  01,Urban,0-4,Male,In speech,0
+2,1,District - Chamba  01,Urban,5-9,Male,In speech,5
+2,1,District - Chamba  01,Urban,10-19,Male,In speech,4
+2,1,District - Chamba  01,Urban,20-29,Male,In speech,5
+2,1,District - Chamba  01,Urban,30-39,Male,In speech,4
+2,1,District - Chamba  01,Urban,40-49,Male,In speech,2
+2,1,District - Chamba  01,Urban,50-59,Male,In speech,0
+2,1,District - Chamba  01,Urban,60-69,Male,In speech,3
+2,1,District - Chamba  01,Urban,70-79,Male,In speech,0
+2,1,District - Chamba  01,Urban,80-89,Male,In speech,1
+2,1,District - Chamba  01,Urban,90+,Male,In speech,0
+2,1,District - Chamba  01,Urban,Age not stated,Male,In speech,0
+2,2,District - Kangra  02,Rural,0-4,Male,In speech,27
+2,2,District - Kangra  02,Rural,5-9,Male,In speech,198
+2,2,District - Kangra  02,Rural,10-19,Male,In speech,399
+2,2,District - Kangra  02,Rural,20-29,Male,In speech,253
+2,2,District - Kangra  02,Rural,30-39,Male,In speech,164
+2,2,District - Kangra  02,Rural,40-49,Male,In speech,156
+2,2,District - Kangra  02,Rural,50-59,Male,In speech,151
+2,2,District - Kangra  02,Rural,60-69,Male,In speech,128
+2,2,District - Kangra  02,Rural,70-79,Male,In speech,73
+2,2,District - Kangra  02,Rural,80-89,Male,In speech,18
+2,2,District - Kangra  02,Rural,90+,Male,In speech,8
+2,2,District - Kangra  02,Rural,Age not stated,Male,In speech,2
+2,2,District - Kangra  02,Urban,0-4,Male,In speech,0
+2,2,District - Kangra  02,Urban,5-9,Male,In speech,6
+2,2,District - Kangra  02,Urban,10-19,Male,In speech,12
+2,2,District - Kangra  02,Urban,20-29,Male,In speech,10
+2,2,District - Kangra  02,Urban,30-39,Male,In speech,8
+2,2,District - Kangra  02,Urban,40-49,Male,In speech,8
+2,2,District - Kangra  02,Urban,50-59,Male,In speech,4
+2,2,District - Kangra  02,Urban,60-69,Male,In speech,8
+2,2,District - Kangra  02,Urban,70-79,Male,In speech,3
+2,2,District - Kangra  02,Urban,80-89,Male,In speech,0
+2,2,District - Kangra  02,Urban,90+,Male,In speech,0
+2,2,District - Kangra  02,Urban,Age not stated,Male,In speech,0
+2,3,District - Lahul & Spiti  03,Rural,0-4,Male,In speech,0
+2,3,District - Lahul & Spiti  03,Rural,5-9,Male,In speech,6
+2,3,District - Lahul & Spiti  03,Rural,10-19,Male,In speech,2
+2,3,District - Lahul & Spiti  03,Rural,20-29,Male,In speech,7
+2,3,District - Lahul & Spiti  03,Rural,30-39,Male,In speech,4
+2,3,District - Lahul & Spiti  03,Rural,40-49,Male,In speech,3
+2,3,District - Lahul & Spiti  03,Rural,50-59,Male,In speech,1
+2,3,District - Lahul & Spiti  03,Rural,60-69,Male,In speech,2
+2,3,District - Lahul & Spiti  03,Rural,70-79,Male,In speech,0
+2,3,District - Lahul & Spiti  03,Rural,80-89,Male,In speech,0
+2,3,District - Lahul & Spiti  03,Rural,90+,Male,In speech,0
+2,3,District - Lahul & Spiti  03,Rural,Age not stated,Male,In speech,0
+2,3,District - Lahul & Spiti  03,Urban,0-4,Male,In speech,0
+2,3,District - Lahul & Spiti  03,Urban,5-9,Male,In speech,0
+2,3,District - Lahul & Spiti  03,Urban,10-19,Male,In speech,0
+2,3,District - Lahul & Spiti  03,Urban,20-29,Male,In speech,0
+2,3,District - Lahul & Spiti  03,Urban,30-39,Male,In speech,0
+2,3,District - Lahul & Spiti  03,Urban,40-49,Male,In speech,0
+2,3,District - Lahul & Spiti  03,Urban,50-59,Male,In speech,0
+2,3,District - Lahul & Spiti  03,Urban,60-69,Male,In speech,0
+2,3,District - Lahul & Spiti  03,Urban,70-79,Male,In speech,0
+2,3,District - Lahul & Spiti  03,Urban,80-89,Male,In speech,0
+2,3,District - Lahul & Spiti  03,Urban,90+,Male,In speech,0
+2,3,District - Lahul & Spiti  03,Urban,Age not stated,Male,In speech,0
+2,4,District - Kullu  04,Rural,0-4,Male,In speech,4
+2,4,District - Kullu  04,Rural,5-9,Male,In speech,59
+2,4,District - Kullu  04,Rural,10-19,Male,In speech,121
+2,4,District - Kullu  04,Rural,20-29,Male,In speech,71
+2,4,District - Kullu  04,Rural,30-39,Male,In speech,73
+2,4,District - Kullu  04,Rural,40-49,Male,In speech,60
+2,4,District - Kullu  04,Rural,50-59,Male,In speech,72
+2,4,District - Kullu  04,Rural,60-69,Male,In speech,58
+2,4,District - Kullu  04,Rural,70-79,Male,In speech,31
+2,4,District - Kullu  04,Rural,80-89,Male,In speech,11
+2,4,District - Kullu  04,Rural,90+,Male,In speech,4
+2,4,District - Kullu  04,Rural,Age not stated,Male,In speech,0
+2,4,District - Kullu  04,Urban,0-4,Male,In speech,0
+2,4,District - Kullu  04,Urban,5-9,Male,In speech,3
+2,4,District - Kullu  04,Urban,10-19,Male,In speech,7
+2,4,District - Kullu  04,Urban,20-29,Male,In speech,4
+2,4,District - Kullu  04,Urban,30-39,Male,In speech,2
+2,4,District - Kullu  04,Urban,40-49,Male,In speech,1
+2,4,District - Kullu  04,Urban,50-59,Male,In speech,3
+2,4,District - Kullu  04,Urban,60-69,Male,In speech,1
+2,4,District - Kullu  04,Urban,70-79,Male,In speech,0
+2,4,District - Kullu  04,Urban,80-89,Male,In speech,1
+2,4,District - Kullu  04,Urban,90+,Male,In speech,0
+2,4,District - Kullu  04,Urban,Age not stated,Male,In speech,0
+2,5,District - Mandi  05,Rural,0-4,Male,In speech,15
+2,5,District - Mandi  05,Rural,5-9,Male,In speech,157
+2,5,District - Mandi  05,Rural,10-19,Male,In speech,240
+2,5,District - Mandi  05,Rural,20-29,Male,In speech,186
+2,5,District - Mandi  05,Rural,30-39,Male,In speech,133
+2,5,District - Mandi  05,Rural,40-49,Male,In speech,89
+2,5,District - Mandi  05,Rural,50-59,Male,In speech,110
+2,5,District - Mandi  05,Rural,60-69,Male,In speech,59
+2,5,District - Mandi  05,Rural,70-79,Male,In speech,55
+2,5,District - Mandi  05,Rural,80-89,Male,In speech,13
+2,5,District - Mandi  05,Rural,90+,Male,In speech,3
+2,5,District - Mandi  05,Rural,Age not stated,Male,In speech,3
+2,5,District - Mandi  05,Urban,0-4,Male,In speech,2
+2,5,District - Mandi  05,Urban,5-9,Male,In speech,7
+2,5,District - Mandi  05,Urban,10-19,Male,In speech,25
+2,5,District - Mandi  05,Urban,20-29,Male,In speech,7
+2,5,District - Mandi  05,Urban,30-39,Male,In speech,7
+2,5,District - Mandi  05,Urban,40-49,Male,In speech,9
+2,5,District - Mandi  05,Urban,50-59,Male,In speech,5
+2,5,District - Mandi  05,Urban,60-69,Male,In speech,2
+2,5,District - Mandi  05,Urban,70-79,Male,In speech,1
+2,5,District - Mandi  05,Urban,80-89,Male,In speech,3
+2,5,District - Mandi  05,Urban,90+,Male,In speech,0
+2,5,District - Mandi  05,Urban,Age not stated,Male,In speech,0
+2,6,District - Hamirpur  06,Rural,0-4,Male,In speech,6
+2,6,District - Hamirpur  06,Rural,5-9,Male,In speech,66
+2,6,District - Hamirpur  06,Rural,10-19,Male,In speech,92
+2,6,District - Hamirpur  06,Rural,20-29,Male,In speech,77
+2,6,District - Hamirpur  06,Rural,30-39,Male,In speech,50
+2,6,District - Hamirpur  06,Rural,40-49,Male,In speech,43
+2,6,District - Hamirpur  06,Rural,50-59,Male,In speech,29
+2,6,District - Hamirpur  06,Rural,60-69,Male,In speech,40
+2,6,District - Hamirpur  06,Rural,70-79,Male,In speech,23
+2,6,District - Hamirpur  06,Rural,80-89,Male,In speech,18
+2,6,District - Hamirpur  06,Rural,90+,Male,In speech,1
+2,6,District - Hamirpur  06,Rural,Age not stated,Male,In speech,0
+2,6,District - Hamirpur  06,Urban,0-4,Male,In speech,0
+2,6,District - Hamirpur  06,Urban,5-9,Male,In speech,7
+2,6,District - Hamirpur  06,Urban,10-19,Male,In speech,8
+2,6,District - Hamirpur  06,Urban,20-29,Male,In speech,1
+2,6,District - Hamirpur  06,Urban,30-39,Male,In speech,3
+2,6,District - Hamirpur  06,Urban,40-49,Male,In speech,1
+2,6,District - Hamirpur  06,Urban,50-59,Male,In speech,2
+2,6,District - Hamirpur  06,Urban,60-69,Male,In speech,5
+2,6,District - Hamirpur  06,Urban,70-79,Male,In speech,2
+2,6,District - Hamirpur  06,Urban,80-89,Male,In speech,0
+2,6,District - Hamirpur  06,Urban,90+,Male,In speech,0
+2,6,District - Hamirpur  06,Urban,Age not stated,Male,In speech,0
+2,7,District - Una  07,Rural,0-4,Male,In speech,8
+2,7,District - Una  07,Rural,5-9,Male,In speech,66
+2,7,District - Una  07,Rural,10-19,Male,In speech,139
+2,7,District - Una  07,Rural,20-29,Male,In speech,96
+2,7,District - Una  07,Rural,30-39,Male,In speech,44
+2,7,District - Una  07,Rural,40-49,Male,In speech,33
+2,7,District - Una  07,Rural,50-59,Male,In speech,36
+2,7,District - Una  07,Rural,60-69,Male,In speech,31
+2,7,District - Una  07,Rural,70-79,Male,In speech,19
+2,7,District - Una  07,Rural,80-89,Male,In speech,8
+2,7,District - Una  07,Rural,90+,Male,In speech,0
+2,7,District - Una  07,Rural,Age not stated,Male,In speech,0
+2,7,District - Una  07,Urban,0-4,Male,In speech,0
+2,7,District - Una  07,Urban,5-9,Male,In speech,6
+2,7,District - Una  07,Urban,10-19,Male,In speech,8
+2,7,District - Una  07,Urban,20-29,Male,In speech,5
+2,7,District - Una  07,Urban,30-39,Male,In speech,4
+2,7,District - Una  07,Urban,40-49,Male,In speech,2
+2,7,District - Una  07,Urban,50-59,Male,In speech,3
+2,7,District - Una  07,Urban,60-69,Male,In speech,2
+2,7,District - Una  07,Urban,70-79,Male,In speech,2
+2,7,District - Una  07,Urban,80-89,Male,In speech,0
+2,7,District - Una  07,Urban,90+,Male,In speech,0
+2,7,District - Una  07,Urban,Age not stated,Male,In speech,0
+2,8,District - Bilaspur  08,Rural,0-4,Male,In speech,5
+2,8,District - Bilaspur  08,Rural,5-9,Male,In speech,79
+2,8,District - Bilaspur  08,Rural,10-19,Male,In speech,128
+2,8,District - Bilaspur  08,Rural,20-29,Male,In speech,74
+2,8,District - Bilaspur  08,Rural,30-39,Male,In speech,56
+2,8,District - Bilaspur  08,Rural,40-49,Male,In speech,31
+2,8,District - Bilaspur  08,Rural,50-59,Male,In speech,34
+2,8,District - Bilaspur  08,Rural,60-69,Male,In speech,29
+2,8,District - Bilaspur  08,Rural,70-79,Male,In speech,18
+2,8,District - Bilaspur  08,Rural,80-89,Male,In speech,7
+2,8,District - Bilaspur  08,Rural,90+,Male,In speech,4
+2,8,District - Bilaspur  08,Rural,Age not stated,Male,In speech,0
+2,8,District - Bilaspur  08,Urban,0-4,Male,In speech,1
+2,8,District - Bilaspur  08,Urban,5-9,Male,In speech,0
+2,8,District - Bilaspur  08,Urban,10-19,Male,In speech,5
+2,8,District - Bilaspur  08,Urban,20-29,Male,In speech,3
+2,8,District - Bilaspur  08,Urban,30-39,Male,In speech,6
+2,8,District - Bilaspur  08,Urban,40-49,Male,In speech,4
+2,8,District - Bilaspur  08,Urban,50-59,Male,In speech,0
+2,8,District - Bilaspur  08,Urban,60-69,Male,In speech,2
+2,8,District - Bilaspur  08,Urban,70-79,Male,In speech,0
+2,8,District - Bilaspur  08,Urban,80-89,Male,In speech,0
+2,8,District - Bilaspur  08,Urban,90+,Male,In speech,0
+2,8,District - Bilaspur  08,Urban,Age not stated,Male,In speech,0
+2,9,District - Solan  09,Rural,0-4,Male,In speech,18
+2,9,District - Solan  09,Rural,5-9,Male,In speech,68
+2,9,District - Solan  09,Rural,10-19,Male,In speech,123
+2,9,District - Solan  09,Rural,20-29,Male,In speech,85
+2,9,District - Solan  09,Rural,30-39,Male,In speech,66
+2,9,District - Solan  09,Rural,40-49,Male,In speech,29
+2,9,District - Solan  09,Rural,50-59,Male,In speech,20
+2,9,District - Solan  09,Rural,60-69,Male,In speech,18
+2,9,District - Solan  09,Rural,70-79,Male,In speech,8
+2,9,District - Solan  09,Rural,80-89,Male,In speech,2
+2,9,District - Solan  09,Rural,90+,Male,In speech,1
+2,9,District - Solan  09,Rural,Age not stated,Male,In speech,8
+2,9,District - Solan  09,Urban,0-4,Male,In speech,1
+2,9,District - Solan  09,Urban,5-9,Male,In speech,6
+2,9,District - Solan  09,Urban,10-19,Male,In speech,10
+2,9,District - Solan  09,Urban,20-29,Male,In speech,10
+2,9,District - Solan  09,Urban,30-39,Male,In speech,8
+2,9,District - Solan  09,Urban,40-49,Male,In speech,1
+2,9,District - Solan  09,Urban,50-59,Male,In speech,2
+2,9,District - Solan  09,Urban,60-69,Male,In speech,2
+2,9,District - Solan  09,Urban,70-79,Male,In speech,1
+2,9,District - Solan  09,Urban,80-89,Male,In speech,0
+2,9,District - Solan  09,Urban,90+,Male,In speech,0
+2,9,District - Solan  09,Urban,Age not stated,Male,In speech,0
+2,10,District - Sirmaur  10,Rural,0-4,Male,In speech,14
+2,10,District - Sirmaur  10,Rural,5-9,Male,In speech,114
+2,10,District - Sirmaur  10,Rural,10-19,Male,In speech,211
+2,10,District - Sirmaur  10,Rural,20-29,Male,In speech,99
+2,10,District - Sirmaur  10,Rural,30-39,Male,In speech,71
+2,10,District - Sirmaur  10,Rural,40-49,Male,In speech,48
+2,10,District - Sirmaur  10,Rural,50-59,Male,In speech,50
+2,10,District - Sirmaur  10,Rural,60-69,Male,In speech,37
+2,10,District - Sirmaur  10,Rural,70-79,Male,In speech,9
+2,10,District - Sirmaur  10,Rural,80-89,Male,In speech,9
+2,10,District - Sirmaur  10,Rural,90+,Male,In speech,1
+2,10,District - Sirmaur  10,Rural,Age not stated,Male,In speech,1
+2,10,District - Sirmaur  10,Urban,0-4,Male,In speech,2
+2,10,District - Sirmaur  10,Urban,5-9,Male,In speech,3
+2,10,District - Sirmaur  10,Urban,10-19,Male,In speech,10
+2,10,District - Sirmaur  10,Urban,20-29,Male,In speech,7
+2,10,District - Sirmaur  10,Urban,30-39,Male,In speech,5
+2,10,District - Sirmaur  10,Urban,40-49,Male,In speech,4
+2,10,District - Sirmaur  10,Urban,50-59,Male,In speech,2
+2,10,District - Sirmaur  10,Urban,60-69,Male,In speech,1
+2,10,District - Sirmaur  10,Urban,70-79,Male,In speech,0
+2,10,District - Sirmaur  10,Urban,80-89,Male,In speech,0
+2,10,District - Sirmaur  10,Urban,90+,Male,In speech,0
+2,10,District - Sirmaur  10,Urban,Age not stated,Male,In speech,0
+2,11,District - Shimla  11,Rural,0-4,Male,In speech,6
+2,11,District - Shimla  11,Rural,5-9,Male,In speech,55
+2,11,District - Shimla  11,Rural,10-19,Male,In speech,129
+2,11,District - Shimla  11,Rural,20-29,Male,In speech,124
+2,11,District - Shimla  11,Rural,30-39,Male,In speech,85
+2,11,District - Shimla  11,Rural,40-49,Male,In speech,76
+2,11,District - Shimla  11,Rural,50-59,Male,In speech,70
+2,11,District - Shimla  11,Rural,60-69,Male,In speech,70
+2,11,District - Shimla  11,Rural,70-79,Male,In speech,27
+2,11,District - Shimla  11,Rural,80-89,Male,In speech,11
+2,11,District - Shimla  11,Rural,90+,Male,In speech,3
+2,11,District - Shimla  11,Rural,Age not stated,Male,In speech,0
+2,11,District - Shimla  11,Urban,0-4,Male,In speech,2
+2,11,District - Shimla  11,Urban,5-9,Male,In speech,16
+2,11,District - Shimla  11,Urban,10-19,Male,In speech,51
+2,11,District - Shimla  11,Urban,20-29,Male,In speech,20
+2,11,District - Shimla  11,Urban,30-39,Male,In speech,14
+2,11,District - Shimla  11,Urban,40-49,Male,In speech,9
+2,11,District - Shimla  11,Urban,50-59,Male,In speech,5
+2,11,District - Shimla  11,Urban,60-69,Male,In speech,4
+2,11,District - Shimla  11,Urban,70-79,Male,In speech,2
+2,11,District - Shimla  11,Urban,80-89,Male,In speech,0
+2,11,District - Shimla  11,Urban,90+,Male,In speech,2
+2,11,District - Shimla  11,Urban,Age not stated,Male,In speech,0
+2,12,District - Kinnaur  12,Rural,0-4,Male,In speech,2
+2,12,District - Kinnaur  12,Rural,5-9,Male,In speech,7
+2,12,District - Kinnaur  12,Rural,10-19,Male,In speech,10
+2,12,District - Kinnaur  12,Rural,20-29,Male,In speech,15
+2,12,District - Kinnaur  12,Rural,30-39,Male,In speech,14
+2,12,District - Kinnaur  12,Rural,40-49,Male,In speech,14
+2,12,District - Kinnaur  12,Rural,50-59,Male,In speech,25
+2,12,District - Kinnaur  12,Rural,60-69,Male,In speech,12
+2,12,District - Kinnaur  12,Rural,70-79,Male,In speech,10
+2,12,District - Kinnaur  12,Rural,80-89,Male,In speech,2
+2,12,District - Kinnaur  12,Rural,90+,Male,In speech,0
+2,12,District - Kinnaur  12,Rural,Age not stated,Male,In speech,0
+2,12,District - Kinnaur  12,Urban,0-4,Male,In speech,0
+2,12,District - Kinnaur  12,Urban,5-9,Male,In speech,0
+2,12,District - Kinnaur  12,Urban,10-19,Male,In speech,0
+2,12,District - Kinnaur  12,Urban,20-29,Male,In speech,0
+2,12,District - Kinnaur  12,Urban,30-39,Male,In speech,0
+2,12,District - Kinnaur  12,Urban,40-49,Male,In speech,0
+2,12,District - Kinnaur  12,Urban,50-59,Male,In speech,0
+2,12,District - Kinnaur  12,Urban,60-69,Male,In speech,0
+2,12,District - Kinnaur  12,Urban,70-79,Male,In speech,0
+2,12,District - Kinnaur  12,Urban,80-89,Male,In speech,0
+2,12,District - Kinnaur  12,Urban,90+,Male,In speech,0
+2,12,District - Kinnaur  12,Urban,Age not stated,Male,In speech,0
+2,1,District - Chamba  01,Rural,0-4,Female,In speech,8
+2,1,District - Chamba  01,Rural,5-9,Female,In speech,58
+2,1,District - Chamba  01,Rural,10-19,Female,In speech,104
+2,1,District - Chamba  01,Rural,20-29,Female,In speech,47
+2,1,District - Chamba  01,Rural,30-39,Female,In speech,39
+2,1,District - Chamba  01,Rural,40-49,Female,In speech,28
+2,1,District - Chamba  01,Rural,50-59,Female,In speech,32
+2,1,District - Chamba  01,Rural,60-69,Female,In speech,33
+2,1,District - Chamba  01,Rural,70-79,Female,In speech,11
+2,1,District - Chamba  01,Rural,80-89,Female,In speech,6
+2,1,District - Chamba  01,Rural,90+,Female,In speech,1
+2,1,District - Chamba  01,Rural,Age not stated,Female,In speech,1
+2,1,District - Chamba  01,Urban,0-4,Female,In speech,0
+2,1,District - Chamba  01,Urban,5-9,Female,In speech,2
+2,1,District - Chamba  01,Urban,10-19,Female,In speech,3
+2,1,District - Chamba  01,Urban,20-29,Female,In speech,5
+2,1,District - Chamba  01,Urban,30-39,Female,In speech,5
+2,1,District - Chamba  01,Urban,40-49,Female,In speech,5
+2,1,District - Chamba  01,Urban,50-59,Female,In speech,0
+2,1,District - Chamba  01,Urban,60-69,Female,In speech,2
+2,1,District - Chamba  01,Urban,70-79,Female,In speech,0
+2,1,District - Chamba  01,Urban,80-89,Female,In speech,1
+2,1,District - Chamba  01,Urban,90+,Female,In speech,0
+2,1,District - Chamba  01,Urban,Age not stated,Female,In speech,0
+2,2,District - Kangra  02,Rural,0-4,Female,In speech,24
+2,2,District - Kangra  02,Rural,5-9,Female,In speech,125
+2,2,District - Kangra  02,Rural,10-19,Female,In speech,272
+2,2,District - Kangra  02,Rural,20-29,Female,In speech,149
+2,2,District - Kangra  02,Rural,30-39,Female,In speech,118
+2,2,District - Kangra  02,Rural,40-49,Female,In speech,93
+2,2,District - Kangra  02,Rural,50-59,Female,In speech,100
+2,2,District - Kangra  02,Rural,60-69,Female,In speech,112
+2,2,District - Kangra  02,Rural,70-79,Female,In speech,66
+2,2,District - Kangra  02,Rural,80-89,Female,In speech,22
+2,2,District - Kangra  02,Rural,90+,Female,In speech,5
+2,2,District - Kangra  02,Rural,Age not stated,Female,In speech,3
+2,2,District - Kangra  02,Urban,0-4,Female,In speech,0
+2,2,District - Kangra  02,Urban,5-9,Female,In speech,4
+2,2,District - Kangra  02,Urban,10-19,Female,In speech,8
+2,2,District - Kangra  02,Urban,20-29,Female,In speech,6
+2,2,District - Kangra  02,Urban,30-39,Female,In speech,6
+2,2,District - Kangra  02,Urban,40-49,Female,In speech,5
+2,2,District - Kangra  02,Urban,50-59,Female,In speech,5
+2,2,District - Kangra  02,Urban,60-69,Female,In speech,4
+2,2,District - Kangra  02,Urban,70-79,Female,In speech,0
+2,2,District - Kangra  02,Urban,80-89,Female,In speech,0
+2,2,District - Kangra  02,Urban,90+,Female,In speech,0
+2,2,District - Kangra  02,Urban,Age not stated,Female,In speech,0
+2,3,District - Lahul & Spiti  03,Rural,0-4,Female,In speech,0
+2,3,District - Lahul & Spiti  03,Rural,5-9,Female,In speech,3
+2,3,District - Lahul & Spiti  03,Rural,10-19,Female,In speech,7
+2,3,District - Lahul & Spiti  03,Rural,20-29,Female,In speech,0
+2,3,District - Lahul & Spiti  03,Rural,30-39,Female,In speech,4
+2,3,District - Lahul & Spiti  03,Rural,40-49,Female,In speech,3
+2,3,District - Lahul & Spiti  03,Rural,50-59,Female,In speech,0
+2,3,District - Lahul & Spiti  03,Rural,60-69,Female,In speech,0
+2,3,District - Lahul & Spiti  03,Rural,70-79,Female,In speech,2
+2,3,District - Lahul & Spiti  03,Rural,80-89,Female,In speech,0
+2,3,District - Lahul & Spiti  03,Rural,90+,Female,In speech,0
+2,3,District - Lahul & Spiti  03,Rural,Age not stated,Female,In speech,0
+2,3,District - Lahul & Spiti  03,Urban,0-4,Female,In speech,0
+2,3,District - Lahul & Spiti  03,Urban,5-9,Female,In speech,0
+2,3,District - Lahul & Spiti  03,Urban,10-19,Female,In speech,0
+2,3,District - Lahul & Spiti  03,Urban,20-29,Female,In speech,0
+2,3,District - Lahul & Spiti  03,Urban,30-39,Female,In speech,0
+2,3,District - Lahul & Spiti  03,Urban,40-49,Female,In speech,0
+2,3,District - Lahul & Spiti  03,Urban,50-59,Female,In speech,0
+2,3,District - Lahul & Spiti  03,Urban,60-69,Female,In speech,0
+2,3,District - Lahul & Spiti  03,Urban,70-79,Female,In speech,0
+2,3,District - Lahul & Spiti  03,Urban,80-89,Female,In speech,0
+2,3,District - Lahul & Spiti  03,Urban,90+,Female,In speech,0
+2,3,District - Lahul & Spiti  03,Urban,Age not stated,Female,In speech,0
+2,4,District - Kullu  04,Rural,0-4,Female,In speech,5
+2,4,District - Kullu  04,Rural,5-9,Female,In speech,35
+2,4,District - Kullu  04,Rural,10-19,Female,In speech,83
+2,4,District - Kullu  04,Rural,20-29,Female,In speech,40
+2,4,District - Kullu  04,Rural,30-39,Female,In speech,52
+2,4,District - Kullu  04,Rural,40-49,Female,In speech,46
+2,4,District - Kullu  04,Rural,50-59,Female,In speech,61
+2,4,District - Kullu  04,Rural,60-69,Female,In speech,57
+2,4,District - Kullu  04,Rural,70-79,Female,In speech,26
+2,4,District - Kullu  04,Rural,80-89,Female,In speech,7
+2,4,District - Kullu  04,Rural,90+,Female,In speech,4
+2,4,District - Kullu  04,Rural,Age not stated,Female,In speech,1
+2,4,District - Kullu  04,Urban,0-4,Female,In speech,0
+2,4,District - Kullu  04,Urban,5-9,Female,In speech,1
+2,4,District - Kullu  04,Urban,10-19,Female,In speech,5
+2,4,District - Kullu  04,Urban,20-29,Female,In speech,2
+2,4,District - Kullu  04,Urban,30-39,Female,In speech,2
+2,4,District - Kullu  04,Urban,40-49,Female,In speech,2
+2,4,District - Kullu  04,Urban,50-59,Female,In speech,1
+2,4,District - Kullu  04,Urban,60-69,Female,In speech,2
+2,4,District - Kullu  04,Urban,70-79,Female,In speech,0
+2,4,District - Kullu  04,Urban,80-89,Female,In speech,0
+2,4,District - Kullu  04,Urban,90+,Female,In speech,1
+2,4,District - Kullu  04,Urban,Age not stated,Female,In speech,0
+2,5,District - Mandi  05,Rural,0-4,Female,In speech,15
+2,5,District - Mandi  05,Rural,5-9,Female,In speech,106
+2,5,District - Mandi  05,Rural,10-19,Female,In speech,193
+2,5,District - Mandi  05,Rural,20-29,Female,In speech,128
+2,5,District - Mandi  05,Rural,30-39,Female,In speech,99
+2,5,District - Mandi  05,Rural,40-49,Female,In speech,86
+2,5,District - Mandi  05,Rural,50-59,Female,In speech,73
+2,5,District - Mandi  05,Rural,60-69,Female,In speech,58
+2,5,District - Mandi  05,Rural,70-79,Female,In speech,37
+2,5,District - Mandi  05,Rural,80-89,Female,In speech,12
+2,5,District - Mandi  05,Rural,90+,Female,In speech,9
+2,5,District - Mandi  05,Rural,Age not stated,Female,In speech,4
+2,5,District - Mandi  05,Urban,0-4,Female,In speech,0
+2,5,District - Mandi  05,Urban,5-9,Female,In speech,12
+2,5,District - Mandi  05,Urban,10-19,Female,In speech,23
+2,5,District - Mandi  05,Urban,20-29,Female,In speech,5
+2,5,District - Mandi  05,Urban,30-39,Female,In speech,7
+2,5,District - Mandi  05,Urban,40-49,Female,In speech,2
+2,5,District - Mandi  05,Urban,50-59,Female,In speech,4
+2,5,District - Mandi  05,Urban,60-69,Female,In speech,4
+2,5,District - Mandi  05,Urban,70-79,Female,In speech,1
+2,5,District - Mandi  05,Urban,80-89,Female,In speech,1
+2,5,District - Mandi  05,Urban,90+,Female,In speech,0
+2,5,District - Mandi  05,Urban,Age not stated,Female,In speech,1
+2,6,District - Hamirpur  06,Rural,0-4,Female,In speech,6
+2,6,District - Hamirpur  06,Rural,5-9,Female,In speech,44
+2,6,District - Hamirpur  06,Rural,10-19,Female,In speech,63
+2,6,District - Hamirpur  06,Rural,20-29,Female,In speech,58
+2,6,District - Hamirpur  06,Rural,30-39,Female,In speech,42
+2,6,District - Hamirpur  06,Rural,40-49,Female,In speech,32
+2,6,District - Hamirpur  06,Rural,50-59,Female,In speech,17
+2,6,District - Hamirpur  06,Rural,60-69,Female,In speech,24
+2,6,District - Hamirpur  06,Rural,70-79,Female,In speech,20
+2,6,District - Hamirpur  06,Rural,80-89,Female,In speech,12
+2,6,District - Hamirpur  06,Rural,90+,Female,In speech,1
+2,6,District - Hamirpur  06,Rural,Age not stated,Female,In speech,1
+2,6,District - Hamirpur  06,Urban,0-4,Female,In speech,1
+2,6,District - Hamirpur  06,Urban,5-9,Female,In speech,4
+2,6,District - Hamirpur  06,Urban,10-19,Female,In speech,4
+2,6,District - Hamirpur  06,Urban,20-29,Female,In speech,2
+2,6,District - Hamirpur  06,Urban,30-39,Female,In speech,3
+2,6,District - Hamirpur  06,Urban,40-49,Female,In speech,3
+2,6,District - Hamirpur  06,Urban,50-59,Female,In speech,0
+2,6,District - Hamirpur  06,Urban,60-69,Female,In speech,0
+2,6,District - Hamirpur  06,Urban,70-79,Female,In speech,0
+2,6,District - Hamirpur  06,Urban,80-89,Female,In speech,1
+2,6,District - Hamirpur  06,Urban,90+,Female,In speech,0
+2,6,District - Hamirpur  06,Urban,Age not stated,Female,In speech,0
+2,7,District - Una  07,Rural,0-4,Female,In speech,4
+2,7,District - Una  07,Rural,5-9,Female,In speech,51
+2,7,District - Una  07,Rural,10-19,Female,In speech,83
+2,7,District - Una  07,Rural,20-29,Female,In speech,52
+2,7,District - Una  07,Rural,30-39,Female,In speech,26
+2,7,District - Una  07,Rural,40-49,Female,In speech,27
+2,7,District - Una  07,Rural,50-59,Female,In speech,15
+2,7,District - Una  07,Rural,60-69,Female,In speech,21
+2,7,District - Una  07,Rural,70-79,Female,In speech,9
+2,7,District - Una  07,Rural,80-89,Female,In speech,8
+2,7,District - Una  07,Rural,90+,Female,In speech,4
+2,7,District - Una  07,Rural,Age not stated,Female,In speech,1
+2,7,District - Una  07,Urban,0-4,Female,In speech,0
+2,7,District - Una  07,Urban,5-9,Female,In speech,2
+2,7,District - Una  07,Urban,10-19,Female,In speech,9
+2,7,District - Una  07,Urban,20-29,Female,In speech,2
+2,7,District - Una  07,Urban,30-39,Female,In speech,3
+2,7,District - Una  07,Urban,40-49,Female,In speech,2
+2,7,District - Una  07,Urban,50-59,Female,In speech,1
+2,7,District - Una  07,Urban,60-69,Female,In speech,2
+2,7,District - Una  07,Urban,70-79,Female,In speech,1
+2,7,District - Una  07,Urban,80-89,Female,In speech,2
+2,7,District - Una  07,Urban,90+,Female,In speech,0
+2,7,District - Una  07,Urban,Age not stated,Female,In speech,0
+2,8,District - Bilaspur  08,Rural,0-4,Female,In speech,8
+2,8,District - Bilaspur  08,Rural,5-9,Female,In speech,55
+2,8,District - Bilaspur  08,Rural,10-19,Female,In speech,82
+2,8,District - Bilaspur  08,Rural,20-29,Female,In speech,53
+2,8,District - Bilaspur  08,Rural,30-39,Female,In speech,27
+2,8,District - Bilaspur  08,Rural,40-49,Female,In speech,24
+2,8,District - Bilaspur  08,Rural,50-59,Female,In speech,15
+2,8,District - Bilaspur  08,Rural,60-69,Female,In speech,20
+2,8,District - Bilaspur  08,Rural,70-79,Female,In speech,16
+2,8,District - Bilaspur  08,Rural,80-89,Female,In speech,4
+2,8,District - Bilaspur  08,Rural,90+,Female,In speech,5
+2,8,District - Bilaspur  08,Rural,Age not stated,Female,In speech,0
+2,8,District - Bilaspur  08,Urban,0-4,Female,In speech,0
+2,8,District - Bilaspur  08,Urban,5-9,Female,In speech,2
+2,8,District - Bilaspur  08,Urban,10-19,Female,In speech,3
+2,8,District - Bilaspur  08,Urban,20-29,Female,In speech,2
+2,8,District - Bilaspur  08,Urban,30-39,Female,In speech,0
+2,8,District - Bilaspur  08,Urban,40-49,Female,In speech,2
+2,8,District - Bilaspur  08,Urban,50-59,Female,In speech,2
+2,8,District - Bilaspur  08,Urban,60-69,Female,In speech,1
+2,8,District - Bilaspur  08,Urban,70-79,Female,In speech,1
+2,8,District - Bilaspur  08,Urban,80-89,Female,In speech,0
+2,8,District - Bilaspur  08,Urban,90+,Female,In speech,2
+2,8,District - Bilaspur  08,Urban,Age not stated,Female,In speech,0
+2,9,District - Solan  09,Rural,0-4,Female,In speech,9
+2,9,District - Solan  09,Rural,5-9,Female,In speech,54
+2,9,District - Solan  09,Rural,10-19,Female,In speech,80
+2,9,District - Solan  09,Rural,20-29,Female,In speech,62
+2,9,District - Solan  09,Rural,30-39,Female,In speech,28
+2,9,District - Solan  09,Rural,40-49,Female,In speech,28
+2,9,District - Solan  09,Rural,50-59,Female,In speech,23
+2,9,District - Solan  09,Rural,60-69,Female,In speech,12
+2,9,District - Solan  09,Rural,70-79,Female,In speech,8
+2,9,District - Solan  09,Rural,80-89,Female,In speech,3
+2,9,District - Solan  09,Rural,90+,Female,In speech,1
+2,9,District - Solan  09,Rural,Age not stated,Female,In speech,10
+2,9,District - Solan  09,Urban,0-4,Female,In speech,0
+2,9,District - Solan  09,Urban,5-9,Female,In speech,2
+2,9,District - Solan  09,Urban,10-19,Female,In speech,9
+2,9,District - Solan  09,Urban,20-29,Female,In speech,3
+2,9,District - Solan  09,Urban,30-39,Female,In speech,3
+2,9,District - Solan  09,Urban,40-49,Female,In speech,5
+2,9,District - Solan  09,Urban,50-59,Female,In speech,2
+2,9,District - Solan  09,Urban,60-69,Female,In speech,1
+2,9,District - Solan  09,Urban,70-79,Female,In speech,0
+2,9,District - Solan  09,Urban,80-89,Female,In speech,0
+2,9,District - Solan  09,Urban,90+,Female,In speech,0
+2,9,District - Solan  09,Urban,Age not stated,Female,In speech,0
+2,10,District - Sirmaur  10,Rural,0-4,Female,In speech,6
+2,10,District - Sirmaur  10,Rural,5-9,Female,In speech,60
+2,10,District - Sirmaur  10,Rural,10-19,Female,In speech,103
+2,10,District - Sirmaur  10,Rural,20-29,Female,In speech,47
+2,10,District - Sirmaur  10,Rural,30-39,Female,In speech,47
+2,10,District - Sirmaur  10,Rural,40-49,Female,In speech,35
+2,10,District - Sirmaur  10,Rural,50-59,Female,In speech,22
+2,10,District - Sirmaur  10,Rural,60-69,Female,In speech,24
+2,10,District - Sirmaur  10,Rural,70-79,Female,In speech,8
+2,10,District - Sirmaur  10,Rural,80-89,Female,In speech,3
+2,10,District - Sirmaur  10,Rural,90+,Female,In speech,1
+2,10,District - Sirmaur  10,Rural,Age not stated,Female,In speech,0
+2,10,District - Sirmaur  10,Urban,0-4,Female,In speech,0
+2,10,District - Sirmaur  10,Urban,5-9,Female,In speech,0
+2,10,District - Sirmaur  10,Urban,10-19,Female,In speech,12
+2,10,District - Sirmaur  10,Urban,20-29,Female,In speech,6
+2,10,District - Sirmaur  10,Urban,30-39,Female,In speech,3
+2,10,District - Sirmaur  10,Urban,40-49,Female,In speech,2
+2,10,District - Sirmaur  10,Urban,50-59,Female,In speech,0
+2,10,District - Sirmaur  10,Urban,60-69,Female,In speech,1
+2,10,District - Sirmaur  10,Urban,70-79,Female,In speech,2
+2,10,District - Sirmaur  10,Urban,80-89,Female,In speech,1
+2,10,District - Sirmaur  10,Urban,90+,Female,In speech,0
+2,10,District - Sirmaur  10,Urban,Age not stated,Female,In speech,0
+2,11,District - Shimla  11,Rural,0-4,Female,In speech,5
+2,11,District - Shimla  11,Rural,5-9,Female,In speech,34
+2,11,District - Shimla  11,Rural,10-19,Female,In speech,102
+2,11,District - Shimla  11,Rural,20-29,Female,In speech,73
+2,11,District - Shimla  11,Rural,30-39,Female,In speech,74
+2,11,District - Shimla  11,Rural,40-49,Female,In speech,73
+2,11,District - Shimla  11,Rural,50-59,Female,In speech,46
+2,11,District - Shimla  11,Rural,60-69,Female,In speech,54
+2,11,District - Shimla  11,Rural,70-79,Female,In speech,19
+2,11,District - Shimla  11,Rural,80-89,Female,In speech,9
+2,11,District - Shimla  11,Rural,90+,Female,In speech,1
+2,11,District - Shimla  11,Rural,Age not stated,Female,In speech,0
+2,11,District - Shimla  11,Urban,0-4,Female,In speech,0
+2,11,District - Shimla  11,Urban,5-9,Female,In speech,5
+2,11,District - Shimla  11,Urban,10-19,Female,In speech,36
+2,11,District - Shimla  11,Urban,20-29,Female,In speech,13
+2,11,District - Shimla  11,Urban,30-39,Female,In speech,5
+2,11,District - Shimla  11,Urban,40-49,Female,In speech,5
+2,11,District - Shimla  11,Urban,50-59,Female,In speech,2
+2,11,District - Shimla  11,Urban,60-69,Female,In speech,5
+2,11,District - Shimla  11,Urban,70-79,Female,In speech,0
+2,11,District - Shimla  11,Urban,80-89,Female,In speech,1
+2,11,District - Shimla  11,Urban,90+,Female,In speech,0
+2,11,District - Shimla  11,Urban,Age not stated,Female,In speech,0
+2,12,District - Kinnaur  12,Rural,0-4,Female,In speech,0
+2,12,District - Kinnaur  12,Rural,5-9,Female,In speech,5
+2,12,District - Kinnaur  12,Rural,10-19,Female,In speech,7
+2,12,District - Kinnaur  12,Rural,20-29,Female,In speech,4
+2,12,District - Kinnaur  12,Rural,30-39,Female,In speech,15
+2,12,District - Kinnaur  12,Rural,40-49,Female,In speech,29
+2,12,District - Kinnaur  12,Rural,50-59,Female,In speech,23
+2,12,District - Kinnaur  12,Rural,60-69,Female,In speech,32
+2,12,District - Kinnaur  12,Rural,70-79,Female,In speech,7
+2,12,District - Kinnaur  12,Rural,80-89,Female,In speech,2
+2,12,District - Kinnaur  12,Rural,90+,Female,In speech,1
+2,12,District - Kinnaur  12,Rural,Age not stated,Female,In speech,0
+2,12,District - Kinnaur  12,Urban,0-4,Female,In speech,0
+2,12,District - Kinnaur  12,Urban,5-9,Female,In speech,0
+2,12,District - Kinnaur  12,Urban,10-19,Female,In speech,0
+2,12,District - Kinnaur  12,Urban,20-29,Female,In speech,0
+2,12,District - Kinnaur  12,Urban,30-39,Female,In speech,0
+2,12,District - Kinnaur  12,Urban,40-49,Female,In speech,0
+2,12,District - Kinnaur  12,Urban,50-59,Female,In speech,0
+2,12,District - Kinnaur  12,Urban,60-69,Female,In speech,0
+2,12,District - Kinnaur  12,Urban,70-79,Female,In speech,0
+2,12,District - Kinnaur  12,Urban,80-89,Female,In speech,0
+2,12,District - Kinnaur  12,Urban,90+,Female,In speech,0
+2,12,District - Kinnaur  12,Urban,Age not stated,Female,In speech,0
+2,1,District - Chamba  01,Rural,0-4,Male,In hearing,3
+2,1,District - Chamba  01,Rural,5-9,Male,In hearing,28
+2,1,District - Chamba  01,Rural,10-19,Male,In hearing,80
+2,1,District - Chamba  01,Rural,20-29,Male,In hearing,50
+2,1,District - Chamba  01,Rural,30-39,Male,In hearing,54
+2,1,District - Chamba  01,Rural,40-49,Male,In hearing,56
+2,1,District - Chamba  01,Rural,50-59,Male,In hearing,73
+2,1,District - Chamba  01,Rural,60-69,Male,In hearing,121
+2,1,District - Chamba  01,Rural,70-79,Male,In hearing,102
+2,1,District - Chamba  01,Rural,80-89,Male,In hearing,60
+2,1,District - Chamba  01,Rural,90+,Male,In hearing,13
+2,1,District - Chamba  01,Rural,Age not stated,Male,In hearing,3
+2,1,District - Chamba  01,Urban,0-4,Male,In hearing,0
+2,1,District - Chamba  01,Urban,5-9,Male,In hearing,1
+2,1,District - Chamba  01,Urban,10-19,Male,In hearing,1
+2,1,District - Chamba  01,Urban,20-29,Male,In hearing,1
+2,1,District - Chamba  01,Urban,30-39,Male,In hearing,0
+2,1,District - Chamba  01,Urban,40-49,Male,In hearing,2
+2,1,District - Chamba  01,Urban,50-59,Male,In hearing,3
+2,1,District - Chamba  01,Urban,60-69,Male,In hearing,4
+2,1,District - Chamba  01,Urban,70-79,Male,In hearing,2
+2,1,District - Chamba  01,Urban,80-89,Male,In hearing,1
+2,1,District - Chamba  01,Urban,90+,Male,In hearing,0
+2,1,District - Chamba  01,Urban,Age not stated,Male,In hearing,0
+2,2,District - Kangra  02,Rural,0-4,Male,In hearing,16
+2,2,District - Kangra  02,Rural,5-9,Male,In hearing,49
+2,2,District - Kangra  02,Rural,10-19,Male,In hearing,162
+2,2,District - Kangra  02,Rural,20-29,Male,In hearing,138
+2,2,District - Kangra  02,Rural,30-39,Male,In hearing,94
+2,2,District - Kangra  02,Rural,40-49,Male,In hearing,134
+2,2,District - Kangra  02,Rural,50-59,Male,In hearing,182
+2,2,District - Kangra  02,Rural,60-69,Male,In hearing,304
+2,2,District - Kangra  02,Rural,70-79,Male,In hearing,272
+2,2,District - Kangra  02,Rural,80-89,Male,In hearing,183
+2,2,District - Kangra  02,Rural,90+,Male,In hearing,50
+2,2,District - Kangra  02,Rural,Age not stated,Male,In hearing,6
+2,2,District - Kangra  02,Urban,0-4,Male,In hearing,0
+2,2,District - Kangra  02,Urban,5-9,Male,In hearing,1
+2,2,District - Kangra  02,Urban,10-19,Male,In hearing,8
+2,2,District - Kangra  02,Urban,20-29,Male,In hearing,3
+2,2,District - Kangra  02,Urban,30-39,Male,In hearing,3
+2,2,District - Kangra  02,Urban,40-49,Male,In hearing,3
+2,2,District - Kangra  02,Urban,50-59,Male,In hearing,6
+2,2,District - Kangra  02,Urban,60-69,Male,In hearing,8
+2,2,District - Kangra  02,Urban,70-79,Male,In hearing,6
+2,2,District - Kangra  02,Urban,80-89,Male,In hearing,2
+2,2,District - Kangra  02,Urban,90+,Male,In hearing,0
+2,2,District - Kangra  02,Urban,Age not stated,Male,In hearing,0
+2,3,District - Lahul & Spiti  03,Rural,0-4,Male,In hearing,0
+2,3,District - Lahul & Spiti  03,Rural,5-9,Male,In hearing,1
+2,3,District - Lahul & Spiti  03,Rural,10-19,Male,In hearing,1
+2,3,District - Lahul & Spiti  03,Rural,20-29,Male,In hearing,5
+2,3,District - Lahul & Spiti  03,Rural,30-39,Male,In hearing,3
+2,3,District - Lahul & Spiti  03,Rural,40-49,Male,In hearing,2
+2,3,District - Lahul & Spiti  03,Rural,50-59,Male,In hearing,3
+2,3,District - Lahul & Spiti  03,Rural,60-69,Male,In hearing,5
+2,3,District - Lahul & Spiti  03,Rural,70-79,Male,In hearing,6
+2,3,District - Lahul & Spiti  03,Rural,80-89,Male,In hearing,8
+2,3,District - Lahul & Spiti  03,Rural,90+,Male,In hearing,2
+2,3,District - Lahul & Spiti  03,Rural,Age not stated,Male,In hearing,0
+2,3,District - Lahul & Spiti  03,Urban,0-4,Male,In hearing,0
+2,3,District - Lahul & Spiti  03,Urban,5-9,Male,In hearing,0
+2,3,District - Lahul & Spiti  03,Urban,10-19,Male,In hearing,0
+2,3,District - Lahul & Spiti  03,Urban,20-29,Male,In hearing,0
+2,3,District - Lahul & Spiti  03,Urban,30-39,Male,In hearing,0
+2,3,District - Lahul & Spiti  03,Urban,40-49,Male,In hearing,0
+2,3,District - Lahul & Spiti  03,Urban,50-59,Male,In hearing,0
+2,3,District - Lahul & Spiti  03,Urban,60-69,Male,In hearing,0
+2,3,District - Lahul & Spiti  03,Urban,70-79,Male,In hearing,0
+2,3,District - Lahul & Spiti  03,Urban,80-89,Male,In hearing,0
+2,3,District - Lahul & Spiti  03,Urban,90+,Male,In hearing,0
+2,3,District - Lahul & Spiti  03,Urban,Age not stated,Male,In hearing,0
+2,4,District - Kullu  04,Rural,0-4,Male,In hearing,1
+2,4,District - Kullu  04,Rural,5-9,Male,In hearing,23
+2,4,District - Kullu  04,Rural,10-19,Male,In hearing,90
+2,4,District - Kullu  04,Rural,20-29,Male,In hearing,51
+2,4,District - Kullu  04,Rural,30-39,Male,In hearing,44
+2,4,District - Kullu  04,Rural,40-49,Male,In hearing,68
+2,4,District - Kullu  04,Rural,50-59,Male,In hearing,109
+2,4,District - Kullu  04,Rural,60-69,Male,In hearing,150
+2,4,District - Kullu  04,Rural,70-79,Male,In hearing,138
+2,4,District - Kullu  04,Rural,80-89,Male,In hearing,62
+2,4,District - Kullu  04,Rural,90+,Male,In hearing,20
+2,4,District - Kullu  04,Rural,Age not stated,Male,In hearing,2
+2,4,District - Kullu  04,Urban,0-4,Male,In hearing,0
+2,4,District - Kullu  04,Urban,5-9,Male,In hearing,0
+2,4,District - Kullu  04,Urban,10-19,Male,In hearing,2
+2,4,District - Kullu  04,Urban,20-29,Male,In hearing,1
+2,4,District - Kullu  04,Urban,30-39,Male,In hearing,0
+2,4,District - Kullu  04,Urban,40-49,Male,In hearing,1
+2,4,District - Kullu  04,Urban,50-59,Male,In hearing,0
+2,4,District - Kullu  04,Urban,60-69,Male,In hearing,2
+2,4,District - Kullu  04,Urban,70-79,Male,In hearing,0
+2,4,District - Kullu  04,Urban,80-89,Male,In hearing,3
+2,4,District - Kullu  04,Urban,90+,Male,In hearing,1
+2,4,District - Kullu  04,Urban,Age not stated,Male,In hearing,0
+2,5,District - Mandi  05,Rural,0-4,Male,In hearing,9
+2,5,District - Mandi  05,Rural,5-9,Male,In hearing,47
+2,5,District - Mandi  05,Rural,10-19,Male,In hearing,148
+2,5,District - Mandi  05,Rural,20-29,Male,In hearing,133
+2,5,District - Mandi  05,Rural,30-39,Male,In hearing,112
+2,5,District - Mandi  05,Rural,40-49,Male,In hearing,113
+2,5,District - Mandi  05,Rural,50-59,Male,In hearing,163
+2,5,District - Mandi  05,Rural,60-69,Male,In hearing,252
+2,5,District - Mandi  05,Rural,70-79,Male,In hearing,257
+2,5,District - Mandi  05,Rural,80-89,Male,In hearing,143
+2,5,District - Mandi  05,Rural,90+,Male,In hearing,47
+2,5,District - Mandi  05,Rural,Age not stated,Male,In hearing,3
+2,5,District - Mandi  05,Urban,0-4,Male,In hearing,0
+2,5,District - Mandi  05,Urban,5-9,Male,In hearing,3
+2,5,District - Mandi  05,Urban,10-19,Male,In hearing,7
+2,5,District - Mandi  05,Urban,20-29,Male,In hearing,3
+2,5,District - Mandi  05,Urban,30-39,Male,In hearing,5
+2,5,District - Mandi  05,Urban,40-49,Male,In hearing,5
+2,5,District - Mandi  05,Urban,50-59,Male,In hearing,10
+2,5,District - Mandi  05,Urban,60-69,Male,In hearing,6
+2,5,District - Mandi  05,Urban,70-79,Male,In hearing,6
+2,5,District - Mandi  05,Urban,80-89,Male,In hearing,5
+2,5,District - Mandi  05,Urban,90+,Male,In hearing,0
+2,5,District - Mandi  05,Urban,Age not stated,Male,In hearing,0
+2,6,District - Hamirpur  06,Rural,0-4,Male,In hearing,5
+2,6,District - Hamirpur  06,Rural,5-9,Male,In hearing,11
+2,6,District - Hamirpur  06,Rural,10-19,Male,In hearing,46
+2,6,District - Hamirpur  06,Rural,20-29,Male,In hearing,22
+2,6,District - Hamirpur  06,Rural,30-39,Male,In hearing,40
+2,6,District - Hamirpur  06,Rural,40-49,Male,In hearing,45
+2,6,District - Hamirpur  06,Rural,50-59,Male,In hearing,30
+2,6,District - Hamirpur  06,Rural,60-69,Male,In hearing,77
+2,6,District - Hamirpur  06,Rural,70-79,Male,In hearing,103
+2,6,District - Hamirpur  06,Rural,80-89,Male,In hearing,60
+2,6,District - Hamirpur  06,Rural,90+,Male,In hearing,29
+2,6,District - Hamirpur  06,Rural,Age not stated,Male,In hearing,0
+2,6,District - Hamirpur  06,Urban,0-4,Male,In hearing,1
+2,6,District - Hamirpur  06,Urban,5-9,Male,In hearing,0
+2,6,District - Hamirpur  06,Urban,10-19,Male,In hearing,2
+2,6,District - Hamirpur  06,Urban,20-29,Male,In hearing,2
+2,6,District - Hamirpur  06,Urban,30-39,Male,In hearing,2
+2,6,District - Hamirpur  06,Urban,40-49,Male,In hearing,1
+2,6,District - Hamirpur  06,Urban,50-59,Male,In hearing,4
+2,6,District - Hamirpur  06,Urban,60-69,Male,In hearing,4
+2,6,District - Hamirpur  06,Urban,70-79,Male,In hearing,3
+2,6,District - Hamirpur  06,Urban,80-89,Male,In hearing,2
+2,6,District - Hamirpur  06,Urban,90+,Male,In hearing,2
+2,6,District - Hamirpur  06,Urban,Age not stated,Male,In hearing,0
+2,7,District - Una  07,Rural,0-4,Male,In hearing,1
+2,7,District - Una  07,Rural,5-9,Male,In hearing,13
+2,7,District - Una  07,Rural,10-19,Male,In hearing,39
+2,7,District - Una  07,Rural,20-29,Male,In hearing,17
+2,7,District - Una  07,Rural,30-39,Male,In hearing,23
+2,7,District - Una  07,Rural,40-49,Male,In hearing,30
+2,7,District - Una  07,Rural,50-59,Male,In hearing,36
+2,7,District - Una  07,Rural,60-69,Male,In hearing,51
+2,7,District - Una  07,Rural,70-79,Male,In hearing,67
+2,7,District - Una  07,Rural,80-89,Male,In hearing,37
+2,7,District - Una  07,Rural,90+,Male,In hearing,10
+2,7,District - Una  07,Rural,Age not stated,Male,In hearing,0
+2,7,District - Una  07,Urban,0-4,Male,In hearing,0
+2,7,District - Una  07,Urban,5-9,Male,In hearing,7
+2,7,District - Una  07,Urban,10-19,Male,In hearing,6
+2,7,District - Una  07,Urban,20-29,Male,In hearing,2
+2,7,District - Una  07,Urban,30-39,Male,In hearing,3
+2,7,District - Una  07,Urban,40-49,Male,In hearing,0
+2,7,District - Una  07,Urban,50-59,Male,In hearing,1
+2,7,District - Una  07,Urban,60-69,Male,In hearing,2
+2,7,District - Una  07,Urban,70-79,Male,In hearing,1
+2,7,District - Una  07,Urban,80-89,Male,In hearing,0
+2,7,District - Una  07,Urban,90+,Male,In hearing,1
+2,7,District - Una  07,Urban,Age not stated,Male,In hearing,0
+2,8,District - Bilaspur  08,Rural,0-4,Male,In hearing,7
+2,8,District - Bilaspur  08,Rural,5-9,Male,In hearing,23
+2,8,District - Bilaspur  08,Rural,10-19,Male,In hearing,65
+2,8,District - Bilaspur  08,Rural,20-29,Male,In hearing,39
+2,8,District - Bilaspur  08,Rural,30-39,Male,In hearing,41
+2,8,District - Bilaspur  08,Rural,40-49,Male,In hearing,50
+2,8,District - Bilaspur  08,Rural,50-59,Male,In hearing,55
+2,8,District - Bilaspur  08,Rural,60-69,Male,In hearing,78
+2,8,District - Bilaspur  08,Rural,70-79,Male,In hearing,95
+2,8,District - Bilaspur  08,Rural,80-89,Male,In hearing,73
+2,8,District - Bilaspur  08,Rural,90+,Male,In hearing,21
+2,8,District - Bilaspur  08,Rural,Age not stated,Male,In hearing,4
+2,8,District - Bilaspur  08,Urban,0-4,Male,In hearing,0
+2,8,District - Bilaspur  08,Urban,5-9,Male,In hearing,0
+2,8,District - Bilaspur  08,Urban,10-19,Male,In hearing,1
+2,8,District - Bilaspur  08,Urban,20-29,Male,In hearing,3
+2,8,District - Bilaspur  08,Urban,30-39,Male,In hearing,1
+2,8,District - Bilaspur  08,Urban,40-49,Male,In hearing,2
+2,8,District - Bilaspur  08,Urban,50-59,Male,In hearing,1
+2,8,District - Bilaspur  08,Urban,60-69,Male,In hearing,0
+2,8,District - Bilaspur  08,Urban,70-79,Male,In hearing,3
+2,8,District - Bilaspur  08,Urban,80-89,Male,In hearing,3
+2,8,District - Bilaspur  08,Urban,90+,Male,In hearing,0
+2,8,District - Bilaspur  08,Urban,Age not stated,Male,In hearing,0
+2,9,District - Solan  09,Rural,0-4,Male,In hearing,3
+2,9,District - Solan  09,Rural,5-9,Male,In hearing,19
+2,9,District - Solan  09,Rural,10-19,Male,In hearing,67
+2,9,District - Solan  09,Rural,20-29,Male,In hearing,47
+2,9,District - Solan  09,Rural,30-39,Male,In hearing,43
+2,9,District - Solan  09,Rural,40-49,Male,In hearing,30
+2,9,District - Solan  09,Rural,50-59,Male,In hearing,39
+2,9,District - Solan  09,Rural,60-69,Male,In hearing,67
+2,9,District - Solan  09,Rural,70-79,Male,In hearing,70
+2,9,District - Solan  09,Rural,80-89,Male,In hearing,43
+2,9,District - Solan  09,Rural,90+,Male,In hearing,27
+2,9,District - Solan  09,Rural,Age not stated,Male,In hearing,7
+2,9,District - Solan  09,Urban,0-4,Male,In hearing,0
+2,9,District - Solan  09,Urban,5-9,Male,In hearing,3
+2,9,District - Solan  09,Urban,10-19,Male,In hearing,2
+2,9,District - Solan  09,Urban,20-29,Male,In hearing,1
+2,9,District - Solan  09,Urban,30-39,Male,In hearing,4
+2,9,District - Solan  09,Urban,40-49,Male,In hearing,5
+2,9,District - Solan  09,Urban,50-59,Male,In hearing,3
+2,9,District - Solan  09,Urban,60-69,Male,In hearing,1
+2,9,District - Solan  09,Urban,70-79,Male,In hearing,10
+2,9,District - Solan  09,Urban,80-89,Male,In hearing,3
+2,9,District - Solan  09,Urban,90+,Male,In hearing,0
+2,9,District - Solan  09,Urban,Age not stated,Male,In hearing,0
+2,10,District - Sirmaur  10,Rural,0-4,Male,In hearing,8
+2,10,District - Sirmaur  10,Rural,5-9,Male,In hearing,78
+2,10,District - Sirmaur  10,Rural,10-19,Male,In hearing,173
+2,10,District - Sirmaur  10,Rural,20-29,Male,In hearing,66
+2,10,District - Sirmaur  10,Rural,30-39,Male,In hearing,75
+2,10,District - Sirmaur  10,Rural,40-49,Male,In hearing,70
+2,10,District - Sirmaur  10,Rural,50-59,Male,In hearing,82
+2,10,District - Sirmaur  10,Rural,60-69,Male,In hearing,110
+2,10,District - Sirmaur  10,Rural,70-79,Male,In hearing,83
+2,10,District - Sirmaur  10,Rural,80-89,Male,In hearing,51
+2,10,District - Sirmaur  10,Rural,90+,Male,In hearing,19
+2,10,District - Sirmaur  10,Rural,Age not stated,Male,In hearing,0
+2,10,District - Sirmaur  10,Urban,0-4,Male,In hearing,1
+2,10,District - Sirmaur  10,Urban,5-9,Male,In hearing,1
+2,10,District - Sirmaur  10,Urban,10-19,Male,In hearing,1
+2,10,District - Sirmaur  10,Urban,20-29,Male,In hearing,2
+2,10,District - Sirmaur  10,Urban,30-39,Male,In hearing,3
+2,10,District - Sirmaur  10,Urban,40-49,Male,In hearing,4
+2,10,District - Sirmaur  10,Urban,50-59,Male,In hearing,2
+2,10,District - Sirmaur  10,Urban,60-69,Male,In hearing,3
+2,10,District - Sirmaur  10,Urban,70-79,Male,In hearing,4
+2,10,District - Sirmaur  10,Urban,80-89,Male,In hearing,1
+2,10,District - Sirmaur  10,Urban,90+,Male,In hearing,0
+2,10,District - Sirmaur  10,Urban,Age not stated,Male,In hearing,0
+2,11,District - Shimla  11,Rural,0-4,Male,In hearing,7
+2,11,District - Shimla  11,Rural,5-9,Male,In hearing,27
+2,11,District - Shimla  11,Rural,10-19,Male,In hearing,87
+2,11,District - Shimla  11,Rural,20-29,Male,In hearing,60
+2,11,District - Shimla  11,Rural,30-39,Male,In hearing,62
+2,11,District - Shimla  11,Rural,40-49,Male,In hearing,73
+2,11,District - Shimla  11,Rural,50-59,Male,In hearing,116
+2,11,District - Shimla  11,Rural,60-69,Male,In hearing,160
+2,11,District - Shimla  11,Rural,70-79,Male,In hearing,162
+2,11,District - Shimla  11,Rural,80-89,Male,In hearing,94
+2,11,District - Shimla  11,Rural,90+,Male,In hearing,18
+2,11,District - Shimla  11,Rural,Age not stated,Male,In hearing,1
+2,11,District - Shimla  11,Urban,0-4,Male,In hearing,0
+2,11,District - Shimla  11,Urban,5-9,Male,In hearing,0
+2,11,District - Shimla  11,Urban,10-19,Male,In hearing,7
+2,11,District - Shimla  11,Urban,20-29,Male,In hearing,6
+2,11,District - Shimla  11,Urban,30-39,Male,In hearing,5
+2,11,District - Shimla  11,Urban,40-49,Male,In hearing,3
+2,11,District - Shimla  11,Urban,50-59,Male,In hearing,5
+2,11,District - Shimla  11,Urban,60-69,Male,In hearing,8
+2,11,District - Shimla  11,Urban,70-79,Male,In hearing,5
+2,11,District - Shimla  11,Urban,80-89,Male,In hearing,3
+2,11,District - Shimla  11,Urban,90+,Male,In hearing,0
+2,11,District - Shimla  11,Urban,Age not stated,Male,In hearing,0
+2,12,District - Kinnaur  12,Rural,0-4,Male,In hearing,0
+2,12,District - Kinnaur  12,Rural,5-9,Male,In hearing,1
+2,12,District - Kinnaur  12,Rural,10-19,Male,In hearing,7
+2,12,District - Kinnaur  12,Rural,20-29,Male,In hearing,10
+2,12,District - Kinnaur  12,Rural,30-39,Male,In hearing,17
+2,12,District - Kinnaur  12,Rural,40-49,Male,In hearing,21
+2,12,District - Kinnaur  12,Rural,50-59,Male,In hearing,39
+2,12,District - Kinnaur  12,Rural,60-69,Male,In hearing,48
+2,12,District - Kinnaur  12,Rural,70-79,Male,In hearing,34
+2,12,District - Kinnaur  12,Rural,80-89,Male,In hearing,15
+2,12,District - Kinnaur  12,Rural,90+,Male,In hearing,7
+2,12,District - Kinnaur  12,Rural,Age not stated,Male,In hearing,0
+2,12,District - Kinnaur  12,Urban,0-4,Male,In hearing,0
+2,12,District - Kinnaur  12,Urban,5-9,Male,In hearing,0
+2,12,District - Kinnaur  12,Urban,10-19,Male,In hearing,0
+2,12,District - Kinnaur  12,Urban,20-29,Male,In hearing,0
+2,12,District - Kinnaur  12,Urban,30-39,Male,In hearing,0
+2,12,District - Kinnaur  12,Urban,40-49,Male,In hearing,0
+2,12,District - Kinnaur  12,Urban,50-59,Male,In hearing,0
+2,12,District - Kinnaur  12,Urban,60-69,Male,In hearing,0
+2,12,District - Kinnaur  12,Urban,70-79,Male,In hearing,0
+2,12,District - Kinnaur  12,Urban,80-89,Male,In hearing,0
+2,12,District - Kinnaur  12,Urban,90+,Male,In hearing,0
+2,12,District - Kinnaur  12,Urban,Age not stated,Male,In hearing,0
+2,1,District - Chamba  01,Rural,0-4,Female,In hearing,5
+2,1,District - Chamba  01,Rural,5-9,Female,In hearing,24
+2,1,District - Chamba  01,Rural,10-19,Female,In hearing,64
+2,1,District - Chamba  01,Rural,20-29,Female,In hearing,17
+2,1,District - Chamba  01,Rural,30-39,Female,In hearing,30
+2,1,District - Chamba  01,Rural,40-49,Female,In hearing,35
+2,1,District - Chamba  01,Rural,50-59,Female,In hearing,67
+2,1,District - Chamba  01,Rural,60-69,Female,In hearing,99
+2,1,District - Chamba  01,Rural,70-79,Female,In hearing,83
+2,1,District - Chamba  01,Rural,80-89,Female,In hearing,49
+2,1,District - Chamba  01,Rural,90+,Female,In hearing,28
+2,1,District - Chamba  01,Rural,Age not stated,Female,In hearing,0
+2,1,District - Chamba  01,Urban,0-4,Female,In hearing,0
+2,1,District - Chamba  01,Urban,5-9,Female,In hearing,0
+2,1,District - Chamba  01,Urban,10-19,Female,In hearing,2
+2,1,District - Chamba  01,Urban,20-29,Female,In hearing,0
+2,1,District - Chamba  01,Urban,30-39,Female,In hearing,1
+2,1,District - Chamba  01,Urban,40-49,Female,In hearing,1
+2,1,District - Chamba  01,Urban,50-59,Female,In hearing,3
+2,1,District - Chamba  01,Urban,60-69,Female,In hearing,4
+2,1,District - Chamba  01,Urban,70-79,Female,In hearing,1
+2,1,District - Chamba  01,Urban,80-89,Female,In hearing,4
+2,1,District - Chamba  01,Urban,90+,Female,In hearing,1
+2,1,District - Chamba  01,Urban,Age not stated,Female,In hearing,0
+2,2,District - Kangra  02,Rural,0-4,Female,In hearing,8
+2,2,District - Kangra  02,Rural,5-9,Female,In hearing,46
+2,2,District - Kangra  02,Rural,10-19,Female,In hearing,126
+2,2,District - Kangra  02,Rural,20-29,Female,In hearing,77
+2,2,District - Kangra  02,Rural,30-39,Female,In hearing,88
+2,2,District - Kangra  02,Rural,40-49,Female,In hearing,112
+2,2,District - Kangra  02,Rural,50-59,Female,In hearing,176
+2,2,District - Kangra  02,Rural,60-69,Female,In hearing,299
+2,2,District - Kangra  02,Rural,70-79,Female,In hearing,266
+2,2,District - Kangra  02,Rural,80-89,Female,In hearing,151
+2,2,District - Kangra  02,Rural,90+,Female,In hearing,51
+2,2,District - Kangra  02,Rural,Age not stated,Female,In hearing,2
+2,2,District - Kangra  02,Urban,0-4,Female,In hearing,0
+2,2,District - Kangra  02,Urban,5-9,Female,In hearing,1
+2,2,District - Kangra  02,Urban,10-19,Female,In hearing,2
+2,2,District - Kangra  02,Urban,20-29,Female,In hearing,4
+2,2,District - Kangra  02,Urban,30-39,Female,In hearing,2
+2,2,District - Kangra  02,Urban,40-49,Female,In hearing,4
+2,2,District - Kangra  02,Urban,50-59,Female,In hearing,5
+2,2,District - Kangra  02,Urban,60-69,Female,In hearing,10
+2,2,District - Kangra  02,Urban,70-79,Female,In hearing,2
+2,2,District - Kangra  02,Urban,80-89,Female,In hearing,2
+2,2,District - Kangra  02,Urban,90+,Female,In hearing,0
+2,2,District - Kangra  02,Urban,Age not stated,Female,In hearing,0
+2,3,District - Lahul & Spiti  03,Rural,0-4,Female,In hearing,0
+2,3,District - Lahul & Spiti  03,Rural,5-9,Female,In hearing,0
+2,3,District - Lahul & Spiti  03,Rural,10-19,Female,In hearing,5
+2,3,District - Lahul & Spiti  03,Rural,20-29,Female,In hearing,3
+2,3,District - Lahul & Spiti  03,Rural,30-39,Female,In hearing,2
+2,3,District - Lahul & Spiti  03,Rural,40-49,Female,In hearing,3
+2,3,District - Lahul & Spiti  03,Rural,50-59,Female,In hearing,2
+2,3,District - Lahul & Spiti  03,Rural,60-69,Female,In hearing,3
+2,3,District - Lahul & Spiti  03,Rural,70-79,Female,In hearing,10
+2,3,District - Lahul & Spiti  03,Rural,80-89,Female,In hearing,8
+2,3,District - Lahul & Spiti  03,Rural,90+,Female,In hearing,1
+2,3,District - Lahul & Spiti  03,Rural,Age not stated,Female,In hearing,0
+2,3,District - Lahul & Spiti  03,Urban,0-4,Female,In hearing,0
+2,3,District - Lahul & Spiti  03,Urban,5-9,Female,In hearing,0
+2,3,District - Lahul & Spiti  03,Urban,10-19,Female,In hearing,0
+2,3,District - Lahul & Spiti  03,Urban,20-29,Female,In hearing,0
+2,3,District - Lahul & Spiti  03,Urban,30-39,Female,In hearing,0
+2,3,District - Lahul & Spiti  03,Urban,40-49,Female,In hearing,0
+2,3,District - Lahul & Spiti  03,Urban,50-59,Female,In hearing,0
+2,3,District - Lahul & Spiti  03,Urban,60-69,Female,In hearing,0
+2,3,District - Lahul & Spiti  03,Urban,70-79,Female,In hearing,0
+2,3,District - Lahul & Spiti  03,Urban,80-89,Female,In hearing,0
+2,3,District - Lahul & Spiti  03,Urban,90+,Female,In hearing,0
+2,3,District - Lahul & Spiti  03,Urban,Age not stated,Female,In hearing,0
+2,4,District - Kullu  04,Rural,0-4,Female,In hearing,4
+2,4,District - Kullu  04,Rural,5-9,Female,In hearing,21
+2,4,District - Kullu  04,Rural,10-19,Female,In hearing,77
+2,4,District - Kullu  04,Rural,20-29,Female,In hearing,39
+2,4,District - Kullu  04,Rural,30-39,Female,In hearing,47
+2,4,District - Kullu  04,Rural,40-49,Female,In hearing,57
+2,4,District - Kullu  04,Rural,50-59,Female,In hearing,77
+2,4,District - Kullu  04,Rural,60-69,Female,In hearing,125
+2,4,District - Kullu  04,Rural,70-79,Female,In hearing,105
+2,4,District - Kullu  04,Rural,80-89,Female,In hearing,53
+2,4,District - Kullu  04,Rural,90+,Female,In hearing,21
+2,4,District - Kullu  04,Rural,Age not stated,Female,In hearing,2
+2,4,District - Kullu  04,Urban,0-4,Female,In hearing,0
+2,4,District - Kullu  04,Urban,5-9,Female,In hearing,1
+2,4,District - Kullu  04,Urban,10-19,Female,In hearing,1
+2,4,District - Kullu  04,Urban,20-29,Female,In hearing,1
+2,4,District - Kullu  04,Urban,30-39,Female,In hearing,3
+2,4,District - Kullu  04,Urban,40-49,Female,In hearing,1
+2,4,District - Kullu  04,Urban,50-59,Female,In hearing,1
+2,4,District - Kullu  04,Urban,60-69,Female,In hearing,2
+2,4,District - Kullu  04,Urban,70-79,Female,In hearing,2
+2,4,District - Kullu  04,Urban,80-89,Female,In hearing,3
+2,4,District - Kullu  04,Urban,90+,Female,In hearing,0
+2,4,District - Kullu  04,Urban,Age not stated,Female,In hearing,0
+2,5,District - Mandi  05,Rural,0-4,Female,In hearing,9
+2,5,District - Mandi  05,Rural,5-9,Female,In hearing,43
+2,5,District - Mandi  05,Rural,10-19,Female,In hearing,142
+2,5,District - Mandi  05,Rural,20-29,Female,In hearing,74
+2,5,District - Mandi  05,Rural,30-39,Female,In hearing,100
+2,5,District - Mandi  05,Rural,40-49,Female,In hearing,89
+2,5,District - Mandi  05,Rural,50-59,Female,In hearing,162
+2,5,District - Mandi  05,Rural,60-69,Female,In hearing,180
+2,5,District - Mandi  05,Rural,70-79,Female,In hearing,179
+2,5,District - Mandi  05,Rural,80-89,Female,In hearing,121
+2,5,District - Mandi  05,Rural,90+,Female,In hearing,55
+2,5,District - Mandi  05,Rural,Age not stated,Female,In hearing,0
+2,5,District - Mandi  05,Urban,0-4,Female,In hearing,0
+2,5,District - Mandi  05,Urban,5-9,Female,In hearing,0
+2,5,District - Mandi  05,Urban,10-19,Female,In hearing,5
+2,5,District - Mandi  05,Urban,20-29,Female,In hearing,5
+2,5,District - Mandi  05,Urban,30-39,Female,In hearing,5
+2,5,District - Mandi  05,Urban,40-49,Female,In hearing,5
+2,5,District - Mandi  05,Urban,50-59,Female,In hearing,4
+2,5,District - Mandi  05,Urban,60-69,Female,In hearing,4
+2,5,District - Mandi  05,Urban,70-79,Female,In hearing,8
+2,5,District - Mandi  05,Urban,80-89,Female,In hearing,4
+2,5,District - Mandi  05,Urban,90+,Female,In hearing,0
+2,5,District - Mandi  05,Urban,Age not stated,Female,In hearing,0
+2,6,District - Hamirpur  06,Rural,0-4,Female,In hearing,3
+2,6,District - Hamirpur  06,Rural,5-9,Female,In hearing,8
+2,6,District - Hamirpur  06,Rural,10-19,Female,In hearing,25
+2,6,District - Hamirpur  06,Rural,20-29,Female,In hearing,27
+2,6,District - Hamirpur  06,Rural,30-39,Female,In hearing,37
+2,6,District - Hamirpur  06,Rural,40-49,Female,In hearing,35
+2,6,District - Hamirpur  06,Rural,50-59,Female,In hearing,40
+2,6,District - Hamirpur  06,Rural,60-69,Female,In hearing,59
+2,6,District - Hamirpur  06,Rural,70-79,Female,In hearing,77
+2,6,District - Hamirpur  06,Rural,80-89,Female,In hearing,60
+2,6,District - Hamirpur  06,Rural,90+,Female,In hearing,31
+2,6,District - Hamirpur  06,Rural,Age not stated,Female,In hearing,1
+2,6,District - Hamirpur  06,Urban,0-4,Female,In hearing,1
+2,6,District - Hamirpur  06,Urban,5-9,Female,In hearing,0
+2,6,District - Hamirpur  06,Urban,10-19,Female,In hearing,1
+2,6,District - Hamirpur  06,Urban,20-29,Female,In hearing,2
+2,6,District - Hamirpur  06,Urban,30-39,Female,In hearing,4
+2,6,District - Hamirpur  06,Urban,40-49,Female,In hearing,0
+2,6,District - Hamirpur  06,Urban,50-59,Female,In hearing,1
+2,6,District - Hamirpur  06,Urban,60-69,Female,In hearing,3
+2,6,District - Hamirpur  06,Urban,70-79,Female,In hearing,4
+2,6,District - Hamirpur  06,Urban,80-89,Female,In hearing,3
+2,6,District - Hamirpur  06,Urban,90+,Female,In hearing,0
+2,6,District - Hamirpur  06,Urban,Age not stated,Female,In hearing,0
+2,7,District - Una  07,Rural,0-4,Female,In hearing,1
+2,7,District - Una  07,Rural,5-9,Female,In hearing,6
+2,7,District - Una  07,Rural,10-19,Female,In hearing,18
+2,7,District - Una  07,Rural,20-29,Female,In hearing,16
+2,7,District - Una  07,Rural,30-39,Female,In hearing,15
+2,7,District - Una  07,Rural,40-49,Female,In hearing,28
+2,7,District - Una  07,Rural,50-59,Female,In hearing,16
+2,7,District - Una  07,Rural,60-69,Female,In hearing,53
+2,7,District - Una  07,Rural,70-79,Female,In hearing,48
+2,7,District - Una  07,Rural,80-89,Female,In hearing,45
+2,7,District - Una  07,Rural,90+,Female,In hearing,20
+2,7,District - Una  07,Rural,Age not stated,Female,In hearing,0
+2,7,District - Una  07,Urban,0-4,Female,In hearing,0
+2,7,District - Una  07,Urban,5-9,Female,In hearing,3
+2,7,District - Una  07,Urban,10-19,Female,In hearing,2
+2,7,District - Una  07,Urban,20-29,Female,In hearing,3
+2,7,District - Una  07,Urban,30-39,Female,In hearing,2
+2,7,District - Una  07,Urban,40-49,Female,In hearing,1
+2,7,District - Una  07,Urban,50-59,Female,In hearing,3
+2,7,District - Una  07,Urban,60-69,Female,In hearing,4
+2,7,District - Una  07,Urban,70-79,Female,In hearing,2
+2,7,District - Una  07,Urban,80-89,Female,In hearing,5
+2,7,District - Una  07,Urban,90+,Female,In hearing,1
+2,7,District - Una  07,Urban,Age not stated,Female,In hearing,0
+2,8,District - Bilaspur  08,Rural,0-4,Female,In hearing,4
+2,8,District - Bilaspur  08,Rural,5-9,Female,In hearing,18
+2,8,District - Bilaspur  08,Rural,10-19,Female,In hearing,33
+2,8,District - Bilaspur  08,Rural,20-29,Female,In hearing,22
+2,8,District - Bilaspur  08,Rural,30-39,Female,In hearing,22
+2,8,District - Bilaspur  08,Rural,40-49,Female,In hearing,37
+2,8,District - Bilaspur  08,Rural,50-59,Female,In hearing,40
+2,8,District - Bilaspur  08,Rural,60-69,Female,In hearing,65
+2,8,District - Bilaspur  08,Rural,70-79,Female,In hearing,80
+2,8,District - Bilaspur  08,Rural,80-89,Female,In hearing,46
+2,8,District - Bilaspur  08,Rural,90+,Female,In hearing,24
+2,8,District - Bilaspur  08,Rural,Age not stated,Female,In hearing,1
+2,8,District - Bilaspur  08,Urban,0-4,Female,In hearing,0
+2,8,District - Bilaspur  08,Urban,5-9,Female,In hearing,1
+2,8,District - Bilaspur  08,Urban,10-19,Female,In hearing,0
+2,8,District - Bilaspur  08,Urban,20-29,Female,In hearing,1
+2,8,District - Bilaspur  08,Urban,30-39,Female,In hearing,1
+2,8,District - Bilaspur  08,Urban,40-49,Female,In hearing,1
+2,8,District - Bilaspur  08,Urban,50-59,Female,In hearing,0
+2,8,District - Bilaspur  08,Urban,60-69,Female,In hearing,0
+2,8,District - Bilaspur  08,Urban,70-79,Female,In hearing,3
+2,8,District - Bilaspur  08,Urban,80-89,Female,In hearing,1
+2,8,District - Bilaspur  08,Urban,90+,Female,In hearing,0
+2,8,District - Bilaspur  08,Urban,Age not stated,Female,In hearing,0
+2,9,District - Solan  09,Rural,0-4,Female,In hearing,3
+2,9,District - Solan  09,Rural,5-9,Female,In hearing,19
+2,9,District - Solan  09,Rural,10-19,Female,In hearing,40
+2,9,District - Solan  09,Rural,20-29,Female,In hearing,46
+2,9,District - Solan  09,Rural,30-39,Female,In hearing,21
+2,9,District - Solan  09,Rural,40-49,Female,In hearing,26
+2,9,District - Solan  09,Rural,50-59,Female,In hearing,43
+2,9,District - Solan  09,Rural,60-69,Female,In hearing,36
+2,9,District - Solan  09,Rural,70-79,Female,In hearing,42
+2,9,District - Solan  09,Rural,80-89,Female,In hearing,29
+2,9,District - Solan  09,Rural,90+,Female,In hearing,20
+2,9,District - Solan  09,Rural,Age not stated,Female,In hearing,4
+2,9,District - Solan  09,Urban,0-4,Female,In hearing,0
+2,9,District - Solan  09,Urban,5-9,Female,In hearing,1
+2,9,District - Solan  09,Urban,10-19,Female,In hearing,6
+2,9,District - Solan  09,Urban,20-29,Female,In hearing,3
+2,9,District - Solan  09,Urban,30-39,Female,In hearing,3
+2,9,District - Solan  09,Urban,40-49,Female,In hearing,1
+2,9,District - Solan  09,Urban,50-59,Female,In hearing,3
+2,9,District - Solan  09,Urban,60-69,Female,In hearing,4
+2,9,District - Solan  09,Urban,70-79,Female,In hearing,6
+2,9,District - Solan  09,Urban,80-89,Female,In hearing,4
+2,9,District - Solan  09,Urban,90+,Female,In hearing,1
+2,9,District - Solan  09,Urban,Age not stated,Female,In hearing,0
+2,10,District - Sirmaur  10,Rural,0-4,Female,In hearing,13
+2,10,District - Sirmaur  10,Rural,5-9,Female,In hearing,52
+2,10,District - Sirmaur  10,Rural,10-19,Female,In hearing,137
+2,10,District - Sirmaur  10,Rural,20-29,Female,In hearing,39
+2,10,District - Sirmaur  10,Rural,30-39,Female,In hearing,62
+2,10,District - Sirmaur  10,Rural,40-49,Female,In hearing,53
+2,10,District - Sirmaur  10,Rural,50-59,Female,In hearing,67
+2,10,District - Sirmaur  10,Rural,60-69,Female,In hearing,78
+2,10,District - Sirmaur  10,Rural,70-79,Female,In hearing,68
+2,10,District - Sirmaur  10,Rural,80-89,Female,In hearing,26
+2,10,District - Sirmaur  10,Rural,90+,Female,In hearing,9
+2,10,District - Sirmaur  10,Rural,Age not stated,Female,In hearing,1
+2,10,District - Sirmaur  10,Urban,0-4,Female,In hearing,0
+2,10,District - Sirmaur  10,Urban,5-9,Female,In hearing,1
+2,10,District - Sirmaur  10,Urban,10-19,Female,In hearing,2
+2,10,District - Sirmaur  10,Urban,20-29,Female,In hearing,5
+2,10,District - Sirmaur  10,Urban,30-39,Female,In hearing,0
+2,10,District - Sirmaur  10,Urban,40-49,Female,In hearing,0
+2,10,District - Sirmaur  10,Urban,50-59,Female,In hearing,2
+2,10,District - Sirmaur  10,Urban,60-69,Female,In hearing,3
+2,10,District - Sirmaur  10,Urban,70-79,Female,In hearing,1
+2,10,District - Sirmaur  10,Urban,80-89,Female,In hearing,2
+2,10,District - Sirmaur  10,Urban,90+,Female,In hearing,0
+2,10,District - Sirmaur  10,Urban,Age not stated,Female,In hearing,0
+2,11,District - Shimla  11,Rural,0-4,Female,In hearing,5
+2,11,District - Shimla  11,Rural,5-9,Female,In hearing,21
+2,11,District - Shimla  11,Rural,10-19,Female,In hearing,74
+2,11,District - Shimla  11,Rural,20-29,Female,In hearing,37
+2,11,District - Shimla  11,Rural,30-39,Female,In hearing,57
+2,11,District - Shimla  11,Rural,40-49,Female,In hearing,51
+2,11,District - Shimla  11,Rural,50-59,Female,In hearing,75
+2,11,District - Shimla  11,Rural,60-69,Female,In hearing,140
+2,11,District - Shimla  11,Rural,70-79,Female,In hearing,118
+2,11,District - Shimla  11,Rural,80-89,Female,In hearing,67
+2,11,District - Shimla  11,Rural,90+,Female,In hearing,17
+2,11,District - Shimla  11,Rural,Age not stated,Female,In hearing,3
+2,11,District - Shimla  11,Urban,0-4,Female,In hearing,1
+2,11,District - Shimla  11,Urban,5-9,Female,In hearing,0
+2,11,District - Shimla  11,Urban,10-19,Female,In hearing,7
+2,11,District - Shimla  11,Urban,20-29,Female,In hearing,2
+2,11,District - Shimla  11,Urban,30-39,Female,In hearing,3
+2,11,District - Shimla  11,Urban,40-49,Female,In hearing,3
+2,11,District - Shimla  11,Urban,50-59,Female,In hearing,3
+2,11,District - Shimla  11,Urban,60-69,Female,In hearing,10
+2,11,District - Shimla  11,Urban,70-79,Female,In hearing,3
+2,11,District - Shimla  11,Urban,80-89,Female,In hearing,5
+2,11,District - Shimla  11,Urban,90+,Female,In hearing,4
+2,11,District - Shimla  11,Urban,Age not stated,Female,In hearing,0
+2,12,District - Kinnaur  12,Rural,0-4,Female,In hearing,1
+2,12,District - Kinnaur  12,Rural,5-9,Female,In hearing,1
+2,12,District - Kinnaur  12,Rural,10-19,Female,In hearing,2
+2,12,District - Kinnaur  12,Rural,20-29,Female,In hearing,6
+2,12,District - Kinnaur  12,Rural,30-39,Female,In hearing,17
+2,12,District - Kinnaur  12,Rural,40-49,Female,In hearing,35
+2,12,District - Kinnaur  12,Rural,50-59,Female,In hearing,37
+2,12,District - Kinnaur  12,Rural,60-69,Female,In hearing,39
+2,12,District - Kinnaur  12,Rural,70-79,Female,In hearing,26
+2,12,District - Kinnaur  12,Rural,80-89,Female,In hearing,26
+2,12,District - Kinnaur  12,Rural,90+,Female,In hearing,10
+2,12,District - Kinnaur  12,Rural,Age not stated,Female,In hearing,0
+2,12,District - Kinnaur  12,Urban,0-4,Female,In hearing,0
+2,12,District - Kinnaur  12,Urban,5-9,Female,In hearing,0
+2,12,District - Kinnaur  12,Urban,10-19,Female,In hearing,0
+2,12,District - Kinnaur  12,Urban,20-29,Female,In hearing,0
+2,12,District - Kinnaur  12,Urban,30-39,Female,In hearing,0
+2,12,District - Kinnaur  12,Urban,40-49,Female,In hearing,0
+2,12,District - Kinnaur  12,Urban,50-59,Female,In hearing,0
+2,12,District - Kinnaur  12,Urban,60-69,Female,In hearing,0
+2,12,District - Kinnaur  12,Urban,70-79,Female,In hearing,0
+2,12,District - Kinnaur  12,Urban,80-89,Female,In hearing,0
+2,12,District - Kinnaur  12,Urban,90+,Female,In hearing,0
+2,12,District - Kinnaur  12,Urban,Age not stated,Female,In hearing,0
+2,1,District - Chamba  01,Rural,0-4,Male,In movement,55
+2,1,District - Chamba  01,Rural,5-9,Male,In movement,107
+2,1,District - Chamba  01,Rural,10-19,Male,In movement,264
+2,1,District - Chamba  01,Rural,20-29,Male,In movement,254
+2,1,District - Chamba  01,Rural,30-39,Male,In movement,238
+2,1,District - Chamba  01,Rural,40-49,Male,In movement,207
+2,1,District - Chamba  01,Rural,50-59,Male,In movement,166
+2,1,District - Chamba  01,Rural,60-69,Male,In movement,185
+2,1,District - Chamba  01,Rural,70-79,Male,In movement,89
+2,1,District - Chamba  01,Rural,80-89,Male,In movement,58
+2,1,District - Chamba  01,Rural,90+,Male,In movement,13
+2,1,District - Chamba  01,Rural,Age not stated,Male,In movement,2
+2,1,District - Chamba  01,Urban,0-4,Male,In movement,0
+2,1,District - Chamba  01,Urban,5-9,Male,In movement,7
+2,1,District - Chamba  01,Urban,10-19,Male,In movement,10
+2,1,District - Chamba  01,Urban,20-29,Male,In movement,12
+2,1,District - Chamba  01,Urban,30-39,Male,In movement,14
+2,1,District - Chamba  01,Urban,40-49,Male,In movement,15
+2,1,District - Chamba  01,Urban,50-59,Male,In movement,10
+2,1,District - Chamba  01,Urban,60-69,Male,In movement,5
+2,1,District - Chamba  01,Urban,70-79,Male,In movement,5
+2,1,District - Chamba  01,Urban,80-89,Male,In movement,3
+2,1,District - Chamba  01,Urban,90+,Male,In movement,1
+2,1,District - Chamba  01,Urban,Age not stated,Male,In movement,0
+2,2,District - Kangra  02,Rural,0-4,Male,In movement,144
+2,2,District - Kangra  02,Rural,5-9,Male,In movement,265
+2,2,District - Kangra  02,Rural,10-19,Male,In movement,835
+2,2,District - Kangra  02,Rural,20-29,Male,In movement,1107
+2,2,District - Kangra  02,Rural,30-39,Male,In movement,823
+2,2,District - Kangra  02,Rural,40-49,Male,In movement,815
+2,2,District - Kangra  02,Rural,50-59,Male,In movement,671
+2,2,District - Kangra  02,Rural,60-69,Male,In movement,692
+2,2,District - Kangra  02,Rural,70-79,Male,In movement,481
+2,2,District - Kangra  02,Rural,80-89,Male,In movement,230
+2,2,District - Kangra  02,Rural,90+,Male,In movement,80
+2,2,District - Kangra  02,Rural,Age not stated,Male,In movement,13
+2,2,District - Kangra  02,Urban,0-4,Male,In movement,8
+2,2,District - Kangra  02,Urban,5-9,Male,In movement,9
+2,2,District - Kangra  02,Urban,10-19,Male,In movement,35
+2,2,District - Kangra  02,Urban,20-29,Male,In movement,30
+2,2,District - Kangra  02,Urban,30-39,Male,In movement,27
+2,2,District - Kangra  02,Urban,40-49,Male,In movement,49
+2,2,District - Kangra  02,Urban,50-59,Male,In movement,22
+2,2,District - Kangra  02,Urban,60-69,Male,In movement,14
+2,2,District - Kangra  02,Urban,70-79,Male,In movement,3
+2,2,District - Kangra  02,Urban,80-89,Male,In movement,2
+2,2,District - Kangra  02,Urban,90+,Male,In movement,1
+2,2,District - Kangra  02,Urban,Age not stated,Male,In movement,0
+2,3,District - Lahul & Spiti  03,Rural,0-4,Male,In movement,0
+2,3,District - Lahul & Spiti  03,Rural,5-9,Male,In movement,3
+2,3,District - Lahul & Spiti  03,Rural,10-19,Male,In movement,10
+2,3,District - Lahul & Spiti  03,Rural,20-29,Male,In movement,13
+2,3,District - Lahul & Spiti  03,Rural,30-39,Male,In movement,6
+2,3,District - Lahul & Spiti  03,Rural,40-49,Male,In movement,8
+2,3,District - Lahul & Spiti  03,Rural,50-59,Male,In movement,13
+2,3,District - Lahul & Spiti  03,Rural,60-69,Male,In movement,8
+2,3,District - Lahul & Spiti  03,Rural,70-79,Male,In movement,11
+2,3,District - Lahul & Spiti  03,Rural,80-89,Male,In movement,3
+2,3,District - Lahul & Spiti  03,Rural,90+,Male,In movement,2
+2,3,District - Lahul & Spiti  03,Rural,Age not stated,Male,In movement,0
+2,3,District - Lahul & Spiti  03,Urban,0-4,Male,In movement,0
+2,3,District - Lahul & Spiti  03,Urban,5-9,Male,In movement,0
+2,3,District - Lahul & Spiti  03,Urban,10-19,Male,In movement,0
+2,3,District - Lahul & Spiti  03,Urban,20-29,Male,In movement,0
+2,3,District - Lahul & Spiti  03,Urban,30-39,Male,In movement,0
+2,3,District - Lahul & Spiti  03,Urban,40-49,Male,In movement,0
+2,3,District - Lahul & Spiti  03,Urban,50-59,Male,In movement,0
+2,3,District - Lahul & Spiti  03,Urban,60-69,Male,In movement,0
+2,3,District - Lahul & Spiti  03,Urban,70-79,Male,In movement,0
+2,3,District - Lahul & Spiti  03,Urban,80-89,Male,In movement,0
+2,3,District - Lahul & Spiti  03,Urban,90+,Male,In movement,0
+2,3,District - Lahul & Spiti  03,Urban,Age not stated,Male,In movement,0
+2,4,District - Kullu  04,Rural,0-4,Male,In movement,33
+2,4,District - Kullu  04,Rural,5-9,Male,In movement,74
+2,4,District - Kullu  04,Rural,10-19,Male,In movement,233
+2,4,District - Kullu  04,Rural,20-29,Male,In movement,226
+2,4,District - Kullu  04,Rural,30-39,Male,In movement,171
+2,4,District - Kullu  04,Rural,40-49,Male,In movement,174
+2,4,District - Kullu  04,Rural,50-59,Male,In movement,140
+2,4,District - Kullu  04,Rural,60-69,Male,In movement,137
+2,4,District - Kullu  04,Rural,70-79,Male,In movement,88
+2,4,District - Kullu  04,Rural,80-89,Male,In movement,39
+2,4,District - Kullu  04,Rural,90+,Male,In movement,17
+2,4,District - Kullu  04,Rural,Age not stated,Male,In movement,4
+2,4,District - Kullu  04,Urban,0-4,Male,In movement,2
+2,4,District - Kullu  04,Urban,5-9,Male,In movement,8
+2,4,District - Kullu  04,Urban,10-19,Male,In movement,12
+2,4,District - Kullu  04,Urban,20-29,Male,In movement,8
+2,4,District - Kullu  04,Urban,30-39,Male,In movement,9
+2,4,District - Kullu  04,Urban,40-49,Male,In movement,9
+2,4,District - Kullu  04,Urban,50-59,Male,In movement,10
+2,4,District - Kullu  04,Urban,60-69,Male,In movement,10
+2,4,District - Kullu  04,Urban,70-79,Male,In movement,3
+2,4,District - Kullu  04,Urban,80-89,Male,In movement,1
+2,4,District - Kullu  04,Urban,90+,Male,In movement,1
+2,4,District - Kullu  04,Urban,Age not stated,Male,In movement,0
+2,5,District - Mandi  05,Rural,0-4,Male,In movement,97
+2,5,District - Mandi  05,Rural,5-9,Male,In movement,196
+2,5,District - Mandi  05,Rural,10-19,Male,In movement,674
+2,5,District - Mandi  05,Rural,20-29,Male,In movement,749
+2,5,District - Mandi  05,Rural,30-39,Male,In movement,636
+2,5,District - Mandi  05,Rural,40-49,Male,In movement,570
+2,5,District - Mandi  05,Rural,50-59,Male,In movement,531
+2,5,District - Mandi  05,Rural,60-69,Male,In movement,492
+2,5,District - Mandi  05,Rural,70-79,Male,In movement,310
+2,5,District - Mandi  05,Rural,80-89,Male,In movement,168
+2,5,District - Mandi  05,Rural,90+,Male,In movement,46
+2,5,District - Mandi  05,Rural,Age not stated,Male,In movement,9
+2,5,District - Mandi  05,Urban,0-4,Male,In movement,2
+2,5,District - Mandi  05,Urban,5-9,Male,In movement,11
+2,5,District - Mandi  05,Urban,10-19,Male,In movement,23
+2,5,District - Mandi  05,Urban,20-29,Male,In movement,46
+2,5,District - Mandi  05,Urban,30-39,Male,In movement,34
+2,5,District - Mandi  05,Urban,40-49,Male,In movement,47
+2,5,District - Mandi  05,Urban,50-59,Male,In movement,28
+2,5,District - Mandi  05,Urban,60-69,Male,In movement,23
+2,5,District - Mandi  05,Urban,70-79,Male,In movement,13
+2,5,District - Mandi  05,Urban,80-89,Male,In movement,9
+2,5,District - Mandi  05,Urban,90+,Male,In movement,0
+2,5,District - Mandi  05,Urban,Age not stated,Male,In movement,0
+2,6,District - Hamirpur  06,Rural,0-4,Male,In movement,57
+2,6,District - Hamirpur  06,Rural,5-9,Male,In movement,84
+2,6,District - Hamirpur  06,Rural,10-19,Male,In movement,241
+2,6,District - Hamirpur  06,Rural,20-29,Male,In movement,388
+2,6,District - Hamirpur  06,Rural,30-39,Male,In movement,336
+2,6,District - Hamirpur  06,Rural,40-49,Male,In movement,295
+2,6,District - Hamirpur  06,Rural,50-59,Male,In movement,278
+2,6,District - Hamirpur  06,Rural,60-69,Male,In movement,304
+2,6,District - Hamirpur  06,Rural,70-79,Male,In movement,214
+2,6,District - Hamirpur  06,Rural,80-89,Male,In movement,109
+2,6,District - Hamirpur  06,Rural,90+,Male,In movement,37
+2,6,District - Hamirpur  06,Rural,Age not stated,Male,In movement,1
+2,6,District - Hamirpur  06,Urban,0-4,Male,In movement,4
+2,6,District - Hamirpur  06,Urban,5-9,Male,In movement,4
+2,6,District - Hamirpur  06,Urban,10-19,Male,In movement,15
+2,6,District - Hamirpur  06,Urban,20-29,Male,In movement,17
+2,6,District - Hamirpur  06,Urban,30-39,Male,In movement,19
+2,6,District - Hamirpur  06,Urban,40-49,Male,In movement,23
+2,6,District - Hamirpur  06,Urban,50-59,Male,In movement,10
+2,6,District - Hamirpur  06,Urban,60-69,Male,In movement,13
+2,6,District - Hamirpur  06,Urban,70-79,Male,In movement,6
+2,6,District - Hamirpur  06,Urban,80-89,Male,In movement,3
+2,6,District - Hamirpur  06,Urban,90+,Male,In movement,1
+2,6,District - Hamirpur  06,Urban,Age not stated,Male,In movement,0
+2,7,District - Una  07,Rural,0-4,Male,In movement,64
+2,7,District - Una  07,Rural,5-9,Male,In movement,84
+2,7,District - Una  07,Rural,10-19,Male,In movement,346
+2,7,District - Una  07,Rural,20-29,Male,In movement,458
+2,7,District - Una  07,Rural,30-39,Male,In movement,325
+2,7,District - Una  07,Rural,40-49,Male,In movement,285
+2,7,District - Una  07,Rural,50-59,Male,In movement,279
+2,7,District - Una  07,Rural,60-69,Male,In movement,270
+2,7,District - Una  07,Rural,70-79,Male,In movement,188
+2,7,District - Una  07,Rural,80-89,Male,In movement,86
+2,7,District - Una  07,Rural,90+,Male,In movement,35
+2,7,District - Una  07,Rural,Age not stated,Male,In movement,6
+2,7,District - Una  07,Urban,0-4,Male,In movement,6
+2,7,District - Una  07,Urban,5-9,Male,In movement,8
+2,7,District - Una  07,Urban,10-19,Male,In movement,26
+2,7,District - Una  07,Urban,20-29,Male,In movement,25
+2,7,District - Una  07,Urban,30-39,Male,In movement,19
+2,7,District - Una  07,Urban,40-49,Male,In movement,33
+2,7,District - Una  07,Urban,50-59,Male,In movement,23
+2,7,District - Una  07,Urban,60-69,Male,In movement,18
+2,7,District - Una  07,Urban,70-79,Male,In movement,12
+2,7,District - Una  07,Urban,80-89,Male,In movement,4
+2,7,District - Una  07,Urban,90+,Male,In movement,2
+2,7,District - Una  07,Urban,Age not stated,Male,In movement,0
+2,8,District - Bilaspur  08,Rural,0-4,Male,In movement,49
+2,8,District - Bilaspur  08,Rural,5-9,Male,In movement,95
+2,8,District - Bilaspur  08,Rural,10-19,Male,In movement,315
+2,8,District - Bilaspur  08,Rural,20-29,Male,In movement,468
+2,8,District - Bilaspur  08,Rural,30-39,Male,In movement,395
+2,8,District - Bilaspur  08,Rural,40-49,Male,In movement,333
+2,8,District - Bilaspur  08,Rural,50-59,Male,In movement,276
+2,8,District - Bilaspur  08,Rural,60-69,Male,In movement,250
+2,8,District - Bilaspur  08,Rural,70-79,Male,In movement,169
+2,8,District - Bilaspur  08,Rural,80-89,Male,In movement,96
+2,8,District - Bilaspur  08,Rural,90+,Male,In movement,40
+2,8,District - Bilaspur  08,Rural,Age not stated,Male,In movement,8
+2,8,District - Bilaspur  08,Urban,0-4,Male,In movement,2
+2,8,District - Bilaspur  08,Urban,5-9,Male,In movement,5
+2,8,District - Bilaspur  08,Urban,10-19,Male,In movement,19
+2,8,District - Bilaspur  08,Urban,20-29,Male,In movement,19
+2,8,District - Bilaspur  08,Urban,30-39,Male,In movement,15
+2,8,District - Bilaspur  08,Urban,40-49,Male,In movement,24
+2,8,District - Bilaspur  08,Urban,50-59,Male,In movement,21
+2,8,District - Bilaspur  08,Urban,60-69,Male,In movement,10
+2,8,District - Bilaspur  08,Urban,70-79,Male,In movement,11
+2,8,District - Bilaspur  08,Urban,80-89,Male,In movement,3
+2,8,District - Bilaspur  08,Urban,90+,Male,In movement,3
+2,8,District - Bilaspur  08,Urban,Age not stated,Male,In movement,0
+2,9,District - Solan  09,Rural,0-4,Male,In movement,69
+2,9,District - Solan  09,Rural,5-9,Male,In movement,115
+2,9,District - Solan  09,Rural,10-19,Male,In movement,358
+2,9,District - Solan  09,Rural,20-29,Male,In movement,500
+2,9,District - Solan  09,Rural,30-39,Male,In movement,378
+2,9,District - Solan  09,Rural,40-49,Male,In movement,306
+2,9,District - Solan  09,Rural,50-59,Male,In movement,268
+2,9,District - Solan  09,Rural,60-69,Male,In movement,210
+2,9,District - Solan  09,Rural,70-79,Male,In movement,132
+2,9,District - Solan  09,Rural,80-89,Male,In movement,66
+2,9,District - Solan  09,Rural,90+,Male,In movement,18
+2,9,District - Solan  09,Rural,Age not stated,Male,In movement,9
+2,9,District - Solan  09,Urban,0-4,Male,In movement,6
+2,9,District - Solan  09,Urban,5-9,Male,In movement,12
+2,9,District - Solan  09,Urban,10-19,Male,In movement,18
+2,9,District - Solan  09,Urban,20-29,Male,In movement,50
+2,9,District - Solan  09,Urban,30-39,Male,In movement,33
+2,9,District - Solan  09,Urban,40-49,Male,In movement,36
+2,9,District - Solan  09,Urban,50-59,Male,In movement,22
+2,9,District - Solan  09,Urban,60-69,Male,In movement,10
+2,9,District - Solan  09,Urban,70-79,Male,In movement,13
+2,9,District - Solan  09,Urban,80-89,Male,In movement,3
+2,9,District - Solan  09,Urban,90+,Male,In movement,0
+2,9,District - Solan  09,Urban,Age not stated,Male,In movement,0
+2,10,District - Sirmaur  10,Rural,0-4,Male,In movement,53
+2,10,District - Sirmaur  10,Rural,5-9,Male,In movement,142
+2,10,District - Sirmaur  10,Rural,10-19,Male,In movement,388
+2,10,District - Sirmaur  10,Rural,20-29,Male,In movement,335
+2,10,District - Sirmaur  10,Rural,30-39,Male,In movement,280
+2,10,District - Sirmaur  10,Rural,40-49,Male,In movement,263
+2,10,District - Sirmaur  10,Rural,50-59,Male,In movement,273
+2,10,District - Sirmaur  10,Rural,60-69,Male,In movement,241
+2,10,District - Sirmaur  10,Rural,70-79,Male,In movement,148
+2,10,District - Sirmaur  10,Rural,80-89,Male,In movement,79
+2,10,District - Sirmaur  10,Rural,90+,Male,In movement,28
+2,10,District - Sirmaur  10,Rural,Age not stated,Male,In movement,4
+2,10,District - Sirmaur  10,Urban,0-4,Male,In movement,5
+2,10,District - Sirmaur  10,Urban,5-9,Male,In movement,14
+2,10,District - Sirmaur  10,Urban,10-19,Male,In movement,18
+2,10,District - Sirmaur  10,Urban,20-29,Male,In movement,33
+2,10,District - Sirmaur  10,Urban,30-39,Male,In movement,28
+2,10,District - Sirmaur  10,Urban,40-49,Male,In movement,26
+2,10,District - Sirmaur  10,Urban,50-59,Male,In movement,12
+2,10,District - Sirmaur  10,Urban,60-69,Male,In movement,14
+2,10,District - Sirmaur  10,Urban,70-79,Male,In movement,8
+2,10,District - Sirmaur  10,Urban,80-89,Male,In movement,7
+2,10,District - Sirmaur  10,Urban,90+,Male,In movement,3
+2,10,District - Sirmaur  10,Urban,Age not stated,Male,In movement,0
+2,11,District - Shimla  11,Rural,0-4,Male,In movement,29
+2,11,District - Shimla  11,Rural,5-9,Male,In movement,83
+2,11,District - Shimla  11,Rural,10-19,Male,In movement,241
+2,11,District - Shimla  11,Rural,20-29,Male,In movement,244
+2,11,District - Shimla  11,Rural,30-39,Male,In movement,196
+2,11,District - Shimla  11,Rural,40-49,Male,In movement,195
+2,11,District - Shimla  11,Rural,50-59,Male,In movement,196
+2,11,District - Shimla  11,Rural,60-69,Male,In movement,226
+2,11,District - Shimla  11,Rural,70-79,Male,In movement,157
+2,11,District - Shimla  11,Rural,80-89,Male,In movement,65
+2,11,District - Shimla  11,Rural,90+,Male,In movement,29
+2,11,District - Shimla  11,Rural,Age not stated,Male,In movement,1
+2,11,District - Shimla  11,Urban,0-4,Male,In movement,6
+2,11,District - Shimla  11,Urban,5-9,Male,In movement,17
+2,11,District - Shimla  11,Urban,10-19,Male,In movement,28
+2,11,District - Shimla  11,Urban,20-29,Male,In movement,36
+2,11,District - Shimla  11,Urban,30-39,Male,In movement,37
+2,11,District - Shimla  11,Urban,40-49,Male,In movement,40
+2,11,District - Shimla  11,Urban,50-59,Male,In movement,31
+2,11,District - Shimla  11,Urban,60-69,Male,In movement,17
+2,11,District - Shimla  11,Urban,70-79,Male,In movement,14
+2,11,District - Shimla  11,Urban,80-89,Male,In movement,5
+2,11,District - Shimla  11,Urban,90+,Male,In movement,1
+2,11,District - Shimla  11,Urban,Age not stated,Male,In movement,0
+2,12,District - Kinnaur  12,Rural,0-4,Male,In movement,3
+2,12,District - Kinnaur  12,Rural,5-9,Male,In movement,7
+2,12,District - Kinnaur  12,Rural,10-19,Male,In movement,36
+2,12,District - Kinnaur  12,Rural,20-29,Male,In movement,39
+2,12,District - Kinnaur  12,Rural,30-39,Male,In movement,42
+2,12,District - Kinnaur  12,Rural,40-49,Male,In movement,33
+2,12,District - Kinnaur  12,Rural,50-59,Male,In movement,27
+2,12,District - Kinnaur  12,Rural,60-69,Male,In movement,27
+2,12,District - Kinnaur  12,Rural,70-79,Male,In movement,19
+2,12,District - Kinnaur  12,Rural,80-89,Male,In movement,12
+2,12,District - Kinnaur  12,Rural,90+,Male,In movement,3
+2,12,District - Kinnaur  12,Rural,Age not stated,Male,In movement,2
+2,12,District - Kinnaur  12,Urban,0-4,Male,In movement,0
+2,12,District - Kinnaur  12,Urban,5-9,Male,In movement,0
+2,12,District - Kinnaur  12,Urban,10-19,Male,In movement,0
+2,12,District - Kinnaur  12,Urban,20-29,Male,In movement,0
+2,12,District - Kinnaur  12,Urban,30-39,Male,In movement,0
+2,12,District - Kinnaur  12,Urban,40-49,Male,In movement,0
+2,12,District - Kinnaur  12,Urban,50-59,Male,In movement,0
+2,12,District - Kinnaur  12,Urban,60-69,Male,In movement,0
+2,12,District - Kinnaur  12,Urban,70-79,Male,In movement,0
+2,12,District - Kinnaur  12,Urban,80-89,Male,In movement,0
+2,12,District - Kinnaur  12,Urban,90+,Male,In movement,0
+2,12,District - Kinnaur  12,Urban,Age not stated,Male,In movement,0
+2,1,District - Chamba  01,Rural,0-4,Female,In movement,37
+2,1,District - Chamba  01,Rural,5-9,Female,In movement,74
+2,1,District - Chamba  01,Rural,10-19,Female,In movement,182
+2,1,District - Chamba  01,Rural,20-29,Female,In movement,138
+2,1,District - Chamba  01,Rural,30-39,Female,In movement,108
+2,1,District - Chamba  01,Rural,40-49,Female,In movement,106
+2,1,District - Chamba  01,Rural,50-59,Female,In movement,104
+2,1,District - Chamba  01,Rural,60-69,Female,In movement,105
+2,1,District - Chamba  01,Rural,70-79,Female,In movement,64
+2,1,District - Chamba  01,Rural,80-89,Female,In movement,41
+2,1,District - Chamba  01,Rural,90+,Female,In movement,22
+2,1,District - Chamba  01,Rural,Age not stated,Female,In movement,0
+2,1,District - Chamba  01,Urban,0-4,Female,In movement,1
+2,1,District - Chamba  01,Urban,5-9,Female,In movement,2
+2,1,District - Chamba  01,Urban,10-19,Female,In movement,5
+2,1,District - Chamba  01,Urban,20-29,Female,In movement,7
+2,1,District - Chamba  01,Urban,30-39,Female,In movement,12
+2,1,District - Chamba  01,Urban,40-49,Female,In movement,7
+2,1,District - Chamba  01,Urban,50-59,Female,In movement,8
+2,1,District - Chamba  01,Urban,60-69,Female,In movement,4
+2,1,District - Chamba  01,Urban,70-79,Female,In movement,5
+2,1,District - Chamba  01,Urban,80-89,Female,In movement,0
+2,1,District - Chamba  01,Urban,90+,Female,In movement,0
+2,1,District - Chamba  01,Urban,Age not stated,Female,In movement,0
+2,2,District - Kangra  02,Rural,0-4,Female,In movement,113
+2,2,District - Kangra  02,Rural,5-9,Female,In movement,185
+2,2,District - Kangra  02,Rural,10-19,Female,In movement,509
+2,2,District - Kangra  02,Rural,20-29,Female,In movement,568
+2,2,District - Kangra  02,Rural,30-39,Female,In movement,402
+2,2,District - Kangra  02,Rural,40-49,Female,In movement,366
+2,2,District - Kangra  02,Rural,50-59,Female,In movement,370
+2,2,District - Kangra  02,Rural,60-69,Female,In movement,438
+2,2,District - Kangra  02,Rural,70-79,Female,In movement,337
+2,2,District - Kangra  02,Rural,80-89,Female,In movement,170
+2,2,District - Kangra  02,Rural,90+,Female,In movement,82
+2,2,District - Kangra  02,Rural,Age not stated,Female,In movement,4
+2,2,District - Kangra  02,Urban,0-4,Female,In movement,2
+2,2,District - Kangra  02,Urban,5-9,Female,In movement,6
+2,2,District - Kangra  02,Urban,10-19,Female,In movement,11
+2,2,District - Kangra  02,Urban,20-29,Female,In movement,20
+2,2,District - Kangra  02,Urban,30-39,Female,In movement,12
+2,2,District - Kangra  02,Urban,40-49,Female,In movement,13
+2,2,District - Kangra  02,Urban,50-59,Female,In movement,9
+2,2,District - Kangra  02,Urban,60-69,Female,In movement,9
+2,2,District - Kangra  02,Urban,70-79,Female,In movement,7
+2,2,District - Kangra  02,Urban,80-89,Female,In movement,6
+2,2,District - Kangra  02,Urban,90+,Female,In movement,1
+2,2,District - Kangra  02,Urban,Age not stated,Female,In movement,0
+2,3,District - Lahul & Spiti  03,Rural,0-4,Female,In movement,1
+2,3,District - Lahul & Spiti  03,Rural,5-9,Female,In movement,4
+2,3,District - Lahul & Spiti  03,Rural,10-19,Female,In movement,9
+2,3,District - Lahul & Spiti  03,Rural,20-29,Female,In movement,7
+2,3,District - Lahul & Spiti  03,Rural,30-39,Female,In movement,13
+2,3,District - Lahul & Spiti  03,Rural,40-49,Female,In movement,6
+2,3,District - Lahul & Spiti  03,Rural,50-59,Female,In movement,7
+2,3,District - Lahul & Spiti  03,Rural,60-69,Female,In movement,6
+2,3,District - Lahul & Spiti  03,Rural,70-79,Female,In movement,8
+2,3,District - Lahul & Spiti  03,Rural,80-89,Female,In movement,4
+2,3,District - Lahul & Spiti  03,Rural,90+,Female,In movement,1
+2,3,District - Lahul & Spiti  03,Rural,Age not stated,Female,In movement,0
+2,3,District - Lahul & Spiti  03,Urban,0-4,Female,In movement,0
+2,3,District - Lahul & Spiti  03,Urban,5-9,Female,In movement,0
+2,3,District - Lahul & Spiti  03,Urban,10-19,Female,In movement,0
+2,3,District - Lahul & Spiti  03,Urban,20-29,Female,In movement,0
+2,3,District - Lahul & Spiti  03,Urban,30-39,Female,In movement,0
+2,3,District - Lahul & Spiti  03,Urban,40-49,Female,In movement,0
+2,3,District - Lahul & Spiti  03,Urban,50-59,Female,In movement,0
+2,3,District - Lahul & Spiti  03,Urban,60-69,Female,In movement,0
+2,3,District - Lahul & Spiti  03,Urban,70-79,Female,In movement,0
+2,3,District - Lahul & Spiti  03,Urban,80-89,Female,In movement,0
+2,3,District - Lahul & Spiti  03,Urban,90+,Female,In movement,0
+2,3,District - Lahul & Spiti  03,Urban,Age not stated,Female,In movement,0
+2,4,District - Kullu  04,Rural,0-4,Female,In movement,40
+2,4,District - Kullu  04,Rural,5-9,Female,In movement,48
+2,4,District - Kullu  04,Rural,10-19,Female,In movement,144
+2,4,District - Kullu  04,Rural,20-29,Female,In movement,130
+2,4,District - Kullu  04,Rural,30-39,Female,In movement,74
+2,4,District - Kullu  04,Rural,40-49,Female,In movement,107
+2,4,District - Kullu  04,Rural,50-59,Female,In movement,86
+2,4,District - Kullu  04,Rural,60-69,Female,In movement,103
+2,4,District - Kullu  04,Rural,70-79,Female,In movement,74
+2,4,District - Kullu  04,Rural,80-89,Female,In movement,32
+2,4,District - Kullu  04,Rural,90+,Female,In movement,9
+2,4,District - Kullu  04,Rural,Age not stated,Female,In movement,0
+2,4,District - Kullu  04,Urban,0-4,Female,In movement,1
+2,4,District - Kullu  04,Urban,5-9,Female,In movement,3
+2,4,District - Kullu  04,Urban,10-19,Female,In movement,6
+2,4,District - Kullu  04,Urban,20-29,Female,In movement,7
+2,4,District - Kullu  04,Urban,30-39,Female,In movement,5
+2,4,District - Kullu  04,Urban,40-49,Female,In movement,9
+2,4,District - Kullu  04,Urban,50-59,Female,In movement,3
+2,4,District - Kullu  04,Urban,60-69,Female,In movement,4
+2,4,District - Kullu  04,Urban,70-79,Female,In movement,2
+2,4,District - Kullu  04,Urban,80-89,Female,In movement,2
+2,4,District - Kullu  04,Urban,90+,Female,In movement,1
+2,4,District - Kullu  04,Urban,Age not stated,Female,In movement,0
+2,5,District - Mandi  05,Rural,0-4,Female,In movement,76
+2,5,District - Mandi  05,Rural,5-9,Female,In movement,127
+2,5,District - Mandi  05,Rural,10-19,Female,In movement,427
+2,5,District - Mandi  05,Rural,20-29,Female,In movement,458
+2,5,District - Mandi  05,Rural,30-39,Female,In movement,321
+2,5,District - Mandi  05,Rural,40-49,Female,In movement,323
+2,5,District - Mandi  05,Rural,50-59,Female,In movement,340
+2,5,District - Mandi  05,Rural,60-69,Female,In movement,329
+2,5,District - Mandi  05,Rural,70-79,Female,In movement,261
+2,5,District - Mandi  05,Rural,80-89,Female,In movement,144
+2,5,District - Mandi  05,Rural,90+,Female,In movement,52
+2,5,District - Mandi  05,Rural,Age not stated,Female,In movement,4
+2,5,District - Mandi  05,Urban,0-4,Female,In movement,7
+2,5,District - Mandi  05,Urban,5-9,Female,In movement,2
+2,5,District - Mandi  05,Urban,10-19,Female,In movement,13
+2,5,District - Mandi  05,Urban,20-29,Female,In movement,18
+2,5,District - Mandi  05,Urban,30-39,Female,In movement,21
+2,5,District - Mandi  05,Urban,40-49,Female,In movement,19
+2,5,District - Mandi  05,Urban,50-59,Female,In movement,8
+2,5,District - Mandi  05,Urban,60-69,Female,In movement,21
+2,5,District - Mandi  05,Urban,70-79,Female,In movement,16
+2,5,District - Mandi  05,Urban,80-89,Female,In movement,7
+2,5,District - Mandi  05,Urban,90+,Female,In movement,3
+2,5,District - Mandi  05,Urban,Age not stated,Female,In movement,0
+2,6,District - Hamirpur  06,Rural,0-4,Female,In movement,29
+2,6,District - Hamirpur  06,Rural,5-9,Female,In movement,52
+2,6,District - Hamirpur  06,Rural,10-19,Female,In movement,173
+2,6,District - Hamirpur  06,Rural,20-29,Female,In movement,199
+2,6,District - Hamirpur  06,Rural,30-39,Female,In movement,202
+2,6,District - Hamirpur  06,Rural,40-49,Female,In movement,129
+2,6,District - Hamirpur  06,Rural,50-59,Female,In movement,159
+2,6,District - Hamirpur  06,Rural,60-69,Female,In movement,194
+2,6,District - Hamirpur  06,Rural,70-79,Female,In movement,154
+2,6,District - Hamirpur  06,Rural,80-89,Female,In movement,123
+2,6,District - Hamirpur  06,Rural,90+,Female,In movement,50
+2,6,District - Hamirpur  06,Rural,Age not stated,Female,In movement,1
+2,6,District - Hamirpur  06,Urban,0-4,Female,In movement,1
+2,6,District - Hamirpur  06,Urban,5-9,Female,In movement,3
+2,6,District - Hamirpur  06,Urban,10-19,Female,In movement,5
+2,6,District - Hamirpur  06,Urban,20-29,Female,In movement,15
+2,6,District - Hamirpur  06,Urban,30-39,Female,In movement,13
+2,6,District - Hamirpur  06,Urban,40-49,Female,In movement,9
+2,6,District - Hamirpur  06,Urban,50-59,Female,In movement,11
+2,6,District - Hamirpur  06,Urban,60-69,Female,In movement,11
+2,6,District - Hamirpur  06,Urban,70-79,Female,In movement,6
+2,6,District - Hamirpur  06,Urban,80-89,Female,In movement,1
+2,6,District - Hamirpur  06,Urban,90+,Female,In movement,0
+2,6,District - Hamirpur  06,Urban,Age not stated,Female,In movement,0
+2,7,District - Una  07,Rural,0-4,Female,In movement,31
+2,7,District - Una  07,Rural,5-9,Female,In movement,57
+2,7,District - Una  07,Rural,10-19,Female,In movement,199
+2,7,District - Una  07,Rural,20-29,Female,In movement,232
+2,7,District - Una  07,Rural,30-39,Female,In movement,160
+2,7,District - Una  07,Rural,40-49,Female,In movement,129
+2,7,District - Una  07,Rural,50-59,Female,In movement,118
+2,7,District - Una  07,Rural,60-69,Female,In movement,119
+2,7,District - Una  07,Rural,70-79,Female,In movement,112
+2,7,District - Una  07,Rural,80-89,Female,In movement,77
+2,7,District - Una  07,Rural,90+,Female,In movement,44
+2,7,District - Una  07,Rural,Age not stated,Female,In movement,1
+2,7,District - Una  07,Urban,0-4,Female,In movement,1
+2,7,District - Una  07,Urban,5-9,Female,In movement,6
+2,7,District - Una  07,Urban,10-19,Female,In movement,16
+2,7,District - Una  07,Urban,20-29,Female,In movement,12
+2,7,District - Una  07,Urban,30-39,Female,In movement,19
+2,7,District - Una  07,Urban,40-49,Female,In movement,20
+2,7,District - Una  07,Urban,50-59,Female,In movement,11
+2,7,District - Una  07,Urban,60-69,Female,In movement,6
+2,7,District - Una  07,Urban,70-79,Female,In movement,9
+2,7,District - Una  07,Urban,80-89,Female,In movement,4
+2,7,District - Una  07,Urban,90+,Female,In movement,1
+2,7,District - Una  07,Urban,Age not stated,Female,In movement,0
+2,8,District - Bilaspur  08,Rural,0-4,Female,In movement,36
+2,8,District - Bilaspur  08,Rural,5-9,Female,In movement,63
+2,8,District - Bilaspur  08,Rural,10-19,Female,In movement,189
+2,8,District - Bilaspur  08,Rural,20-29,Female,In movement,201
+2,8,District - Bilaspur  08,Rural,30-39,Female,In movement,199
+2,8,District - Bilaspur  08,Rural,40-49,Female,In movement,146
+2,8,District - Bilaspur  08,Rural,50-59,Female,In movement,124
+2,8,District - Bilaspur  08,Rural,60-69,Female,In movement,219
+2,8,District - Bilaspur  08,Rural,70-79,Female,In movement,159
+2,8,District - Bilaspur  08,Rural,80-89,Female,In movement,73
+2,8,District - Bilaspur  08,Rural,90+,Female,In movement,46
+2,8,District - Bilaspur  08,Rural,Age not stated,Female,In movement,0
+2,8,District - Bilaspur  08,Urban,0-4,Female,In movement,0
+2,8,District - Bilaspur  08,Urban,5-9,Female,In movement,2
+2,8,District - Bilaspur  08,Urban,10-19,Female,In movement,7
+2,8,District - Bilaspur  08,Urban,20-29,Female,In movement,11
+2,8,District - Bilaspur  08,Urban,30-39,Female,In movement,11
+2,8,District - Bilaspur  08,Urban,40-49,Female,In movement,8
+2,8,District - Bilaspur  08,Urban,50-59,Female,In movement,9
+2,8,District - Bilaspur  08,Urban,60-69,Female,In movement,4
+2,8,District - Bilaspur  08,Urban,70-79,Female,In movement,6
+2,8,District - Bilaspur  08,Urban,80-89,Female,In movement,0
+2,8,District - Bilaspur  08,Urban,90+,Female,In movement,4
+2,8,District - Bilaspur  08,Urban,Age not stated,Female,In movement,0
+2,9,District - Solan  09,Rural,0-4,Female,In movement,45
+2,9,District - Solan  09,Rural,5-9,Female,In movement,67
+2,9,District - Solan  09,Rural,10-19,Female,In movement,256
+2,9,District - Solan  09,Rural,20-29,Female,In movement,200
+2,9,District - Solan  09,Rural,30-39,Female,In movement,179
+2,9,District - Solan  09,Rural,40-49,Female,In movement,139
+2,9,District - Solan  09,Rural,50-59,Female,In movement,137
+2,9,District - Solan  09,Rural,60-69,Female,In movement,154
+2,9,District - Solan  09,Rural,70-79,Female,In movement,96
+2,9,District - Solan  09,Rural,80-89,Female,In movement,54
+2,9,District - Solan  09,Rural,90+,Female,In movement,21
+2,9,District - Solan  09,Rural,Age not stated,Female,In movement,3
+2,9,District - Solan  09,Urban,0-4,Female,In movement,7
+2,9,District - Solan  09,Urban,5-9,Female,In movement,12
+2,9,District - Solan  09,Urban,10-19,Female,In movement,26
+2,9,District - Solan  09,Urban,20-29,Female,In movement,31
+2,9,District - Solan  09,Urban,30-39,Female,In movement,16
+2,9,District - Solan  09,Urban,40-49,Female,In movement,16
+2,9,District - Solan  09,Urban,50-59,Female,In movement,11
+2,9,District - Solan  09,Urban,60-69,Female,In movement,15
+2,9,District - Solan  09,Urban,70-79,Female,In movement,12
+2,9,District - Solan  09,Urban,80-89,Female,In movement,5
+2,9,District - Solan  09,Urban,90+,Female,In movement,4
+2,9,District - Solan  09,Urban,Age not stated,Female,In movement,0
+2,10,District - Sirmaur  10,Rural,0-4,Female,In movement,43
+2,10,District - Sirmaur  10,Rural,5-9,Female,In movement,95
+2,10,District - Sirmaur  10,Rural,10-19,Female,In movement,232
+2,10,District - Sirmaur  10,Rural,20-29,Female,In movement,168
+2,10,District - Sirmaur  10,Rural,30-39,Female,In movement,126
+2,10,District - Sirmaur  10,Rural,40-49,Female,In movement,118
+2,10,District - Sirmaur  10,Rural,50-59,Female,In movement,129
+2,10,District - Sirmaur  10,Rural,60-69,Female,In movement,131
+2,10,District - Sirmaur  10,Rural,70-79,Female,In movement,85
+2,10,District - Sirmaur  10,Rural,80-89,Female,In movement,38
+2,10,District - Sirmaur  10,Rural,90+,Female,In movement,22
+2,10,District - Sirmaur  10,Rural,Age not stated,Female,In movement,0
+2,10,District - Sirmaur  10,Urban,0-4,Female,In movement,3
+2,10,District - Sirmaur  10,Urban,5-9,Female,In movement,2
+2,10,District - Sirmaur  10,Urban,10-19,Female,In movement,14
+2,10,District - Sirmaur  10,Urban,20-29,Female,In movement,23
+2,10,District - Sirmaur  10,Urban,30-39,Female,In movement,14
+2,10,District - Sirmaur  10,Urban,40-49,Female,In movement,7
+2,10,District - Sirmaur  10,Urban,50-59,Female,In movement,14
+2,10,District - Sirmaur  10,Urban,60-69,Female,In movement,7
+2,10,District - Sirmaur  10,Urban,70-79,Female,In movement,5
+2,10,District - Sirmaur  10,Urban,80-89,Female,In movement,4
+2,10,District - Sirmaur  10,Urban,90+,Female,In movement,2
+2,10,District - Sirmaur  10,Urban,Age not stated,Female,In movement,0
+2,11,District - Shimla  11,Rural,0-4,Female,In movement,33
+2,11,District - Shimla  11,Rural,5-9,Female,In movement,49
+2,11,District - Shimla  11,Rural,10-19,Female,In movement,181
+2,11,District - Shimla  11,Rural,20-29,Female,In movement,139
+2,11,District - Shimla  11,Rural,30-39,Female,In movement,120
+2,11,District - Shimla  11,Rural,40-49,Female,In movement,106
+2,11,District - Shimla  11,Rural,50-59,Female,In movement,115
+2,11,District - Shimla  11,Rural,60-69,Female,In movement,179
+2,11,District - Shimla  11,Rural,70-79,Female,In movement,126
+2,11,District - Shimla  11,Rural,80-89,Female,In movement,78
+2,11,District - Shimla  11,Rural,90+,Female,In movement,28
+2,11,District - Shimla  11,Rural,Age not stated,Female,In movement,1
+2,11,District - Shimla  11,Urban,0-4,Female,In movement,3
+2,11,District - Shimla  11,Urban,5-9,Female,In movement,6
+2,11,District - Shimla  11,Urban,10-19,Female,In movement,16
+2,11,District - Shimla  11,Urban,20-29,Female,In movement,30
+2,11,District - Shimla  11,Urban,30-39,Female,In movement,20
+2,11,District - Shimla  11,Urban,40-49,Female,In movement,22
+2,11,District - Shimla  11,Urban,50-59,Female,In movement,13
+2,11,District - Shimla  11,Urban,60-69,Female,In movement,16
+2,11,District - Shimla  11,Urban,70-79,Female,In movement,6
+2,11,District - Shimla  11,Urban,80-89,Female,In movement,7
+2,11,District - Shimla  11,Urban,90+,Female,In movement,0
+2,11,District - Shimla  11,Urban,Age not stated,Female,In movement,1
+2,12,District - Kinnaur  12,Rural,0-4,Female,In movement,3
+2,12,District - Kinnaur  12,Rural,5-9,Female,In movement,15
+2,12,District - Kinnaur  12,Rural,10-19,Female,In movement,27
+2,12,District - Kinnaur  12,Rural,20-29,Female,In movement,34
+2,12,District - Kinnaur  12,Rural,30-39,Female,In movement,20
+2,12,District - Kinnaur  12,Rural,40-49,Female,In movement,20
+2,12,District - Kinnaur  12,Rural,50-59,Female,In movement,29
+2,12,District - Kinnaur  12,Rural,60-69,Female,In movement,29
+2,12,District - Kinnaur  12,Rural,70-79,Female,In movement,21
+2,12,District - Kinnaur  12,Rural,80-89,Female,In movement,18
+2,12,District - Kinnaur  12,Rural,90+,Female,In movement,6
+2,12,District - Kinnaur  12,Rural,Age not stated,Female,In movement,0
+2,12,District - Kinnaur  12,Urban,0-4,Female,In movement,0
+2,12,District - Kinnaur  12,Urban,5-9,Female,In movement,0
+2,12,District - Kinnaur  12,Urban,10-19,Female,In movement,0
+2,12,District - Kinnaur  12,Urban,20-29,Female,In movement,0
+2,12,District - Kinnaur  12,Urban,30-39,Female,In movement,0
+2,12,District - Kinnaur  12,Urban,40-49,Female,In movement,0
+2,12,District - Kinnaur  12,Urban,50-59,Female,In movement,0
+2,12,District - Kinnaur  12,Urban,60-69,Female,In movement,0
+2,12,District - Kinnaur  12,Urban,70-79,Female,In movement,0
+2,12,District - Kinnaur  12,Urban,80-89,Female,In movement,0
+2,12,District - Kinnaur  12,Urban,90+,Female,In movement,0
+2,12,District - Kinnaur  12,Urban,Age not stated,Female,In movement,0
+2,1,District - Chamba  01,Rural,0-4,Male,Mental,9
+2,1,District - Chamba  01,Rural,5-9,Male,Mental,31
+2,1,District - Chamba  01,Rural,10-19,Male,Mental,131
+2,1,District - Chamba  01,Rural,20-29,Male,Mental,118
+2,1,District - Chamba  01,Rural,30-39,Male,Mental,91
+2,1,District - Chamba  01,Rural,40-49,Male,Mental,78
+2,1,District - Chamba  01,Rural,50-59,Male,Mental,48
+2,1,District - Chamba  01,Rural,60-69,Male,Mental,28
+2,1,District - Chamba  01,Rural,70-79,Male,Mental,10
+2,1,District - Chamba  01,Rural,80-89,Male,Mental,4
+2,1,District - Chamba  01,Rural,90+,Male,Mental,2
+2,1,District - Chamba  01,Rural,Age not stated,Male,Mental,4
+2,1,District - Chamba  01,Urban,0-4,Male,Mental,1
+2,1,District - Chamba  01,Urban,5-9,Male,Mental,4
+2,1,District - Chamba  01,Urban,10-19,Male,Mental,9
+2,1,District - Chamba  01,Urban,20-29,Male,Mental,7
+2,1,District - Chamba  01,Urban,30-39,Male,Mental,7
+2,1,District - Chamba  01,Urban,40-49,Male,Mental,8
+2,1,District - Chamba  01,Urban,50-59,Male,Mental,4
+2,1,District - Chamba  01,Urban,60-69,Male,Mental,2
+2,1,District - Chamba  01,Urban,70-79,Male,Mental,0
+2,1,District - Chamba  01,Urban,80-89,Male,Mental,0
+2,1,District - Chamba  01,Urban,90+,Male,Mental,0
+2,1,District - Chamba  01,Urban,Age not stated,Male,Mental,0
+2,2,District - Kangra  02,Rural,0-4,Male,Mental,61
+2,2,District - Kangra  02,Rural,5-9,Male,Mental,186
+2,2,District - Kangra  02,Rural,10-19,Male,Mental,563
+2,2,District - Kangra  02,Rural,20-29,Male,Mental,541
+2,2,District - Kangra  02,Rural,30-39,Male,Mental,437
+2,2,District - Kangra  02,Rural,40-49,Male,Mental,314
+2,2,District - Kangra  02,Rural,50-59,Male,Mental,188
+2,2,District - Kangra  02,Rural,60-69,Male,Mental,110
+2,2,District - Kangra  02,Rural,70-79,Male,Mental,67
+2,2,District - Kangra  02,Rural,80-89,Male,Mental,31
+2,2,District - Kangra  02,Rural,90+,Male,Mental,12
+2,2,District - Kangra  02,Rural,Age not stated,Male,Mental,4
+2,2,District - Kangra  02,Urban,0-4,Male,Mental,4
+2,2,District - Kangra  02,Urban,5-9,Male,Mental,10
+2,2,District - Kangra  02,Urban,10-19,Male,Mental,17
+2,2,District - Kangra  02,Urban,20-29,Male,Mental,20
+2,2,District - Kangra  02,Urban,30-39,Male,Mental,19
+2,2,District - Kangra  02,Urban,40-49,Male,Mental,13
+2,2,District - Kangra  02,Urban,50-59,Male,Mental,4
+2,2,District - Kangra  02,Urban,60-69,Male,Mental,6
+2,2,District - Kangra  02,Urban,70-79,Male,Mental,1
+2,2,District - Kangra  02,Urban,80-89,Male,Mental,1
+2,2,District - Kangra  02,Urban,90+,Male,Mental,0
+2,2,District - Kangra  02,Urban,Age not stated,Male,Mental,0
+2,3,District - Lahul & Spiti  03,Rural,0-4,Male,Mental,1
+2,3,District - Lahul & Spiti  03,Rural,5-9,Male,Mental,5
+2,3,District - Lahul & Spiti  03,Rural,10-19,Male,Mental,4
+2,3,District - Lahul & Spiti  03,Rural,20-29,Male,Mental,9
+2,3,District - Lahul & Spiti  03,Rural,30-39,Male,Mental,5
+2,3,District - Lahul & Spiti  03,Rural,40-49,Male,Mental,4
+2,3,District - Lahul & Spiti  03,Rural,50-59,Male,Mental,1
+2,3,District - Lahul & Spiti  03,Rural,60-69,Male,Mental,1
+2,3,District - Lahul & Spiti  03,Rural,70-79,Male,Mental,0
+2,3,District - Lahul & Spiti  03,Rural,80-89,Male,Mental,0
+2,3,District - Lahul & Spiti  03,Rural,90+,Male,Mental,0
+2,3,District - Lahul & Spiti  03,Rural,Age not stated,Male,Mental,0
+2,3,District - Lahul & Spiti  03,Urban,0-4,Male,Mental,0
+2,3,District - Lahul & Spiti  03,Urban,5-9,Male,Mental,0
+2,3,District - Lahul & Spiti  03,Urban,10-19,Male,Mental,0
+2,3,District - Lahul & Spiti  03,Urban,20-29,Male,Mental,0
+2,3,District - Lahul & Spiti  03,Urban,30-39,Male,Mental,0
+2,3,District - Lahul & Spiti  03,Urban,40-49,Male,Mental,0
+2,3,District - Lahul & Spiti  03,Urban,50-59,Male,Mental,0
+2,3,District - Lahul & Spiti  03,Urban,60-69,Male,Mental,0
+2,3,District - Lahul & Spiti  03,Urban,70-79,Male,Mental,0
+2,3,District - Lahul & Spiti  03,Urban,80-89,Male,Mental,0
+2,3,District - Lahul & Spiti  03,Urban,90+,Male,Mental,0
+2,3,District - Lahul & Spiti  03,Urban,Age not stated,Male,Mental,0
+2,4,District - Kullu  04,Rural,0-4,Male,Mental,10
+2,4,District - Kullu  04,Rural,5-9,Male,Mental,28
+2,4,District - Kullu  04,Rural,10-19,Male,Mental,98
+2,4,District - Kullu  04,Rural,20-29,Male,Mental,83
+2,4,District - Kullu  04,Rural,30-39,Male,Mental,61
+2,4,District - Kullu  04,Rural,40-49,Male,Mental,53
+2,4,District - Kullu  04,Rural,50-59,Male,Mental,38
+2,4,District - Kullu  04,Rural,60-69,Male,Mental,28
+2,4,District - Kullu  04,Rural,70-79,Male,Mental,13
+2,4,District - Kullu  04,Rural,80-89,Male,Mental,6
+2,4,District - Kullu  04,Rural,90+,Male,Mental,0
+2,4,District - Kullu  04,Rural,Age not stated,Male,Mental,0
+2,4,District - Kullu  04,Urban,0-4,Male,Mental,1
+2,4,District - Kullu  04,Urban,5-9,Male,Mental,1
+2,4,District - Kullu  04,Urban,10-19,Male,Mental,10
+2,4,District - Kullu  04,Urban,20-29,Male,Mental,7
+2,4,District - Kullu  04,Urban,30-39,Male,Mental,4
+2,4,District - Kullu  04,Urban,40-49,Male,Mental,6
+2,4,District - Kullu  04,Urban,50-59,Male,Mental,5
+2,4,District - Kullu  04,Urban,60-69,Male,Mental,1
+2,4,District - Kullu  04,Urban,70-79,Male,Mental,2
+2,4,District - Kullu  04,Urban,80-89,Male,Mental,1
+2,4,District - Kullu  04,Urban,90+,Male,Mental,0
+2,4,District - Kullu  04,Urban,Age not stated,Male,Mental,0
+2,5,District - Mandi  05,Rural,0-4,Male,Mental,39
+2,5,District - Mandi  05,Rural,5-9,Male,Mental,120
+2,5,District - Mandi  05,Rural,10-19,Male,Mental,331
+2,5,District - Mandi  05,Rural,20-29,Male,Mental,318
+2,5,District - Mandi  05,Rural,30-39,Male,Mental,238
+2,5,District - Mandi  05,Rural,40-49,Male,Mental,166
+2,5,District - Mandi  05,Rural,50-59,Male,Mental,120
+2,5,District - Mandi  05,Rural,60-69,Male,Mental,81
+2,5,District - Mandi  05,Rural,70-79,Male,Mental,38
+2,5,District - Mandi  05,Rural,80-89,Male,Mental,21
+2,5,District - Mandi  05,Rural,90+,Male,Mental,4
+2,5,District - Mandi  05,Rural,Age not stated,Male,Mental,1
+2,5,District - Mandi  05,Urban,0-4,Male,Mental,3
+2,5,District - Mandi  05,Urban,5-9,Male,Mental,3
+2,5,District - Mandi  05,Urban,10-19,Male,Mental,18
+2,5,District - Mandi  05,Urban,20-29,Male,Mental,15
+2,5,District - Mandi  05,Urban,30-39,Male,Mental,18
+2,5,District - Mandi  05,Urban,40-49,Male,Mental,17
+2,5,District - Mandi  05,Urban,50-59,Male,Mental,5
+2,5,District - Mandi  05,Urban,60-69,Male,Mental,3
+2,5,District - Mandi  05,Urban,70-79,Male,Mental,4
+2,5,District - Mandi  05,Urban,80-89,Male,Mental,0
+2,5,District - Mandi  05,Urban,90+,Male,Mental,0
+2,5,District - Mandi  05,Urban,Age not stated,Male,Mental,0
+2,6,District - Hamirpur  06,Rural,0-4,Male,Mental,23
+2,6,District - Hamirpur  06,Rural,5-9,Male,Mental,61
+2,6,District - Hamirpur  06,Rural,10-19,Male,Mental,235
+2,6,District - Hamirpur  06,Rural,20-29,Male,Mental,208
+2,6,District - Hamirpur  06,Rural,30-39,Male,Mental,173
+2,6,District - Hamirpur  06,Rural,40-49,Male,Mental,108
+2,6,District - Hamirpur  06,Rural,50-59,Male,Mental,68
+2,6,District - Hamirpur  06,Rural,60-69,Male,Mental,44
+2,6,District - Hamirpur  06,Rural,70-79,Male,Mental,26
+2,6,District - Hamirpur  06,Rural,80-89,Male,Mental,15
+2,6,District - Hamirpur  06,Rural,90+,Male,Mental,4
+2,6,District - Hamirpur  06,Rural,Age not stated,Male,Mental,1
+2,6,District - Hamirpur  06,Urban,0-4,Male,Mental,0
+2,6,District - Hamirpur  06,Urban,5-9,Male,Mental,6
+2,6,District - Hamirpur  06,Urban,10-19,Male,Mental,12
+2,6,District - Hamirpur  06,Urban,20-29,Male,Mental,10
+2,6,District - Hamirpur  06,Urban,30-39,Male,Mental,13
+2,6,District - Hamirpur  06,Urban,40-49,Male,Mental,11
+2,6,District - Hamirpur  06,Urban,50-59,Male,Mental,1
+2,6,District - Hamirpur  06,Urban,60-69,Male,Mental,4
+2,6,District - Hamirpur  06,Urban,70-79,Male,Mental,1
+2,6,District - Hamirpur  06,Urban,80-89,Male,Mental,1
+2,6,District - Hamirpur  06,Urban,90+,Male,Mental,1
+2,6,District - Hamirpur  06,Urban,Age not stated,Male,Mental,0
+2,7,District - Una  07,Rural,0-4,Male,Mental,12
+2,7,District - Una  07,Rural,5-9,Male,Mental,50
+2,7,District - Una  07,Rural,10-19,Male,Mental,163
+2,7,District - Una  07,Rural,20-29,Male,Mental,222
+2,7,District - Una  07,Rural,30-39,Male,Mental,164
+2,7,District - Una  07,Rural,40-49,Male,Mental,99
+2,7,District - Una  07,Rural,50-59,Male,Mental,61
+2,7,District - Una  07,Rural,60-69,Male,Mental,58
+2,7,District - Una  07,Rural,70-79,Male,Mental,26
+2,7,District - Una  07,Rural,80-89,Male,Mental,10
+2,7,District - Una  07,Rural,90+,Male,Mental,6
+2,7,District - Una  07,Rural,Age not stated,Male,Mental,0
+2,7,District - Una  07,Urban,0-4,Male,Mental,1
+2,7,District - Una  07,Urban,5-9,Male,Mental,14
+2,7,District - Una  07,Urban,10-19,Male,Mental,29
+2,7,District - Una  07,Urban,20-29,Male,Mental,15
+2,7,District - Una  07,Urban,30-39,Male,Mental,12
+2,7,District - Una  07,Urban,40-49,Male,Mental,4
+2,7,District - Una  07,Urban,50-59,Male,Mental,4
+2,7,District - Una  07,Urban,60-69,Male,Mental,2
+2,7,District - Una  07,Urban,70-79,Male,Mental,0
+2,7,District - Una  07,Urban,80-89,Male,Mental,0
+2,7,District - Una  07,Urban,90+,Male,Mental,0
+2,7,District - Una  07,Urban,Age not stated,Male,Mental,0
+2,8,District - Bilaspur  08,Rural,0-4,Male,Mental,14
+2,8,District - Bilaspur  08,Rural,5-9,Male,Mental,65
+2,8,District - Bilaspur  08,Rural,10-19,Male,Mental,204
+2,8,District - Bilaspur  08,Rural,20-29,Male,Mental,154
+2,8,District - Bilaspur  08,Rural,30-39,Male,Mental,124
+2,8,District - Bilaspur  08,Rural,40-49,Male,Mental,89
+2,8,District - Bilaspur  08,Rural,50-59,Male,Mental,41
+2,8,District - Bilaspur  08,Rural,60-69,Male,Mental,32
+2,8,District - Bilaspur  08,Rural,70-79,Male,Mental,28
+2,8,District - Bilaspur  08,Rural,80-89,Male,Mental,6
+2,8,District - Bilaspur  08,Rural,90+,Male,Mental,1
+2,8,District - Bilaspur  08,Rural,Age not stated,Male,Mental,2
+2,8,District - Bilaspur  08,Urban,0-4,Male,Mental,0
+2,8,District - Bilaspur  08,Urban,5-9,Male,Mental,5
+2,8,District - Bilaspur  08,Urban,10-19,Male,Mental,10
+2,8,District - Bilaspur  08,Urban,20-29,Male,Mental,11
+2,8,District - Bilaspur  08,Urban,30-39,Male,Mental,8
+2,8,District - Bilaspur  08,Urban,40-49,Male,Mental,5
+2,8,District - Bilaspur  08,Urban,50-59,Male,Mental,4
+2,8,District - Bilaspur  08,Urban,60-69,Male,Mental,2
+2,8,District - Bilaspur  08,Urban,70-79,Male,Mental,0
+2,8,District - Bilaspur  08,Urban,80-89,Male,Mental,1
+2,8,District - Bilaspur  08,Urban,90+,Male,Mental,0
+2,8,District - Bilaspur  08,Urban,Age not stated,Male,Mental,0
+2,9,District - Solan  09,Rural,0-4,Male,Mental,23
+2,9,District - Solan  09,Rural,5-9,Male,Mental,51
+2,9,District - Solan  09,Rural,10-19,Male,Mental,173
+2,9,District - Solan  09,Rural,20-29,Male,Mental,184
+2,9,District - Solan  09,Rural,30-39,Male,Mental,128
+2,9,District - Solan  09,Rural,40-49,Male,Mental,104
+2,9,District - Solan  09,Rural,50-59,Male,Mental,49
+2,9,District - Solan  09,Rural,60-69,Male,Mental,35
+2,9,District - Solan  09,Rural,70-79,Male,Mental,11
+2,9,District - Solan  09,Rural,80-89,Male,Mental,8
+2,9,District - Solan  09,Rural,90+,Male,Mental,1
+2,9,District - Solan  09,Rural,Age not stated,Male,Mental,7
+2,9,District - Solan  09,Urban,0-4,Male,Mental,3
+2,9,District - Solan  09,Urban,5-9,Male,Mental,14
+2,9,District - Solan  09,Urban,10-19,Male,Mental,26
+2,9,District - Solan  09,Urban,20-29,Male,Mental,21
+2,9,District - Solan  09,Urban,30-39,Male,Mental,20
+2,9,District - Solan  09,Urban,40-49,Male,Mental,9
+2,9,District - Solan  09,Urban,50-59,Male,Mental,6
+2,9,District - Solan  09,Urban,60-69,Male,Mental,4
+2,9,District - Solan  09,Urban,70-79,Male,Mental,1
+2,9,District - Solan  09,Urban,80-89,Male,Mental,2
+2,9,District - Solan  09,Urban,90+,Male,Mental,0
+2,9,District - Solan  09,Urban,Age not stated,Male,Mental,0
+2,10,District - Sirmaur  10,Rural,0-4,Male,Mental,17
+2,10,District - Sirmaur  10,Rural,5-9,Male,Mental,60
+2,10,District - Sirmaur  10,Rural,10-19,Male,Mental,171
+2,10,District - Sirmaur  10,Rural,20-29,Male,Mental,139
+2,10,District - Sirmaur  10,Rural,30-39,Male,Mental,108
+2,10,District - Sirmaur  10,Rural,40-49,Male,Mental,91
+2,10,District - Sirmaur  10,Rural,50-59,Male,Mental,73
+2,10,District - Sirmaur  10,Rural,60-69,Male,Mental,41
+2,10,District - Sirmaur  10,Rural,70-79,Male,Mental,16
+2,10,District - Sirmaur  10,Rural,80-89,Male,Mental,8
+2,10,District - Sirmaur  10,Rural,90+,Male,Mental,1
+2,10,District - Sirmaur  10,Rural,Age not stated,Male,Mental,2
+2,10,District - Sirmaur  10,Urban,0-4,Male,Mental,3
+2,10,District - Sirmaur  10,Urban,5-9,Male,Mental,9
+2,10,District - Sirmaur  10,Urban,10-19,Male,Mental,26
+2,10,District - Sirmaur  10,Urban,20-29,Male,Mental,26
+2,10,District - Sirmaur  10,Urban,30-39,Male,Mental,10
+2,10,District - Sirmaur  10,Urban,40-49,Male,Mental,14
+2,10,District - Sirmaur  10,Urban,50-59,Male,Mental,5
+2,10,District - Sirmaur  10,Urban,60-69,Male,Mental,2
+2,10,District - Sirmaur  10,Urban,70-79,Male,Mental,1
+2,10,District - Sirmaur  10,Urban,80-89,Male,Mental,0
+2,10,District - Sirmaur  10,Urban,90+,Male,Mental,0
+2,10,District - Sirmaur  10,Urban,Age not stated,Male,Mental,1
+2,11,District - Shimla  11,Rural,0-4,Male,Mental,13
+2,11,District - Shimla  11,Rural,5-9,Male,Mental,34
+2,11,District - Shimla  11,Rural,10-19,Male,Mental,108
+2,11,District - Shimla  11,Rural,20-29,Male,Mental,124
+2,11,District - Shimla  11,Rural,30-39,Male,Mental,116
+2,11,District - Shimla  11,Rural,40-49,Male,Mental,87
+2,11,District - Shimla  11,Rural,50-59,Male,Mental,48
+2,11,District - Shimla  11,Rural,60-69,Male,Mental,51
+2,11,District - Shimla  11,Rural,70-79,Male,Mental,20
+2,11,District - Shimla  11,Rural,80-89,Male,Mental,8
+2,11,District - Shimla  11,Rural,90+,Male,Mental,2
+2,11,District - Shimla  11,Rural,Age not stated,Male,Mental,4
+2,11,District - Shimla  11,Urban,0-4,Male,Mental,6
+2,11,District - Shimla  11,Urban,5-9,Male,Mental,11
+2,11,District - Shimla  11,Urban,10-19,Male,Mental,30
+2,11,District - Shimla  11,Urban,20-29,Male,Mental,32
+2,11,District - Shimla  11,Urban,30-39,Male,Mental,23
+2,11,District - Shimla  11,Urban,40-49,Male,Mental,28
+2,11,District - Shimla  11,Urban,50-59,Male,Mental,16
+2,11,District - Shimla  11,Urban,60-69,Male,Mental,1
+2,11,District - Shimla  11,Urban,70-79,Male,Mental,0
+2,11,District - Shimla  11,Urban,80-89,Male,Mental,0
+2,11,District - Shimla  11,Urban,90+,Male,Mental,1
+2,11,District - Shimla  11,Urban,Age not stated,Male,Mental,0
+2,12,District - Kinnaur  12,Rural,0-4,Male,Mental,1
+2,12,District - Kinnaur  12,Rural,5-9,Male,Mental,2
+2,12,District - Kinnaur  12,Rural,10-19,Male,Mental,6
+2,12,District - Kinnaur  12,Rural,20-29,Male,Mental,11
+2,12,District - Kinnaur  12,Rural,30-39,Male,Mental,12
+2,12,District - Kinnaur  12,Rural,40-49,Male,Mental,8
+2,12,District - Kinnaur  12,Rural,50-59,Male,Mental,8
+2,12,District - Kinnaur  12,Rural,60-69,Male,Mental,5
+2,12,District - Kinnaur  12,Rural,70-79,Male,Mental,3
+2,12,District - Kinnaur  12,Rural,80-89,Male,Mental,0
+2,12,District - Kinnaur  12,Rural,90+,Male,Mental,0
+2,12,District - Kinnaur  12,Rural,Age not stated,Male,Mental,0
+2,12,District - Kinnaur  12,Urban,0-4,Male,Mental,0
+2,12,District - Kinnaur  12,Urban,5-9,Male,Mental,0
+2,12,District - Kinnaur  12,Urban,10-19,Male,Mental,0
+2,12,District - Kinnaur  12,Urban,20-29,Male,Mental,0
+2,12,District - Kinnaur  12,Urban,30-39,Male,Mental,0
+2,12,District - Kinnaur  12,Urban,40-49,Male,Mental,0
+2,12,District - Kinnaur  12,Urban,50-59,Male,Mental,0
+2,12,District - Kinnaur  12,Urban,60-69,Male,Mental,0
+2,12,District - Kinnaur  12,Urban,70-79,Male,Mental,0
+2,12,District - Kinnaur  12,Urban,80-89,Male,Mental,0
+2,12,District - Kinnaur  12,Urban,90+,Male,Mental,0
+2,12,District - Kinnaur  12,Urban,Age not stated,Male,Mental,0
+2,1,District - Chamba  01,Rural,0-4,Female,Mental,8
+2,1,District - Chamba  01,Rural,5-9,Female,Mental,46
+2,1,District - Chamba  01,Rural,10-19,Female,Mental,96
+2,1,District - Chamba  01,Rural,20-29,Female,Mental,65
+2,1,District - Chamba  01,Rural,30-39,Female,Mental,61
+2,1,District - Chamba  01,Rural,40-49,Female,Mental,46
+2,1,District - Chamba  01,Rural,50-59,Female,Mental,25
+2,1,District - Chamba  01,Rural,60-69,Female,Mental,24
+2,1,District - Chamba  01,Rural,70-79,Female,Mental,5
+2,1,District - Chamba  01,Rural,80-89,Female,Mental,4
+2,1,District - Chamba  01,Rural,90+,Female,Mental,1
+2,1,District - Chamba  01,Rural,Age not stated,Female,Mental,0
+2,1,District - Chamba  01,Urban,0-4,Female,Mental,0
+2,1,District - Chamba  01,Urban,5-9,Female,Mental,4
+2,1,District - Chamba  01,Urban,10-19,Female,Mental,16
+2,1,District - Chamba  01,Urban,20-29,Female,Mental,7
+2,1,District - Chamba  01,Urban,30-39,Female,Mental,4
+2,1,District - Chamba  01,Urban,40-49,Female,Mental,4
+2,1,District - Chamba  01,Urban,50-59,Female,Mental,5
+2,1,District - Chamba  01,Urban,60-69,Female,Mental,1
+2,1,District - Chamba  01,Urban,70-79,Female,Mental,0
+2,1,District - Chamba  01,Urban,80-89,Female,Mental,0
+2,1,District - Chamba  01,Urban,90+,Female,Mental,0
+2,1,District - Chamba  01,Urban,Age not stated,Female,Mental,1
+2,2,District - Kangra  02,Rural,0-4,Female,Mental,45
+2,2,District - Kangra  02,Rural,5-9,Female,Mental,119
+2,2,District - Kangra  02,Rural,10-19,Female,Mental,466
+2,2,District - Kangra  02,Rural,20-29,Female,Mental,301
+2,2,District - Kangra  02,Rural,30-39,Female,Mental,221
+2,2,District - Kangra  02,Rural,40-49,Female,Mental,160
+2,2,District - Kangra  02,Rural,50-59,Female,Mental,116
+2,2,District - Kangra  02,Rural,60-69,Female,Mental,85
+2,2,District - Kangra  02,Rural,70-79,Female,Mental,65
+2,2,District - Kangra  02,Rural,80-89,Female,Mental,26
+2,2,District - Kangra  02,Rural,90+,Female,Mental,14
+2,2,District - Kangra  02,Rural,Age not stated,Female,Mental,0
+2,2,District - Kangra  02,Urban,0-4,Female,Mental,0
+2,2,District - Kangra  02,Urban,5-9,Female,Mental,2
+2,2,District - Kangra  02,Urban,10-19,Female,Mental,14
+2,2,District - Kangra  02,Urban,20-29,Female,Mental,14
+2,2,District - Kangra  02,Urban,30-39,Female,Mental,10
+2,2,District - Kangra  02,Urban,40-49,Female,Mental,5
+2,2,District - Kangra  02,Urban,50-59,Female,Mental,5
+2,2,District - Kangra  02,Urban,60-69,Female,Mental,5
+2,2,District - Kangra  02,Urban,70-79,Female,Mental,2
+2,2,District - Kangra  02,Urban,80-89,Female,Mental,3
+2,2,District - Kangra  02,Urban,90+,Female,Mental,0
+2,2,District - Kangra  02,Urban,Age not stated,Female,Mental,0
+2,3,District - Lahul & Spiti  03,Rural,0-4,Female,Mental,1
+2,3,District - Lahul & Spiti  03,Rural,5-9,Female,Mental,1
+2,3,District - Lahul & Spiti  03,Rural,10-19,Female,Mental,7
+2,3,District - Lahul & Spiti  03,Rural,20-29,Female,Mental,3
+2,3,District - Lahul & Spiti  03,Rural,30-39,Female,Mental,3
+2,3,District - Lahul & Spiti  03,Rural,40-49,Female,Mental,0
+2,3,District - Lahul & Spiti  03,Rural,50-59,Female,Mental,1
+2,3,District - Lahul & Spiti  03,Rural,60-69,Female,Mental,1
+2,3,District - Lahul & Spiti  03,Rural,70-79,Female,Mental,0
+2,3,District - Lahul & Spiti  03,Rural,80-89,Female,Mental,1
+2,3,District - Lahul & Spiti  03,Rural,90+,Female,Mental,0
+2,3,District - Lahul & Spiti  03,Rural,Age not stated,Female,Mental,0
+2,3,District - Lahul & Spiti  03,Urban,0-4,Female,Mental,0
+2,3,District - Lahul & Spiti  03,Urban,5-9,Female,Mental,0
+2,3,District - Lahul & Spiti  03,Urban,10-19,Female,Mental,0
+2,3,District - Lahul & Spiti  03,Urban,20-29,Female,Mental,0
+2,3,District - Lahul & Spiti  03,Urban,30-39,Female,Mental,0
+2,3,District - Lahul & Spiti  03,Urban,40-49,Female,Mental,0
+2,3,District - Lahul & Spiti  03,Urban,50-59,Female,Mental,0
+2,3,District - Lahul & Spiti  03,Urban,60-69,Female,Mental,0
+2,3,District - Lahul & Spiti  03,Urban,70-79,Female,Mental,0
+2,3,District - Lahul & Spiti  03,Urban,80-89,Female,Mental,0
+2,3,District - Lahul & Spiti  03,Urban,90+,Female,Mental,0
+2,3,District - Lahul & Spiti  03,Urban,Age not stated,Female,Mental,0
+2,4,District - Kullu  04,Rural,0-4,Female,Mental,8
+2,4,District - Kullu  04,Rural,5-9,Female,Mental,25
+2,4,District - Kullu  04,Rural,10-19,Female,Mental,84
+2,4,District - Kullu  04,Rural,20-29,Female,Mental,40
+2,4,District - Kullu  04,Rural,30-39,Female,Mental,43
+2,4,District - Kullu  04,Rural,40-49,Female,Mental,27
+2,4,District - Kullu  04,Rural,50-59,Female,Mental,22
+2,4,District - Kullu  04,Rural,60-69,Female,Mental,19
+2,4,District - Kullu  04,Rural,70-79,Female,Mental,9
+2,4,District - Kullu  04,Rural,80-89,Female,Mental,2
+2,4,District - Kullu  04,Rural,90+,Female,Mental,1
+2,4,District - Kullu  04,Rural,Age not stated,Female,Mental,1
+2,4,District - Kullu  04,Urban,0-4,Female,Mental,1
+2,4,District - Kullu  04,Urban,5-9,Female,Mental,4
+2,4,District - Kullu  04,Urban,10-19,Female,Mental,6
+2,4,District - Kullu  04,Urban,20-29,Female,Mental,5
+2,4,District - Kullu  04,Urban,30-39,Female,Mental,3
+2,4,District - Kullu  04,Urban,40-49,Female,Mental,2
+2,4,District - Kullu  04,Urban,50-59,Female,Mental,3
+2,4,District - Kullu  04,Urban,60-69,Female,Mental,3
+2,4,District - Kullu  04,Urban,70-79,Female,Mental,1
+2,4,District - Kullu  04,Urban,80-89,Female,Mental,1
+2,4,District - Kullu  04,Urban,90+,Female,Mental,0
+2,4,District - Kullu  04,Urban,Age not stated,Female,Mental,0
+2,5,District - Mandi  05,Rural,0-4,Female,Mental,31
+2,5,District - Mandi  05,Rural,5-9,Female,Mental,50
+2,5,District - Mandi  05,Rural,10-19,Female,Mental,261
+2,5,District - Mandi  05,Rural,20-29,Female,Mental,170
+2,5,District - Mandi  05,Rural,30-39,Female,Mental,130
+2,5,District - Mandi  05,Rural,40-49,Female,Mental,89
+2,5,District - Mandi  05,Rural,50-59,Female,Mental,68
+2,5,District - Mandi  05,Rural,60-69,Female,Mental,64
+2,5,District - Mandi  05,Rural,70-79,Female,Mental,23
+2,5,District - Mandi  05,Rural,80-89,Female,Mental,23
+2,5,District - Mandi  05,Rural,90+,Female,Mental,8
+2,5,District - Mandi  05,Rural,Age not stated,Female,Mental,1
+2,5,District - Mandi  05,Urban,0-4,Female,Mental,0
+2,5,District - Mandi  05,Urban,5-9,Female,Mental,6
+2,5,District - Mandi  05,Urban,10-19,Female,Mental,16
+2,5,District - Mandi  05,Urban,20-29,Female,Mental,8
+2,5,District - Mandi  05,Urban,30-39,Female,Mental,12
+2,5,District - Mandi  05,Urban,40-49,Female,Mental,11
+2,5,District - Mandi  05,Urban,50-59,Female,Mental,6
+2,5,District - Mandi  05,Urban,60-69,Female,Mental,2
+2,5,District - Mandi  05,Urban,70-79,Female,Mental,3
+2,5,District - Mandi  05,Urban,80-89,Female,Mental,3
+2,5,District - Mandi  05,Urban,90+,Female,Mental,1
+2,5,District - Mandi  05,Urban,Age not stated,Female,Mental,0
+2,6,District - Hamirpur  06,Rural,0-4,Female,Mental,9
+2,6,District - Hamirpur  06,Rural,5-9,Female,Mental,39
+2,6,District - Hamirpur  06,Rural,10-19,Female,Mental,144
+2,6,District - Hamirpur  06,Rural,20-29,Female,Mental,111
+2,6,District - Hamirpur  06,Rural,30-39,Female,Mental,80
+2,6,District - Hamirpur  06,Rural,40-49,Female,Mental,71
+2,6,District - Hamirpur  06,Rural,50-59,Female,Mental,32
+2,6,District - Hamirpur  06,Rural,60-69,Female,Mental,36
+2,6,District - Hamirpur  06,Rural,70-79,Female,Mental,28
+2,6,District - Hamirpur  06,Rural,80-89,Female,Mental,8
+2,6,District - Hamirpur  06,Rural,90+,Female,Mental,4
+2,6,District - Hamirpur  06,Rural,Age not stated,Female,Mental,1
+2,6,District - Hamirpur  06,Urban,0-4,Female,Mental,3
+2,6,District - Hamirpur  06,Urban,5-9,Female,Mental,3
+2,6,District - Hamirpur  06,Urban,10-19,Female,Mental,6
+2,6,District - Hamirpur  06,Urban,20-29,Female,Mental,7
+2,6,District - Hamirpur  06,Urban,30-39,Female,Mental,5
+2,6,District - Hamirpur  06,Urban,40-49,Female,Mental,7
+2,6,District - Hamirpur  06,Urban,50-59,Female,Mental,6
+2,6,District - Hamirpur  06,Urban,60-69,Female,Mental,3
+2,6,District - Hamirpur  06,Urban,70-79,Female,Mental,1
+2,6,District - Hamirpur  06,Urban,80-89,Female,Mental,0
+2,6,District - Hamirpur  06,Urban,90+,Female,Mental,0
+2,6,District - Hamirpur  06,Urban,Age not stated,Female,Mental,0
+2,7,District - Una  07,Rural,0-4,Female,Mental,12
+2,7,District - Una  07,Rural,5-9,Female,Mental,32
+2,7,District - Una  07,Rural,10-19,Female,Mental,121
+2,7,District - Una  07,Rural,20-29,Female,Mental,105
+2,7,District - Una  07,Rural,30-39,Female,Mental,81
+2,7,District - Una  07,Rural,40-49,Female,Mental,61
+2,7,District - Una  07,Rural,50-59,Female,Mental,35
+2,7,District - Una  07,Rural,60-69,Female,Mental,31
+2,7,District - Una  07,Rural,70-79,Female,Mental,25
+2,7,District - Una  07,Rural,80-89,Female,Mental,11
+2,7,District - Una  07,Rural,90+,Female,Mental,5
+2,7,District - Una  07,Rural,Age not stated,Female,Mental,0
+2,7,District - Una  07,Urban,0-4,Female,Mental,0
+2,7,District - Una  07,Urban,5-9,Female,Mental,7
+2,7,District - Una  07,Urban,10-19,Female,Mental,18
+2,7,District - Una  07,Urban,20-29,Female,Mental,9
+2,7,District - Una  07,Urban,30-39,Female,Mental,6
+2,7,District - Una  07,Urban,40-49,Female,Mental,3
+2,7,District - Una  07,Urban,50-59,Female,Mental,3
+2,7,District - Una  07,Urban,60-69,Female,Mental,0
+2,7,District - Una  07,Urban,70-79,Female,Mental,2
+2,7,District - Una  07,Urban,80-89,Female,Mental,2
+2,7,District - Una  07,Urban,90+,Female,Mental,0
+2,7,District - Una  07,Urban,Age not stated,Female,Mental,0
+2,8,District - Bilaspur  08,Rural,0-4,Female,Mental,5
+2,8,District - Bilaspur  08,Rural,5-9,Female,Mental,49
+2,8,District - Bilaspur  08,Rural,10-19,Female,Mental,158
+2,8,District - Bilaspur  08,Rural,20-29,Female,Mental,79
+2,8,District - Bilaspur  08,Rural,30-39,Female,Mental,69
+2,8,District - Bilaspur  08,Rural,40-49,Female,Mental,60
+2,8,District - Bilaspur  08,Rural,50-59,Female,Mental,45
+2,8,District - Bilaspur  08,Rural,60-69,Female,Mental,24
+2,8,District - Bilaspur  08,Rural,70-79,Female,Mental,19
+2,8,District - Bilaspur  08,Rural,80-89,Female,Mental,7
+2,8,District - Bilaspur  08,Rural,90+,Female,Mental,6
+2,8,District - Bilaspur  08,Rural,Age not stated,Female,Mental,1
+2,8,District - Bilaspur  08,Urban,0-4,Female,Mental,0
+2,8,District - Bilaspur  08,Urban,5-9,Female,Mental,2
+2,8,District - Bilaspur  08,Urban,10-19,Female,Mental,5
+2,8,District - Bilaspur  08,Urban,20-29,Female,Mental,5
+2,8,District - Bilaspur  08,Urban,30-39,Female,Mental,7
+2,8,District - Bilaspur  08,Urban,40-49,Female,Mental,3
+2,8,District - Bilaspur  08,Urban,50-59,Female,Mental,4
+2,8,District - Bilaspur  08,Urban,60-69,Female,Mental,1
+2,8,District - Bilaspur  08,Urban,70-79,Female,Mental,0
+2,8,District - Bilaspur  08,Urban,80-89,Female,Mental,0
+2,8,District - Bilaspur  08,Urban,90+,Female,Mental,0
+2,8,District - Bilaspur  08,Urban,Age not stated,Female,Mental,0
+2,9,District - Solan  09,Rural,0-4,Female,Mental,13
+2,9,District - Solan  09,Rural,5-9,Female,Mental,44
+2,9,District - Solan  09,Rural,10-19,Female,Mental,124
+2,9,District - Solan  09,Rural,20-29,Female,Mental,87
+2,9,District - Solan  09,Rural,30-39,Female,Mental,65
+2,9,District - Solan  09,Rural,40-49,Female,Mental,41
+2,9,District - Solan  09,Rural,50-59,Female,Mental,27
+2,9,District - Solan  09,Rural,60-69,Female,Mental,16
+2,9,District - Solan  09,Rural,70-79,Female,Mental,12
+2,9,District - Solan  09,Rural,80-89,Female,Mental,3
+2,9,District - Solan  09,Rural,90+,Female,Mental,0
+2,9,District - Solan  09,Rural,Age not stated,Female,Mental,1
+2,9,District - Solan  09,Urban,0-4,Female,Mental,3
+2,9,District - Solan  09,Urban,5-9,Female,Mental,6
+2,9,District - Solan  09,Urban,10-19,Female,Mental,16
+2,9,District - Solan  09,Urban,20-29,Female,Mental,8
+2,9,District - Solan  09,Urban,30-39,Female,Mental,7
+2,9,District - Solan  09,Urban,40-49,Female,Mental,6
+2,9,District - Solan  09,Urban,50-59,Female,Mental,5
+2,9,District - Solan  09,Urban,60-69,Female,Mental,2
+2,9,District - Solan  09,Urban,70-79,Female,Mental,2
+2,9,District - Solan  09,Urban,80-89,Female,Mental,0
+2,9,District - Solan  09,Urban,90+,Female,Mental,0
+2,9,District - Solan  09,Urban,Age not stated,Female,Mental,0
+2,10,District - Sirmaur  10,Rural,0-4,Female,Mental,15
+2,10,District - Sirmaur  10,Rural,5-9,Female,Mental,44
+2,10,District - Sirmaur  10,Rural,10-19,Female,Mental,139
+2,10,District - Sirmaur  10,Rural,20-29,Female,Mental,74
+2,10,District - Sirmaur  10,Rural,30-39,Female,Mental,63
+2,10,District - Sirmaur  10,Rural,40-49,Female,Mental,49
+2,10,District - Sirmaur  10,Rural,50-59,Female,Mental,45
+2,10,District - Sirmaur  10,Rural,60-69,Female,Mental,24
+2,10,District - Sirmaur  10,Rural,70-79,Female,Mental,3
+2,10,District - Sirmaur  10,Rural,80-89,Female,Mental,6
+2,10,District - Sirmaur  10,Rural,90+,Female,Mental,0
+2,10,District - Sirmaur  10,Rural,Age not stated,Female,Mental,0
+2,10,District - Sirmaur  10,Urban,0-4,Female,Mental,1
+2,10,District - Sirmaur  10,Urban,5-9,Female,Mental,8
+2,10,District - Sirmaur  10,Urban,10-19,Female,Mental,20
+2,10,District - Sirmaur  10,Urban,20-29,Female,Mental,13
+2,10,District - Sirmaur  10,Urban,30-39,Female,Mental,11
+2,10,District - Sirmaur  10,Urban,40-49,Female,Mental,5
+2,10,District - Sirmaur  10,Urban,50-59,Female,Mental,5
+2,10,District - Sirmaur  10,Urban,60-69,Female,Mental,2
+2,10,District - Sirmaur  10,Urban,70-79,Female,Mental,1
+2,10,District - Sirmaur  10,Urban,80-89,Female,Mental,1
+2,10,District - Sirmaur  10,Urban,90+,Female,Mental,0
+2,10,District - Sirmaur  10,Urban,Age not stated,Female,Mental,0
+2,11,District - Shimla  11,Rural,0-4,Female,Mental,10
+2,11,District - Shimla  11,Rural,5-9,Female,Mental,27
+2,11,District - Shimla  11,Rural,10-19,Female,Mental,114
+2,11,District - Shimla  11,Rural,20-29,Female,Mental,81
+2,11,District - Shimla  11,Rural,30-39,Female,Mental,77
+2,11,District - Shimla  11,Rural,40-49,Female,Mental,50
+2,11,District - Shimla  11,Rural,50-59,Female,Mental,39
+2,11,District - Shimla  11,Rural,60-69,Female,Mental,31
+2,11,District - Shimla  11,Rural,70-79,Female,Mental,22
+2,11,District - Shimla  11,Rural,80-89,Female,Mental,8
+2,11,District - Shimla  11,Rural,90+,Female,Mental,3
+2,11,District - Shimla  11,Rural,Age not stated,Female,Mental,0
+2,11,District - Shimla  11,Urban,0-4,Female,Mental,1
+2,11,District - Shimla  11,Urban,5-9,Female,Mental,3
+2,11,District - Shimla  11,Urban,10-19,Female,Mental,26
+2,11,District - Shimla  11,Urban,20-29,Female,Mental,23
+2,11,District - Shimla  11,Urban,30-39,Female,Mental,16
+2,11,District - Shimla  11,Urban,40-49,Female,Mental,15
+2,11,District - Shimla  11,Urban,50-59,Female,Mental,6
+2,11,District - Shimla  11,Urban,60-69,Female,Mental,4
+2,11,District - Shimla  11,Urban,70-79,Female,Mental,2
+2,11,District - Shimla  11,Urban,80-89,Female,Mental,2
+2,11,District - Shimla  11,Urban,90+,Female,Mental,0
+2,11,District - Shimla  11,Urban,Age not stated,Female,Mental,4
+2,12,District - Kinnaur  12,Rural,0-4,Female,Mental,1
+2,12,District - Kinnaur  12,Rural,5-9,Female,Mental,1
+2,12,District - Kinnaur  12,Rural,10-19,Female,Mental,7
+2,12,District - Kinnaur  12,Rural,20-29,Female,Mental,6
+2,12,District - Kinnaur  12,Rural,30-39,Female,Mental,6
+2,12,District - Kinnaur  12,Rural,40-49,Female,Mental,7
+2,12,District - Kinnaur  12,Rural,50-59,Female,Mental,5
+2,12,District - Kinnaur  12,Rural,60-69,Female,Mental,2
+2,12,District - Kinnaur  12,Rural,70-79,Female,Mental,1
+2,12,District - Kinnaur  12,Rural,80-89,Female,Mental,0
+2,12,District - Kinnaur  12,Rural,90+,Female,Mental,0
+2,12,District - Kinnaur  12,Rural,Age not stated,Female,Mental,0
+2,12,District - Kinnaur  12,Urban,0-4,Female,Mental,0
+2,12,District - Kinnaur  12,Urban,5-9,Female,Mental,0
+2,12,District - Kinnaur  12,Urban,10-19,Female,Mental,0
+2,12,District - Kinnaur  12,Urban,20-29,Female,Mental,0
+2,12,District - Kinnaur  12,Urban,30-39,Female,Mental,0
+2,12,District - Kinnaur  12,Urban,40-49,Female,Mental,0
+2,12,District - Kinnaur  12,Urban,50-59,Female,Mental,0
+2,12,District - Kinnaur  12,Urban,60-69,Female,Mental,0
+2,12,District - Kinnaur  12,Urban,70-79,Female,Mental,0
+2,12,District - Kinnaur  12,Urban,80-89,Female,Mental,0
+2,12,District - Kinnaur  12,Urban,90+,Female,Mental,0
+2,12,District - Kinnaur  12,Urban,Age not stated,Female,Mental,0
