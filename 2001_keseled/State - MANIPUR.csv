@@ -1,4 +1,4 @@
-State Code,District Code,Total/ Rural/ Urban,Age-group,State,City,Gender,Type,Rate
+State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
 14,1,Rural,0-4, MANIPUR, Senapati,Male,In seeing,34
 14,1,Rural,5-9, MANIPUR, Senapati,Male,In seeing,46
 14,1,Rural,10-19, MANIPUR, Senapati,Male,In seeing,79

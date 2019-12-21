@@ -1,4 +1,4 @@
-State Code,District Code,Total/ Rural/ Urban,Age-group,State,City,Gender,Type,Rate
+State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
 27,1,Rural,0-4, MAHARASHTRA, Nandurbar *,Male,In seeing,680
 27,1,Rural,5-9, MAHARASHTRA, Nandurbar *,Male,In seeing,683
 27,1,Rural,10-19, MAHARASHTRA, Nandurbar *,Male,In seeing,1236

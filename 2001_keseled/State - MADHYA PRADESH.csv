@@ -1,4 +1,4 @@
-State Code,District Code,Total/ Rural/ Urban,Age-group,State,City,Gender,Type,Rate
+State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
 23,1,Rural,0-4, MADHYA PRADESH, Sheopur *,Male,In seeing,306
 23,1,Rural,5-9, MADHYA PRADESH, Sheopur *,Male,In seeing,349
 23,1,Rural,10-19, MADHYA PRADESH, Sheopur *,Male,In seeing,582

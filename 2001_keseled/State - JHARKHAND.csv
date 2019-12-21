@@ -1,4 +1,4 @@
-State Code,District Code,Total/ Rural/ Urban,Age-group,State,City,Gender,Type,Rate
+State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
 20,1,Rural,0-4, JHARKHAND, Garhwa *,Male,In seeing,609
 20,1,Rural,5-9, JHARKHAND, Garhwa *,Male,In seeing,701
 20,1,Rural,10-19, JHARKHAND, Garhwa *,Male,In seeing,1096

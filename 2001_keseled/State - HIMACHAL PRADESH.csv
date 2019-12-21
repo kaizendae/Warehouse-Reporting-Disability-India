@@ -1,4 +1,4 @@
-State Code,District Code,Total/ Rural/ Urban,Age-group,State,City,Gender,Type,Rate
+State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
 2,1,Rural,0-4, HIMACHAL PRADESH, Chamba,Male,In seeing,174
 2,1,Rural,5-9, HIMACHAL PRADESH, Chamba,Male,In seeing,196
 2,1,Rural,10-19, HIMACHAL PRADESH, Chamba,Male,In seeing,436

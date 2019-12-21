@@ -1,4 +1,4 @@
-State Code,District Code,Total/ Rural/ Urban,Age-group,State,City,Gender,Type,Rate
+State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
 10,1,Rural,0-4, BIHAR, Pashchim Champaran,Male,In seeing,1171
 10,1,Rural,5-9, BIHAR, Pashchim Champaran,Male,In seeing,1430
 10,1,Rural,10-19, BIHAR, Pashchim Champaran,Male,In seeing,1992

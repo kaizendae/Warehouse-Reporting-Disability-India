@@ -1,4 +1,4 @@
-State Code,District Code,Total/ Rural/ Urban,Age-group,State,City,Gender,Type,Rate
+State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
 24,1,Rural,0-4, GUJARAT, Kachchh,Male,In seeing,379
 24,1,Rural,5-9, GUJARAT, Kachchh,Male,In seeing,490
 24,1,Rural,10-19, GUJARAT, Kachchh,Male,In seeing,900

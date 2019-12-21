@@ -1,4 +1,4 @@
-State Code,District Code,Total/ Rural/ Urban,Age-group,State,City,Gender,Type,Rate
+State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
 18,1,Rural,0-4, ASSAM, Kokrajhar,Male,In seeing,316
 18,1,Rural,5-9, ASSAM, Kokrajhar,Male,In seeing,399
 18,1,Rural,10-19, ASSAM, Kokrajhar,Male,In seeing,669

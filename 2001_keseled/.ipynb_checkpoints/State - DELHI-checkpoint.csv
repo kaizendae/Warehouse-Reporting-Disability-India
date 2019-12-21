@@ -1,4 +1,4 @@
-State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
+State Code,District Code,Total/ Rural/ Urban,Age-group,State,City,Gender,Type,Rate
 7,1,Rural,0-4, DELHI, North West   *,Male,In seeing,71
 7,1,Rural,5-9, DELHI, North West   *,Male,In seeing,97
 7,1,Rural,10-19, DELHI, North West   *,Male,In seeing,183

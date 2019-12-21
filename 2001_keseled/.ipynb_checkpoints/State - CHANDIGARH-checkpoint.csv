@@ -1,4 +1,4 @@
-State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
+State Code,District Code,Total/ Rural/ Urban,Age-group,State,City,Gender,Type,Rate
 4,1,Rural,0-4, CHANDIGARH, Chandigarh,Male,In seeing,56
 4,1,Rural,5-9, CHANDIGARH, Chandigarh,Male,In seeing,42
 4,1,Rural,10-19, CHANDIGARH, Chandigarh,Male,In seeing,104

@@ -1,4 +1,4 @@
-State Code,District Code,Total/ Rural/ Urban,Age-group,State,City,Gender,Type,Rate
+State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
 35,1,Rural,0-4, ANDAMAN & NICOBAR ISLANDS, Andamans,Male,In seeing,55
 35,1,Rural,5-9, ANDAMAN & NICOBAR ISLANDS, Andamans,Male,In seeing,70
 35,1,Rural,10-19, ANDAMAN & NICOBAR ISLANDS, Andamans,Male,In seeing,162

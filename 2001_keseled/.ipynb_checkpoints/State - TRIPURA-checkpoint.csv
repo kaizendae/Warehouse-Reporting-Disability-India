@@ -1,0 +1,961 @@
+State Code,District Code,Total/ Rural/ Urban,Age-group,State,City,Gender,Type,Rate
+16,1,Rural,0-4, TRIPURA, West Tripura,Male,In seeing,226
+16,1,Rural,5-9, TRIPURA, West Tripura,Male,In seeing,358
+16,1,Rural,10-19, TRIPURA, West Tripura,Male,In seeing,737
+16,1,Rural,20-29, TRIPURA, West Tripura,Male,In seeing,630
+16,1,Rural,30-39, TRIPURA, West Tripura,Male,In seeing,843
+16,1,Rural,40-49, TRIPURA, West Tripura,Male,In seeing,639
+16,1,Rural,50-59, TRIPURA, West Tripura,Male,In seeing,429
+16,1,Rural,60-69, TRIPURA, West Tripura,Male,In seeing,414
+16,1,Rural,70-79, TRIPURA, West Tripura,Male,In seeing,362
+16,1,Rural,80-89, TRIPURA, West Tripura,Male,In seeing,210
+16,1,Rural,90+, TRIPURA, West Tripura,Male,In seeing,77
+16,1,Rural,Age not stated, TRIPURA, West Tripura,Male,In seeing,21
+16,1,Urban,0-4, TRIPURA, West Tripura,Male,In seeing,55
+16,1,Urban,5-9, TRIPURA, West Tripura,Male,In seeing,103
+16,1,Urban,10-19, TRIPURA, West Tripura,Male,In seeing,309
+16,1,Urban,20-29, TRIPURA, West Tripura,Male,In seeing,213
+16,1,Urban,30-39, TRIPURA, West Tripura,Male,In seeing,365
+16,1,Urban,40-49, TRIPURA, West Tripura,Male,In seeing,337
+16,1,Urban,50-59, TRIPURA, West Tripura,Male,In seeing,230
+16,1,Urban,60-69, TRIPURA, West Tripura,Male,In seeing,171
+16,1,Urban,70-79, TRIPURA, West Tripura,Male,In seeing,108
+16,1,Urban,80-89, TRIPURA, West Tripura,Male,In seeing,47
+16,1,Urban,90+, TRIPURA, West Tripura,Male,In seeing,9
+16,1,Urban,Age not stated, TRIPURA, West Tripura,Male,In seeing,3
+16,2,Rural,0-4, TRIPURA, South Tripura,Male,In seeing,164
+16,2,Rural,5-9, TRIPURA, South Tripura,Male,In seeing,198
+16,2,Rural,10-19, TRIPURA, South Tripura,Male,In seeing,474
+16,2,Rural,20-29, TRIPURA, South Tripura,Male,In seeing,417
+16,2,Rural,30-39, TRIPURA, South Tripura,Male,In seeing,540
+16,2,Rural,40-49, TRIPURA, South Tripura,Male,In seeing,429
+16,2,Rural,50-59, TRIPURA, South Tripura,Male,In seeing,309
+16,2,Rural,60-69, TRIPURA, South Tripura,Male,In seeing,285
+16,2,Rural,70-79, TRIPURA, South Tripura,Male,In seeing,243
+16,2,Rural,80-89, TRIPURA, South Tripura,Male,In seeing,151
+16,2,Rural,90+, TRIPURA, South Tripura,Male,In seeing,38
+16,2,Rural,Age not stated, TRIPURA, South Tripura,Male,In seeing,6
+16,2,Urban,0-4, TRIPURA, South Tripura,Male,In seeing,7
+16,2,Urban,5-9, TRIPURA, South Tripura,Male,In seeing,12
+16,2,Urban,10-19, TRIPURA, South Tripura,Male,In seeing,35
+16,2,Urban,20-29, TRIPURA, South Tripura,Male,In seeing,42
+16,2,Urban,30-39, TRIPURA, South Tripura,Male,In seeing,40
+16,2,Urban,40-49, TRIPURA, South Tripura,Male,In seeing,44
+16,2,Urban,50-59, TRIPURA, South Tripura,Male,In seeing,26
+16,2,Urban,60-69, TRIPURA, South Tripura,Male,In seeing,15
+16,2,Urban,70-79, TRIPURA, South Tripura,Male,In seeing,21
+16,2,Urban,80-89, TRIPURA, South Tripura,Male,In seeing,8
+16,2,Urban,90+, TRIPURA, South Tripura,Male,In seeing,4
+16,2,Urban,Age not stated, TRIPURA, South Tripura,Male,In seeing,0
+16,3,Rural,0-4, TRIPURA, Dhalai  *,Male,In seeing,103
+16,3,Rural,5-9, TRIPURA, Dhalai  *,Male,In seeing,111
+16,3,Rural,10-19, TRIPURA, Dhalai  *,Male,In seeing,202
+16,3,Rural,20-29, TRIPURA, Dhalai  *,Male,In seeing,181
+16,3,Rural,30-39, TRIPURA, Dhalai  *,Male,In seeing,239
+16,3,Rural,40-49, TRIPURA, Dhalai  *,Male,In seeing,216
+16,3,Rural,50-59, TRIPURA, Dhalai  *,Male,In seeing,131
+16,3,Rural,60-69, TRIPURA, Dhalai  *,Male,In seeing,116
+16,3,Rural,70-79, TRIPURA, Dhalai  *,Male,In seeing,85
+16,3,Rural,80-89, TRIPURA, Dhalai  *,Male,In seeing,43
+16,3,Rural,90+, TRIPURA, Dhalai  *,Male,In seeing,14
+16,3,Rural,Age not stated, TRIPURA, Dhalai  *,Male,In seeing,4
+16,3,Urban,0-4, TRIPURA, Dhalai  *,Male,In seeing,6
+16,3,Urban,5-9, TRIPURA, Dhalai  *,Male,In seeing,5
+16,3,Urban,10-19, TRIPURA, Dhalai  *,Male,In seeing,14
+16,3,Urban,20-29, TRIPURA, Dhalai  *,Male,In seeing,15
+16,3,Urban,30-39, TRIPURA, Dhalai  *,Male,In seeing,22
+16,3,Urban,40-49, TRIPURA, Dhalai  *,Male,In seeing,28
+16,3,Urban,50-59, TRIPURA, Dhalai  *,Male,In seeing,16
+16,3,Urban,60-69, TRIPURA, Dhalai  *,Male,In seeing,12
+16,3,Urban,70-79, TRIPURA, Dhalai  *,Male,In seeing,6
+16,3,Urban,80-89, TRIPURA, Dhalai  *,Male,In seeing,4
+16,3,Urban,90+, TRIPURA, Dhalai  *,Male,In seeing,1
+16,3,Urban,Age not stated, TRIPURA, Dhalai  *,Male,In seeing,2
+16,4,Rural,0-4, TRIPURA, North Tripura,Male,In seeing,170
+16,4,Rural,5-9, TRIPURA, North Tripura,Male,In seeing,223
+16,4,Rural,10-19, TRIPURA, North Tripura,Male,In seeing,420
+16,4,Rural,20-29, TRIPURA, North Tripura,Male,In seeing,395
+16,4,Rural,30-39, TRIPURA, North Tripura,Male,In seeing,510
+16,4,Rural,40-49, TRIPURA, North Tripura,Male,In seeing,470
+16,4,Rural,50-59, TRIPURA, North Tripura,Male,In seeing,311
+16,4,Rural,60-69, TRIPURA, North Tripura,Male,In seeing,301
+16,4,Rural,70-79, TRIPURA, North Tripura,Male,In seeing,237
+16,4,Rural,80-89, TRIPURA, North Tripura,Male,In seeing,98
+16,4,Rural,90+, TRIPURA, North Tripura,Male,In seeing,34
+16,4,Rural,Age not stated, TRIPURA, North Tripura,Male,In seeing,10
+16,4,Urban,0-4, TRIPURA, North Tripura,Male,In seeing,19
+16,4,Urban,5-9, TRIPURA, North Tripura,Male,In seeing,21
+16,4,Urban,10-19, TRIPURA, North Tripura,Male,In seeing,60
+16,4,Urban,20-29, TRIPURA, North Tripura,Male,In seeing,54
+16,4,Urban,30-39, TRIPURA, North Tripura,Male,In seeing,92
+16,4,Urban,40-49, TRIPURA, North Tripura,Male,In seeing,87
+16,4,Urban,50-59, TRIPURA, North Tripura,Male,In seeing,61
+16,4,Urban,60-69, TRIPURA, North Tripura,Male,In seeing,41
+16,4,Urban,70-79, TRIPURA, North Tripura,Male,In seeing,22
+16,4,Urban,80-89, TRIPURA, North Tripura,Male,In seeing,7
+16,4,Urban,90+, TRIPURA, North Tripura,Male,In seeing,2
+16,4,Urban,Age not stated, TRIPURA, North Tripura,Male,In seeing,4
+16,1,Rural,0-4, TRIPURA, West Tripura,Female,In seeing,256
+16,1,Rural,5-9, TRIPURA, West Tripura,Female,In seeing,313
+16,1,Rural,10-19, TRIPURA, West Tripura,Female,In seeing,683
+16,1,Rural,20-29, TRIPURA, West Tripura,Female,In seeing,450
+16,1,Rural,30-39, TRIPURA, West Tripura,Female,In seeing,383
+16,1,Rural,40-49, TRIPURA, West Tripura,Female,In seeing,348
+16,1,Rural,50-59, TRIPURA, West Tripura,Female,In seeing,299
+16,1,Rural,60-69, TRIPURA, West Tripura,Female,In seeing,426
+16,1,Rural,70-79, TRIPURA, West Tripura,Female,In seeing,398
+16,1,Rural,80-89, TRIPURA, West Tripura,Female,In seeing,266
+16,1,Rural,90+, TRIPURA, West Tripura,Female,In seeing,112
+16,1,Rural,Age not stated, TRIPURA, West Tripura,Female,In seeing,9
+16,1,Urban,0-4, TRIPURA, West Tripura,Female,In seeing,64
+16,1,Urban,5-9, TRIPURA, West Tripura,Female,In seeing,102
+16,1,Urban,10-19, TRIPURA, West Tripura,Female,In seeing,273
+16,1,Urban,20-29, TRIPURA, West Tripura,Female,In seeing,183
+16,1,Urban,30-39, TRIPURA, West Tripura,Female,In seeing,208
+16,1,Urban,40-49, TRIPURA, West Tripura,Female,In seeing,156
+16,1,Urban,50-59, TRIPURA, West Tripura,Female,In seeing,138
+16,1,Urban,60-69, TRIPURA, West Tripura,Female,In seeing,167
+16,1,Urban,70-79, TRIPURA, West Tripura,Female,In seeing,154
+16,1,Urban,80-89, TRIPURA, West Tripura,Female,In seeing,62
+16,1,Urban,90+, TRIPURA, West Tripura,Female,In seeing,29
+16,1,Urban,Age not stated, TRIPURA, West Tripura,Female,In seeing,0
+16,2,Rural,0-4, TRIPURA, South Tripura,Female,In seeing,152
+16,2,Rural,5-9, TRIPURA, South Tripura,Female,In seeing,190
+16,2,Rural,10-19, TRIPURA, South Tripura,Female,In seeing,371
+16,2,Rural,20-29, TRIPURA, South Tripura,Female,In seeing,254
+16,2,Rural,30-39, TRIPURA, South Tripura,Female,In seeing,257
+16,2,Rural,40-49, TRIPURA, South Tripura,Female,In seeing,239
+16,2,Rural,50-59, TRIPURA, South Tripura,Female,In seeing,211
+16,2,Rural,60-69, TRIPURA, South Tripura,Female,In seeing,309
+16,2,Rural,70-79, TRIPURA, South Tripura,Female,In seeing,290
+16,2,Rural,80-89, TRIPURA, South Tripura,Female,In seeing,158
+16,2,Rural,90+, TRIPURA, South Tripura,Female,In seeing,70
+16,2,Rural,Age not stated, TRIPURA, South Tripura,Female,In seeing,3
+16,2,Urban,0-4, TRIPURA, South Tripura,Female,In seeing,11
+16,2,Urban,5-9, TRIPURA, South Tripura,Female,In seeing,10
+16,2,Urban,10-19, TRIPURA, South Tripura,Female,In seeing,37
+16,2,Urban,20-29, TRIPURA, South Tripura,Female,In seeing,16
+16,2,Urban,30-39, TRIPURA, South Tripura,Female,In seeing,23
+16,2,Urban,40-49, TRIPURA, South Tripura,Female,In seeing,19
+16,2,Urban,50-59, TRIPURA, South Tripura,Female,In seeing,14
+16,2,Urban,60-69, TRIPURA, South Tripura,Female,In seeing,25
+16,2,Urban,70-79, TRIPURA, South Tripura,Female,In seeing,28
+16,2,Urban,80-89, TRIPURA, South Tripura,Female,In seeing,5
+16,2,Urban,90+, TRIPURA, South Tripura,Female,In seeing,6
+16,2,Urban,Age not stated, TRIPURA, South Tripura,Female,In seeing,0
+16,3,Rural,0-4, TRIPURA, Dhalai  *,Female,In seeing,77
+16,3,Rural,5-9, TRIPURA, Dhalai  *,Female,In seeing,109
+16,3,Rural,10-19, TRIPURA, Dhalai  *,Female,In seeing,210
+16,3,Rural,20-29, TRIPURA, Dhalai  *,Female,In seeing,143
+16,3,Rural,30-39, TRIPURA, Dhalai  *,Female,In seeing,121
+16,3,Rural,40-49, TRIPURA, Dhalai  *,Female,In seeing,66
+16,3,Rural,50-59, TRIPURA, Dhalai  *,Female,In seeing,69
+16,3,Rural,60-69, TRIPURA, Dhalai  *,Female,In seeing,84
+16,3,Rural,70-79, TRIPURA, Dhalai  *,Female,In seeing,69
+16,3,Rural,80-89, TRIPURA, Dhalai  *,Female,In seeing,46
+16,3,Rural,90+, TRIPURA, Dhalai  *,Female,In seeing,23
+16,3,Rural,Age not stated, TRIPURA, Dhalai  *,Female,In seeing,2
+16,3,Urban,0-4, TRIPURA, Dhalai  *,Female,In seeing,2
+16,3,Urban,5-9, TRIPURA, Dhalai  *,Female,In seeing,3
+16,3,Urban,10-19, TRIPURA, Dhalai  *,Female,In seeing,12
+16,3,Urban,20-29, TRIPURA, Dhalai  *,Female,In seeing,13
+16,3,Urban,30-39, TRIPURA, Dhalai  *,Female,In seeing,9
+16,3,Urban,40-49, TRIPURA, Dhalai  *,Female,In seeing,8
+16,3,Urban,50-59, TRIPURA, Dhalai  *,Female,In seeing,3
+16,3,Urban,60-69, TRIPURA, Dhalai  *,Female,In seeing,11
+16,3,Urban,70-79, TRIPURA, Dhalai  *,Female,In seeing,7
+16,3,Urban,80-89, TRIPURA, Dhalai  *,Female,In seeing,6
+16,3,Urban,90+, TRIPURA, Dhalai  *,Female,In seeing,2
+16,3,Urban,Age not stated, TRIPURA, Dhalai  *,Female,In seeing,0
+16,4,Rural,0-4, TRIPURA, North Tripura,Female,In seeing,163
+16,4,Rural,5-9, TRIPURA, North Tripura,Female,In seeing,202
+16,4,Rural,10-19, TRIPURA, North Tripura,Female,In seeing,390
+16,4,Rural,20-29, TRIPURA, North Tripura,Female,In seeing,275
+16,4,Rural,30-39, TRIPURA, North Tripura,Female,In seeing,253
+16,4,Rural,40-49, TRIPURA, North Tripura,Female,In seeing,222
+16,4,Rural,50-59, TRIPURA, North Tripura,Female,In seeing,199
+16,4,Rural,60-69, TRIPURA, North Tripura,Female,In seeing,242
+16,4,Rural,70-79, TRIPURA, North Tripura,Female,In seeing,172
+16,4,Rural,80-89, TRIPURA, North Tripura,Female,In seeing,98
+16,4,Rural,90+, TRIPURA, North Tripura,Female,In seeing,49
+16,4,Rural,Age not stated, TRIPURA, North Tripura,Female,In seeing,4
+16,4,Urban,0-4, TRIPURA, North Tripura,Female,In seeing,8
+16,4,Urban,5-9, TRIPURA, North Tripura,Female,In seeing,34
+16,4,Urban,10-19, TRIPURA, North Tripura,Female,In seeing,72
+16,4,Urban,20-29, TRIPURA, North Tripura,Female,In seeing,51
+16,4,Urban,30-39, TRIPURA, North Tripura,Female,In seeing,43
+16,4,Urban,40-49, TRIPURA, North Tripura,Female,In seeing,28
+16,4,Urban,50-59, TRIPURA, North Tripura,Female,In seeing,30
+16,4,Urban,60-69, TRIPURA, North Tripura,Female,In seeing,31
+16,4,Urban,70-79, TRIPURA, North Tripura,Female,In seeing,17
+16,4,Urban,80-89, TRIPURA, North Tripura,Female,In seeing,14
+16,4,Urban,90+, TRIPURA, North Tripura,Female,In seeing,6
+16,4,Urban,Age not stated, TRIPURA, North Tripura,Female,In seeing,1
+16,1,Rural,0-4, TRIPURA, West Tripura,Male,In speech,15
+16,1,Rural,5-9, TRIPURA, West Tripura,Male,In speech,152
+16,1,Rural,10-19, TRIPURA, West Tripura,Male,In speech,337
+16,1,Rural,20-29, TRIPURA, West Tripura,Male,In speech,191
+16,1,Rural,30-39, TRIPURA, West Tripura,Male,In speech,123
+16,1,Rural,40-49, TRIPURA, West Tripura,Male,In speech,81
+16,1,Rural,50-59, TRIPURA, West Tripura,Male,In speech,38
+16,1,Rural,60-69, TRIPURA, West Tripura,Male,In speech,32
+16,1,Rural,70-79, TRIPURA, West Tripura,Male,In speech,25
+16,1,Rural,80-89, TRIPURA, West Tripura,Male,In speech,5
+16,1,Rural,90+, TRIPURA, West Tripura,Male,In speech,4
+16,1,Rural,Age not stated, TRIPURA, West Tripura,Male,In speech,2
+16,1,Urban,0-4, TRIPURA, West Tripura,Male,In speech,3
+16,1,Urban,5-9, TRIPURA, West Tripura,Male,In speech,54
+16,1,Urban,10-19, TRIPURA, West Tripura,Male,In speech,104
+16,1,Urban,20-29, TRIPURA, West Tripura,Male,In speech,58
+16,1,Urban,30-39, TRIPURA, West Tripura,Male,In speech,45
+16,1,Urban,40-49, TRIPURA, West Tripura,Male,In speech,41
+16,1,Urban,50-59, TRIPURA, West Tripura,Male,In speech,22
+16,1,Urban,60-69, TRIPURA, West Tripura,Male,In speech,11
+16,1,Urban,70-79, TRIPURA, West Tripura,Male,In speech,6
+16,1,Urban,80-89, TRIPURA, West Tripura,Male,In speech,2
+16,1,Urban,90+, TRIPURA, West Tripura,Male,In speech,1
+16,1,Urban,Age not stated, TRIPURA, West Tripura,Male,In speech,1
+16,2,Rural,0-4, TRIPURA, South Tripura,Male,In speech,11
+16,2,Rural,5-9, TRIPURA, South Tripura,Male,In speech,90
+16,2,Rural,10-19, TRIPURA, South Tripura,Male,In speech,213
+16,2,Rural,20-29, TRIPURA, South Tripura,Male,In speech,140
+16,2,Rural,30-39, TRIPURA, South Tripura,Male,In speech,82
+16,2,Rural,40-49, TRIPURA, South Tripura,Male,In speech,57
+16,2,Rural,50-59, TRIPURA, South Tripura,Male,In speech,38
+16,2,Rural,60-69, TRIPURA, South Tripura,Male,In speech,21
+16,2,Rural,70-79, TRIPURA, South Tripura,Male,In speech,13
+16,2,Rural,80-89, TRIPURA, South Tripura,Male,In speech,7
+16,2,Rural,90+, TRIPURA, South Tripura,Male,In speech,2
+16,2,Rural,Age not stated, TRIPURA, South Tripura,Male,In speech,0
+16,2,Urban,0-4, TRIPURA, South Tripura,Male,In speech,1
+16,2,Urban,5-9, TRIPURA, South Tripura,Male,In speech,2
+16,2,Urban,10-19, TRIPURA, South Tripura,Male,In speech,21
+16,2,Urban,20-29, TRIPURA, South Tripura,Male,In speech,10
+16,2,Urban,30-39, TRIPURA, South Tripura,Male,In speech,6
+16,2,Urban,40-49, TRIPURA, South Tripura,Male,In speech,6
+16,2,Urban,50-59, TRIPURA, South Tripura,Male,In speech,5
+16,2,Urban,60-69, TRIPURA, South Tripura,Male,In speech,0
+16,2,Urban,70-79, TRIPURA, South Tripura,Male,In speech,2
+16,2,Urban,80-89, TRIPURA, South Tripura,Male,In speech,0
+16,2,Urban,90+, TRIPURA, South Tripura,Male,In speech,0
+16,2,Urban,Age not stated, TRIPURA, South Tripura,Male,In speech,1
+16,3,Rural,0-4, TRIPURA, Dhalai  *,Male,In speech,4
+16,3,Rural,5-9, TRIPURA, Dhalai  *,Male,In speech,32
+16,3,Rural,10-19, TRIPURA, Dhalai  *,Male,In speech,77
+16,3,Rural,20-29, TRIPURA, Dhalai  *,Male,In speech,47
+16,3,Rural,30-39, TRIPURA, Dhalai  *,Male,In speech,30
+16,3,Rural,40-49, TRIPURA, Dhalai  *,Male,In speech,18
+16,3,Rural,50-59, TRIPURA, Dhalai  *,Male,In speech,10
+16,3,Rural,60-69, TRIPURA, Dhalai  *,Male,In speech,3
+16,3,Rural,70-79, TRIPURA, Dhalai  *,Male,In speech,3
+16,3,Rural,80-89, TRIPURA, Dhalai  *,Male,In speech,2
+16,3,Rural,90+, TRIPURA, Dhalai  *,Male,In speech,0
+16,3,Rural,Age not stated, TRIPURA, Dhalai  *,Male,In speech,0
+16,3,Urban,0-4, TRIPURA, Dhalai  *,Male,In speech,0
+16,3,Urban,5-9, TRIPURA, Dhalai  *,Male,In speech,1
+16,3,Urban,10-19, TRIPURA, Dhalai  *,Male,In speech,3
+16,3,Urban,20-29, TRIPURA, Dhalai  *,Male,In speech,2
+16,3,Urban,30-39, TRIPURA, Dhalai  *,Male,In speech,1
+16,3,Urban,40-49, TRIPURA, Dhalai  *,Male,In speech,2
+16,3,Urban,50-59, TRIPURA, Dhalai  *,Male,In speech,0
+16,3,Urban,60-69, TRIPURA, Dhalai  *,Male,In speech,1
+16,3,Urban,70-79, TRIPURA, Dhalai  *,Male,In speech,1
+16,3,Urban,80-89, TRIPURA, Dhalai  *,Male,In speech,0
+16,3,Urban,90+, TRIPURA, Dhalai  *,Male,In speech,0
+16,3,Urban,Age not stated, TRIPURA, Dhalai  *,Male,In speech,0
+16,4,Rural,0-4, TRIPURA, North Tripura,Male,In speech,13
+16,4,Rural,5-9, TRIPURA, North Tripura,Male,In speech,78
+16,4,Rural,10-19, TRIPURA, North Tripura,Male,In speech,160
+16,4,Rural,20-29, TRIPURA, North Tripura,Male,In speech,73
+16,4,Rural,30-39, TRIPURA, North Tripura,Male,In speech,61
+16,4,Rural,40-49, TRIPURA, North Tripura,Male,In speech,42
+16,4,Rural,50-59, TRIPURA, North Tripura,Male,In speech,28
+16,4,Rural,60-69, TRIPURA, North Tripura,Male,In speech,21
+16,4,Rural,70-79, TRIPURA, North Tripura,Male,In speech,15
+16,4,Rural,80-89, TRIPURA, North Tripura,Male,In speech,5
+16,4,Rural,90+, TRIPURA, North Tripura,Male,In speech,2
+16,4,Rural,Age not stated, TRIPURA, North Tripura,Male,In speech,0
+16,4,Urban,0-4, TRIPURA, North Tripura,Male,In speech,0
+16,4,Urban,5-9, TRIPURA, North Tripura,Male,In speech,4
+16,4,Urban,10-19, TRIPURA, North Tripura,Male,In speech,18
+16,4,Urban,20-29, TRIPURA, North Tripura,Male,In speech,5
+16,4,Urban,30-39, TRIPURA, North Tripura,Male,In speech,6
+16,4,Urban,40-49, TRIPURA, North Tripura,Male,In speech,3
+16,4,Urban,50-59, TRIPURA, North Tripura,Male,In speech,4
+16,4,Urban,60-69, TRIPURA, North Tripura,Male,In speech,2
+16,4,Urban,70-79, TRIPURA, North Tripura,Male,In speech,1
+16,4,Urban,80-89, TRIPURA, North Tripura,Male,In speech,0
+16,4,Urban,90+, TRIPURA, North Tripura,Male,In speech,0
+16,4,Urban,Age not stated, TRIPURA, North Tripura,Male,In speech,0
+16,1,Rural,0-4, TRIPURA, West Tripura,Female,In speech,10
+16,1,Rural,5-9, TRIPURA, West Tripura,Female,In speech,113
+16,1,Rural,10-19, TRIPURA, West Tripura,Female,In speech,259
+16,1,Rural,20-29, TRIPURA, West Tripura,Female,In speech,141
+16,1,Rural,30-39, TRIPURA, West Tripura,Female,In speech,96
+16,1,Rural,40-49, TRIPURA, West Tripura,Female,In speech,59
+16,1,Rural,50-59, TRIPURA, West Tripura,Female,In speech,35
+16,1,Rural,60-69, TRIPURA, West Tripura,Female,In speech,33
+16,1,Rural,70-79, TRIPURA, West Tripura,Female,In speech,20
+16,1,Rural,80-89, TRIPURA, West Tripura,Female,In speech,9
+16,1,Rural,90+, TRIPURA, West Tripura,Female,In speech,2
+16,1,Rural,Age not stated, TRIPURA, West Tripura,Female,In speech,3
+16,1,Urban,0-4, TRIPURA, West Tripura,Female,In speech,6
+16,1,Urban,5-9, TRIPURA, West Tripura,Female,In speech,42
+16,1,Urban,10-19, TRIPURA, West Tripura,Female,In speech,97
+16,1,Urban,20-29, TRIPURA, West Tripura,Female,In speech,58
+16,1,Urban,30-39, TRIPURA, West Tripura,Female,In speech,48
+16,1,Urban,40-49, TRIPURA, West Tripura,Female,In speech,26
+16,1,Urban,50-59, TRIPURA, West Tripura,Female,In speech,9
+16,1,Urban,60-69, TRIPURA, West Tripura,Female,In speech,10
+16,1,Urban,70-79, TRIPURA, West Tripura,Female,In speech,5
+16,1,Urban,80-89, TRIPURA, West Tripura,Female,In speech,0
+16,1,Urban,90+, TRIPURA, West Tripura,Female,In speech,0
+16,1,Urban,Age not stated, TRIPURA, West Tripura,Female,In speech,0
+16,2,Rural,0-4, TRIPURA, South Tripura,Female,In speech,5
+16,2,Rural,5-9, TRIPURA, South Tripura,Female,In speech,69
+16,2,Rural,10-19, TRIPURA, South Tripura,Female,In speech,158
+16,2,Rural,20-29, TRIPURA, South Tripura,Female,In speech,102
+16,2,Rural,30-39, TRIPURA, South Tripura,Female,In speech,66
+16,2,Rural,40-49, TRIPURA, South Tripura,Female,In speech,38
+16,2,Rural,50-59, TRIPURA, South Tripura,Female,In speech,22
+16,2,Rural,60-69, TRIPURA, South Tripura,Female,In speech,15
+16,2,Rural,70-79, TRIPURA, South Tripura,Female,In speech,14
+16,2,Rural,80-89, TRIPURA, South Tripura,Female,In speech,2
+16,2,Rural,90+, TRIPURA, South Tripura,Female,In speech,2
+16,2,Rural,Age not stated, TRIPURA, South Tripura,Female,In speech,1
+16,2,Urban,0-4, TRIPURA, South Tripura,Female,In speech,0
+16,2,Urban,5-9, TRIPURA, South Tripura,Female,In speech,2
+16,2,Urban,10-19, TRIPURA, South Tripura,Female,In speech,14
+16,2,Urban,20-29, TRIPURA, South Tripura,Female,In speech,5
+16,2,Urban,30-39, TRIPURA, South Tripura,Female,In speech,7
+16,2,Urban,40-49, TRIPURA, South Tripura,Female,In speech,2
+16,2,Urban,50-59, TRIPURA, South Tripura,Female,In speech,0
+16,2,Urban,60-69, TRIPURA, South Tripura,Female,In speech,0
+16,2,Urban,70-79, TRIPURA, South Tripura,Female,In speech,3
+16,2,Urban,80-89, TRIPURA, South Tripura,Female,In speech,0
+16,2,Urban,90+, TRIPURA, South Tripura,Female,In speech,2
+16,2,Urban,Age not stated, TRIPURA, South Tripura,Female,In speech,0
+16,3,Rural,0-4, TRIPURA, Dhalai  *,Female,In speech,2
+16,3,Rural,5-9, TRIPURA, Dhalai  *,Female,In speech,27
+16,3,Rural,10-19, TRIPURA, Dhalai  *,Female,In speech,45
+16,3,Rural,20-29, TRIPURA, Dhalai  *,Female,In speech,32
+16,3,Rural,30-39, TRIPURA, Dhalai  *,Female,In speech,31
+16,3,Rural,40-49, TRIPURA, Dhalai  *,Female,In speech,18
+16,3,Rural,50-59, TRIPURA, Dhalai  *,Female,In speech,9
+16,3,Rural,60-69, TRIPURA, Dhalai  *,Female,In speech,4
+16,3,Rural,70-79, TRIPURA, Dhalai  *,Female,In speech,1
+16,3,Rural,80-89, TRIPURA, Dhalai  *,Female,In speech,2
+16,3,Rural,90+, TRIPURA, Dhalai  *,Female,In speech,2
+16,3,Rural,Age not stated, TRIPURA, Dhalai  *,Female,In speech,0
+16,3,Urban,0-4, TRIPURA, Dhalai  *,Female,In speech,0
+16,3,Urban,5-9, TRIPURA, Dhalai  *,Female,In speech,2
+16,3,Urban,10-19, TRIPURA, Dhalai  *,Female,In speech,3
+16,3,Urban,20-29, TRIPURA, Dhalai  *,Female,In speech,2
+16,3,Urban,30-39, TRIPURA, Dhalai  *,Female,In speech,4
+16,3,Urban,40-49, TRIPURA, Dhalai  *,Female,In speech,0
+16,3,Urban,50-59, TRIPURA, Dhalai  *,Female,In speech,0
+16,3,Urban,60-69, TRIPURA, Dhalai  *,Female,In speech,1
+16,3,Urban,70-79, TRIPURA, Dhalai  *,Female,In speech,0
+16,3,Urban,80-89, TRIPURA, Dhalai  *,Female,In speech,1
+16,3,Urban,90+, TRIPURA, Dhalai  *,Female,In speech,0
+16,3,Urban,Age not stated, TRIPURA, Dhalai  *,Female,In speech,0
+16,4,Rural,0-4, TRIPURA, North Tripura,Female,In speech,8
+16,4,Rural,5-9, TRIPURA, North Tripura,Female,In speech,61
+16,4,Rural,10-19, TRIPURA, North Tripura,Female,In speech,141
+16,4,Rural,20-29, TRIPURA, North Tripura,Female,In speech,75
+16,4,Rural,30-39, TRIPURA, North Tripura,Female,In speech,59
+16,4,Rural,40-49, TRIPURA, North Tripura,Female,In speech,26
+16,4,Rural,50-59, TRIPURA, North Tripura,Female,In speech,17
+16,4,Rural,60-69, TRIPURA, North Tripura,Female,In speech,14
+16,4,Rural,70-79, TRIPURA, North Tripura,Female,In speech,7
+16,4,Rural,80-89, TRIPURA, North Tripura,Female,In speech,8
+16,4,Rural,90+, TRIPURA, North Tripura,Female,In speech,3
+16,4,Rural,Age not stated, TRIPURA, North Tripura,Female,In speech,0
+16,4,Urban,0-4, TRIPURA, North Tripura,Female,In speech,0
+16,4,Urban,5-9, TRIPURA, North Tripura,Female,In speech,4
+16,4,Urban,10-19, TRIPURA, North Tripura,Female,In speech,11
+16,4,Urban,20-29, TRIPURA, North Tripura,Female,In speech,5
+16,4,Urban,30-39, TRIPURA, North Tripura,Female,In speech,5
+16,4,Urban,40-49, TRIPURA, North Tripura,Female,In speech,5
+16,4,Urban,50-59, TRIPURA, North Tripura,Female,In speech,1
+16,4,Urban,60-69, TRIPURA, North Tripura,Female,In speech,0
+16,4,Urban,70-79, TRIPURA, North Tripura,Female,In speech,0
+16,4,Urban,80-89, TRIPURA, North Tripura,Female,In speech,0
+16,4,Urban,90+, TRIPURA, North Tripura,Female,In speech,0
+16,4,Urban,Age not stated, TRIPURA, North Tripura,Female,In speech,0
+16,1,Rural,0-4, TRIPURA, West Tripura,Male,In hearing,7
+16,1,Rural,5-9, TRIPURA, West Tripura,Male,In hearing,49
+16,1,Rural,10-19, TRIPURA, West Tripura,Male,In hearing,148
+16,1,Rural,20-29, TRIPURA, West Tripura,Male,In hearing,89
+16,1,Rural,30-39, TRIPURA, West Tripura,Male,In hearing,97
+16,1,Rural,40-49, TRIPURA, West Tripura,Male,In hearing,90
+16,1,Rural,50-59, TRIPURA, West Tripura,Male,In hearing,97
+16,1,Rural,60-69, TRIPURA, West Tripura,Male,In hearing,127
+16,1,Rural,70-79, TRIPURA, West Tripura,Male,In hearing,134
+16,1,Rural,80-89, TRIPURA, West Tripura,Male,In hearing,95
+16,1,Rural,90+, TRIPURA, West Tripura,Male,In hearing,54
+16,1,Rural,Age not stated, TRIPURA, West Tripura,Male,In hearing,2
+16,1,Urban,0-4, TRIPURA, West Tripura,Male,In hearing,1
+16,1,Urban,5-9, TRIPURA, West Tripura,Male,In hearing,10
+16,1,Urban,10-19, TRIPURA, West Tripura,Male,In hearing,35
+16,1,Urban,20-29, TRIPURA, West Tripura,Male,In hearing,37
+16,1,Urban,30-39, TRIPURA, West Tripura,Male,In hearing,33
+16,1,Urban,40-49, TRIPURA, West Tripura,Male,In hearing,30
+16,1,Urban,50-59, TRIPURA, West Tripura,Male,In hearing,32
+16,1,Urban,60-69, TRIPURA, West Tripura,Male,In hearing,29
+16,1,Urban,70-79, TRIPURA, West Tripura,Male,In hearing,26
+16,1,Urban,80-89, TRIPURA, West Tripura,Male,In hearing,14
+16,1,Urban,90+, TRIPURA, West Tripura,Male,In hearing,11
+16,1,Urban,Age not stated, TRIPURA, West Tripura,Male,In hearing,0
+16,2,Rural,0-4, TRIPURA, South Tripura,Male,In hearing,10
+16,2,Rural,5-9, TRIPURA, South Tripura,Male,In hearing,31
+16,2,Rural,10-19, TRIPURA, South Tripura,Male,In hearing,85
+16,2,Rural,20-29, TRIPURA, South Tripura,Male,In hearing,78
+16,2,Rural,30-39, TRIPURA, South Tripura,Male,In hearing,72
+16,2,Rural,40-49, TRIPURA, South Tripura,Male,In hearing,82
+16,2,Rural,50-59, TRIPURA, South Tripura,Male,In hearing,79
+16,2,Rural,60-69, TRIPURA, South Tripura,Male,In hearing,120
+16,2,Rural,70-79, TRIPURA, South Tripura,Male,In hearing,99
+16,2,Rural,80-89, TRIPURA, South Tripura,Male,In hearing,47
+16,2,Rural,90+, TRIPURA, South Tripura,Male,In hearing,17
+16,2,Rural,Age not stated, TRIPURA, South Tripura,Male,In hearing,1
+16,2,Urban,0-4, TRIPURA, South Tripura,Male,In hearing,1
+16,2,Urban,5-9, TRIPURA, South Tripura,Male,In hearing,0
+16,2,Urban,10-19, TRIPURA, South Tripura,Male,In hearing,5
+16,2,Urban,20-29, TRIPURA, South Tripura,Male,In hearing,7
+16,2,Urban,30-39, TRIPURA, South Tripura,Male,In hearing,6
+16,2,Urban,40-49, TRIPURA, South Tripura,Male,In hearing,3
+16,2,Urban,50-59, TRIPURA, South Tripura,Male,In hearing,6
+16,2,Urban,60-69, TRIPURA, South Tripura,Male,In hearing,3
+16,2,Urban,70-79, TRIPURA, South Tripura,Male,In hearing,7
+16,2,Urban,80-89, TRIPURA, South Tripura,Male,In hearing,2
+16,2,Urban,90+, TRIPURA, South Tripura,Male,In hearing,0
+16,2,Urban,Age not stated, TRIPURA, South Tripura,Male,In hearing,0
+16,3,Rural,0-4, TRIPURA, Dhalai  *,Male,In hearing,3
+16,3,Rural,5-9, TRIPURA, Dhalai  *,Male,In hearing,10
+16,3,Rural,10-19, TRIPURA, Dhalai  *,Male,In hearing,35
+16,3,Rural,20-29, TRIPURA, Dhalai  *,Male,In hearing,14
+16,3,Rural,30-39, TRIPURA, Dhalai  *,Male,In hearing,16
+16,3,Rural,40-49, TRIPURA, Dhalai  *,Male,In hearing,21
+16,3,Rural,50-59, TRIPURA, Dhalai  *,Male,In hearing,20
+16,3,Rural,60-69, TRIPURA, Dhalai  *,Male,In hearing,17
+16,3,Rural,70-79, TRIPURA, Dhalai  *,Male,In hearing,18
+16,3,Rural,80-89, TRIPURA, Dhalai  *,Male,In hearing,12
+16,3,Rural,90+, TRIPURA, Dhalai  *,Male,In hearing,6
+16,3,Rural,Age not stated, TRIPURA, Dhalai  *,Male,In hearing,1
+16,3,Urban,0-4, TRIPURA, Dhalai  *,Male,In hearing,1
+16,3,Urban,5-9, TRIPURA, Dhalai  *,Male,In hearing,3
+16,3,Urban,10-19, TRIPURA, Dhalai  *,Male,In hearing,8
+16,3,Urban,20-29, TRIPURA, Dhalai  *,Male,In hearing,4
+16,3,Urban,30-39, TRIPURA, Dhalai  *,Male,In hearing,5
+16,3,Urban,40-49, TRIPURA, Dhalai  *,Male,In hearing,3
+16,3,Urban,50-59, TRIPURA, Dhalai  *,Male,In hearing,5
+16,3,Urban,60-69, TRIPURA, Dhalai  *,Male,In hearing,3
+16,3,Urban,70-79, TRIPURA, Dhalai  *,Male,In hearing,1
+16,3,Urban,80-89, TRIPURA, Dhalai  *,Male,In hearing,4
+16,3,Urban,90+, TRIPURA, Dhalai  *,Male,In hearing,0
+16,3,Urban,Age not stated, TRIPURA, Dhalai  *,Male,In hearing,0
+16,4,Rural,0-4, TRIPURA, North Tripura,Male,In hearing,3
+16,4,Rural,5-9, TRIPURA, North Tripura,Male,In hearing,27
+16,4,Rural,10-19, TRIPURA, North Tripura,Male,In hearing,123
+16,4,Rural,20-29, TRIPURA, North Tripura,Male,In hearing,42
+16,4,Rural,30-39, TRIPURA, North Tripura,Male,In hearing,53
+16,4,Rural,40-49, TRIPURA, North Tripura,Male,In hearing,65
+16,4,Rural,50-59, TRIPURA, North Tripura,Male,In hearing,57
+16,4,Rural,60-69, TRIPURA, North Tripura,Male,In hearing,58
+16,4,Rural,70-79, TRIPURA, North Tripura,Male,In hearing,61
+16,4,Rural,80-89, TRIPURA, North Tripura,Male,In hearing,43
+16,4,Rural,90+, TRIPURA, North Tripura,Male,In hearing,15
+16,4,Rural,Age not stated, TRIPURA, North Tripura,Male,In hearing,3
+16,4,Urban,0-4, TRIPURA, North Tripura,Male,In hearing,0
+16,4,Urban,5-9, TRIPURA, North Tripura,Male,In hearing,4
+16,4,Urban,10-19, TRIPURA, North Tripura,Male,In hearing,9
+16,4,Urban,20-29, TRIPURA, North Tripura,Male,In hearing,3
+16,4,Urban,30-39, TRIPURA, North Tripura,Male,In hearing,2
+16,4,Urban,40-49, TRIPURA, North Tripura,Male,In hearing,5
+16,4,Urban,50-59, TRIPURA, North Tripura,Male,In hearing,3
+16,4,Urban,60-69, TRIPURA, North Tripura,Male,In hearing,4
+16,4,Urban,70-79, TRIPURA, North Tripura,Male,In hearing,6
+16,4,Urban,80-89, TRIPURA, North Tripura,Male,In hearing,2
+16,4,Urban,90+, TRIPURA, North Tripura,Male,In hearing,1
+16,4,Urban,Age not stated, TRIPURA, North Tripura,Male,In hearing,0
+16,1,Rural,0-4, TRIPURA, West Tripura,Female,In hearing,12
+16,1,Rural,5-9, TRIPURA, West Tripura,Female,In hearing,50
+16,1,Rural,10-19, TRIPURA, West Tripura,Female,In hearing,83
+16,1,Rural,20-29, TRIPURA, West Tripura,Female,In hearing,70
+16,1,Rural,30-39, TRIPURA, West Tripura,Female,In hearing,103
+16,1,Rural,40-49, TRIPURA, West Tripura,Female,In hearing,96
+16,1,Rural,50-59, TRIPURA, West Tripura,Female,In hearing,97
+16,1,Rural,60-69, TRIPURA, West Tripura,Female,In hearing,181
+16,1,Rural,70-79, TRIPURA, West Tripura,Female,In hearing,175
+16,1,Rural,80-89, TRIPURA, West Tripura,Female,In hearing,126
+16,1,Rural,90+, TRIPURA, West Tripura,Female,In hearing,61
+16,1,Rural,Age not stated, TRIPURA, West Tripura,Female,In hearing,2
+16,1,Urban,0-4, TRIPURA, West Tripura,Female,In hearing,3
+16,1,Urban,5-9, TRIPURA, West Tripura,Female,In hearing,11
+16,1,Urban,10-19, TRIPURA, West Tripura,Female,In hearing,29
+16,1,Urban,20-29, TRIPURA, West Tripura,Female,In hearing,27
+16,1,Urban,30-39, TRIPURA, West Tripura,Female,In hearing,31
+16,1,Urban,40-49, TRIPURA, West Tripura,Female,In hearing,33
+16,1,Urban,50-59, TRIPURA, West Tripura,Female,In hearing,35
+16,1,Urban,60-69, TRIPURA, West Tripura,Female,In hearing,43
+16,1,Urban,70-79, TRIPURA, West Tripura,Female,In hearing,59
+16,1,Urban,80-89, TRIPURA, West Tripura,Female,In hearing,29
+16,1,Urban,90+, TRIPURA, West Tripura,Female,In hearing,12
+16,1,Urban,Age not stated, TRIPURA, West Tripura,Female,In hearing,0
+16,2,Rural,0-4, TRIPURA, South Tripura,Female,In hearing,7
+16,2,Rural,5-9, TRIPURA, South Tripura,Female,In hearing,29
+16,2,Rural,10-19, TRIPURA, South Tripura,Female,In hearing,73
+16,2,Rural,20-29, TRIPURA, South Tripura,Female,In hearing,51
+16,2,Rural,30-39, TRIPURA, South Tripura,Female,In hearing,78
+16,2,Rural,40-49, TRIPURA, South Tripura,Female,In hearing,75
+16,2,Rural,50-59, TRIPURA, South Tripura,Female,In hearing,74
+16,2,Rural,60-69, TRIPURA, South Tripura,Female,In hearing,130
+16,2,Rural,70-79, TRIPURA, South Tripura,Female,In hearing,117
+16,2,Rural,80-89, TRIPURA, South Tripura,Female,In hearing,60
+16,2,Rural,90+, TRIPURA, South Tripura,Female,In hearing,28
+16,2,Rural,Age not stated, TRIPURA, South Tripura,Female,In hearing,2
+16,2,Urban,0-4, TRIPURA, South Tripura,Female,In hearing,0
+16,2,Urban,5-9, TRIPURA, South Tripura,Female,In hearing,2
+16,2,Urban,10-19, TRIPURA, South Tripura,Female,In hearing,2
+16,2,Urban,20-29, TRIPURA, South Tripura,Female,In hearing,3
+16,2,Urban,30-39, TRIPURA, South Tripura,Female,In hearing,5
+16,2,Urban,40-49, TRIPURA, South Tripura,Female,In hearing,4
+16,2,Urban,50-59, TRIPURA, South Tripura,Female,In hearing,4
+16,2,Urban,60-69, TRIPURA, South Tripura,Female,In hearing,7
+16,2,Urban,70-79, TRIPURA, South Tripura,Female,In hearing,4
+16,2,Urban,80-89, TRIPURA, South Tripura,Female,In hearing,5
+16,2,Urban,90+, TRIPURA, South Tripura,Female,In hearing,2
+16,2,Urban,Age not stated, TRIPURA, South Tripura,Female,In hearing,0
+16,3,Rural,0-4, TRIPURA, Dhalai  *,Female,In hearing,0
+16,3,Rural,5-9, TRIPURA, Dhalai  *,Female,In hearing,5
+16,3,Rural,10-19, TRIPURA, Dhalai  *,Female,In hearing,23
+16,3,Rural,20-29, TRIPURA, Dhalai  *,Female,In hearing,17
+16,3,Rural,30-39, TRIPURA, Dhalai  *,Female,In hearing,23
+16,3,Rural,40-49, TRIPURA, Dhalai  *,Female,In hearing,26
+16,3,Rural,50-59, TRIPURA, Dhalai  *,Female,In hearing,16
+16,3,Rural,60-69, TRIPURA, Dhalai  *,Female,In hearing,42
+16,3,Rural,70-79, TRIPURA, Dhalai  *,Female,In hearing,28
+16,3,Rural,80-89, TRIPURA, Dhalai  *,Female,In hearing,17
+16,3,Rural,90+, TRIPURA, Dhalai  *,Female,In hearing,9
+16,3,Rural,Age not stated, TRIPURA, Dhalai  *,Female,In hearing,0
+16,3,Urban,0-4, TRIPURA, Dhalai  *,Female,In hearing,0
+16,3,Urban,5-9, TRIPURA, Dhalai  *,Female,In hearing,1
+16,3,Urban,10-19, TRIPURA, Dhalai  *,Female,In hearing,1
+16,3,Urban,20-29, TRIPURA, Dhalai  *,Female,In hearing,6
+16,3,Urban,30-39, TRIPURA, Dhalai  *,Female,In hearing,3
+16,3,Urban,40-49, TRIPURA, Dhalai  *,Female,In hearing,0
+16,3,Urban,50-59, TRIPURA, Dhalai  *,Female,In hearing,4
+16,3,Urban,60-69, TRIPURA, Dhalai  *,Female,In hearing,2
+16,3,Urban,70-79, TRIPURA, Dhalai  *,Female,In hearing,5
+16,3,Urban,80-89, TRIPURA, Dhalai  *,Female,In hearing,0
+16,3,Urban,90+, TRIPURA, Dhalai  *,Female,In hearing,0
+16,3,Urban,Age not stated, TRIPURA, Dhalai  *,Female,In hearing,0
+16,4,Rural,0-4, TRIPURA, North Tripura,Female,In hearing,8
+16,4,Rural,5-9, TRIPURA, North Tripura,Female,In hearing,26
+16,4,Rural,10-19, TRIPURA, North Tripura,Female,In hearing,80
+16,4,Rural,20-29, TRIPURA, North Tripura,Female,In hearing,40
+16,4,Rural,30-39, TRIPURA, North Tripura,Female,In hearing,51
+16,4,Rural,40-49, TRIPURA, North Tripura,Female,In hearing,42
+16,4,Rural,50-59, TRIPURA, North Tripura,Female,In hearing,59
+16,4,Rural,60-69, TRIPURA, North Tripura,Female,In hearing,69
+16,4,Rural,70-79, TRIPURA, North Tripura,Female,In hearing,64
+16,4,Rural,80-89, TRIPURA, North Tripura,Female,In hearing,44
+16,4,Rural,90+, TRIPURA, North Tripura,Female,In hearing,11
+16,4,Rural,Age not stated, TRIPURA, North Tripura,Female,In hearing,1
+16,4,Urban,0-4, TRIPURA, North Tripura,Female,In hearing,0
+16,4,Urban,5-9, TRIPURA, North Tripura,Female,In hearing,1
+16,4,Urban,10-19, TRIPURA, North Tripura,Female,In hearing,5
+16,4,Urban,20-29, TRIPURA, North Tripura,Female,In hearing,5
+16,4,Urban,30-39, TRIPURA, North Tripura,Female,In hearing,6
+16,4,Urban,40-49, TRIPURA, North Tripura,Female,In hearing,9
+16,4,Urban,50-59, TRIPURA, North Tripura,Female,In hearing,4
+16,4,Urban,60-69, TRIPURA, North Tripura,Female,In hearing,3
+16,4,Urban,70-79, TRIPURA, North Tripura,Female,In hearing,4
+16,4,Urban,80-89, TRIPURA, North Tripura,Female,In hearing,1
+16,4,Urban,90+, TRIPURA, North Tripura,Female,In hearing,1
+16,4,Urban,Age not stated, TRIPURA, North Tripura,Female,In hearing,0
+16,1,Rural,0-4, TRIPURA, West Tripura,Male,In movement,97
+16,1,Rural,5-9, TRIPURA, West Tripura,Male,In movement,209
+16,1,Rural,10-19, TRIPURA, West Tripura,Male,In movement,598
+16,1,Rural,20-29, TRIPURA, West Tripura,Male,In movement,433
+16,1,Rural,30-39, TRIPURA, West Tripura,Male,In movement,367
+16,1,Rural,40-49, TRIPURA, West Tripura,Male,In movement,325
+16,1,Rural,50-59, TRIPURA, West Tripura,Male,In movement,269
+16,1,Rural,60-69, TRIPURA, West Tripura,Male,In movement,248
+16,1,Rural,70-79, TRIPURA, West Tripura,Male,In movement,179
+16,1,Rural,80-89, TRIPURA, West Tripura,Male,In movement,118
+16,1,Rural,90+, TRIPURA, West Tripura,Male,In movement,55
+16,1,Rural,Age not stated, TRIPURA, West Tripura,Male,In movement,5
+16,1,Urban,0-4, TRIPURA, West Tripura,Male,In movement,32
+16,1,Urban,5-9, TRIPURA, West Tripura,Male,In movement,60
+16,1,Urban,10-19, TRIPURA, West Tripura,Male,In movement,174
+16,1,Urban,20-29, TRIPURA, West Tripura,Male,In movement,166
+16,1,Urban,30-39, TRIPURA, West Tripura,Male,In movement,160
+16,1,Urban,40-49, TRIPURA, West Tripura,Male,In movement,168
+16,1,Urban,50-59, TRIPURA, West Tripura,Male,In movement,119
+16,1,Urban,60-69, TRIPURA, West Tripura,Male,In movement,83
+16,1,Urban,70-79, TRIPURA, West Tripura,Male,In movement,58
+16,1,Urban,80-89, TRIPURA, West Tripura,Male,In movement,30
+16,1,Urban,90+, TRIPURA, West Tripura,Male,In movement,7
+16,1,Urban,Age not stated, TRIPURA, West Tripura,Male,In movement,1
+16,2,Rural,0-4, TRIPURA, South Tripura,Male,In movement,93
+16,2,Rural,5-9, TRIPURA, South Tripura,Male,In movement,147
+16,2,Rural,10-19, TRIPURA, South Tripura,Male,In movement,471
+16,2,Rural,20-29, TRIPURA, South Tripura,Male,In movement,315
+16,2,Rural,30-39, TRIPURA, South Tripura,Male,In movement,253
+16,2,Rural,40-49, TRIPURA, South Tripura,Male,In movement,215
+16,2,Rural,50-59, TRIPURA, South Tripura,Male,In movement,166
+16,2,Rural,60-69, TRIPURA, South Tripura,Male,In movement,164
+16,2,Rural,70-79, TRIPURA, South Tripura,Male,In movement,141
+16,2,Rural,80-89, TRIPURA, South Tripura,Male,In movement,67
+16,2,Rural,90+, TRIPURA, South Tripura,Male,In movement,21
+16,2,Rural,Age not stated, TRIPURA, South Tripura,Male,In movement,3
+16,2,Urban,0-4, TRIPURA, South Tripura,Male,In movement,4
+16,2,Urban,5-9, TRIPURA, South Tripura,Male,In movement,13
+16,2,Urban,10-19, TRIPURA, South Tripura,Male,In movement,39
+16,2,Urban,20-29, TRIPURA, South Tripura,Male,In movement,34
+16,2,Urban,30-39, TRIPURA, South Tripura,Male,In movement,31
+16,2,Urban,40-49, TRIPURA, South Tripura,Male,In movement,31
+16,2,Urban,50-59, TRIPURA, South Tripura,Male,In movement,24
+16,2,Urban,60-69, TRIPURA, South Tripura,Male,In movement,12
+16,2,Urban,70-79, TRIPURA, South Tripura,Male,In movement,7
+16,2,Urban,80-89, TRIPURA, South Tripura,Male,In movement,0
+16,2,Urban,90+, TRIPURA, South Tripura,Male,In movement,2
+16,2,Urban,Age not stated, TRIPURA, South Tripura,Male,In movement,0
+16,3,Rural,0-4, TRIPURA, Dhalai  *,Male,In movement,25
+16,3,Rural,5-9, TRIPURA, Dhalai  *,Male,In movement,51
+16,3,Rural,10-19, TRIPURA, Dhalai  *,Male,In movement,137
+16,3,Rural,20-29, TRIPURA, Dhalai  *,Male,In movement,92
+16,3,Rural,30-39, TRIPURA, Dhalai  *,Male,In movement,79
+16,3,Rural,40-49, TRIPURA, Dhalai  *,Male,In movement,57
+16,3,Rural,50-59, TRIPURA, Dhalai  *,Male,In movement,43
+16,3,Rural,60-69, TRIPURA, Dhalai  *,Male,In movement,61
+16,3,Rural,70-79, TRIPURA, Dhalai  *,Male,In movement,40
+16,3,Rural,80-89, TRIPURA, Dhalai  *,Male,In movement,28
+16,3,Rural,90+, TRIPURA, Dhalai  *,Male,In movement,7
+16,3,Rural,Age not stated, TRIPURA, Dhalai  *,Male,In movement,4
+16,3,Urban,0-4, TRIPURA, Dhalai  *,Male,In movement,3
+16,3,Urban,5-9, TRIPURA, Dhalai  *,Male,In movement,6
+16,3,Urban,10-19, TRIPURA, Dhalai  *,Male,In movement,13
+16,3,Urban,20-29, TRIPURA, Dhalai  *,Male,In movement,14
+16,3,Urban,30-39, TRIPURA, Dhalai  *,Male,In movement,4
+16,3,Urban,40-49, TRIPURA, Dhalai  *,Male,In movement,12
+16,3,Urban,50-59, TRIPURA, Dhalai  *,Male,In movement,10
+16,3,Urban,60-69, TRIPURA, Dhalai  *,Male,In movement,5
+16,3,Urban,70-79, TRIPURA, Dhalai  *,Male,In movement,5
+16,3,Urban,80-89, TRIPURA, Dhalai  *,Male,In movement,4
+16,3,Urban,90+, TRIPURA, Dhalai  *,Male,In movement,0
+16,3,Urban,Age not stated, TRIPURA, Dhalai  *,Male,In movement,0
+16,4,Rural,0-4, TRIPURA, North Tripura,Male,In movement,47
+16,4,Rural,5-9, TRIPURA, North Tripura,Male,In movement,95
+16,4,Rural,10-19, TRIPURA, North Tripura,Male,In movement,309
+16,4,Rural,20-29, TRIPURA, North Tripura,Male,In movement,201
+16,4,Rural,30-39, TRIPURA, North Tripura,Male,In movement,197
+16,4,Rural,40-49, TRIPURA, North Tripura,Male,In movement,169
+16,4,Rural,50-59, TRIPURA, North Tripura,Male,In movement,116
+16,4,Rural,60-69, TRIPURA, North Tripura,Male,In movement,130
+16,4,Rural,70-79, TRIPURA, North Tripura,Male,In movement,87
+16,4,Rural,80-89, TRIPURA, North Tripura,Male,In movement,42
+16,4,Rural,90+, TRIPURA, North Tripura,Male,In movement,20
+16,4,Rural,Age not stated, TRIPURA, North Tripura,Male,In movement,5
+16,4,Urban,0-4, TRIPURA, North Tripura,Male,In movement,9
+16,4,Urban,5-9, TRIPURA, North Tripura,Male,In movement,16
+16,4,Urban,10-19, TRIPURA, North Tripura,Male,In movement,18
+16,4,Urban,20-29, TRIPURA, North Tripura,Male,In movement,31
+16,4,Urban,30-39, TRIPURA, North Tripura,Male,In movement,20
+16,4,Urban,40-49, TRIPURA, North Tripura,Male,In movement,23
+16,4,Urban,50-59, TRIPURA, North Tripura,Male,In movement,17
+16,4,Urban,60-69, TRIPURA, North Tripura,Male,In movement,14
+16,4,Urban,70-79, TRIPURA, North Tripura,Male,In movement,9
+16,4,Urban,80-89, TRIPURA, North Tripura,Male,In movement,7
+16,4,Urban,90+, TRIPURA, North Tripura,Male,In movement,0
+16,4,Urban,Age not stated, TRIPURA, North Tripura,Male,In movement,0
+16,1,Rural,0-4, TRIPURA, West Tripura,Female,In movement,58
+16,1,Rural,5-9, TRIPURA, West Tripura,Female,In movement,147
+16,1,Rural,10-19, TRIPURA, West Tripura,Female,In movement,419
+16,1,Rural,20-29, TRIPURA, West Tripura,Female,In movement,221
+16,1,Rural,30-39, TRIPURA, West Tripura,Female,In movement,187
+16,1,Rural,40-49, TRIPURA, West Tripura,Female,In movement,132
+16,1,Rural,50-59, TRIPURA, West Tripura,Female,In movement,139
+16,1,Rural,60-69, TRIPURA, West Tripura,Female,In movement,197
+16,1,Rural,70-79, TRIPURA, West Tripura,Female,In movement,187
+16,1,Rural,80-89, TRIPURA, West Tripura,Female,In movement,159
+16,1,Rural,90+, TRIPURA, West Tripura,Female,In movement,94
+16,1,Rural,Age not stated, TRIPURA, West Tripura,Female,In movement,4
+16,1,Urban,0-4, TRIPURA, West Tripura,Female,In movement,18
+16,1,Urban,5-9, TRIPURA, West Tripura,Female,In movement,46
+16,1,Urban,10-19, TRIPURA, West Tripura,Female,In movement,121
+16,1,Urban,20-29, TRIPURA, West Tripura,Female,In movement,102
+16,1,Urban,30-39, TRIPURA, West Tripura,Female,In movement,93
+16,1,Urban,40-49, TRIPURA, West Tripura,Female,In movement,54
+16,1,Urban,50-59, TRIPURA, West Tripura,Female,In movement,53
+16,1,Urban,60-69, TRIPURA, West Tripura,Female,In movement,43
+16,1,Urban,70-79, TRIPURA, West Tripura,Female,In movement,61
+16,1,Urban,80-89, TRIPURA, West Tripura,Female,In movement,30
+16,1,Urban,90+, TRIPURA, West Tripura,Female,In movement,10
+16,1,Urban,Age not stated, TRIPURA, West Tripura,Female,In movement,0
+16,2,Rural,0-4, TRIPURA, South Tripura,Female,In movement,49
+16,2,Rural,5-9, TRIPURA, South Tripura,Female,In movement,103
+16,2,Rural,10-19, TRIPURA, South Tripura,Female,In movement,299
+16,2,Rural,20-29, TRIPURA, South Tripura,Female,In movement,193
+16,2,Rural,30-39, TRIPURA, South Tripura,Female,In movement,131
+16,2,Rural,40-49, TRIPURA, South Tripura,Female,In movement,104
+16,2,Rural,50-59, TRIPURA, South Tripura,Female,In movement,80
+16,2,Rural,60-69, TRIPURA, South Tripura,Female,In movement,133
+16,2,Rural,70-79, TRIPURA, South Tripura,Female,In movement,115
+16,2,Rural,80-89, TRIPURA, South Tripura,Female,In movement,90
+16,2,Rural,90+, TRIPURA, South Tripura,Female,In movement,40
+16,2,Rural,Age not stated, TRIPURA, South Tripura,Female,In movement,1
+16,2,Urban,0-4, TRIPURA, South Tripura,Female,In movement,4
+16,2,Urban,5-9, TRIPURA, South Tripura,Female,In movement,9
+16,2,Urban,10-19, TRIPURA, South Tripura,Female,In movement,39
+16,2,Urban,20-29, TRIPURA, South Tripura,Female,In movement,11
+16,2,Urban,30-39, TRIPURA, South Tripura,Female,In movement,10
+16,2,Urban,40-49, TRIPURA, South Tripura,Female,In movement,10
+16,2,Urban,50-59, TRIPURA, South Tripura,Female,In movement,7
+16,2,Urban,60-69, TRIPURA, South Tripura,Female,In movement,7
+16,2,Urban,70-79, TRIPURA, South Tripura,Female,In movement,7
+16,2,Urban,80-89, TRIPURA, South Tripura,Female,In movement,7
+16,2,Urban,90+, TRIPURA, South Tripura,Female,In movement,4
+16,2,Urban,Age not stated, TRIPURA, South Tripura,Female,In movement,0
+16,3,Rural,0-4, TRIPURA, Dhalai  *,Female,In movement,15
+16,3,Rural,5-9, TRIPURA, Dhalai  *,Female,In movement,36
+16,3,Rural,10-19, TRIPURA, Dhalai  *,Female,In movement,81
+16,3,Rural,20-29, TRIPURA, Dhalai  *,Female,In movement,48
+16,3,Rural,30-39, TRIPURA, Dhalai  *,Female,In movement,42
+16,3,Rural,40-49, TRIPURA, Dhalai  *,Female,In movement,45
+16,3,Rural,50-59, TRIPURA, Dhalai  *,Female,In movement,33
+16,3,Rural,60-69, TRIPURA, Dhalai  *,Female,In movement,43
+16,3,Rural,70-79, TRIPURA, Dhalai  *,Female,In movement,51
+16,3,Rural,80-89, TRIPURA, Dhalai  *,Female,In movement,24
+16,3,Rural,90+, TRIPURA, Dhalai  *,Female,In movement,17
+16,3,Rural,Age not stated, TRIPURA, Dhalai  *,Female,In movement,2
+16,3,Urban,0-4, TRIPURA, Dhalai  *,Female,In movement,3
+16,3,Urban,5-9, TRIPURA, Dhalai  *,Female,In movement,5
+16,3,Urban,10-19, TRIPURA, Dhalai  *,Female,In movement,8
+16,3,Urban,20-29, TRIPURA, Dhalai  *,Female,In movement,10
+16,3,Urban,30-39, TRIPURA, Dhalai  *,Female,In movement,3
+16,3,Urban,40-49, TRIPURA, Dhalai  *,Female,In movement,4
+16,3,Urban,50-59, TRIPURA, Dhalai  *,Female,In movement,2
+16,3,Urban,60-69, TRIPURA, Dhalai  *,Female,In movement,3
+16,3,Urban,70-79, TRIPURA, Dhalai  *,Female,In movement,7
+16,3,Urban,80-89, TRIPURA, Dhalai  *,Female,In movement,4
+16,3,Urban,90+, TRIPURA, Dhalai  *,Female,In movement,0
+16,3,Urban,Age not stated, TRIPURA, Dhalai  *,Female,In movement,0
+16,4,Rural,0-4, TRIPURA, North Tripura,Female,In movement,45
+16,4,Rural,5-9, TRIPURA, North Tripura,Female,In movement,89
+16,4,Rural,10-19, TRIPURA, North Tripura,Female,In movement,191
+16,4,Rural,20-29, TRIPURA, North Tripura,Female,In movement,133
+16,4,Rural,30-39, TRIPURA, North Tripura,Female,In movement,98
+16,4,Rural,40-49, TRIPURA, North Tripura,Female,In movement,68
+16,4,Rural,50-59, TRIPURA, North Tripura,Female,In movement,47
+16,4,Rural,60-69, TRIPURA, North Tripura,Female,In movement,74
+16,4,Rural,70-79, TRIPURA, North Tripura,Female,In movement,61
+16,4,Rural,80-89, TRIPURA, North Tripura,Female,In movement,40
+16,4,Rural,90+, TRIPURA, North Tripura,Female,In movement,22
+16,4,Rural,Age not stated, TRIPURA, North Tripura,Female,In movement,0
+16,4,Urban,0-4, TRIPURA, North Tripura,Female,In movement,2
+16,4,Urban,5-9, TRIPURA, North Tripura,Female,In movement,7
+16,4,Urban,10-19, TRIPURA, North Tripura,Female,In movement,21
+16,4,Urban,20-29, TRIPURA, North Tripura,Female,In movement,13
+16,4,Urban,30-39, TRIPURA, North Tripura,Female,In movement,13
+16,4,Urban,40-49, TRIPURA, North Tripura,Female,In movement,10
+16,4,Urban,50-59, TRIPURA, North Tripura,Female,In movement,5
+16,4,Urban,60-69, TRIPURA, North Tripura,Female,In movement,10
+16,4,Urban,70-79, TRIPURA, North Tripura,Female,In movement,6
+16,4,Urban,80-89, TRIPURA, North Tripura,Female,In movement,3
+16,4,Urban,90+, TRIPURA, North Tripura,Female,In movement,2
+16,4,Urban,Age not stated, TRIPURA, North Tripura,Female,In movement,0
+16,1,Rural,0-4, TRIPURA, West Tripura,Male,Mental,18
+16,1,Rural,5-9, TRIPURA, West Tripura,Male,Mental,40
+16,1,Rural,10-19, TRIPURA, West Tripura,Male,Mental,223
+16,1,Rural,20-29, TRIPURA, West Tripura,Male,Mental,267
+16,1,Rural,30-39, TRIPURA, West Tripura,Male,Mental,250
+16,1,Rural,40-49, TRIPURA, West Tripura,Male,Mental,169
+16,1,Rural,50-59, TRIPURA, West Tripura,Male,Mental,104
+16,1,Rural,60-69, TRIPURA, West Tripura,Male,Mental,49
+16,1,Rural,70-79, TRIPURA, West Tripura,Male,Mental,27
+16,1,Rural,80-89, TRIPURA, West Tripura,Male,Mental,11
+16,1,Rural,90+, TRIPURA, West Tripura,Male,Mental,5
+16,1,Rural,Age not stated, TRIPURA, West Tripura,Male,Mental,4
+16,1,Urban,0-4, TRIPURA, West Tripura,Male,Mental,5
+16,1,Urban,5-9, TRIPURA, West Tripura,Male,Mental,23
+16,1,Urban,10-19, TRIPURA, West Tripura,Male,Mental,96
+16,1,Urban,20-29, TRIPURA, West Tripura,Male,Mental,122
+16,1,Urban,30-39, TRIPURA, West Tripura,Male,Mental,112
+16,1,Urban,40-49, TRIPURA, West Tripura,Male,Mental,85
+16,1,Urban,50-59, TRIPURA, West Tripura,Male,Mental,32
+16,1,Urban,60-69, TRIPURA, West Tripura,Male,Mental,25
+16,1,Urban,70-79, TRIPURA, West Tripura,Male,Mental,9
+16,1,Urban,80-89, TRIPURA, West Tripura,Male,Mental,1
+16,1,Urban,90+, TRIPURA, West Tripura,Male,Mental,1
+16,1,Urban,Age not stated, TRIPURA, West Tripura,Male,Mental,4
+16,2,Rural,0-4, TRIPURA, South Tripura,Male,Mental,11
+16,2,Rural,5-9, TRIPURA, South Tripura,Male,Mental,43
+16,2,Rural,10-19, TRIPURA, South Tripura,Male,Mental,159
+16,2,Rural,20-29, TRIPURA, South Tripura,Male,Mental,176
+16,2,Rural,30-39, TRIPURA, South Tripura,Male,Mental,183
+16,2,Rural,40-49, TRIPURA, South Tripura,Male,Mental,117
+16,2,Rural,50-59, TRIPURA, South Tripura,Male,Mental,57
+16,2,Rural,60-69, TRIPURA, South Tripura,Male,Mental,41
+16,2,Rural,70-79, TRIPURA, South Tripura,Male,Mental,17
+16,2,Rural,80-89, TRIPURA, South Tripura,Male,Mental,9
+16,2,Rural,90+, TRIPURA, South Tripura,Male,Mental,3
+16,2,Rural,Age not stated, TRIPURA, South Tripura,Male,Mental,0
+16,2,Urban,0-4, TRIPURA, South Tripura,Male,Mental,1
+16,2,Urban,5-9, TRIPURA, South Tripura,Male,Mental,0
+16,2,Urban,10-19, TRIPURA, South Tripura,Male,Mental,10
+16,2,Urban,20-29, TRIPURA, South Tripura,Male,Mental,20
+16,2,Urban,30-39, TRIPURA, South Tripura,Male,Mental,16
+16,2,Urban,40-49, TRIPURA, South Tripura,Male,Mental,15
+16,2,Urban,50-59, TRIPURA, South Tripura,Male,Mental,9
+16,2,Urban,60-69, TRIPURA, South Tripura,Male,Mental,4
+16,2,Urban,70-79, TRIPURA, South Tripura,Male,Mental,1
+16,2,Urban,80-89, TRIPURA, South Tripura,Male,Mental,1
+16,2,Urban,90+, TRIPURA, South Tripura,Male,Mental,0
+16,2,Urban,Age not stated, TRIPURA, South Tripura,Male,Mental,0
+16,3,Rural,0-4, TRIPURA, Dhalai  *,Male,Mental,8
+16,3,Rural,5-9, TRIPURA, Dhalai  *,Male,Mental,22
+16,3,Rural,10-19, TRIPURA, Dhalai  *,Male,Mental,73
+16,3,Rural,20-29, TRIPURA, Dhalai  *,Male,Mental,69
+16,3,Rural,30-39, TRIPURA, Dhalai  *,Male,Mental,55
+16,3,Rural,40-49, TRIPURA, Dhalai  *,Male,Mental,45
+16,3,Rural,50-59, TRIPURA, Dhalai  *,Male,Mental,19
+16,3,Rural,60-69, TRIPURA, Dhalai  *,Male,Mental,10
+16,3,Rural,70-79, TRIPURA, Dhalai  *,Male,Mental,9
+16,3,Rural,80-89, TRIPURA, Dhalai  *,Male,Mental,4
+16,3,Rural,90+, TRIPURA, Dhalai  *,Male,Mental,1
+16,3,Rural,Age not stated, TRIPURA, Dhalai  *,Male,Mental,1
+16,3,Urban,0-4, TRIPURA, Dhalai  *,Male,Mental,0
+16,3,Urban,5-9, TRIPURA, Dhalai  *,Male,Mental,3
+16,3,Urban,10-19, TRIPURA, Dhalai  *,Male,Mental,5
+16,3,Urban,20-29, TRIPURA, Dhalai  *,Male,Mental,1
+16,3,Urban,30-39, TRIPURA, Dhalai  *,Male,Mental,9
+16,3,Urban,40-49, TRIPURA, Dhalai  *,Male,Mental,2
+16,3,Urban,50-59, TRIPURA, Dhalai  *,Male,Mental,3
+16,3,Urban,60-69, TRIPURA, Dhalai  *,Male,Mental,0
+16,3,Urban,70-79, TRIPURA, Dhalai  *,Male,Mental,0
+16,3,Urban,80-89, TRIPURA, Dhalai  *,Male,Mental,0
+16,3,Urban,90+, TRIPURA, Dhalai  *,Male,Mental,0
+16,3,Urban,Age not stated, TRIPURA, Dhalai  *,Male,Mental,0
+16,4,Rural,0-4, TRIPURA, North Tripura,Male,Mental,14
+16,4,Rural,5-9, TRIPURA, North Tripura,Male,Mental,32
+16,4,Rural,10-19, TRIPURA, North Tripura,Male,Mental,118
+16,4,Rural,20-29, TRIPURA, North Tripura,Male,Mental,132
+16,4,Rural,30-39, TRIPURA, North Tripura,Male,Mental,167
+16,4,Rural,40-49, TRIPURA, North Tripura,Male,Mental,95
+16,4,Rural,50-59, TRIPURA, North Tripura,Male,Mental,46
+16,4,Rural,60-69, TRIPURA, North Tripura,Male,Mental,32
+16,4,Rural,70-79, TRIPURA, North Tripura,Male,Mental,27
+16,4,Rural,80-89, TRIPURA, North Tripura,Male,Mental,10
+16,4,Rural,90+, TRIPURA, North Tripura,Male,Mental,4
+16,4,Rural,Age not stated, TRIPURA, North Tripura,Male,Mental,1
+16,4,Urban,0-4, TRIPURA, North Tripura,Male,Mental,1
+16,4,Urban,5-9, TRIPURA, North Tripura,Male,Mental,2
+16,4,Urban,10-19, TRIPURA, North Tripura,Male,Mental,8
+16,4,Urban,20-29, TRIPURA, North Tripura,Male,Mental,16
+16,4,Urban,30-39, TRIPURA, North Tripura,Male,Mental,19
+16,4,Urban,40-49, TRIPURA, North Tripura,Male,Mental,23
+16,4,Urban,50-59, TRIPURA, North Tripura,Male,Mental,5
+16,4,Urban,60-69, TRIPURA, North Tripura,Male,Mental,1
+16,4,Urban,70-79, TRIPURA, North Tripura,Male,Mental,1
+16,4,Urban,80-89, TRIPURA, North Tripura,Male,Mental,1
+16,4,Urban,90+, TRIPURA, North Tripura,Male,Mental,0
+16,4,Urban,Age not stated, TRIPURA, North Tripura,Male,Mental,1
+16,1,Rural,0-4, TRIPURA, West Tripura,Female,Mental,14
+16,1,Rural,5-9, TRIPURA, West Tripura,Female,Mental,38
+16,1,Rural,10-19, TRIPURA, West Tripura,Female,Mental,178
+16,1,Rural,20-29, TRIPURA, West Tripura,Female,Mental,197
+16,1,Rural,30-39, TRIPURA, West Tripura,Female,Mental,168
+16,1,Rural,40-49, TRIPURA, West Tripura,Female,Mental,131
+16,1,Rural,50-59, TRIPURA, West Tripura,Female,Mental,79
+16,1,Rural,60-69, TRIPURA, West Tripura,Female,Mental,68
+16,1,Rural,70-79, TRIPURA, West Tripura,Female,Mental,41
+16,1,Rural,80-89, TRIPURA, West Tripura,Female,Mental,14
+16,1,Rural,90+, TRIPURA, West Tripura,Female,Mental,7
+16,1,Rural,Age not stated, TRIPURA, West Tripura,Female,Mental,1
+16,1,Urban,0-4, TRIPURA, West Tripura,Female,Mental,5
+16,1,Urban,5-9, TRIPURA, West Tripura,Female,Mental,18
+16,1,Urban,10-19, TRIPURA, West Tripura,Female,Mental,70
+16,1,Urban,20-29, TRIPURA, West Tripura,Female,Mental,75
+16,1,Urban,30-39, TRIPURA, West Tripura,Female,Mental,56
+16,1,Urban,40-49, TRIPURA, West Tripura,Female,Mental,62
+16,1,Urban,50-59, TRIPURA, West Tripura,Female,Mental,33
+16,1,Urban,60-69, TRIPURA, West Tripura,Female,Mental,24
+16,1,Urban,70-79, TRIPURA, West Tripura,Female,Mental,7
+16,1,Urban,80-89, TRIPURA, West Tripura,Female,Mental,6
+16,1,Urban,90+, TRIPURA, West Tripura,Female,Mental,1
+16,1,Urban,Age not stated, TRIPURA, West Tripura,Female,Mental,3
+16,2,Rural,0-4, TRIPURA, South Tripura,Female,Mental,15
+16,2,Rural,5-9, TRIPURA, South Tripura,Female,Mental,40
+16,2,Rural,10-19, TRIPURA, South Tripura,Female,Mental,125
+16,2,Rural,20-29, TRIPURA, South Tripura,Female,Mental,136
+16,2,Rural,30-39, TRIPURA, South Tripura,Female,Mental,122
+16,2,Rural,40-49, TRIPURA, South Tripura,Female,Mental,98
+16,2,Rural,50-59, TRIPURA, South Tripura,Female,Mental,66
+16,2,Rural,60-69, TRIPURA, South Tripura,Female,Mental,46
+16,2,Rural,70-79, TRIPURA, South Tripura,Female,Mental,27
+16,2,Rural,80-89, TRIPURA, South Tripura,Female,Mental,12
+16,2,Rural,90+, TRIPURA, South Tripura,Female,Mental,1
+16,2,Rural,Age not stated, TRIPURA, South Tripura,Female,Mental,3
+16,2,Urban,0-4, TRIPURA, South Tripura,Female,Mental,1
+16,2,Urban,5-9, TRIPURA, South Tripura,Female,Mental,2
+16,2,Urban,10-19, TRIPURA, South Tripura,Female,Mental,10
+16,2,Urban,20-29, TRIPURA, South Tripura,Female,Mental,10
+16,2,Urban,30-39, TRIPURA, South Tripura,Female,Mental,12
+16,2,Urban,40-49, TRIPURA, South Tripura,Female,Mental,8
+16,2,Urban,50-59, TRIPURA, South Tripura,Female,Mental,6
+16,2,Urban,60-69, TRIPURA, South Tripura,Female,Mental,6
+16,2,Urban,70-79, TRIPURA, South Tripura,Female,Mental,3
+16,2,Urban,80-89, TRIPURA, South Tripura,Female,Mental,1
+16,2,Urban,90+, TRIPURA, South Tripura,Female,Mental,0
+16,2,Urban,Age not stated, TRIPURA, South Tripura,Female,Mental,0
+16,3,Rural,0-4, TRIPURA, Dhalai  *,Female,Mental,1
+16,3,Rural,5-9, TRIPURA, Dhalai  *,Female,Mental,14
+16,3,Rural,10-19, TRIPURA, Dhalai  *,Female,Mental,57
+16,3,Rural,20-29, TRIPURA, Dhalai  *,Female,Mental,49
+16,3,Rural,30-39, TRIPURA, Dhalai  *,Female,Mental,45
+16,3,Rural,40-49, TRIPURA, Dhalai  *,Female,Mental,30
+16,3,Rural,50-59, TRIPURA, Dhalai  *,Female,Mental,22
+16,3,Rural,60-69, TRIPURA, Dhalai  *,Female,Mental,14
+16,3,Rural,70-79, TRIPURA, Dhalai  *,Female,Mental,13
+16,3,Rural,80-89, TRIPURA, Dhalai  *,Female,Mental,3
+16,3,Rural,90+, TRIPURA, Dhalai  *,Female,Mental,0
+16,3,Rural,Age not stated, TRIPURA, Dhalai  *,Female,Mental,1
+16,3,Urban,0-4, TRIPURA, Dhalai  *,Female,Mental,0
+16,3,Urban,5-9, TRIPURA, Dhalai  *,Female,Mental,1
+16,3,Urban,10-19, TRIPURA, Dhalai  *,Female,Mental,1
+16,3,Urban,20-29, TRIPURA, Dhalai  *,Female,Mental,5
+16,3,Urban,30-39, TRIPURA, Dhalai  *,Female,Mental,5
+16,3,Urban,40-49, TRIPURA, Dhalai  *,Female,Mental,0
+16,3,Urban,50-59, TRIPURA, Dhalai  *,Female,Mental,4
+16,3,Urban,60-69, TRIPURA, Dhalai  *,Female,Mental,2
+16,3,Urban,70-79, TRIPURA, Dhalai  *,Female,Mental,1
+16,3,Urban,80-89, TRIPURA, Dhalai  *,Female,Mental,0
+16,3,Urban,90+, TRIPURA, Dhalai  *,Female,Mental,0
+16,3,Urban,Age not stated, TRIPURA, Dhalai  *,Female,Mental,0
+16,4,Rural,0-4, TRIPURA, North Tripura,Female,Mental,7
+16,4,Rural,5-9, TRIPURA, North Tripura,Female,Mental,30
+16,4,Rural,10-19, TRIPURA, North Tripura,Female,Mental,106
+16,4,Rural,20-29, TRIPURA, North Tripura,Female,Mental,126
+16,4,Rural,30-39, TRIPURA, North Tripura,Female,Mental,152
+16,4,Rural,40-49, TRIPURA, North Tripura,Female,Mental,83
+16,4,Rural,50-59, TRIPURA, North Tripura,Female,Mental,47
+16,4,Rural,60-69, TRIPURA, North Tripura,Female,Mental,30
+16,4,Rural,70-79, TRIPURA, North Tripura,Female,Mental,26
+16,4,Rural,80-89, TRIPURA, North Tripura,Female,Mental,10
+16,4,Rural,90+, TRIPURA, North Tripura,Female,Mental,0
+16,4,Rural,Age not stated, TRIPURA, North Tripura,Female,Mental,0
+16,4,Urban,0-4, TRIPURA, North Tripura,Female,Mental,1
+16,4,Urban,5-9, TRIPURA, North Tripura,Female,Mental,3
+16,4,Urban,10-19, TRIPURA, North Tripura,Female,Mental,9
+16,4,Urban,20-29, TRIPURA, North Tripura,Female,Mental,11
+16,4,Urban,30-39, TRIPURA, North Tripura,Female,Mental,16
+16,4,Urban,40-49, TRIPURA, North Tripura,Female,Mental,7
+16,4,Urban,50-59, TRIPURA, North Tripura,Female,Mental,7
+16,4,Urban,60-69, TRIPURA, North Tripura,Female,Mental,5
+16,4,Urban,70-79, TRIPURA, North Tripura,Female,Mental,0
+16,4,Urban,80-89, TRIPURA, North Tripura,Female,Mental,1
+16,4,Urban,90+, TRIPURA, North Tripura,Female,Mental,0
+16,4,Urban,Age not stated, TRIPURA, North Tripura,Female,Mental,0
