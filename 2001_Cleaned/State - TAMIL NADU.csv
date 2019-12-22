@@ -1,0 +1,721 @@
+Table Name,State Code,District Code,Tehsil Code,Area Name,Total/ Rural/ Urban,Age-group,Type of disablity - In seeing - Males,Type of disablity - In seeing - Females,Type of disablity - In speech - Males,Type of disablity - In speech - Females,Type of disablity - In hearing - Males,Type of disablity - In hearing - Females,Type of disablity - In movement - Males,Type of disablity - In movement - Females,Type of disablity - Mental - Males,Type of disablity - Mental - Females
+C4920,33,1,0,District - Thiruvallur  01,Rural,0-4,521,539,22,25,17,19,152,122,56,48
+C4920,33,1,0,District - Thiruvallur  01,Rural,5-9,600,578,224,154,50,53,252,194,174,118
+C4920,33,1,0,District - Thiruvallur  01,Rural,10-19,1230,1205,421,358,180,140,1211,864,334,293
+C4920,33,1,0,District - Thiruvallur  01,Rural,20-29,1318,1159,301,274,126,131,1211,654,275,228
+C4920,33,1,0,District - Thiruvallur  01,Rural,30-39,1446,983,210,179,124,182,745,407,195,173
+C4920,33,1,0,District - Thiruvallur  01,Rural,40-49,1286,902,194,131,154,170,784,371,149,101
+C4920,33,1,0,District - Thiruvallur  01,Rural,50-59,1003,930,114,91,152,189,593,313,71,49
+C4920,33,1,0,District - Thiruvallur  01,Rural,60-69,897,1038,66,78,156,207,459,259,47,50
+C4920,33,1,0,District - Thiruvallur  01,Rural,70-79,519,573,33,41,119,129,212,115,16,18
+C4920,33,1,0,District - Thiruvallur  01,Rural,80-89,185,190,5,10,36,30,60,44,4,6
+C4920,33,1,0,District - Thiruvallur  01,Rural,90+,47,43,2,2,7,9,10,12,5,2
+C4920,33,1,0,District - Thiruvallur  01,Rural,Age not stated,20,32,3,3,1,1,4,4,4,2
+C4920,33,1,0,District - Thiruvallur  01,Urban,0-4,496,493,30,28,22,17,107,101,64,54
+C4920,33,1,0,District - Thiruvallur  01,Urban,5-9,582,521,186,151,49,35,197,128,161,113
+C4920,33,1,0,District - Thiruvallur  01,Urban,10-19,1498,1276,407,346,151,110,1004,730,444,315
+C4920,33,1,0,District - Thiruvallur  01,Urban,20-29,1738,1376,364,315,132,114,1345,943,410,278
+C4920,33,1,0,District - Thiruvallur  01,Urban,30-39,2082,1096,326,219,112,145,868,515,314,227
+C4920,33,1,0,District - Thiruvallur  01,Urban,40-49,1763,785,239,137,98,145,850,350,174,147
+C4920,33,1,0,District - Thiruvallur  01,Urban,50-59,1184,621,123,96,121,117,665,259,101,72
+C4920,33,1,0,District - Thiruvallur  01,Urban,60-69,754,501,73,52,116,131,444,218,58,51
+C4920,33,1,0,District - Thiruvallur  01,Urban,70-79,323,294,35,32,81,72,175,113,18,17
+C4920,33,1,0,District - Thiruvallur  01,Urban,80-89,106,114,8,8,37,34,46,52,4,10
+C4920,33,1,0,District - Thiruvallur  01,Urban,90+,21,19,1,0,5,3,8,9,1,5
+C4920,33,1,0,District - Thiruvallur  01,Urban,Age not stated,67,50,6,6,1,2,13,14,11,7
+C4920,33,2,0,District - Chennai  02,Rural,0-4,0,0,0,0,0,0,0,0,0,0
+C4920,33,2,0,District - Chennai  02,Rural,5-9,0,0,0,0,0,0,0,0,0,0
+C4920,33,2,0,District - Chennai  02,Rural,10-19,0,0,0,0,0,0,0,0,0,0
+C4920,33,2,0,District - Chennai  02,Rural,20-29,0,0,0,0,0,0,0,0,0,0
+C4920,33,2,0,District - Chennai  02,Rural,30-39,0,0,0,0,0,0,0,0,0,0
+C4920,33,2,0,District - Chennai  02,Rural,40-49,0,0,0,0,0,0,0,0,0,0
+C4920,33,2,0,District - Chennai  02,Rural,50-59,0,0,0,0,0,0,0,0,0,0
+C4920,33,2,0,District - Chennai  02,Rural,60-69,0,0,0,0,0,0,0,0,0,0
+C4920,33,2,0,District - Chennai  02,Rural,70-79,0,0,0,0,0,0,0,0,0,0
+C4920,33,2,0,District - Chennai  02,Rural,80-89,0,0,0,0,0,0,0,0,0,0
+C4920,33,2,0,District - Chennai  02,Rural,90+,0,0,0,0,0,0,0,0,0,0
+C4920,33,2,0,District - Chennai  02,Rural,Age not stated,0,0,0,0,0,0,0,0,0,0
+C4920,33,2,0,District - Chennai  02,Urban,0-4,1234,1189,44,37,48,54,235,184,207,188
+C4920,33,2,0,District - Chennai  02,Urban,5-9,1436,1403,340,272,91,78,396,285,444,367
+C4920,33,2,0,District - Chennai  02,Urban,10-19,3706,3388,980,798,362,242,2106,1638,1385,1069
+C4920,33,2,0,District - Chennai  02,Urban,20-29,4567,4293,800,629,295,264,3358,2126,1475,994
+C4920,33,2,0,District - Chennai  02,Urban,30-39,5171,3584,525,456,232,271,2195,1243,1415,831
+C4920,33,2,0,District - Chennai  02,Urban,40-49,4566,2865,409,281,221,285,1812,871,961,619
+C4920,33,2,0,District - Chennai  02,Urban,50-59,3130,2132,257,181,249,277,1473,651,532,382
+C4920,33,2,0,District - Chennai  02,Urban,60-69,2118,1638,187,132,292,348,999,616,297,185
+C4920,33,2,0,District - Chennai  02,Urban,70-79,1156,854,94,64,226,216,505,364,150,74
+C4920,33,2,0,District - Chennai  02,Urban,80-89,309,317,26,25,80,116,177,161,39,28
+C4920,33,2,0,District - Chennai  02,Urban,90+,79,81,21,12,20,14,34,24,16,13
+C4920,33,2,0,District - Chennai  02,Urban,Age not stated,1183,993,113,95,53,50,209,172,226,155
+C4920,33,3,0,District - Kancheepuram  03,Rural,0-4,712,643,22,23,20,11,125,102,59,66
+C4920,33,3,0,District - Kancheepuram  03,Rural,5-9,776,715,220,182,69,43,264,188,129,101
+C4920,33,3,0,District - Kancheepuram  03,Rural,10-19,1623,1512,548,423,190,129,1216,906,372,310
+C4920,33,3,0,District - Kancheepuram  03,Rural,20-29,1298,1214,363,309,149,132,1181,708,280,230
+C4920,33,3,0,District - Kancheepuram  03,Rural,30-39,1157,923,231,211,160,195,766,397,238,182
+C4920,33,3,0,District - Kancheepuram  03,Rural,40-49,1077,727,202,136,167,235,836,459,161,123
+C4920,33,3,0,District - Kancheepuram  03,Rural,50-59,874,809,110,104,186,239,696,324,86,74
+C4920,33,3,0,District - Kancheepuram  03,Rural,60-69,825,952,85,59,221,221,518,278,45,50
+C4920,33,3,0,District - Kancheepuram  03,Rural,70-79,548,461,26,27,140,116,294,148,16,18
+C4920,33,3,0,District - Kancheepuram  03,Rural,80-89,228,166,15,13,56,42,82,64,6,8
+C4920,33,3,0,District - Kancheepuram  03,Rural,90+,35,35,4,6,9,6,13,12,3,0
+C4920,33,3,0,District - Kancheepuram  03,Rural,Age not stated,41,40,4,4,4,1,11,14,4,8
+C4920,33,3,0,District - Kancheepuram  03,Urban,0-4,636,605,23,24,20,17,133,97,71,52
+C4920,33,3,0,District - Kancheepuram  03,Urban,5-9,741,659,178,153,61,33,208,137,129,124
+C4920,33,3,0,District - Kancheepuram  03,Urban,10-19,1563,1470,452,334,162,111,1064,843,418,355
+C4920,33,3,0,District - Kancheepuram  03,Urban,20-29,1665,1546,378,275,122,113,1265,871,429,293
+C4920,33,3,0,District - Kancheepuram  03,Urban,30-39,1596,1180,273,214,106,148,839,499,336,217
+C4920,33,3,0,District - Kancheepuram  03,Urban,40-49,1292,841,182,121,158,173,794,415,220,138
+C4920,33,3,0,District - Kancheepuram  03,Urban,50-59,893,663,126,93,140,167,605,296,119,74
+C4920,33,3,0,District - Kancheepuram  03,Urban,60-69,680,657,77,68,133,183,430,256,52,56
+C4920,33,3,0,District - Kancheepuram  03,Urban,70-79,403,346,43,25,127,105,242,157,23,21
+C4920,33,3,0,District - Kancheepuram  03,Urban,80-89,155,118,8,9,63,41,85,68,14,11
+C4920,33,3,0,District - Kancheepuram  03,Urban,90+,16,32,2,1,9,4,10,6,3,3
+C4920,33,3,0,District - Kancheepuram  03,Urban,Age not stated,46,27,9,4,3,5,6,4,1,6
+C4920,33,4,0,District - Vellore  04,Rural,0-4,909,849,40,22,30,20,219,145,124,89
+C4920,33,4,0,District - Vellore  04,Rural,5-9,1073,1043,379,281,60,70,410,279,246,174
+C4920,33,4,0,District - Vellore  04,Rural,10-19,2210,2103,710,633,189,169,1792,1154,640,469
+C4920,33,4,0,District - Vellore  04,Rural,20-29,1878,1629,478,424,145,146,1593,981,498,437
+C4920,33,4,0,District - Vellore  04,Rural,30-39,1694,1248,377,329,176,185,1230,705,455,359
+C4920,33,4,0,District - Vellore  04,Rural,40-49,1566,1064,292,210,201,227,1279,625,332,229
+C4920,33,4,0,District - Vellore  04,Rural,50-59,1150,1035,179,128,186,208,1019,510,183,138
+C4920,33,4,0,District - Vellore  04,Rural,60-69,1049,1222,92,94,216,236,914,482,106,106
+C4920,33,4,0,District - Vellore  04,Rural,70-79,726,696,52,49,180,185,485,300,42,50
+C4920,33,4,0,District - Vellore  04,Rural,80-89,249,252,11,31,69,75,159,147,12,17
+C4920,33,4,0,District - Vellore  04,Rural,90+,60,73,6,2,16,18,23,43,4,6
+C4920,33,4,0,District - Vellore  04,Rural,Age not stated,40,43,12,9,4,2,22,17,7,7
+C4920,33,4,0,District - Vellore  04,Urban,0-4,788,717,27,24,16,17,118,86,72,55
+C4920,33,4,0,District - Vellore  04,Urban,5-9,890,852,215,163,38,34,209,136,154,109
+C4920,33,4,0,District - Vellore  04,Urban,10-19,2032,2028,379,305,90,84,1015,735,437,331
+C4920,33,4,0,District - Vellore  04,Urban,20-29,1816,1546,232,210,79,57,869,574,319,255
+C4920,33,4,0,District - Vellore  04,Urban,30-39,1579,1061,198,162,69,88,620,351,300,195
+C4920,33,4,0,District - Vellore  04,Urban,40-49,1388,779,124,120,69,85,649,350,202,132
+C4920,33,4,0,District - Vellore  04,Urban,50-59,893,632,95,71,82,86,544,206,106,68
+C4920,33,4,0,District - Vellore  04,Urban,60-69,639,618,58,33,83,126,356,218,64,49
+C4920,33,4,0,District - Vellore  04,Urban,70-79,351,385,20,22,71,74,171,113,17,24
+C4920,33,4,0,District - Vellore  04,Urban,80-89,98,130,6,6,24,39,50,58,1,4
+C4920,33,4,0,District - Vellore  04,Urban,90+,31,35,2,2,6,8,8,18,3,2
+C4920,33,4,0,District - Vellore  04,Urban,Age not stated,59,42,11,3,3,0,18,8,8,7
+C4920,33,5,0,District - Dharmapuri  05,Rural,0-4,512,426,53,42,24,6,249,146,81,49
+C4920,33,5,0,District - Dharmapuri  05,Rural,5-9,659,573,404,296,87,61,554,333,207,165
+C4920,33,5,0,District - Dharmapuri  05,Rural,10-19,1751,2084,755,604,174,137,1747,1206,510,345
+C4920,33,5,0,District - Dharmapuri  05,Rural,20-29,1984,9406,436,374,89,102,1378,800,322,317
+C4920,33,5,0,District - Dharmapuri  05,Rural,30-39,1471,10921,358,303,87,107,984,561,326,269
+C4920,33,5,0,District - Dharmapuri  05,Rural,40-49,1041,7079,232,178,103,105,979,430,197,154
+C4920,33,5,0,District - Dharmapuri  05,Rural,50-59,661,3969,140,105,103,112,752,339,114,78
+C4920,33,5,0,District - Dharmapuri  05,Rural,60-69,727,2318,69,92,174,213,529,330,68,56
+C4920,33,5,0,District - Dharmapuri  05,Rural,70-79,509,810,53,42,145,116,310,191,31,23
+C4920,33,5,0,District - Dharmapuri  05,Rural,80-89,218,305,12,18,87,70,129,75,8,9
+C4920,33,5,0,District - Dharmapuri  05,Rural,90+,58,79,0,1,27,21,29,32,0,3
+C4920,33,5,0,District - Dharmapuri  05,Rural,Age not stated,32,35,4,8,3,2,6,8,2,1
+C4920,33,5,0,District - Dharmapuri  05,Urban,0-4,63,52,4,4,2,4,50,38,7,11
+C4920,33,5,0,District - Dharmapuri  05,Urban,5-9,114,96,55,46,10,8,87,54,61,35
+C4920,33,5,0,District - Dharmapuri  05,Urban,10-19,272,307,120,85,23,25,317,237,141,74
+C4920,33,5,0,District - Dharmapuri  05,Urban,20-29,441,1564,95,81,11,21,305,189,87,66
+C4920,33,5,0,District - Dharmapuri  05,Urban,30-39,274,1723,89,47,25,23,203,139,59,34
+C4920,33,5,0,District - Dharmapuri  05,Urban,40-49,159,1076,47,27,11,17,190,93,50,28
+C4920,33,5,0,District - Dharmapuri  05,Urban,50-59,124,568,31,20,17,13,128,49,32,13
+C4920,33,5,0,District - Dharmapuri  05,Urban,60-69,86,287,16,21,14,24,100,60,13,18
+C4920,33,5,0,District - Dharmapuri  05,Urban,70-79,58,93,2,6,14,28,42,46,11,2
+C4920,33,5,0,District - Dharmapuri  05,Urban,80-89,21,27,3,3,5,9,20,2,1,1
+C4920,33,5,0,District - Dharmapuri  05,Urban,90+,6,9,0,0,3,4,2,7,0,1
+C4920,33,5,0,District - Dharmapuri  05,Urban,Age not stated,12,3,0,0,0,1,0,1,0,1
+C4920,33,6,0,District - Tiruvannamalai  06,Rural,0-4,397,377,36,31,24,12,180,117,79,70
+C4920,33,6,0,District - Tiruvannamalai  06,Rural,5-9,467,453,348,257,86,62,338,246,243,154
+C4920,33,6,0,District - Tiruvannamalai  06,Rural,10-19,1125,1052,701,553,229,211,1471,1169,502,434
+C4920,33,6,0,District - Tiruvannamalai  06,Rural,20-29,1341,909,434,357,155,126,1294,782,367,344
+C4920,33,6,0,District - Tiruvannamalai  06,Rural,30-39,1896,894,314,270,160,201,804,509,272,265
+C4920,33,6,0,District - Tiruvannamalai  06,Rural,40-49,1934,950,227,184,216,217,947,436,235,151
+C4920,33,6,0,District - Tiruvannamalai  06,Rural,50-59,1558,1028,136,116,225,272,876,475,119,119
+C4920,33,6,0,District - Tiruvannamalai  06,Rural,60-69,1398,1207,110,100,241,279,707,362,88,81
+C4920,33,6,0,District - Tiruvannamalai  06,Rural,70-79,906,692,47,38,205,166,383,189,31,33
+C4920,33,6,0,District - Tiruvannamalai  06,Rural,80-89,332,214,7,8,89,65,110,58,12,10
+C4920,33,6,0,District - Tiruvannamalai  06,Rural,90+,58,47,4,3,16,7,19,19,0,0
+C4920,33,6,0,District - Tiruvannamalai  06,Rural,Age not stated,70,49,5,6,2,4,18,14,7,4
+C4920,33,6,0,District - Tiruvannamalai  06,Urban,0-4,53,56,4,5,7,6,43,28,11,14
+C4920,33,6,0,District - Tiruvannamalai  06,Urban,5-9,52,45,40,29,12,12,59,47,43,26
+C4920,33,6,0,District - Tiruvannamalai  06,Urban,10-19,171,174,98,81,43,29,401,287,133,104
+C4920,33,6,0,District - Tiruvannamalai  06,Urban,20-29,175,122,90,64,28,21,289,209,110,91
+C4920,33,6,0,District - Tiruvannamalai  06,Urban,30-39,268,110,54,47,29,30,175,125,86,53
+C4920,33,6,0,District - Tiruvannamalai  06,Urban,40-49,270,106,46,32,29,45,171,113,50,45
+C4920,33,6,0,District - Tiruvannamalai  06,Urban,50-59,177,111,16,17,26,44,167,83,29,18
+C4920,33,6,0,District - Tiruvannamalai  06,Urban,60-69,157,119,17,15,31,49,128,57,13,12
+C4920,33,6,0,District - Tiruvannamalai  06,Urban,70-79,71,64,9,4,39,36,54,43,4,3
+C4920,33,6,0,District - Tiruvannamalai  06,Urban,80-89,28,32,3,4,13,20,16,5,1,2
+C4920,33,6,0,District - Tiruvannamalai  06,Urban,90+,9,9,1,2,5,2,0,7,0,0
+C4920,33,6,0,District - Tiruvannamalai  06,Urban,Age not stated,0,1,1,1,0,1,1,2,1,1
+C4920,33,7,0,District - Viluppuram  07,Rural,0-4,994,931,43,43,30,27,266,179,101,77
+C4920,33,7,0,District - Viluppuram  07,Rural,5-9,1204,1193,437,373,87,98,493,313,279,203
+C4920,33,7,0,District - Viluppuram  07,Rural,10-19,2857,2710,916,727,283,216,2322,1701,607,460
+C4920,33,7,0,District - Viluppuram  07,Rural,20-29,2354,1889,510,427,159,134,1796,1073,436,338
+C4920,33,7,0,District - Viluppuram  07,Rural,30-39,1958,1704,374,320,170,255,1177,690,348,281
+C4920,33,7,0,District - Viluppuram  07,Rural,40-49,1833,1409,241,204,196,269,1141,626,239,215
+C4920,33,7,0,District - Viluppuram  07,Rural,50-59,1443,1338,176,125,241,243,1080,567,148,119
+C4920,33,7,0,District - Viluppuram  07,Rural,60-69,1469,1432,115,115,226,268,914,479,85,74
+C4920,33,7,0,District - Viluppuram  07,Rural,70-79,916,801,69,37,186,158,488,222,39,30
+C4920,33,7,0,District - Viluppuram  07,Rural,80-89,326,234,26,12,91,50,154,83,11,8
+C4920,33,7,0,District - Viluppuram  07,Rural,90+,77,47,4,4,13,11,30,19,3,1
+C4920,33,7,0,District - Viluppuram  07,Rural,Age not stated,105,87,12,10,9,11,22,15,9,7
+C4920,33,7,0,District - Viluppuram  07,Urban,0-4,111,118,2,5,4,0,38,28,15,12
+C4920,33,7,0,District - Viluppuram  07,Urban,5-9,126,150,40,36,11,4,89,57,38,34
+C4920,33,7,0,District - Viluppuram  07,Urban,10-19,355,321,126,100,37,31,470,309,117,95
+C4920,33,7,0,District - Viluppuram  07,Urban,20-29,277,291,60,71,13,30,364,215,110,81
+C4920,33,7,0,District - Viluppuram  07,Urban,30-39,237,216,47,43,27,34,214,118,70,70
+C4920,33,7,0,District - Viluppuram  07,Urban,40-49,202,162,33,28,21,31,183,96,50,37
+C4920,33,7,0,District - Viluppuram  07,Urban,50-59,155,149,18,21,28,36,152,64,27,17
+C4920,33,7,0,District - Viluppuram  07,Urban,60-69,137,140,11,10,31,43,116,64,14,10
+C4920,33,7,0,District - Viluppuram  07,Urban,70-79,83,69,10,2,27,35,61,34,6,2
+C4920,33,7,0,District - Viluppuram  07,Urban,80-89,34,30,1,6,7,10,13,6,2,3
+C4920,33,7,0,District - Viluppuram  07,Urban,90+,9,9,0,1,3,1,2,3,2,1
+C4920,33,7,0,District - Viluppuram  07,Urban,Age not stated,6,2,1,0,1,1,0,2,3,0
+C4920,33,8,0,District - Salem  08,Rural,0-4,359,298,33,21,13,8,135,61,46,33
+C4920,33,8,0,District - Salem  08,Rural,5-9,454,404,204,115,25,16,274,156,111,67
+C4920,33,8,0,District - Salem  08,Rural,10-19,935,715,440,279,113,74,1145,632,335,204
+C4920,33,8,0,District - Salem  08,Rural,20-29,893,647,276,232,73,69,911,529,300,200
+C4920,33,8,0,District - Salem  08,Rural,30-39,869,588,232,213,59,68,681,380,246,159
+C4920,33,8,0,District - Salem  08,Rural,40-49,771,576,163,142,71,82,686,315,210,145
+C4920,33,8,0,District - Salem  08,Rural,50-59,628,504,96,87,75,91,622,293,93,63
+C4920,33,8,0,District - Salem  08,Rural,60-69,556,549,50,43,95,133,451,247,50,46
+C4920,33,8,0,District - Salem  08,Rural,70-79,366,384,38,29,74,99,205,126,45,24
+C4920,33,8,0,District - Salem  08,Rural,80-89,158,131,8,11,41,36,83,47,7,10
+C4920,33,8,0,District - Salem  08,Rural,90+,22,35,3,1,11,9,21,10,3,3
+C4920,33,8,0,District - Salem  08,Rural,Age not stated,33,21,7,4,2,2,13,6,4,2
+C4920,33,8,0,District - Salem  08,Urban,0-4,387,346,14,8,4,1,122,73,49,45
+C4920,33,8,0,District - Salem  08,Urban,5-9,467,412,156,93,23,20,186,105,99,104
+C4920,33,8,0,District - Salem  08,Urban,10-19,1052,917,321,232,81,48,979,648,288,227
+C4920,33,8,0,District - Salem  08,Urban,20-29,980,865,233,198,64,62,886,624,239,180
+C4920,33,8,0,District - Salem  08,Urban,30-39,1119,751,169,136,54,74,643,374,256,196
+C4920,33,8,0,District - Salem  08,Urban,40-49,945,591,158,101,63,76,572,279,187,134
+C4920,33,8,0,District - Salem  08,Urban,50-59,668,471,79,71,57,83,419,212,103,78
+C4920,33,8,0,District - Salem  08,Urban,60-69,458,408,44,40,67,94,317,178,50,40
+C4920,33,8,0,District - Salem  08,Urban,70-79,261,195,30,20,46,62,154,93,34,20
+C4920,33,8,0,District - Salem  08,Urban,80-89,75,102,8,3,29,38,50,50,8,4
+C4920,33,8,0,District - Salem  08,Urban,90+,22,20,3,1,4,4,12,13,1,2
+C4920,33,8,0,District - Salem  08,Urban,Age not stated,52,42,5,4,1,3,11,9,10,9
+C4920,33,9,0,District - Namakkal   *  09,Rural,0-4,289,232,12,10,5,2,72,34,35,33
+C4920,33,9,0,District - Namakkal   *  09,Rural,5-9,324,318,97,52,14,9,131,76,55,60
+C4920,33,9,0,District - Namakkal   *  09,Rural,10-19,915,742,195,188,43,40,458,310,177,120
+C4920,33,9,0,District - Namakkal   *  09,Rural,20-29,758,564,163,150,55,59,511,290,182,114
+C4920,33,9,0,District - Namakkal   *  09,Rural,30-39,771,506,125,139,42,68,368,236,164,127
+C4920,33,9,0,District - Namakkal   *  09,Rural,40-49,750,444,111,90,50,58,397,218,130,100
+C4920,33,9,0,District - Namakkal   *  09,Rural,50-59,586,447,69,55,66,110,415,195,83,61
+C4920,33,9,0,District - Namakkal   *  09,Rural,60-69,486,467,60,56,79,99,291,169,56,53
+C4920,33,9,0,District - Namakkal   *  09,Rural,70-79,293,304,20,25,78,86,175,108,26,17
+C4920,33,9,0,District - Namakkal   *  09,Rural,80-89,106,88,4,2,36,42,45,41,5,7
+C4920,33,9,0,District - Namakkal   *  09,Rural,90+,18,25,4,1,6,12,10,8,2,2
+C4920,33,9,0,District - Namakkal   *  09,Rural,Age not stated,49,49,3,8,1,4,17,6,5,9
+C4920,33,9,0,District - Namakkal   *  09,Urban,0-4,173,161,1,4,3,2,37,28,17,19
+C4920,33,9,0,District - Namakkal   *  09,Urban,5-9,241,231,50,37,9,4,72,51,38,24
+C4920,33,9,0,District - Namakkal   *  09,Urban,10-19,506,479,115,86,17,24,370,285,99,83
+C4920,33,9,0,District - Namakkal   *  09,Urban,20-29,521,448,95,71,20,26,349,228,102,73
+C4920,33,9,0,District - Namakkal   *  09,Urban,30-39,543,331,82,63,17,32,244,158,87,72
+C4920,33,9,0,District - Namakkal   *  09,Urban,40-49,495,310,53,52,35,45,231,135,75,48
+C4920,33,9,0,District - Namakkal   *  09,Urban,50-59,427,256,47,24,28,46,234,85,45,33
+C4920,33,9,0,District - Namakkal   *  09,Urban,60-69,261,228,37,28,39,54,153,80,28,22
+C4920,33,9,0,District - Namakkal   *  09,Urban,70-79,117,132,14,3,21,33,62,44,7,4
+C4920,33,9,0,District - Namakkal   *  09,Urban,80-89,48,52,2,4,10,12,15,23,11,3
+C4920,33,9,0,District - Namakkal   *  09,Urban,90+,14,14,0,0,2,2,6,7,1,0
+C4920,33,9,0,District - Namakkal   *  09,Urban,Age not stated,37,36,6,2,5,6,23,9,7,2
+C4920,33,10,0,District - Erode  10,Rural,0-4,225,225,21,16,5,8,93,54,44,30
+C4920,33,10,0,District - Erode  10,Rural,5-9,293,293,126,111,21,10,166,121,118,90
+C4920,33,10,0,District - Erode  10,Rural,10-19,826,809,295,255,55,69,548,449,296,218
+C4920,33,10,0,District - Erode  10,Rural,20-29,1121,2746,276,201,58,63,605,392,248,210
+C4920,33,10,0,District - Erode  10,Rural,30-39,1214,3709,221,197,51,78,552,330,272,218
+C4920,33,10,0,District - Erode  10,Rural,40-49,1041,3053,178,160,74,97,612,315,201,180
+C4920,33,10,0,District - Erode  10,Rural,50-59,821,2144,114,91,66,117,529,274,121,91
+C4920,33,10,0,District - Erode  10,Rural,60-69,700,1351,78,70,113,178,481,227,87,61
+C4920,33,10,0,District - Erode  10,Rural,70-79,509,636,32,32,157,157,255,153,43,37
+C4920,33,10,0,District - Erode  10,Rural,80-89,206,253,8,17,79,73,94,82,13,15
+C4920,33,10,0,District - Erode  10,Rural,90+,64,61,1,6,15,14,16,23,1,6
+C4920,33,10,0,District - Erode  10,Rural,Age not stated,23,35,2,4,1,3,8,3,6,2
+C4920,33,10,0,District - Erode  10,Urban,0-4,254,214,6,16,6,3,66,53,35,28
+C4920,33,10,0,District - Erode  10,Urban,5-9,287,283,96,81,30,18,158,102,91,74
+C4920,33,10,0,District - Erode  10,Urban,10-19,817,777,243,204,67,55,678,482,243,193
+C4920,33,10,0,District - Erode  10,Urban,20-29,1070,3029,204,178,42,39,628,466,231,167
+C4920,33,10,0,District - Erode  10,Urban,30-39,1134,3934,176,152,38,63,503,286,218,152
+C4920,33,10,0,District - Erode  10,Urban,40-49,949,2894,131,105,56,82,502,249,159,116
+C4920,33,10,0,District - Erode  10,Urban,50-59,642,1766,93,73,62,103,436,208,87,67
+C4920,33,10,0,District - Erode  10,Urban,60-69,525,963,51,34,71,91,345,148,48,56
+C4920,33,10,0,District - Erode  10,Urban,70-79,301,365,34,25,89,80,169,81,24,17
+C4920,33,10,0,District - Erode  10,Urban,80-89,130,136,9,3,27,44,47,31,7,5
+C4920,33,10,0,District - Erode  10,Urban,90+,18,34,1,3,8,4,10,23,1,1
+C4920,33,10,0,District - Erode  10,Urban,Age not stated,23,21,3,2,3,0,8,2,1,1
+C4920,33,11,0,District - The Nilgiris  11,Rural,0-4,214,170,7,4,3,3,36,15,10,3
+C4920,33,11,0,District - The Nilgiris  11,Rural,5-9,206,173,27,21,7,5,45,35,21,24
+C4920,33,11,0,District - The Nilgiris  11,Rural,10-19,426,414,66,52,27,14,134,138,72,64
+C4920,33,11,0,District - The Nilgiris  11,Rural,20-29,443,381,58,72,27,29,244,135,64,70
+C4920,33,11,0,District - The Nilgiris  11,Rural,30-39,493,335,45,45,22,29,188,135,68,48
+C4920,33,11,0,District - The Nilgiris  11,Rural,40-49,514,268,39,33,35,34,235,112,41,57
+C4920,33,11,0,District - The Nilgiris  11,Rural,50-59,330,215,29,18,23,31,177,80,25,30
+C4920,33,11,0,District - The Nilgiris  11,Rural,60-69,215,219,11,10,36,37,132,70,13,23
+C4920,33,11,0,District - The Nilgiris  11,Rural,70-79,93,104,5,8,18,20,39,23,4,8
+C4920,33,11,0,District - The Nilgiris  11,Rural,80-89,33,44,2,0,4,8,8,14,2,1
+C4920,33,11,0,District - The Nilgiris  11,Rural,90+,7,10,1,0,1,3,0,0,0,0
+C4920,33,11,0,District - The Nilgiris  11,Rural,Age not stated,11,5,1,1,0,0,2,0,0,0
+C4920,33,11,0,District - The Nilgiris  11,Urban,0-4,305,278,8,7,7,6,31,23,15,14
+C4920,33,11,0,District - The Nilgiris  11,Urban,5-9,290,327,44,33,26,21,64,36,42,25
+C4920,33,11,0,District - The Nilgiris  11,Urban,10-19,690,688,79,82,61,60,205,156,130,106
+C4920,33,11,0,District - The Nilgiris  11,Urban,20-29,684,575,58,67,42,29,290,223,103,83
+C4920,33,11,0,District - The Nilgiris  11,Urban,30-39,804,406,56,48,23,42,248,145,69,68
+C4920,33,11,0,District - The Nilgiris  11,Urban,40-49,701,387,57,36,25,43,236,134,56,43
+C4920,33,11,0,District - The Nilgiris  11,Urban,50-59,514,336,35,17,33,49,209,124,22,27
+C4920,33,11,0,District - The Nilgiris  11,Urban,60-69,258,253,19,13,34,58,152,79,20,14
+C4920,33,11,0,District - The Nilgiris  11,Urban,70-79,117,123,6,6,26,25,48,43,8,5
+C4920,33,11,0,District - The Nilgiris  11,Urban,80-89,41,46,2,3,9,15,14,14,1,2
+C4920,33,11,0,District - The Nilgiris  11,Urban,90+,6,10,1,0,1,3,3,3,0,0
+C4920,33,11,0,District - The Nilgiris  11,Urban,Age not stated,12,14,1,0,0,0,0,3,0,0
+C4920,33,12,0,District - Coimbatore  12,Rural,0-4,442,448,15,11,7,7,111,78,49,55
+C4920,33,12,0,District - Coimbatore  12,Rural,5-9,498,491,140,115,16,20,190,125,122,93
+C4920,33,12,0,District - Coimbatore  12,Rural,10-19,1182,1162,297,285,64,38,644,451,301,256
+C4920,33,12,0,District - Coimbatore  12,Rural,20-29,1671,3443,268,266,65,75,740,461,341,271
+C4920,33,12,0,District - Coimbatore  12,Rural,30-39,1766,4127,262,220,75,72,643,418,334,271
+C4920,33,12,0,District - Coimbatore  12,Rural,40-49,1524,3252,167,148,87,98,683,321,321,169
+C4920,33,12,0,District - Coimbatore  12,Rural,50-59,1177,2192,114,89,99,130,574,293,172,108
+C4920,33,12,0,District - Coimbatore  12,Rural,60-69,827,1406,62,65,143,146,441,222,75,65
+C4920,33,12,0,District - Coimbatore  12,Rural,70-79,534,659,37,33,155,141,232,153,45,34
+C4920,33,12,0,District - Coimbatore  12,Rural,80-89,218,215,18,18,76,65,86,91,16,9
+C4920,33,12,0,District - Coimbatore  12,Rural,90+,45,67,3,1,22,26,16,14,2,5
+C4920,33,12,0,District - Coimbatore  12,Rural,Age not stated,130,108,10,5,5,4,19,12,11,7
+C4920,33,12,0,District - Coimbatore  12,Urban,0-4,1047,1033,27,32,22,19,156,98,105,94
+C4920,33,12,0,District - Coimbatore  12,Urban,5-9,1080,1085,235,188,41,44,272,178,229,189
+C4920,33,12,0,District - Coimbatore  12,Urban,10-19,2754,2630,597,427,123,101,1121,806,612,488
+C4920,33,12,0,District - Coimbatore  12,Urban,20-29,3989,6534,510,417,139,121,1365,895,708,542
+C4920,33,12,0,District - Coimbatore  12,Urban,30-39,3913,6830,429,311,126,153,1100,629,669,402
+C4920,33,12,0,District - Coimbatore  12,Urban,40-49,3266,5039,304,240,148,166,1068,531,473,279
+C4920,33,12,0,District - Coimbatore  12,Urban,50-59,2150,3031,206,145,134,163,869,401,290,165
+C4920,33,12,0,District - Coimbatore  12,Urban,60-69,1346,1690,113,83,137,177,616,303,131,98
+C4920,33,12,0,District - Coimbatore  12,Urban,70-79,651,737,55,51,126,148,302,192,49,54
+C4920,33,12,0,District - Coimbatore  12,Urban,80-89,240,262,23,8,74,79,115,67,23,22
+C4920,33,12,0,District - Coimbatore  12,Urban,90+,59,65,1,4,12,17,17,19,6,6
+C4920,33,12,0,District - Coimbatore  12,Urban,Age not stated,311,345,27,11,12,8,50,37,33,24
+C4920,33,13,0,District - Dindigul  13,Rural,0-4,544,578,21,20,8,5,112,52,54,50
+C4920,33,13,0,District - Dindigul  13,Rural,5-9,633,579,166,136,39,19,188,134,146,89
+C4920,33,13,0,District - Dindigul  13,Rural,10-19,1535,1571,374,300,114,78,744,546,325,267
+C4920,33,13,0,District - Dindigul  13,Rural,20-29,1689,4132,273,235,54,59,674,442,277,214
+C4920,33,13,0,District - Dindigul  13,Rural,30-39,1842,4904,173,196,50,69,495,288,231,201
+C4920,33,13,0,District - Dindigul  13,Rural,40-49,1463,3898,142,141,63,79,468,258,170,131
+C4920,33,13,0,District - Dindigul  13,Rural,50-59,1102,2797,85,74,76,96,439,235,109,85
+C4920,33,13,0,District - Dindigul  13,Rural,60-69,838,1464,69,60,111,101,313,203,71,45
+C4920,33,13,0,District - Dindigul  13,Rural,70-79,454,506,26,22,71,71,148,116,33,25
+C4920,33,13,0,District - Dindigul  13,Rural,80-89,140,173,7,10,34,22,47,42,5,2
+C4920,33,13,0,District - Dindigul  13,Rural,90+,38,50,1,4,3,1,8,12,5,1
+C4920,33,13,0,District - Dindigul  13,Rural,Age not stated,58,109,5,2,10,2,19,9,12,9
+C4920,33,13,0,District - Dindigul  13,Urban,0-4,284,273,13,8,2,4,45,34,42,36
+C4920,33,13,0,District - Dindigul  13,Urban,5-9,293,318,60,56,8,10,77,71,76,54
+C4920,33,13,0,District - Dindigul  13,Urban,10-19,779,839,189,151,38,28,434,356,204,135
+C4920,33,13,0,District - Dindigul  13,Urban,20-29,816,1745,148,103,29,28,511,266,172,130
+C4920,33,13,0,District - Dindigul  13,Urban,30-39,864,1848,97,99,40,49,304,183,190,119
+C4920,33,13,0,District - Dindigul  13,Urban,40-49,691,1325,66,45,27,46,261,157,107,82
+C4920,33,13,0,District - Dindigul  13,Urban,50-59,515,876,55,52,38,73,262,155,64,44
+C4920,33,13,0,District - Dindigul  13,Urban,60-69,398,505,35,32,43,67,191,102,36,29
+C4920,33,13,0,District - Dindigul  13,Urban,70-79,202,220,16,15,35,39,87,46,11,17
+C4920,33,13,0,District - Dindigul  13,Urban,80-89,58,65,1,6,11,21,31,19,2,6
+C4920,33,13,0,District - Dindigul  13,Urban,90+,11,20,2,2,3,2,3,8,2,1
+C4920,33,13,0,District - Dindigul  13,Urban,Age not stated,36,42,3,4,2,0,5,8,9,4
+C4920,33,14,0,District - Karur  *  14,Rural,0-4,101,120,12,5,7,4,52,36,17,11
+C4920,33,14,0,District - Karur  *  14,Rural,5-9,138,108,79,66,12,13,103,92,45,31
+C4920,33,14,0,District - Karur  *  14,Rural,10-19,299,275,173,145,52,31,440,325,101,111
+C4920,33,14,0,District - Karur  *  14,Rural,20-29,309,270,142,103,34,22,376,239,110,90
+C4920,33,14,0,District - Karur  *  14,Rural,30-39,307,250,104,109,30,41,266,161,118,70
+C4920,33,14,0,District - Karur  *  14,Rural,40-49,300,228,63,62,28,48,230,162,68,64
+C4920,33,14,0,District - Karur  *  14,Rural,50-59,279,229,50,50,45,62,253,133,38,29
+C4920,33,14,0,District - Karur  *  14,Rural,60-69,233,265,26,26,59,63,185,92,29,34
+C4920,33,14,0,District - Karur  *  14,Rural,70-79,164,180,17,10,55,44,88,62,17,7
+C4920,33,14,0,District - Karur  *  14,Rural,80-89,72,63,6,4,27,25,25,16,1,1
+C4920,33,14,0,District - Karur  *  14,Rural,90+,20,16,0,0,0,6,5,4,0,0
+C4920,33,14,0,District - Karur  *  14,Rural,Age not stated,4,6,0,1,0,0,3,0,0,0
+C4920,33,14,0,District - Karur  *  14,Urban,0-4,47,48,1,5,2,2,20,16,9,10
+C4920,33,14,0,District - Karur  *  14,Urban,5-9,64,56,28,27,11,2,34,33,26,22
+C4920,33,14,0,District - Karur  *  14,Urban,10-19,141,133,69,67,28,18,183,143,73,57
+C4920,33,14,0,District - Karur  *  14,Urban,20-29,114,138,49,58,14,15,205,140,57,59
+C4920,33,14,0,District - Karur  *  14,Urban,30-39,185,125,37,46,11,26,145,71,57,46
+C4920,33,14,0,District - Karur  *  14,Urban,40-49,131,97,25,19,23,24,159,77,29,24
+C4920,33,14,0,District - Karur  *  14,Urban,50-59,110,91,17,12,17,35,120,64,24,18
+C4920,33,14,0,District - Karur  *  14,Urban,60-69,86,81,11,13,25,37,77,44,21,8
+C4920,33,14,0,District - Karur  *  14,Urban,70-79,55,39,9,4,18,18,34,17,6,3
+C4920,33,14,0,District - Karur  *  14,Urban,80-89,16,18,4,3,5,10,5,12,2,0
+C4920,33,14,0,District - Karur  *  14,Urban,90+,3,6,0,0,1,2,2,3,0,1
+C4920,33,14,0,District - Karur  *  14,Urban,Age not stated,3,1,0,0,1,0,2,2,4,4
+C4920,33,15,0,District - Tiruchirappalli  15,Rural,0-4,564,584,25,25,13,6,143,85,43,48
+C4920,33,15,0,District - Tiruchirappalli  15,Rural,5-9,668,632,223,162,51,19,223,165,140,91
+C4920,33,15,0,District - Tiruchirappalli  15,Rural,10-19,1629,1519,502,383,109,68,1022,772,301,254
+C4920,33,15,0,District - Tiruchirappalli  15,Rural,20-29,1652,3068,351,310,81,68,845,550,239,203
+C4920,33,15,0,District - Tiruchirappalli  15,Rural,30-39,1503,3754,274,241,88,90,558,357,231,181
+C4920,33,15,0,District - Tiruchirappalli  15,Rural,40-49,1293,2986,188,162,103,115,541,292,155,120
+C4920,33,15,0,District - Tiruchirappalli  15,Rural,50-59,996,2003,130,98,120,136,470,262,79,66
+C4920,33,15,0,District - Tiruchirappalli  15,Rural,60-69,800,1220,79,75,137,160,356,201,40,45
+C4920,33,15,0,District - Tiruchirappalli  15,Rural,70-79,402,457,47,35,78,85,174,107,14,20
+C4920,33,15,0,District - Tiruchirappalli  15,Rural,80-89,135,136,10,8,41,37,54,49,3,6
+C4920,33,15,0,District - Tiruchirappalli  15,Rural,90+,29,23,3,2,9,7,14,14,1,3
+C4920,33,15,0,District - Tiruchirappalli  15,Rural,Age not stated,39,44,3,4,2,0,8,5,1,0
+C4920,33,15,0,District - Tiruchirappalli  15,Urban,0-4,431,427,16,17,23,11,76,68,52,39
+C4920,33,15,0,District - Tiruchirappalli  15,Urban,5-9,479,456,125,99,66,19,142,115,106,65
+C4920,33,15,0,District - Tiruchirappalli  15,Urban,10-19,1369,1508,369,332,134,75,813,624,378,256
+C4920,33,15,0,District - Tiruchirappalli  15,Urban,20-29,1479,2757,342,320,55,67,884,567,291,195
+C4920,33,15,0,District - Tiruchirappalli  15,Urban,30-39,1455,3196,246,218,75,103,595,354,245,202
+C4920,33,15,0,District - Tiruchirappalli  15,Urban,40-49,1338,2489,213,163,59,113,567,291,195,122
+C4920,33,15,0,District - Tiruchirappalli  15,Urban,50-59,925,1568,141,110,86,101,437,194,78,63
+C4920,33,15,0,District - Tiruchirappalli  15,Urban,60-69,573,876,97,71,86,119,304,170,38,38
+C4920,33,15,0,District - Tiruchirappalli  15,Urban,70-79,314,352,29,33,74,90,142,108,15,17
+C4920,33,15,0,District - Tiruchirappalli  15,Urban,80-89,101,127,8,14,31,41,55,43,8,11
+C4920,33,15,0,District - Tiruchirappalli  15,Urban,90+,11,28,1,3,6,5,5,8,1,2
+C4920,33,15,0,District - Tiruchirappalli  15,Urban,Age not stated,69,55,6,6,3,2,3,4,2,1
+C4920,33,16,0,District - Perambalur  *  16,Rural,0-4,112,107,3,12,1,0,39,28,18,5
+C4920,33,16,0,District - Perambalur  *  16,Rural,5-9,151,133,77,70,12,5,75,41,42,36
+C4920,33,16,0,District - Perambalur  *  16,Rural,10-19,364,318,173,135,35,32,324,200,105,75
+C4920,33,16,0,District - Perambalur  *  16,Rural,20-29,315,730,112,94,27,17,243,164,65,59
+C4920,33,16,0,District - Perambalur  *  16,Rural,30-39,313,890,99,81,11,28,157,108,58,38
+C4920,33,16,0,District - Perambalur  *  16,Rural,40-49,277,719,60,54,25,25,169,82,31,35
+C4920,33,16,0,District - Perambalur  *  16,Rural,50-59,240,487,44,36,30,46,166,67,16,13
+C4920,33,16,0,District - Perambalur  *  16,Rural,60-69,244,295,30,30,39,31,147,69,18,18
+C4920,33,16,0,District - Perambalur  *  16,Rural,70-79,123,132,8,5,40,29,51,34,6,4
+C4920,33,16,0,District - Perambalur  *  16,Rural,80-89,55,36,2,6,11,5,16,17,2,0
+C4920,33,16,0,District - Perambalur  *  16,Rural,90+,8,4,2,0,3,4,4,5,0,0
+C4920,33,16,0,District - Perambalur  *  16,Rural,Age not stated,5,5,4,1,0,1,2,0,0,0
+C4920,33,16,0,District - Perambalur  *  16,Urban,0-4,9,18,0,2,4,0,5,5,4,0
+C4920,33,16,0,District - Perambalur  *  16,Urban,5-9,31,24,10,9,10,8,12,9,11,5
+C4920,33,16,0,District - Perambalur  *  16,Urban,10-19,131,87,22,9,11,2,62,41,11,18
+C4920,33,16,0,District - Perambalur  *  16,Urban,20-29,92,265,13,7,5,1,48,29,19,12
+C4920,33,16,0,District - Perambalur  *  16,Urban,30-39,83,290,10,7,6,2,29,14,8,5
+C4920,33,16,0,District - Perambalur  *  16,Urban,40-49,83,182,5,1,3,7,36,12,7,2
+C4920,33,16,0,District - Perambalur  *  16,Urban,50-59,42,113,3,1,6,5,20,11,6,2
+C4920,33,16,0,District - Perambalur  *  16,Urban,60-69,33,75,1,1,4,8,15,11,2,2
+C4920,33,16,0,District - Perambalur  *  16,Urban,70-79,18,16,5,2,2,2,8,3,1,1
+C4920,33,16,0,District - Perambalur  *  16,Urban,80-89,8,6,1,0,0,1,6,5,0,1
+C4920,33,16,0,District - Perambalur  *  16,Urban,90+,1,0,0,0,0,0,0,1,1,0
+C4920,33,16,0,District - Perambalur  *  16,Urban,Age not stated,4,2,0,0,0,0,1,0,0,0
+C4920,33,17,0,District - Ariyalur  *  17,Rural,0-4,185,194,19,14,3,10,94,43,30,15
+C4920,33,17,0,District - Ariyalur  *  17,Rural,5-9,257,229,125,102,24,21,160,82,71,42
+C4920,33,17,0,District - Ariyalur  *  17,Rural,10-19,578,619,310,232,72,52,540,379,157,103
+C4920,33,17,0,District - Ariyalur  *  17,Rural,20-29,574,1634,179,153,50,35,478,259,116,102
+C4920,33,17,0,District - Ariyalur  *  17,Rural,30-39,520,1924,130,95,45,49,289,190,86,60
+C4920,33,17,0,District - Ariyalur  *  17,Rural,40-49,441,1513,83,72,57,59,322,175,39,50
+C4920,33,17,0,District - Ariyalur  *  17,Rural,50-59,340,1016,55,47,64,73,308,153,30,32
+C4920,33,17,0,District - Ariyalur  *  17,Rural,60-69,337,622,33,36,70,88,226,110,18,15
+C4920,33,17,0,District - Ariyalur  *  17,Rural,70-79,210,234,21,17,59,48,108,51,11,6
+C4920,33,17,0,District - Ariyalur  *  17,Rural,80-89,61,53,3,7,15,11,21,22,3,0
+C4920,33,17,0,District - Ariyalur  *  17,Rural,90+,14,10,3,0,4,2,4,5,0,1
+C4920,33,17,0,District - Ariyalur  *  17,Rural,Age not stated,3,9,3,2,0,2,4,3,0,1
+C4920,33,17,0,District - Ariyalur  *  17,Urban,0-4,23,18,2,1,3,1,15,8,3,2
+C4920,33,17,0,District - Ariyalur  *  17,Urban,5-9,26,22,13,9,1,1,19,17,8,10
+C4920,33,17,0,District - Ariyalur  *  17,Urban,10-19,57,66,28,21,5,2,78,45,16,7
+C4920,33,17,0,District - Ariyalur  *  17,Urban,20-29,52,175,25,19,7,4,59,45,8,12
+C4920,33,17,0,District - Ariyalur  *  17,Urban,30-39,56,243,11,9,6,9,46,24,23,9
+C4920,33,17,0,District - Ariyalur  *  17,Urban,40-49,42,150,6,9,2,2,45,17,8,9
+C4920,33,17,0,District - Ariyalur  *  17,Urban,50-59,36,112,7,3,8,6,28,20,3,1
+C4920,33,17,0,District - Ariyalur  *  17,Urban,60-69,28,47,2,6,8,5,32,10,2,2
+C4920,33,17,0,District - Ariyalur  *  17,Urban,70-79,12,21,1,2,6,3,14,8,0,0
+C4920,33,17,0,District - Ariyalur  *  17,Urban,80-89,5,4,0,0,0,0,2,3,0,0
+C4920,33,17,0,District - Ariyalur  *  17,Urban,90+,0,0,0,0,0,0,0,0,0,0
+C4920,33,17,0,District - Ariyalur  *  17,Urban,Age not stated,0,0,0,0,1,0,0,0,0,0
+C4920,33,18,0,District - Cuddalore  18,Rural,0-4,581,647,48,32,24,6,158,154,73,83
+C4920,33,18,0,District - Cuddalore  18,Rural,5-9,692,675,252,179,62,54,288,189,170,120
+C4920,33,18,0,District - Cuddalore  18,Rural,10-19,1773,1612,557,474,166,121,1258,901,401,297
+C4920,33,18,0,District - Cuddalore  18,Rural,20-29,1667,3384,341,277,128,119,1117,646,299,229
+C4920,33,18,0,District - Cuddalore  18,Rural,30-39,1447,3676,253,200,161,158,820,410,222,187
+C4920,33,18,0,District - Cuddalore  18,Rural,40-49,1289,2801,159,148,143,181,758,391,156,110
+C4920,33,18,0,District - Cuddalore  18,Rural,50-59,1017,1910,92,79,159,221,634,293,77,81
+C4920,33,18,0,District - Cuddalore  18,Rural,60-69,882,1261,55,64,182,213,450,219,44,39
+C4920,33,18,0,District - Cuddalore  18,Rural,70-79,551,606,32,22,146,119,216,137,22,15
+C4920,33,18,0,District - Cuddalore  18,Rural,80-89,187,140,15,11,49,38,71,44,8,6
+C4920,33,18,0,District - Cuddalore  18,Rural,90+,23,33,3,3,9,6,13,12,0,2
+C4920,33,18,0,District - Cuddalore  18,Rural,Age not stated,25,32,7,1,1,1,7,2,6,2
+C4920,33,18,0,District - Cuddalore  18,Urban,0-4,245,291,6,12,8,5,59,44,44,20
+C4920,33,18,0,District - Cuddalore  18,Urban,5-9,290,305,62,57,20,13,101,80,90,67
+C4920,33,18,0,District - Cuddalore  18,Urban,10-19,791,844,170,156,66,41,541,393,186,143
+C4920,33,18,0,District - Cuddalore  18,Urban,20-29,820,1719,148,115,34,54,553,388,159,117
+C4920,33,18,0,District - Cuddalore  18,Urban,30-39,863,2029,97,88,49,64,374,196,130,92
+C4920,33,18,0,District - Cuddalore  18,Urban,40-49,604,1297,58,49,59,59,327,141,91,58
+C4920,33,18,0,District - Cuddalore  18,Urban,50-59,454,801,31,24,52,61,225,124,35,36
+C4920,33,18,0,District - Cuddalore  18,Urban,60-69,294,419,27,18,55,70,189,85,13,11
+C4920,33,18,0,District - Cuddalore  18,Urban,70-79,158,196,12,10,32,38,92,48,11,6
+C4920,33,18,0,District - Cuddalore  18,Urban,80-89,62,53,4,2,22,10,28,22,4,2
+C4920,33,18,0,District - Cuddalore  18,Urban,90+,6,10,0,0,5,6,3,4,2,1
+C4920,33,18,0,District - Cuddalore  18,Urban,Age not stated,19,22,0,1,0,1,4,2,1,2
+C4920,33,19,0,District - Nagapattinam  *  19,Rural,0-4,572,519,33,24,5,5,144,117,50,58
+C4920,33,19,0,District - Nagapattinam  *  19,Rural,5-9,569,613,168,138,30,30,263,180,130,97
+C4920,33,19,0,District - Nagapattinam  *  19,Rural,10-19,1411,1413,413,332,98,80,875,587,354,255
+C4920,33,19,0,District - Nagapattinam  *  19,Rural,20-29,1498,2776,251,227,78,65,761,428,298,212
+C4920,33,19,0,District - Nagapattinam  *  19,Rural,30-39,1389,3674,205,161,69,82,555,299,238,231
+C4920,33,19,0,District - Nagapattinam  *  19,Rural,40-49,1254,2738,157,101,79,89,591,281,238,157
+C4920,33,19,0,District - Nagapattinam  *  19,Rural,50-59,907,1713,75,49,77,104,463,184,103,85
+C4920,33,19,0,District - Nagapattinam  *  19,Rural,60-69,770,992,59,41,97,97,335,149,72,53
+C4920,33,19,0,District - Nagapattinam  *  19,Rural,70-79,453,408,19,15,85,70,161,82,28,21
+C4920,33,19,0,District - Nagapattinam  *  19,Rural,80-89,154,136,10,7,36,34,44,41,10,6
+C4920,33,19,0,District - Nagapattinam  *  19,Rural,90+,27,38,2,2,10,10,6,7,0,0
+C4920,33,19,0,District - Nagapattinam  *  19,Rural,Age not stated,86,97,4,9,5,0,16,6,21,9
+C4920,33,19,0,District - Nagapattinam  *  19,Urban,0-4,104,122,4,4,1,2,34,19,20,13
+C4920,33,19,0,District - Nagapattinam  *  19,Urban,5-9,137,136,31,21,8,9,69,46,44,35
+C4920,33,19,0,District - Nagapattinam  *  19,Urban,10-19,392,397,82,73,21,34,289,216,102,99
+C4920,33,19,0,District - Nagapattinam  *  19,Urban,20-29,499,1534,77,53,28,15,234,183,119,82
+C4920,33,19,0,District - Nagapattinam  *  19,Urban,30-39,439,1989,53,34,18,20,171,96,65,64
+C4920,33,19,0,District - Nagapattinam  *  19,Urban,40-49,293,1522,31,21,17,37,161,81,53,44
+C4920,33,19,0,District - Nagapattinam  *  19,Urban,50-59,206,835,19,15,21,33,155,52,23,27
+C4920,33,19,0,District - Nagapattinam  *  19,Urban,60-69,149,467,16,15,31,44,117,48,14,17
+C4920,33,19,0,District - Nagapattinam  *  19,Urban,70-79,95,154,9,8,40,33,52,35,6,10
+C4920,33,19,0,District - Nagapattinam  *  19,Urban,80-89,26,62,1,2,23,17,17,13,2,6
+C4920,33,19,0,District - Nagapattinam  *  19,Urban,90+,8,7,0,1,0,4,2,0,0,3
+C4920,33,19,0,District - Nagapattinam  *  19,Urban,Age not stated,22,37,3,3,2,1,2,5,1,0
+C4920,33,20,0,District - Thiruvarur  20,Rural,0-4,346,357,21,19,8,8,159,80,26,25
+C4920,33,20,0,District - Thiruvarur  20,Rural,5-9,394,417,132,121,25,33,191,159,104,76
+C4920,33,20,0,District - Thiruvarur  20,Rural,10-19,966,1019,302,281,76,71,776,553,210,180
+C4920,33,20,0,District - Thiruvarur  20,Rural,20-29,1177,2333,246,192,60,50,683,409,209,148
+C4920,33,20,0,District - Thiruvarur  20,Rural,30-39,1119,3015,175,125,66,89,466,261,178,166
+C4920,33,20,0,District - Thiruvarur  20,Rural,40-49,909,2479,119,105,83,89,419,215,134,115
+C4920,33,20,0,District - Thiruvarur  20,Rural,50-59,625,1443,96,55,80,83,400,174,66,65
+C4920,33,20,0,District - Thiruvarur  20,Rural,60-69,529,851,49,48,83,101,263,133,33,44
+C4920,33,20,0,District - Thiruvarur  20,Rural,70-79,350,325,22,14,82,63,120,52,16,17
+C4920,33,20,0,District - Thiruvarur  20,Rural,80-89,106,98,3,6,37,14,22,19,7,4
+C4920,33,20,0,District - Thiruvarur  20,Rural,90+,21,18,0,3,4,7,8,11,0,2
+C4920,33,20,0,District - Thiruvarur  20,Rural,Age not stated,18,11,2,0,2,1,2,2,2,1
+C4920,33,20,0,District - Thiruvarur  20,Urban,0-4,89,86,5,6,2,3,16,10,10,7
+C4920,33,20,0,District - Thiruvarur  20,Urban,5-9,86,82,28,37,6,3,36,22,31,11
+C4920,33,20,0,District - Thiruvarur  20,Urban,10-19,253,285,75,72,13,15,146,126,73,50
+C4920,33,20,0,District - Thiruvarur  20,Urban,20-29,308,611,37,52,28,19,183,104,62,28
+C4920,33,20,0,District - Thiruvarur  20,Urban,30-39,292,941,50,50,7,16,105,62,32,38
+C4920,33,20,0,District - Thiruvarur  20,Urban,40-49,261,671,34,26,27,20,99,55,26,20
+C4920,33,20,0,District - Thiruvarur  20,Urban,50-59,162,412,27,20,20,35,100,46,15,11
+C4920,33,20,0,District - Thiruvarur  20,Urban,60-69,114,219,13,7,21,22,67,27,6,3
+C4920,33,20,0,District - Thiruvarur  20,Urban,70-79,71,80,7,5,12,28,32,21,4,3
+C4920,33,20,0,District - Thiruvarur  20,Urban,80-89,19,18,4,1,13,3,10,16,1,2
+C4920,33,20,0,District - Thiruvarur  20,Urban,90+,6,5,1,1,2,3,1,6,1,0
+C4920,33,20,0,District - Thiruvarur  20,Urban,Age not stated,10,6,0,0,1,0,1,0,0,0
+C4920,33,21,0,District - Thanjavur  21,Rural,0-4,566,535,28,19,19,14,193,109,71,54
+C4920,33,21,0,District - Thanjavur  21,Rural,5-9,587,504,245,193,31,38,312,215,179,106
+C4920,33,21,0,District - Thanjavur  21,Rural,10-19,1503,1364,557,496,136,88,1230,871,435,328
+C4920,33,21,0,District - Thanjavur  21,Rural,20-29,1429,2318,371,333,106,115,1135,718,321,217
+C4920,33,21,0,District - Thanjavur  21,Rural,30-39,1423,2940,299,284,123,150,754,469,263,245
+C4920,33,21,0,District - Thanjavur  21,Rural,40-49,1322,2381,222,176,138,179,810,409,177,147
+C4920,33,21,0,District - Thanjavur  21,Rural,50-59,996,1529,145,126,139,169,658,328,87,83
+C4920,33,21,0,District - Thanjavur  21,Rural,60-69,830,1058,88,85,140,158,495,246,68,47
+C4920,33,21,0,District - Thanjavur  21,Rural,70-79,471,500,49,31,97,103,257,113,17,18
+C4920,33,21,0,District - Thanjavur  21,Rural,80-89,187,154,13,9,48,55,62,48,8,5
+C4920,33,21,0,District - Thanjavur  21,Rural,90+,27,28,1,1,13,9,15,11,0,1
+C4920,33,21,0,District - Thanjavur  21,Rural,Age not stated,15,9,6,2,0,0,2,5,1,1
+C4920,33,21,0,District - Thanjavur  21,Urban,0-4,234,211,8,6,11,5,74,58,32,23
+C4920,33,21,0,District - Thanjavur  21,Urban,5-9,260,212,84,85,21,11,117,72,98,65
+C4920,33,21,0,District - Thanjavur  21,Urban,10-19,626,627,274,200,71,27,530,407,270,177
+C4920,33,21,0,District - Thanjavur  21,Urban,20-29,608,992,172,150,36,50,567,360,246,204
+C4920,33,21,0,District - Thanjavur  21,Urban,30-39,654,1255,149,116,47,60,379,277,168,121
+C4920,33,21,0,District - Thanjavur  21,Urban,40-49,605,968,99,77,46,76,349,184,143,95
+C4920,33,21,0,District - Thanjavur  21,Urban,50-59,405,613,57,54,67,91,291,139,63,38
+C4920,33,21,0,District - Thanjavur  21,Urban,60-69,301,442,39,40,80,102,243,127,31,24
+C4920,33,21,0,District - Thanjavur  21,Urban,70-79,201,212,18,22,53,78,128,72,14,9
+C4920,33,21,0,District - Thanjavur  21,Urban,80-89,68,95,3,8,24,29,33,36,7,6
+C4920,33,21,0,District - Thanjavur  21,Urban,90+,11,20,0,2,2,5,10,8,2,0
+C4920,33,21,0,District - Thanjavur  21,Urban,Age not stated,7,11,2,0,2,1,0,2,2,2
+C4920,33,22,0,District - Pudukkottai  22,Rural,0-4,425,426,32,18,17,10,136,100,52,37
+C4920,33,22,0,District - Pudukkottai  22,Rural,5-9,455,409,235,163,41,31,223,149,125,102
+C4920,33,22,0,District - Pudukkottai  22,Rural,10-19,1061,1116,384,347,93,89,977,771,284,222
+C4920,33,22,0,District - Pudukkottai  22,Rural,20-29,1221,2606,286,253,90,90,778,518,236,193
+C4920,33,22,0,District - Pudukkottai  22,Rural,30-39,1044,3350,205,162,63,108,434,263,201,140
+C4920,33,22,0,District - Pudukkottai  22,Rural,40-49,794,2859,145,137,72,103,472,225,144,103
+C4920,33,22,0,District - Pudukkottai  22,Rural,50-59,607,1872,85,68,76,111,369,165,98,74
+C4920,33,22,0,District - Pudukkottai  22,Rural,60-69,494,1063,58,38,104,128,300,131,39,27
+C4920,33,22,0,District - Pudukkottai  22,Rural,70-79,301,339,26,23,80,67,123,75,19,15
+C4920,33,22,0,District - Pudukkottai  22,Rural,80-89,121,112,7,4,30,19,31,34,5,9
+C4920,33,22,0,District - Pudukkottai  22,Rural,90+,26,27,3,2,6,6,6,12,1,2
+C4920,33,22,0,District - Pudukkottai  22,Rural,Age not stated,34,20,3,2,3,1,5,6,1,1
+C4920,33,22,0,District - Pudukkottai  22,Urban,0-4,91,73,2,4,5,7,20,21,11,11
+C4920,33,22,0,District - Pudukkottai  22,Urban,5-9,82,94,32,28,42,29,33,31,20,20
+C4920,33,22,0,District - Pudukkottai  22,Urban,10-19,275,244,82,73,37,35,195,179,81,56
+C4920,33,22,0,District - Pudukkottai  22,Urban,20-29,260,539,66,67,11,16,180,137,69,44
+C4920,33,22,0,District - Pudukkottai  22,Urban,30-39,232,663,52,38,17,20,125,72,64,42
+C4920,33,22,0,District - Pudukkottai  22,Urban,40-49,161,531,50,30,17,26,94,50,27,23
+C4920,33,22,0,District - Pudukkottai  22,Urban,50-59,113,249,25,13,26,15,79,33,23,17
+C4920,33,22,0,District - Pudukkottai  22,Urban,60-69,74,159,15,11,16,21,57,28,13,7
+C4920,33,22,0,District - Pudukkottai  22,Urban,70-79,41,62,4,3,16,6,22,21,6,5
+C4920,33,22,0,District - Pudukkottai  22,Urban,80-89,20,33,2,3,8,7,11,11,2,2
+C4920,33,22,0,District - Pudukkottai  22,Urban,90+,6,10,0,0,1,2,5,1,0,0
+C4920,33,22,0,District - Pudukkottai  22,Urban,Age not stated,4,4,0,0,0,0,2,0,0,0
+C4920,33,23,0,District - Sivaganga  23,Rural,0-4,466,435,18,21,8,5,78,57,54,36
+C4920,33,23,0,District - Sivaganga  23,Rural,5-9,502,439,124,81,19,16,125,96,106,56
+C4920,33,23,0,District - Sivaganga  23,Rural,10-19,1258,1176,218,216,46,73,611,499,233,207
+C4920,33,23,0,District - Sivaganga  23,Rural,20-29,1098,2044,189,159,54,40,632,403,238,153
+C4920,33,23,0,District - Sivaganga  23,Rural,30-39,991,2536,137,113,55,78,345,234,179,173
+C4920,33,23,0,District - Sivaganga  23,Rural,40-49,824,2292,92,101,62,84,341,209,125,139
+C4920,33,23,0,District - Sivaganga  23,Rural,50-59,739,1727,68,49,70,105,326,153,78,71
+C4920,33,23,0,District - Sivaganga  23,Rural,60-69,557,990,55,46,102,125,229,114,50,54
+C4920,33,23,0,District - Sivaganga  23,Rural,70-79,359,429,21,16,72,83,148,60,21,20
+C4920,33,23,0,District - Sivaganga  23,Rural,80-89,124,113,6,2,28,19,43,29,5,4
+C4920,33,23,0,District - Sivaganga  23,Rural,90+,24,23,1,2,2,6,11,11,3,1
+C4920,33,23,0,District - Sivaganga  23,Rural,Age not stated,79,80,5,9,5,2,16,7,9,5
+C4920,33,23,0,District - Sivaganga  23,Urban,0-4,176,163,0,7,1,2,19,16,18,18
+C4920,33,23,0,District - Sivaganga  23,Urban,5-9,188,187,34,31,7,6,46,33,35,36
+C4920,33,23,0,District - Sivaganga  23,Urban,10-19,484,460,83,60,19,14,249,212,102,78
+C4920,33,23,0,District - Sivaganga  23,Urban,20-29,421,795,67,71,15,16,268,158,85,69
+C4920,33,23,0,District - Sivaganga  23,Urban,30-39,355,1028,46,41,11,30,156,108,74,65
+C4920,33,23,0,District - Sivaganga  23,Urban,40-49,273,725,33,33,23,22,130,63,57,38
+C4920,33,23,0,District - Sivaganga  23,Urban,50-59,195,463,30,20,14,21,81,50,33,25
+C4920,33,23,0,District - Sivaganga  23,Urban,60-69,140,233,17,10,21,27,76,47,10,21
+C4920,33,23,0,District - Sivaganga  23,Urban,70-79,85,105,8,5,23,28,34,27,8,12
+C4920,33,23,0,District - Sivaganga  23,Urban,80-89,11,35,5,4,6,12,12,14,6,5
+C4920,33,23,0,District - Sivaganga  23,Urban,90+,1,6,1,0,1,2,2,3,0,0
+C4920,33,23,0,District - Sivaganga  23,Urban,Age not stated,20,24,1,0,1,1,3,3,0,1
+C4920,33,24,0,District - Madurai  24,Rural,0-4,587,514,23,11,12,12,110,72,71,39
+C4920,33,24,0,District - Madurai  24,Rural,5-9,621,556,166,102,29,21,190,141,153,117
+C4920,33,24,0,District - Madurai  24,Rural,10-19,1479,1444,329,262,64,75,740,550,323,263
+C4920,33,24,0,District - Madurai  24,Rural,20-29,1579,2037,239,207,69,75,813,523,266,207
+C4920,33,24,0,District - Madurai  24,Rural,30-39,1515,2000,132,156,53,67,477,292,258,189
+C4920,33,24,0,District - Madurai  24,Rural,40-49,1339,1607,119,101,65,85,434,232,184,105
+C4920,33,24,0,District - Madurai  24,Rural,50-59,1025,1234,70,65,66,108,344,182,84,62
+C4920,33,24,0,District - Madurai  24,Rural,60-69,786,915,58,47,99,128,290,188,50,48
+C4920,33,24,0,District - Madurai  24,Rural,70-79,390,373,27,20,63,68,149,63,21,16
+C4920,33,24,0,District - Madurai  24,Rural,80-89,115,138,3,4,32,30,42,35,3,5
+C4920,33,24,0,District - Madurai  24,Rural,90+,25,24,0,2,2,6,3,12,2,3
+C4920,33,24,0,District - Madurai  24,Rural,Age not stated,411,373,17,18,8,12,47,30,21,25
+C4920,33,24,0,District - Madurai  24,Urban,0-4,526,465,20,14,19,11,95,66,72,46
+C4920,33,24,0,District - Madurai  24,Urban,5-9,605,578,104,85,21,24,160,109,162,116
+C4920,33,24,0,District - Madurai  24,Urban,10-19,1490,1422,297,257,71,45,975,690,514,404
+C4920,33,24,0,District - Madurai  24,Urban,20-29,1654,2804,281,244,63,84,1061,760,413,356
+C4920,33,24,0,District - Madurai  24,Urban,30-39,1872,2925,193,152,64,84,611,415,402,217
+C4920,33,24,0,District - Madurai  24,Urban,40-49,1571,2172,162,97,59,75,508,285,282,176
+C4920,33,24,0,District - Madurai  24,Urban,50-59,978,1252,92,58,62,70,418,210,157,95
+C4920,33,24,0,District - Madurai  24,Urban,60-69,630,738,61,41,65,106,278,153,89,60
+C4920,33,24,0,District - Madurai  24,Urban,70-79,304,297,31,21,65,73,138,108,29,23
+C4920,33,24,0,District - Madurai  24,Urban,80-89,111,126,4,11,36,17,54,42,6,14
+C4920,33,24,0,District - Madurai  24,Urban,90+,20,34,2,0,5,4,5,13,4,5
+C4920,33,24,0,District - Madurai  24,Urban,Age not stated,208,222,15,8,3,6,32,19,21,14
+C4920,33,25,0,District - Theni  *  25,Rural,0-4,288,240,8,8,3,3,32,26,25,19
+C4920,33,25,0,District - Theni  *  25,Rural,5-9,313,272,58,52,10,9,87,59,57,43
+C4920,33,25,0,District - Theni  *  25,Rural,10-19,767,680,182,104,33,28,371,270,142,117
+C4920,33,25,0,District - Theni  *  25,Rural,20-29,599,1172,105,89,21,21,330,208,104,85
+C4920,33,25,0,District - Theni  *  25,Rural,30-39,607,1244,81,81,24,11,202,164,91,57
+C4920,33,25,0,District - Theni  *  25,Rural,40-49,546,953,62,48,27,21,226,127,70,61
+C4920,33,25,0,District - Theni  *  25,Rural,50-59,373,649,47,39,13,33,165,113,38,24
+C4920,33,25,0,District - Theni  *  25,Rural,60-69,278,465,29,24,27,62,125,96,26,25
+C4920,33,25,0,District - Theni  *  25,Rural,70-79,162,165,11,11,26,39,76,40,15,8
+C4920,33,25,0,District - Theni  *  25,Rural,80-89,69,61,6,3,11,13,27,17,4,1
+C4920,33,25,0,District - Theni  *  25,Rural,90+,10,16,0,0,5,3,3,3,2,2
+C4920,33,25,0,District - Theni  *  25,Rural,Age not stated,35,42,6,2,0,0,4,5,4,3
+C4920,33,25,0,District - Theni  *  25,Urban,0-4,211,177,6,10,3,2,48,26,32,23
+C4920,33,25,0,District - Theni  *  25,Urban,5-9,283,247,70,46,9,6,101,54,70,59
+C4920,33,25,0,District - Theni  *  25,Urban,10-19,730,620,148,115,29,23,379,296,187,127
+C4920,33,25,0,District - Theni  *  25,Urban,20-29,608,1127,126,109,22,24,406,226,135,117
+C4920,33,25,0,District - Theni  *  25,Urban,30-39,631,1250,99,95,21,24,265,163,123,99
+C4920,33,25,0,District - Theni  *  25,Urban,40-49,527,896,60,57,17,23,254,127,103,67
+C4920,33,25,0,District - Theni  *  25,Urban,50-59,392,602,40,34,29,30,178,105,54,38
+C4920,33,25,0,District - Theni  *  25,Urban,60-69,269,413,36,26,32,37,134,82,26,22
+C4920,33,25,0,District - Theni  *  25,Urban,70-79,163,208,13,12,33,38,71,35,13,12
+C4920,33,25,0,District - Theni  *  25,Urban,80-89,45,70,2,4,16,14,17,24,4,4
+C4920,33,25,0,District - Theni  *  25,Urban,90+,9,6,2,1,4,8,5,8,0,3
+C4920,33,25,0,District - Theni  *  25,Urban,Age not stated,30,33,2,3,1,1,7,4,3,3
+C4920,33,26,0,District - Virudhunagar  26,Rural,0-4,264,300,25,12,12,4,85,60,52,52
+C4920,33,26,0,District - Virudhunagar  26,Rural,5-9,352,324,186,131,24,11,176,134,120,95
+C4920,33,26,0,District - Virudhunagar  26,Rural,10-19,821,821,327,286,54,60,845,621,307,241
+C4920,33,26,0,District - Virudhunagar  26,Rural,20-29,885,1779,204,171,57,56,653,422,221,191
+C4920,33,26,0,District - Virudhunagar  26,Rural,30-39,888,1822,151,129,31,59,386,252,179,158
+C4920,33,26,0,District - Virudhunagar  26,Rural,40-49,726,1339,98,85,53,53,395,177,122,103
+C4920,33,26,0,District - Virudhunagar  26,Rural,50-59,527,945,66,48,46,60,276,150,74,74
+C4920,33,26,0,District - Virudhunagar  26,Rural,60-69,405,627,35,38,50,88,213,134,42,36
+C4920,33,26,0,District - Virudhunagar  26,Rural,70-79,243,294,23,14,47,50,105,77,12,22
+C4920,33,26,0,District - Virudhunagar  26,Rural,80-89,74,87,5,3,24,22,23,19,5,6
+C4920,33,26,0,District - Virudhunagar  26,Rural,90+,15,25,1,1,1,5,5,10,0,2
+C4920,33,26,0,District - Virudhunagar  26,Rural,Age not stated,53,56,6,4,3,1,17,6,2,3
+C4920,33,26,0,District - Virudhunagar  26,Urban,0-4,193,188,10,7,5,3,62,32,46,26
+C4920,33,26,0,District - Virudhunagar  26,Urban,5-9,216,196,64,50,8,9,111,82,82,44
+C4920,33,26,0,District - Virudhunagar  26,Urban,10-19,555,565,198,152,48,35,635,497,198,165
+C4920,33,26,0,District - Virudhunagar  26,Urban,20-29,674,1724,149,130,40,44,594,413,183,138
+C4920,33,26,0,District - Virudhunagar  26,Urban,30-39,670,1893,107,101,34,40,281,227,156,126
+C4920,33,26,0,District - Virudhunagar  26,Urban,40-49,579,1421,86,66,23,51,283,176,98,83
+C4920,33,26,0,District - Virudhunagar  26,Urban,50-59,403,966,46,35,31,50,229,127,57,32
+C4920,33,26,0,District - Virudhunagar  26,Urban,60-69,260,552,25,25,38,80,147,90,30,18
+C4920,33,26,0,District - Virudhunagar  26,Urban,70-79,174,196,13,9,42,61,92,69,9,9
+C4920,33,26,0,District - Virudhunagar  26,Urban,80-89,51,60,5,3,16,24,30,17,3,2
+C4920,33,26,0,District - Virudhunagar  26,Urban,90+,6,11,1,2,0,2,4,6,1,1
+C4920,33,26,0,District - Virudhunagar  26,Urban,Age not stated,30,42,1,2,1,1,5,9,1,1
+C4920,33,27,0,District - Ramanathapuram  27,Rural,0-4,393,351,24,19,3,12,109,79,53,35
+C4920,33,27,0,District - Ramanathapuram  27,Rural,5-9,454,421,180,148,16,28,191,128,122,87
+C4920,33,27,0,District - Ramanathapuram  27,Rural,10-19,1062,1074,337,276,77,93,879,686,306,236
+C4920,33,27,0,District - Ramanathapuram  27,Rural,20-29,896,1794,260,237,59,74,718,511,336,185
+C4920,33,27,0,District - Ramanathapuram  27,Rural,30-39,885,1973,181,135,47,67,356,258,281,160
+C4920,33,27,0,District - Ramanathapuram  27,Rural,40-49,829,1670,118,113,63,67,368,223,188,120
+C4920,33,27,0,District - Ramanathapuram  27,Rural,50-59,560,1204,113,59,52,76,274,126,81,71
+C4920,33,27,0,District - Ramanathapuram  27,Rural,60-69,514,733,56,54,67,88,218,116,41,35
+C4920,33,27,0,District - Ramanathapuram  27,Rural,70-79,288,291,31,20,38,58,111,73,14,15
+C4920,33,27,0,District - Ramanathapuram  27,Rural,80-89,102,106,9,6,8,17,27,34,2,12
+C4920,33,27,0,District - Ramanathapuram  27,Rural,90+,11,22,0,0,4,6,11,6,3,4
+C4920,33,27,0,District - Ramanathapuram  27,Rural,Age not stated,18,18,16,8,6,1,3,1,28,5
+C4920,33,27,0,District - Ramanathapuram  27,Urban,0-4,175,169,2,4,4,2,30,25,17,14
+C4920,33,27,0,District - Ramanathapuram  27,Urban,5-9,172,192,35,30,8,4,51,21,38,25
+C4920,33,27,0,District - Ramanathapuram  27,Urban,10-19,448,509,82,86,11,17,262,209,83,73
+C4920,33,27,0,District - Ramanathapuram  27,Urban,20-29,450,537,60,44,15,6,269,167,95,52
+C4920,33,27,0,District - Ramanathapuram  27,Urban,30-39,430,526,43,50,12,15,115,68,47,40
+C4920,33,27,0,District - Ramanathapuram  27,Urban,40-49,350,395,21,20,14,12,101,45,52,35
+C4920,33,27,0,District - Ramanathapuram  27,Urban,50-59,212,254,17,3,13,16,84,41,25,15
+C4920,33,27,0,District - Ramanathapuram  27,Urban,60-69,152,163,10,16,11,25,68,31,10,12
+C4920,33,27,0,District - Ramanathapuram  27,Urban,70-79,82,90,9,5,8,12,28,31,11,5
+C4920,33,27,0,District - Ramanathapuram  27,Urban,80-89,37,28,3,1,8,9,8,14,2,0
+C4920,33,27,0,District - Ramanathapuram  27,Urban,90+,12,9,0,1,0,2,5,1,0,1
+C4920,33,27,0,District - Ramanathapuram  27,Urban,Age not stated,5,8,0,0,0,1,0,0,3,1
+C4920,33,28,0,District - Thoothukkudi  28,Rural,0-4,295,276,14,6,8,3,90,54,42,33
+C4920,33,28,0,District - Thoothukkudi  28,Rural,5-9,390,316,122,82,19,15,165,121,96,78
+C4920,33,28,0,District - Thoothukkudi  28,Rural,10-19,931,960,247,219,54,60,884,735,274,216
+C4920,33,28,0,District - Thoothukkudi  28,Rural,20-29,908,1603,177,186,47,57,784,586,287,237
+C4920,33,28,0,District - Thoothukkudi  28,Rural,30-39,894,1788,172,136,48,63,437,291,232,190
+C4920,33,28,0,District - Thoothukkudi  28,Rural,40-49,736,1449,110,84,39,67,354,229,144,143
+C4920,33,28,0,District - Thoothukkudi  28,Rural,50-59,601,1150,82,62,51,93,327,183,91,91
+C4920,33,28,0,District - Thoothukkudi  28,Rural,60-69,554,879,62,42,67,124,265,176,62,42
+C4920,33,28,0,District - Thoothukkudi  28,Rural,70-79,353,407,28,21,70,102,139,86,27,15
+C4920,33,28,0,District - Thoothukkudi  28,Rural,80-89,125,151,4,6,26,55,50,35,13,9
+C4920,33,28,0,District - Thoothukkudi  28,Rural,90+,29,34,1,0,6,7,7,8,2,1
+C4920,33,28,0,District - Thoothukkudi  28,Rural,Age not stated,39,49,8,5,5,1,12,8,9,8
+C4920,33,28,0,District - Thoothukkudi  28,Urban,0-4,237,240,6,2,4,2,62,38,31,24
+C4920,33,28,0,District - Thoothukkudi  28,Urban,5-9,283,287,76,50,10,13,118,88,107,76
+C4920,33,28,0,District - Thoothukkudi  28,Urban,10-19,750,775,168,116,35,59,596,467,183,165
+C4920,33,28,0,District - Thoothukkudi  28,Urban,20-29,750,1551,141,117,39,33,622,429,172,144
+C4920,33,28,0,District - Thoothukkudi  28,Urban,30-39,796,1664,94,96,27,48,321,185,168,120
+C4920,33,28,0,District - Thoothukkudi  28,Urban,40-49,660,1298,71,52,26,64,288,130,118,73
+C4920,33,28,0,District - Thoothukkudi  28,Urban,50-59,462,822,38,40,27,54,218,123,43,44
+C4920,33,28,0,District - Thoothukkudi  28,Urban,60-69,301,480,24,27,36,59,150,95,39,30
+C4920,33,28,0,District - Thoothukkudi  28,Urban,70-79,177,212,14,16,39,49,81,66,15,18
+C4920,33,28,0,District - Thoothukkudi  28,Urban,80-89,49,84,8,5,17,36,26,23,3,2
+C4920,33,28,0,District - Thoothukkudi  28,Urban,90+,14,12,1,0,4,3,7,6,0,1
+C4920,33,28,0,District - Thoothukkudi  28,Urban,Age not stated,48,58,2,2,1,3,8,2,7,1
+C4920,33,29,0,District - Tirunelveli  29,Rural,0-4,548,489,10,21,10,6,121,98,33,30
+C4920,33,29,0,District - Tirunelveli  29,Rural,5-9,627,560,192,139,20,20,248,177,113,74
+C4920,33,29,0,District - Tirunelveli  29,Rural,10-19,1541,1600,466,396,94,75,1441,1073,351,313
+C4920,33,29,0,District - Tirunelveli  29,Rural,20-29,1485,2574,337,267,87,78,1231,864,366,273
+C4920,33,29,0,District - Tirunelveli  29,Rural,30-39,1256,2723,210,196,59,101,629,433,264,240
+C4920,33,29,0,District - Tirunelveli  29,Rural,40-49,1126,2316,166,187,53,86,569,303,182,155
+C4920,33,29,0,District - Tirunelveli  29,Rural,50-59,851,1729,119,117,60,99,539,285,109,97
+C4920,33,29,0,District - Tirunelveli  29,Rural,60-69,744,1210,74,66,86,139,412,197,49,50
+C4920,33,29,0,District - Tirunelveli  29,Rural,70-79,449,618,35,39,82,104,177,135,16,19
+C4920,33,29,0,District - Tirunelveli  29,Rural,80-89,139,216,9,17,35,77,67,57,8,9
+C4920,33,29,0,District - Tirunelveli  29,Rural,90+,27,54,2,2,5,7,11,16,2,2
+C4920,33,29,0,District - Tirunelveli  29,Rural,Age not stated,39,26,7,6,1,3,9,4,0,3
+C4920,33,29,0,District - Tirunelveli  29,Urban,0-4,363,360,13,18,8,7,103,96,41,29
+C4920,33,29,0,District - Tirunelveli  29,Urban,5-9,453,416,114,108,14,20,248,174,111,89
+C4920,33,29,0,District - Tirunelveli  29,Urban,10-19,1214,1065,333,315,251,71,1145,1022,371,267
+C4920,33,29,0,District - Tirunelveli  29,Urban,20-29,1184,2246,294,232,98,59,1204,727,310,208
+C4920,33,29,0,District - Tirunelveli  29,Urban,30-39,1232,2802,236,216,75,83,661,331,264,197
+C4920,33,29,0,District - Tirunelveli  29,Urban,40-49,981,2275,179,152,55,98,515,270,205,126
+C4920,33,29,0,District - Tirunelveli  29,Urban,50-59,827,1615,108,119,64,123,427,225,82,65
+C4920,33,29,0,District - Tirunelveli  29,Urban,60-69,619,1020,71,89,88,154,342,157,51,33
+C4920,33,29,0,District - Tirunelveli  29,Urban,70-79,354,516,32,41,75,108,183,125,28,23
+C4920,33,29,0,District - Tirunelveli  29,Urban,80-89,146,150,15,14,34,58,50,52,4,9
+C4920,33,29,0,District - Tirunelveli  29,Urban,90+,17,39,3,0,6,8,7,10,1,1
+C4920,33,29,0,District - Tirunelveli  29,Urban,Age not stated,36,28,1,1,1,1,5,2,1,1
+C4920,33,30,0,District - Kanniyakumari  30,Rural,0-4,207,220,7,5,8,2,40,39,18,12
+C4920,33,30,0,District - Kanniyakumari  30,Rural,5-9,247,245,61,45,10,7,95,55,52,40
+C4920,33,30,0,District - Kanniyakumari  30,Rural,10-19,606,657,115,117,52,34,597,421,164,123
+C4920,33,30,0,District - Kanniyakumari  30,Rural,20-29,820,1420,130,105,47,31,674,415,194,99
+C4920,33,30,0,District - Kanniyakumari  30,Rural,30-39,683,2076,106,74,29,30,407,221,140,120
+C4920,33,30,0,District - Kanniyakumari  30,Rural,40-49,602,1753,64,52,41,46,415,230,123,76
+C4920,33,30,0,District - Kanniyakumari  30,Rural,50-59,413,1135,46,32,26,29,373,161,88,49
+C4920,33,30,0,District - Kanniyakumari  30,Rural,60-69,306,667,18,18,29,40,241,97,43,30
+C4920,33,30,0,District - Kanniyakumari  30,Rural,70-79,171,232,11,5,31,20,130,71,7,11
+C4920,33,30,0,District - Kanniyakumari  30,Rural,80-89,62,64,6,6,13,13,37,27,5,5
+C4920,33,30,0,District - Kanniyakumari  30,Rural,90+,4,21,0,1,2,4,4,8,0,1
+C4920,33,30,0,District - Kanniyakumari  30,Rural,Age not stated,19,6,0,1,0,1,2,0,0,2
+C4920,33,30,0,District - Kanniyakumari  30,Urban,0-4,424,430,13,10,6,6,93,64,25,22
+C4920,33,30,0,District - Kanniyakumari  30,Urban,5-9,446,464,93,82,44,29,179,140,101,69
+C4920,33,30,0,District - Kanniyakumari  30,Urban,10-19,1208,1322,251,218,150,109,1058,772,352,273
+C4920,33,30,0,District - Kanniyakumari  30,Urban,20-29,1572,2941,296,231,70,54,1160,686,332,196
+C4920,33,30,0,District - Kanniyakumari  30,Urban,30-39,1449,4218,208,194,45,59,732,401,309,245
+C4920,33,30,0,District - Kanniyakumari  30,Urban,40-49,1109,3698,156,123,49,75,687,311,250,173
+C4920,33,30,0,District - Kanniyakumari  30,Urban,50-59,813,2483,113,92,50,59,626,267,132,96
+C4920,33,30,0,District - Kanniyakumari  30,Urban,60-69,596,1434,75,47,43,77,413,190,61,65
+C4920,33,30,0,District - Kanniyakumari  30,Urban,70-79,376,538,26,41,50,56,217,99,17,24
+C4920,33,30,0,District - Kanniyakumari  30,Urban,80-89,116,130,12,3,32,27,54,45,10,7
+C4920,33,30,0,District - Kanniyakumari  30,Urban,90+,17,35,2,1,6,9,11,18,0,2
+C4920,33,30,0,District - Kanniyakumari  30,Urban,Age not stated,37,23,4,3,0,0,1,2,4,2

@@ -1,0 +1,49 @@
+Table Name,State Code,District Code,Tehsil Code,Area Name,Total/ Rural/ Urban,Age-group,Type of disablity - In seeing - Males,Type of disablity - In seeing - Females,Type of disablity - In speech - Males,Type of disablity - In speech - Females,Type of disablity - In hearing - Males,Type of disablity - In hearing - Females,Type of disablity - In movement - Males,Type of disablity - In movement - Females,Type of disablity - Mental - Males,Type of disablity - Mental - Females
+C4920,30,1,0,District - North Goa  01,Rural,0-4,40,37,7,1,2,1,33,17,6,6
+C4920,30,1,0,District - North Goa  01,Rural,5-9,42,37,27,19,10,12,48,40,39,22
+C4920,30,1,0,District - North Goa  01,Rural,10-19,96,94,82,55,35,26,124,76,155,103
+C4920,30,1,0,District - North Goa  01,Rural,20-29,147,116,74,63,26,9,173,100,151,113
+C4920,30,1,0,District - North Goa  01,Rural,30-39,129,101,50,37,15,12,156,87,143,100
+C4920,30,1,0,District - North Goa  01,Rural,40-49,81,72,52,31,9,10,152,47,105,83
+C4920,30,1,0,District - North Goa  01,Rural,50-59,86,71,30,33,19,26,165,49,72,58
+C4920,30,1,0,District - North Goa  01,Rural,60-69,73,62,19,12,23,37,129,68,34,50
+C4920,30,1,0,District - North Goa  01,Rural,70-79,40,45,11,10,18,18,52,36,9,31
+C4920,30,1,0,District - North Goa  01,Rural,80-89,17,29,2,4,15,13,17,14,8,13
+C4920,30,1,0,District - North Goa  01,Rural,90+,3,4,1,2,4,6,3,8,1,1
+C4920,30,1,0,District - North Goa  01,Rural,Age not stated,0,1,0,1,0,0,0,0,0,0
+C4920,30,1,0,District - North Goa  01,Urban,0-4,44,33,6,3,1,1,12,9,11,7
+C4920,30,1,0,District - North Goa  01,Urban,5-9,34,18,31,17,2,5,31,25,27,26
+C4920,30,1,0,District - North Goa  01,Urban,10-19,93,65,53,44,11,15,79,51,78,49
+C4920,30,1,0,District - North Goa  01,Urban,20-29,91,83,45,39,7,9,98,67,119,92
+C4920,30,1,0,District - North Goa  01,Urban,30-39,91,72,32,27,5,10,102,56,92,79
+C4920,30,1,0,District - North Goa  01,Urban,40-49,69,65,25,19,8,9,98,34,86,69
+C4920,30,1,0,District - North Goa  01,Urban,50-59,64,63,19,19,10,16,76,45,59,37
+C4920,30,1,0,District - North Goa  01,Urban,60-69,53,51,11,17,9,17,80,55,26,35
+C4920,30,1,0,District - North Goa  01,Urban,70-79,27,28,7,6,10,20,50,45,14,33
+C4920,30,1,0,District - North Goa  01,Urban,80-89,12,12,0,0,10,11,15,29,4,10
+C4920,30,1,0,District - North Goa  01,Urban,90+,2,9,1,0,3,4,3,2,1,5
+C4920,30,1,0,District - North Goa  01,Urban,Age not stated,0,0,0,0,0,0,0,1,0,0
+C4920,30,2,0,District - South Goa  02,Rural,0-4,24,21,2,4,2,1,16,2,5,2
+C4920,30,2,0,District - South Goa  02,Rural,5-9,24,24,12,15,1,0,32,13,21,16
+C4920,30,2,0,District - South Goa  02,Rural,10-19,57,56,55,45,22,13,77,66,69,55
+C4920,30,2,0,District - South Goa  02,Rural,20-29,66,61,47,41,13,9,107,72,72,69
+C4920,30,2,0,District - South Goa  02,Rural,30-39,50,52,25,28,10,18,103,37,70,59
+C4920,30,2,0,District - South Goa  02,Rural,40-49,45,42,27,20,16,9,84,38,61,41
+C4920,30,2,0,District - South Goa  02,Rural,50-59,52,43,19,19,13,11,95,39,35,25
+C4920,30,2,0,District - South Goa  02,Rural,60-69,38,56,13,12,14,23,100,55,21,22
+C4920,30,2,0,District - South Goa  02,Rural,70-79,24,43,7,7,18,30,46,61,4,12
+C4920,30,2,0,District - South Goa  02,Rural,80-89,20,25,0,5,22,15,22,29,2,5
+C4920,30,2,0,District - South Goa  02,Rural,90+,2,2,1,1,1,4,1,8,0,3
+C4920,30,2,0,District - South Goa  02,Rural,Age not stated,1,0,0,0,0,0,0,0,0,0
+C4920,30,2,0,District - South Goa  02,Urban,0-4,42,24,5,3,2,2,22,15,6,4
+C4920,30,2,0,District - South Goa  02,Urban,5-9,35,30,27,17,5,4,43,27,28,16
+C4920,30,2,0,District - South Goa  02,Urban,10-19,93,76,63,47,10,8,109,46,69,48
+C4920,30,2,0,District - South Goa  02,Urban,20-29,110,72,54,49,12,7,111,75,99,56
+C4920,30,2,0,District - South Goa  02,Urban,30-39,86,70,35,23,11,9,95,56,80,51
+C4920,30,2,0,District - South Goa  02,Urban,40-49,65,44,24,14,6,10,99,43,45,31
+C4920,30,2,0,District - South Goa  02,Urban,50-59,51,49,19,12,5,13,82,48,31,28
+C4920,30,2,0,District - South Goa  02,Urban,60-69,53,57,11,8,7,22,84,54,19,15
+C4920,30,2,0,District - South Goa  02,Urban,70-79,28,37,3,2,19,17,36,46,5,8
+C4920,30,2,0,District - South Goa  02,Urban,80-89,11,20,2,0,7,15,20,31,1,5
+C4920,30,2,0,District - South Goa  02,Urban,90+,5,4,1,0,3,2,2,6,0,2
+C4920,30,2,0,District - South Goa  02,Urban,Age not stated,0,1,0,0,0,0,0,0,0,0

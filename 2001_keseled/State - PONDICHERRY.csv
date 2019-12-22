@@ -1,0 +1,961 @@
+State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
+34,1,Rural,0-4, PONDICHERRY, Yanam,Male,In seeing,0
+34,1,Rural,5-9, PONDICHERRY, Yanam,Male,In seeing,0
+34,1,Rural,10-19, PONDICHERRY, Yanam,Male,In seeing,0
+34,1,Rural,20-29, PONDICHERRY, Yanam,Male,In seeing,0
+34,1,Rural,30-39, PONDICHERRY, Yanam,Male,In seeing,0
+34,1,Rural,40-49, PONDICHERRY, Yanam,Male,In seeing,0
+34,1,Rural,50-59, PONDICHERRY, Yanam,Male,In seeing,0
+34,1,Rural,60-69, PONDICHERRY, Yanam,Male,In seeing,0
+34,1,Rural,70-79, PONDICHERRY, Yanam,Male,In seeing,0
+34,1,Rural,80-89, PONDICHERRY, Yanam,Male,In seeing,0
+34,1,Rural,90+, PONDICHERRY, Yanam,Male,In seeing,0
+34,1,Rural,Age not stated, PONDICHERRY, Yanam,Male,In seeing,0
+34,1,Urban,0-4, PONDICHERRY, Yanam,Male,In seeing,7
+34,1,Urban,5-9, PONDICHERRY, Yanam,Male,In seeing,19
+34,1,Urban,10-19, PONDICHERRY, Yanam,Male,In seeing,29
+34,1,Urban,20-29, PONDICHERRY, Yanam,Male,In seeing,28
+34,1,Urban,30-39, PONDICHERRY, Yanam,Male,In seeing,42
+34,1,Urban,40-49, PONDICHERRY, Yanam,Male,In seeing,32
+34,1,Urban,50-59, PONDICHERRY, Yanam,Male,In seeing,19
+34,1,Urban,60-69, PONDICHERRY, Yanam,Male,In seeing,16
+34,1,Urban,70-79, PONDICHERRY, Yanam,Male,In seeing,4
+34,1,Urban,80-89, PONDICHERRY, Yanam,Male,In seeing,0
+34,1,Urban,90+, PONDICHERRY, Yanam,Male,In seeing,0
+34,1,Urban,Age not stated, PONDICHERRY, Yanam,Male,In seeing,2
+34,2,Rural,0-4, PONDICHERRY, Pondicherry,Male,In seeing,62
+34,2,Rural,5-9, PONDICHERRY, Pondicherry,Male,In seeing,68
+34,2,Rural,10-19, PONDICHERRY, Pondicherry,Male,In seeing,164
+34,2,Rural,20-29, PONDICHERRY, Pondicherry,Male,In seeing,175
+34,2,Rural,30-39, PONDICHERRY, Pondicherry,Male,In seeing,173
+34,2,Rural,40-49, PONDICHERRY, Pondicherry,Male,In seeing,159
+34,2,Rural,50-59, PONDICHERRY, Pondicherry,Male,In seeing,142
+34,2,Rural,60-69, PONDICHERRY, Pondicherry,Male,In seeing,171
+34,2,Rural,70-79, PONDICHERRY, Pondicherry,Male,In seeing,150
+34,2,Rural,80-89, PONDICHERRY, Pondicherry,Male,In seeing,50
+34,2,Rural,90+, PONDICHERRY, Pondicherry,Male,In seeing,13
+34,2,Rural,Age not stated, PONDICHERRY, Pondicherry,Male,In seeing,0
+34,2,Urban,0-4, PONDICHERRY, Pondicherry,Male,In seeing,122
+34,2,Urban,5-9, PONDICHERRY, Pondicherry,Male,In seeing,136
+34,2,Urban,10-19, PONDICHERRY, Pondicherry,Male,In seeing,349
+34,2,Urban,20-29, PONDICHERRY, Pondicherry,Male,In seeing,397
+34,2,Urban,30-39, PONDICHERRY, Pondicherry,Male,In seeing,507
+34,2,Urban,40-49, PONDICHERRY, Pondicherry,Male,In seeing,524
+34,2,Urban,50-59, PONDICHERRY, Pondicherry,Male,In seeing,340
+34,2,Urban,60-69, PONDICHERRY, Pondicherry,Male,In seeing,225
+34,2,Urban,70-79, PONDICHERRY, Pondicherry,Male,In seeing,164
+34,2,Urban,80-89, PONDICHERRY, Pondicherry,Male,In seeing,60
+34,2,Urban,90+, PONDICHERRY, Pondicherry,Male,In seeing,9
+34,2,Urban,Age not stated, PONDICHERRY, Pondicherry,Male,In seeing,6
+34,3,Rural,0-4, PONDICHERRY, Mahe,Male,In seeing,0
+34,3,Rural,5-9, PONDICHERRY, Mahe,Male,In seeing,0
+34,3,Rural,10-19, PONDICHERRY, Mahe,Male,In seeing,0
+34,3,Rural,20-29, PONDICHERRY, Mahe,Male,In seeing,0
+34,3,Rural,30-39, PONDICHERRY, Mahe,Male,In seeing,0
+34,3,Rural,40-49, PONDICHERRY, Mahe,Male,In seeing,0
+34,3,Rural,50-59, PONDICHERRY, Mahe,Male,In seeing,0
+34,3,Rural,60-69, PONDICHERRY, Mahe,Male,In seeing,0
+34,3,Rural,70-79, PONDICHERRY, Mahe,Male,In seeing,0
+34,3,Rural,80-89, PONDICHERRY, Mahe,Male,In seeing,0
+34,3,Rural,90+, PONDICHERRY, Mahe,Male,In seeing,0
+34,3,Rural,Age not stated, PONDICHERRY, Mahe,Male,In seeing,0
+34,3,Urban,0-4, PONDICHERRY, Mahe,Male,In seeing,6
+34,3,Urban,5-9, PONDICHERRY, Mahe,Male,In seeing,2
+34,3,Urban,10-19, PONDICHERRY, Mahe,Male,In seeing,16
+34,3,Urban,20-29, PONDICHERRY, Mahe,Male,In seeing,8
+34,3,Urban,30-39, PONDICHERRY, Mahe,Male,In seeing,11
+34,3,Urban,40-49, PONDICHERRY, Mahe,Male,In seeing,16
+34,3,Urban,50-59, PONDICHERRY, Mahe,Male,In seeing,13
+34,3,Urban,60-69, PONDICHERRY, Mahe,Male,In seeing,12
+34,3,Urban,70-79, PONDICHERRY, Mahe,Male,In seeing,5
+34,3,Urban,80-89, PONDICHERRY, Mahe,Male,In seeing,4
+34,3,Urban,90+, PONDICHERRY, Mahe,Male,In seeing,0
+34,3,Urban,Age not stated, PONDICHERRY, Mahe,Male,In seeing,0
+34,4,Rural,0-4, PONDICHERRY, Karaikal,Male,In seeing,38
+34,4,Rural,5-9, PONDICHERRY, Karaikal,Male,In seeing,29
+34,4,Rural,10-19, PONDICHERRY, Karaikal,Male,In seeing,82
+34,4,Rural,20-29, PONDICHERRY, Karaikal,Male,In seeing,62
+34,4,Rural,30-39, PONDICHERRY, Karaikal,Male,In seeing,127
+34,4,Rural,40-49, PONDICHERRY, Karaikal,Male,In seeing,114
+34,4,Rural,50-59, PONDICHERRY, Karaikal,Male,In seeing,102
+34,4,Rural,60-69, PONDICHERRY, Karaikal,Male,In seeing,68
+34,4,Rural,70-79, PONDICHERRY, Karaikal,Male,In seeing,67
+34,4,Rural,80-89, PONDICHERRY, Karaikal,Male,In seeing,21
+34,4,Rural,90+, PONDICHERRY, Karaikal,Male,In seeing,0
+34,4,Rural,Age not stated, PONDICHERRY, Karaikal,Male,In seeing,0
+34,4,Urban,0-4, PONDICHERRY, Karaikal,Male,In seeing,48
+34,4,Urban,5-9, PONDICHERRY, Karaikal,Male,In seeing,37
+34,4,Urban,10-19, PONDICHERRY, Karaikal,Male,In seeing,111
+34,4,Urban,20-29, PONDICHERRY, Karaikal,Male,In seeing,108
+34,4,Urban,30-39, PONDICHERRY, Karaikal,Male,In seeing,128
+34,4,Urban,40-49, PONDICHERRY, Karaikal,Male,In seeing,103
+34,4,Urban,50-59, PONDICHERRY, Karaikal,Male,In seeing,81
+34,4,Urban,60-69, PONDICHERRY, Karaikal,Male,In seeing,62
+34,4,Urban,70-79, PONDICHERRY, Karaikal,Male,In seeing,34
+34,4,Urban,80-89, PONDICHERRY, Karaikal,Male,In seeing,19
+34,4,Urban,90+, PONDICHERRY, Karaikal,Male,In seeing,1
+34,4,Urban,Age not stated, PONDICHERRY, Karaikal,Male,In seeing,1
+34,1,Rural,0-4, PONDICHERRY, Yanam,Female,In seeing,0
+34,1,Rural,5-9, PONDICHERRY, Yanam,Female,In seeing,0
+34,1,Rural,10-19, PONDICHERRY, Yanam,Female,In seeing,0
+34,1,Rural,20-29, PONDICHERRY, Yanam,Female,In seeing,0
+34,1,Rural,30-39, PONDICHERRY, Yanam,Female,In seeing,0
+34,1,Rural,40-49, PONDICHERRY, Yanam,Female,In seeing,0
+34,1,Rural,50-59, PONDICHERRY, Yanam,Female,In seeing,0
+34,1,Rural,60-69, PONDICHERRY, Yanam,Female,In seeing,0
+34,1,Rural,70-79, PONDICHERRY, Yanam,Female,In seeing,0
+34,1,Rural,80-89, PONDICHERRY, Yanam,Female,In seeing,0
+34,1,Rural,90+, PONDICHERRY, Yanam,Female,In seeing,0
+34,1,Rural,Age not stated, PONDICHERRY, Yanam,Female,In seeing,0
+34,1,Urban,0-4, PONDICHERRY, Yanam,Female,In seeing,12
+34,1,Urban,5-9, PONDICHERRY, Yanam,Female,In seeing,8
+34,1,Urban,10-19, PONDICHERRY, Yanam,Female,In seeing,31
+34,1,Urban,20-29, PONDICHERRY, Yanam,Female,In seeing,27
+34,1,Urban,30-39, PONDICHERRY, Yanam,Female,In seeing,14
+34,1,Urban,40-49, PONDICHERRY, Yanam,Female,In seeing,10
+34,1,Urban,50-59, PONDICHERRY, Yanam,Female,In seeing,11
+34,1,Urban,60-69, PONDICHERRY, Yanam,Female,In seeing,15
+34,1,Urban,70-79, PONDICHERRY, Yanam,Female,In seeing,3
+34,1,Urban,80-89, PONDICHERRY, Yanam,Female,In seeing,0
+34,1,Urban,90+, PONDICHERRY, Yanam,Female,In seeing,1
+34,1,Urban,Age not stated, PONDICHERRY, Yanam,Female,In seeing,0
+34,2,Rural,0-4, PONDICHERRY, Pondicherry,Female,In seeing,63
+34,2,Rural,5-9, PONDICHERRY, Pondicherry,Female,In seeing,52
+34,2,Rural,10-19, PONDICHERRY, Pondicherry,Female,In seeing,155
+34,2,Rural,20-29, PONDICHERRY, Pondicherry,Female,In seeing,160
+34,2,Rural,30-39, PONDICHERRY, Pondicherry,Female,In seeing,128
+34,2,Rural,40-49, PONDICHERRY, Pondicherry,Female,In seeing,150
+34,2,Rural,50-59, PONDICHERRY, Pondicherry,Female,In seeing,158
+34,2,Rural,60-69, PONDICHERRY, Pondicherry,Female,In seeing,246
+34,2,Rural,70-79, PONDICHERRY, Pondicherry,Female,In seeing,146
+34,2,Rural,80-89, PONDICHERRY, Pondicherry,Female,In seeing,50
+34,2,Rural,90+, PONDICHERRY, Pondicherry,Female,In seeing,11
+34,2,Rural,Age not stated, PONDICHERRY, Pondicherry,Female,In seeing,0
+34,2,Urban,0-4, PONDICHERRY, Pondicherry,Female,In seeing,120
+34,2,Urban,5-9, PONDICHERRY, Pondicherry,Female,In seeing,125
+34,2,Urban,10-19, PONDICHERRY, Pondicherry,Female,In seeing,291
+34,2,Urban,20-29, PONDICHERRY, Pondicherry,Female,In seeing,257
+34,2,Urban,30-39, PONDICHERRY, Pondicherry,Female,In seeing,257
+34,2,Urban,40-49, PONDICHERRY, Pondicherry,Female,In seeing,229
+34,2,Urban,50-59, PONDICHERRY, Pondicherry,Female,In seeing,198
+34,2,Urban,60-69, PONDICHERRY, Pondicherry,Female,In seeing,269
+34,2,Urban,70-79, PONDICHERRY, Pondicherry,Female,In seeing,212
+34,2,Urban,80-89, PONDICHERRY, Pondicherry,Female,In seeing,55
+34,2,Urban,90+, PONDICHERRY, Pondicherry,Female,In seeing,15
+34,2,Urban,Age not stated, PONDICHERRY, Pondicherry,Female,In seeing,2
+34,3,Rural,0-4, PONDICHERRY, Mahe,Female,In seeing,0
+34,3,Rural,5-9, PONDICHERRY, Mahe,Female,In seeing,0
+34,3,Rural,10-19, PONDICHERRY, Mahe,Female,In seeing,0
+34,3,Rural,20-29, PONDICHERRY, Mahe,Female,In seeing,0
+34,3,Rural,30-39, PONDICHERRY, Mahe,Female,In seeing,0
+34,3,Rural,40-49, PONDICHERRY, Mahe,Female,In seeing,0
+34,3,Rural,50-59, PONDICHERRY, Mahe,Female,In seeing,0
+34,3,Rural,60-69, PONDICHERRY, Mahe,Female,In seeing,0
+34,3,Rural,70-79, PONDICHERRY, Mahe,Female,In seeing,0
+34,3,Rural,80-89, PONDICHERRY, Mahe,Female,In seeing,0
+34,3,Rural,90+, PONDICHERRY, Mahe,Female,In seeing,0
+34,3,Rural,Age not stated, PONDICHERRY, Mahe,Female,In seeing,0
+34,3,Urban,0-4, PONDICHERRY, Mahe,Female,In seeing,9
+34,3,Urban,5-9, PONDICHERRY, Mahe,Female,In seeing,2
+34,3,Urban,10-19, PONDICHERRY, Mahe,Female,In seeing,11
+34,3,Urban,20-29, PONDICHERRY, Mahe,Female,In seeing,16
+34,3,Urban,30-39, PONDICHERRY, Mahe,Female,In seeing,15
+34,3,Urban,40-49, PONDICHERRY, Mahe,Female,In seeing,26
+34,3,Urban,50-59, PONDICHERRY, Mahe,Female,In seeing,13
+34,3,Urban,60-69, PONDICHERRY, Mahe,Female,In seeing,16
+34,3,Urban,70-79, PONDICHERRY, Mahe,Female,In seeing,15
+34,3,Urban,80-89, PONDICHERRY, Mahe,Female,In seeing,6
+34,3,Urban,90+, PONDICHERRY, Mahe,Female,In seeing,0
+34,3,Urban,Age not stated, PONDICHERRY, Mahe,Female,In seeing,0
+34,4,Rural,0-4, PONDICHERRY, Karaikal,Female,In seeing,22
+34,4,Rural,5-9, PONDICHERRY, Karaikal,Female,In seeing,28
+34,4,Rural,10-19, PONDICHERRY, Karaikal,Female,In seeing,69
+34,4,Rural,20-29, PONDICHERRY, Karaikal,Female,In seeing,76
+34,4,Rural,30-39, PONDICHERRY, Karaikal,Female,In seeing,61
+34,4,Rural,40-49, PONDICHERRY, Karaikal,Female,In seeing,65
+34,4,Rural,50-59, PONDICHERRY, Karaikal,Female,In seeing,69
+34,4,Rural,60-69, PONDICHERRY, Karaikal,Female,In seeing,65
+34,4,Rural,70-79, PONDICHERRY, Karaikal,Female,In seeing,63
+34,4,Rural,80-89, PONDICHERRY, Karaikal,Female,In seeing,19
+34,4,Rural,90+, PONDICHERRY, Karaikal,Female,In seeing,5
+34,4,Rural,Age not stated, PONDICHERRY, Karaikal,Female,In seeing,0
+34,4,Urban,0-4, PONDICHERRY, Karaikal,Female,In seeing,52
+34,4,Urban,5-9, PONDICHERRY, Karaikal,Female,In seeing,38
+34,4,Urban,10-19, PONDICHERRY, Karaikal,Female,In seeing,101
+34,4,Urban,20-29, PONDICHERRY, Karaikal,Female,In seeing,90
+34,4,Urban,30-39, PONDICHERRY, Karaikal,Female,In seeing,77
+34,4,Urban,40-49, PONDICHERRY, Karaikal,Female,In seeing,48
+34,4,Urban,50-59, PONDICHERRY, Karaikal,Female,In seeing,56
+34,4,Urban,60-69, PONDICHERRY, Karaikal,Female,In seeing,61
+34,4,Urban,70-79, PONDICHERRY, Karaikal,Female,In seeing,47
+34,4,Urban,80-89, PONDICHERRY, Karaikal,Female,In seeing,20
+34,4,Urban,90+, PONDICHERRY, Karaikal,Female,In seeing,4
+34,4,Urban,Age not stated, PONDICHERRY, Karaikal,Female,In seeing,0
+34,1,Rural,0-4, PONDICHERRY, Yanam,Male,In speech,0
+34,1,Rural,5-9, PONDICHERRY, Yanam,Male,In speech,0
+34,1,Rural,10-19, PONDICHERRY, Yanam,Male,In speech,0
+34,1,Rural,20-29, PONDICHERRY, Yanam,Male,In speech,0
+34,1,Rural,30-39, PONDICHERRY, Yanam,Male,In speech,0
+34,1,Rural,40-49, PONDICHERRY, Yanam,Male,In speech,0
+34,1,Rural,50-59, PONDICHERRY, Yanam,Male,In speech,0
+34,1,Rural,60-69, PONDICHERRY, Yanam,Male,In speech,0
+34,1,Rural,70-79, PONDICHERRY, Yanam,Male,In speech,0
+34,1,Rural,80-89, PONDICHERRY, Yanam,Male,In speech,0
+34,1,Rural,90+, PONDICHERRY, Yanam,Male,In speech,0
+34,1,Rural,Age not stated, PONDICHERRY, Yanam,Male,In speech,0
+34,1,Urban,0-4, PONDICHERRY, Yanam,Male,In speech,3
+34,1,Urban,5-9, PONDICHERRY, Yanam,Male,In speech,4
+34,1,Urban,10-19, PONDICHERRY, Yanam,Male,In speech,8
+34,1,Urban,20-29, PONDICHERRY, Yanam,Male,In speech,10
+34,1,Urban,30-39, PONDICHERRY, Yanam,Male,In speech,5
+34,1,Urban,40-49, PONDICHERRY, Yanam,Male,In speech,4
+34,1,Urban,50-59, PONDICHERRY, Yanam,Male,In speech,1
+34,1,Urban,60-69, PONDICHERRY, Yanam,Male,In speech,1
+34,1,Urban,70-79, PONDICHERRY, Yanam,Male,In speech,1
+34,1,Urban,80-89, PONDICHERRY, Yanam,Male,In speech,0
+34,1,Urban,90+, PONDICHERRY, Yanam,Male,In speech,0
+34,1,Urban,Age not stated, PONDICHERRY, Yanam,Male,In speech,0
+34,2,Rural,0-4, PONDICHERRY, Pondicherry,Male,In speech,5
+34,2,Rural,5-9, PONDICHERRY, Pondicherry,Male,In speech,29
+34,2,Rural,10-19, PONDICHERRY, Pondicherry,Male,In speech,67
+34,2,Rural,20-29, PONDICHERRY, Pondicherry,Male,In speech,71
+34,2,Rural,30-39, PONDICHERRY, Pondicherry,Male,In speech,38
+34,2,Rural,40-49, PONDICHERRY, Pondicherry,Male,In speech,27
+34,2,Rural,50-59, PONDICHERRY, Pondicherry,Male,In speech,12
+34,2,Rural,60-69, PONDICHERRY, Pondicherry,Male,In speech,13
+34,2,Rural,70-79, PONDICHERRY, Pondicherry,Male,In speech,5
+34,2,Rural,80-89, PONDICHERRY, Pondicherry,Male,In speech,0
+34,2,Rural,90+, PONDICHERRY, Pondicherry,Male,In speech,0
+34,2,Rural,Age not stated, PONDICHERRY, Pondicherry,Male,In speech,2
+34,2,Urban,0-4, PONDICHERRY, Pondicherry,Male,In speech,2
+34,2,Urban,5-9, PONDICHERRY, Pondicherry,Male,In speech,36
+34,2,Urban,10-19, PONDICHERRY, Pondicherry,Male,In speech,114
+34,2,Urban,20-29, PONDICHERRY, Pondicherry,Male,In speech,111
+34,2,Urban,30-39, PONDICHERRY, Pondicherry,Male,In speech,72
+34,2,Urban,40-49, PONDICHERRY, Pondicherry,Male,In speech,41
+34,2,Urban,50-59, PONDICHERRY, Pondicherry,Male,In speech,19
+34,2,Urban,60-69, PONDICHERRY, Pondicherry,Male,In speech,26
+34,2,Urban,70-79, PONDICHERRY, Pondicherry,Male,In speech,8
+34,2,Urban,80-89, PONDICHERRY, Pondicherry,Male,In speech,4
+34,2,Urban,90+, PONDICHERRY, Pondicherry,Male,In speech,2
+34,2,Urban,Age not stated, PONDICHERRY, Pondicherry,Male,In speech,0
+34,3,Rural,0-4, PONDICHERRY, Mahe,Male,In speech,0
+34,3,Rural,5-9, PONDICHERRY, Mahe,Male,In speech,0
+34,3,Rural,10-19, PONDICHERRY, Mahe,Male,In speech,0
+34,3,Rural,20-29, PONDICHERRY, Mahe,Male,In speech,0
+34,3,Rural,30-39, PONDICHERRY, Mahe,Male,In speech,0
+34,3,Rural,40-49, PONDICHERRY, Mahe,Male,In speech,0
+34,3,Rural,50-59, PONDICHERRY, Mahe,Male,In speech,0
+34,3,Rural,60-69, PONDICHERRY, Mahe,Male,In speech,0
+34,3,Rural,70-79, PONDICHERRY, Mahe,Male,In speech,0
+34,3,Rural,80-89, PONDICHERRY, Mahe,Male,In speech,0
+34,3,Rural,90+, PONDICHERRY, Mahe,Male,In speech,0
+34,3,Rural,Age not stated, PONDICHERRY, Mahe,Male,In speech,0
+34,3,Urban,0-4, PONDICHERRY, Mahe,Male,In speech,0
+34,3,Urban,5-9, PONDICHERRY, Mahe,Male,In speech,6
+34,3,Urban,10-19, PONDICHERRY, Mahe,Male,In speech,10
+34,3,Urban,20-29, PONDICHERRY, Mahe,Male,In speech,12
+34,3,Urban,30-39, PONDICHERRY, Mahe,Male,In speech,7
+34,3,Urban,40-49, PONDICHERRY, Mahe,Male,In speech,3
+34,3,Urban,50-59, PONDICHERRY, Mahe,Male,In speech,1
+34,3,Urban,60-69, PONDICHERRY, Mahe,Male,In speech,4
+34,3,Urban,70-79, PONDICHERRY, Mahe,Male,In speech,0
+34,3,Urban,80-89, PONDICHERRY, Mahe,Male,In speech,0
+34,3,Urban,90+, PONDICHERRY, Mahe,Male,In speech,0
+34,3,Urban,Age not stated, PONDICHERRY, Mahe,Male,In speech,0
+34,4,Rural,0-4, PONDICHERRY, Karaikal,Male,In speech,2
+34,4,Rural,5-9, PONDICHERRY, Karaikal,Male,In speech,9
+34,4,Rural,10-19, PONDICHERRY, Karaikal,Male,In speech,37
+34,4,Rural,20-29, PONDICHERRY, Karaikal,Male,In speech,34
+34,4,Rural,30-39, PONDICHERRY, Karaikal,Male,In speech,17
+34,4,Rural,40-49, PONDICHERRY, Karaikal,Male,In speech,10
+34,4,Rural,50-59, PONDICHERRY, Karaikal,Male,In speech,9
+34,4,Rural,60-69, PONDICHERRY, Karaikal,Male,In speech,7
+34,4,Rural,70-79, PONDICHERRY, Karaikal,Male,In speech,2
+34,4,Rural,80-89, PONDICHERRY, Karaikal,Male,In speech,1
+34,4,Rural,90+, PONDICHERRY, Karaikal,Male,In speech,0
+34,4,Rural,Age not stated, PONDICHERRY, Karaikal,Male,In speech,0
+34,4,Urban,0-4, PONDICHERRY, Karaikal,Male,In speech,2
+34,4,Urban,5-9, PONDICHERRY, Karaikal,Male,In speech,8
+34,4,Urban,10-19, PONDICHERRY, Karaikal,Male,In speech,13
+34,4,Urban,20-29, PONDICHERRY, Karaikal,Male,In speech,12
+34,4,Urban,30-39, PONDICHERRY, Karaikal,Male,In speech,11
+34,4,Urban,40-49, PONDICHERRY, Karaikal,Male,In speech,11
+34,4,Urban,50-59, PONDICHERRY, Karaikal,Male,In speech,6
+34,4,Urban,60-69, PONDICHERRY, Karaikal,Male,In speech,3
+34,4,Urban,70-79, PONDICHERRY, Karaikal,Male,In speech,3
+34,4,Urban,80-89, PONDICHERRY, Karaikal,Male,In speech,0
+34,4,Urban,90+, PONDICHERRY, Karaikal,Male,In speech,0
+34,4,Urban,Age not stated, PONDICHERRY, Karaikal,Male,In speech,0
+34,1,Rural,0-4, PONDICHERRY, Yanam,Female,In speech,0
+34,1,Rural,5-9, PONDICHERRY, Yanam,Female,In speech,0
+34,1,Rural,10-19, PONDICHERRY, Yanam,Female,In speech,0
+34,1,Rural,20-29, PONDICHERRY, Yanam,Female,In speech,0
+34,1,Rural,30-39, PONDICHERRY, Yanam,Female,In speech,0
+34,1,Rural,40-49, PONDICHERRY, Yanam,Female,In speech,0
+34,1,Rural,50-59, PONDICHERRY, Yanam,Female,In speech,0
+34,1,Rural,60-69, PONDICHERRY, Yanam,Female,In speech,0
+34,1,Rural,70-79, PONDICHERRY, Yanam,Female,In speech,0
+34,1,Rural,80-89, PONDICHERRY, Yanam,Female,In speech,0
+34,1,Rural,90+, PONDICHERRY, Yanam,Female,In speech,0
+34,1,Rural,Age not stated, PONDICHERRY, Yanam,Female,In speech,0
+34,1,Urban,0-4, PONDICHERRY, Yanam,Female,In speech,0
+34,1,Urban,5-9, PONDICHERRY, Yanam,Female,In speech,1
+34,1,Urban,10-19, PONDICHERRY, Yanam,Female,In speech,12
+34,1,Urban,20-29, PONDICHERRY, Yanam,Female,In speech,3
+34,1,Urban,30-39, PONDICHERRY, Yanam,Female,In speech,2
+34,1,Urban,40-49, PONDICHERRY, Yanam,Female,In speech,5
+34,1,Urban,50-59, PONDICHERRY, Yanam,Female,In speech,0
+34,1,Urban,60-69, PONDICHERRY, Yanam,Female,In speech,1
+34,1,Urban,70-79, PONDICHERRY, Yanam,Female,In speech,0
+34,1,Urban,80-89, PONDICHERRY, Yanam,Female,In speech,0
+34,1,Urban,90+, PONDICHERRY, Yanam,Female,In speech,0
+34,1,Urban,Age not stated, PONDICHERRY, Yanam,Female,In speech,0
+34,2,Rural,0-4, PONDICHERRY, Pondicherry,Female,In speech,5
+34,2,Rural,5-9, PONDICHERRY, Pondicherry,Female,In speech,13
+34,2,Rural,10-19, PONDICHERRY, Pondicherry,Female,In speech,57
+34,2,Rural,20-29, PONDICHERRY, Pondicherry,Female,In speech,57
+34,2,Rural,30-39, PONDICHERRY, Pondicherry,Female,In speech,41
+34,2,Rural,40-49, PONDICHERRY, Pondicherry,Female,In speech,18
+34,2,Rural,50-59, PONDICHERRY, Pondicherry,Female,In speech,18
+34,2,Rural,60-69, PONDICHERRY, Pondicherry,Female,In speech,11
+34,2,Rural,70-79, PONDICHERRY, Pondicherry,Female,In speech,5
+34,2,Rural,80-89, PONDICHERRY, Pondicherry,Female,In speech,1
+34,2,Rural,90+, PONDICHERRY, Pondicherry,Female,In speech,0
+34,2,Rural,Age not stated, PONDICHERRY, Pondicherry,Female,In speech,0
+34,2,Urban,0-4, PONDICHERRY, Pondicherry,Female,In speech,4
+34,2,Urban,5-9, PONDICHERRY, Pondicherry,Female,In speech,34
+34,2,Urban,10-19, PONDICHERRY, Pondicherry,Female,In speech,96
+34,2,Urban,20-29, PONDICHERRY, Pondicherry,Female,In speech,93
+34,2,Urban,30-39, PONDICHERRY, Pondicherry,Female,In speech,75
+34,2,Urban,40-49, PONDICHERRY, Pondicherry,Female,In speech,24
+34,2,Urban,50-59, PONDICHERRY, Pondicherry,Female,In speech,26
+34,2,Urban,60-69, PONDICHERRY, Pondicherry,Female,In speech,19
+34,2,Urban,70-79, PONDICHERRY, Pondicherry,Female,In speech,9
+34,2,Urban,80-89, PONDICHERRY, Pondicherry,Female,In speech,3
+34,2,Urban,90+, PONDICHERRY, Pondicherry,Female,In speech,0
+34,2,Urban,Age not stated, PONDICHERRY, Pondicherry,Female,In speech,1
+34,3,Rural,0-4, PONDICHERRY, Mahe,Female,In speech,0
+34,3,Rural,5-9, PONDICHERRY, Mahe,Female,In speech,0
+34,3,Rural,10-19, PONDICHERRY, Mahe,Female,In speech,0
+34,3,Rural,20-29, PONDICHERRY, Mahe,Female,In speech,0
+34,3,Rural,30-39, PONDICHERRY, Mahe,Female,In speech,0
+34,3,Rural,40-49, PONDICHERRY, Mahe,Female,In speech,0
+34,3,Rural,50-59, PONDICHERRY, Mahe,Female,In speech,0
+34,3,Rural,60-69, PONDICHERRY, Mahe,Female,In speech,0
+34,3,Rural,70-79, PONDICHERRY, Mahe,Female,In speech,0
+34,3,Rural,80-89, PONDICHERRY, Mahe,Female,In speech,0
+34,3,Rural,90+, PONDICHERRY, Mahe,Female,In speech,0
+34,3,Rural,Age not stated, PONDICHERRY, Mahe,Female,In speech,0
+34,3,Urban,0-4, PONDICHERRY, Mahe,Female,In speech,7
+34,3,Urban,5-9, PONDICHERRY, Mahe,Female,In speech,2
+34,3,Urban,10-19, PONDICHERRY, Mahe,Female,In speech,8
+34,3,Urban,20-29, PONDICHERRY, Mahe,Female,In speech,14
+34,3,Urban,30-39, PONDICHERRY, Mahe,Female,In speech,7
+34,3,Urban,40-49, PONDICHERRY, Mahe,Female,In speech,4
+34,3,Urban,50-59, PONDICHERRY, Mahe,Female,In speech,1
+34,3,Urban,60-69, PONDICHERRY, Mahe,Female,In speech,0
+34,3,Urban,70-79, PONDICHERRY, Mahe,Female,In speech,0
+34,3,Urban,80-89, PONDICHERRY, Mahe,Female,In speech,0
+34,3,Urban,90+, PONDICHERRY, Mahe,Female,In speech,0
+34,3,Urban,Age not stated, PONDICHERRY, Mahe,Female,In speech,0
+34,4,Rural,0-4, PONDICHERRY, Karaikal,Female,In speech,1
+34,4,Rural,5-9, PONDICHERRY, Karaikal,Female,In speech,9
+34,4,Rural,10-19, PONDICHERRY, Karaikal,Female,In speech,30
+34,4,Rural,20-29, PONDICHERRY, Karaikal,Female,In speech,21
+34,4,Rural,30-39, PONDICHERRY, Karaikal,Female,In speech,11
+34,4,Rural,40-49, PONDICHERRY, Karaikal,Female,In speech,12
+34,4,Rural,50-59, PONDICHERRY, Karaikal,Female,In speech,6
+34,4,Rural,60-69, PONDICHERRY, Karaikal,Female,In speech,3
+34,4,Rural,70-79, PONDICHERRY, Karaikal,Female,In speech,1
+34,4,Rural,80-89, PONDICHERRY, Karaikal,Female,In speech,0
+34,4,Rural,90+, PONDICHERRY, Karaikal,Female,In speech,1
+34,4,Rural,Age not stated, PONDICHERRY, Karaikal,Female,In speech,0
+34,4,Urban,0-4, PONDICHERRY, Karaikal,Female,In speech,0
+34,4,Urban,5-9, PONDICHERRY, Karaikal,Female,In speech,8
+34,4,Urban,10-19, PONDICHERRY, Karaikal,Female,In speech,18
+34,4,Urban,20-29, PONDICHERRY, Karaikal,Female,In speech,14
+34,4,Urban,30-39, PONDICHERRY, Karaikal,Female,In speech,10
+34,4,Urban,40-49, PONDICHERRY, Karaikal,Female,In speech,8
+34,4,Urban,50-59, PONDICHERRY, Karaikal,Female,In speech,2
+34,4,Urban,60-69, PONDICHERRY, Karaikal,Female,In speech,1
+34,4,Urban,70-79, PONDICHERRY, Karaikal,Female,In speech,3
+34,4,Urban,80-89, PONDICHERRY, Karaikal,Female,In speech,1
+34,4,Urban,90+, PONDICHERRY, Karaikal,Female,In speech,0
+34,4,Urban,Age not stated, PONDICHERRY, Karaikal,Female,In speech,0
+34,1,Rural,0-4, PONDICHERRY, Yanam,Male,In hearing,0
+34,1,Rural,5-9, PONDICHERRY, Yanam,Male,In hearing,0
+34,1,Rural,10-19, PONDICHERRY, Yanam,Male,In hearing,0
+34,1,Rural,20-29, PONDICHERRY, Yanam,Male,In hearing,0
+34,1,Rural,30-39, PONDICHERRY, Yanam,Male,In hearing,0
+34,1,Rural,40-49, PONDICHERRY, Yanam,Male,In hearing,0
+34,1,Rural,50-59, PONDICHERRY, Yanam,Male,In hearing,0
+34,1,Rural,60-69, PONDICHERRY, Yanam,Male,In hearing,0
+34,1,Rural,70-79, PONDICHERRY, Yanam,Male,In hearing,0
+34,1,Rural,80-89, PONDICHERRY, Yanam,Male,In hearing,0
+34,1,Rural,90+, PONDICHERRY, Yanam,Male,In hearing,0
+34,1,Rural,Age not stated, PONDICHERRY, Yanam,Male,In hearing,0
+34,1,Urban,0-4, PONDICHERRY, Yanam,Male,In hearing,1
+34,1,Urban,5-9, PONDICHERRY, Yanam,Male,In hearing,2
+34,1,Urban,10-19, PONDICHERRY, Yanam,Male,In hearing,1
+34,1,Urban,20-29, PONDICHERRY, Yanam,Male,In hearing,1
+34,1,Urban,30-39, PONDICHERRY, Yanam,Male,In hearing,2
+34,1,Urban,40-49, PONDICHERRY, Yanam,Male,In hearing,2
+34,1,Urban,50-59, PONDICHERRY, Yanam,Male,In hearing,3
+34,1,Urban,60-69, PONDICHERRY, Yanam,Male,In hearing,2
+34,1,Urban,70-79, PONDICHERRY, Yanam,Male,In hearing,3
+34,1,Urban,80-89, PONDICHERRY, Yanam,Male,In hearing,2
+34,1,Urban,90+, PONDICHERRY, Yanam,Male,In hearing,0
+34,1,Urban,Age not stated, PONDICHERRY, Yanam,Male,In hearing,0
+34,2,Rural,0-4, PONDICHERRY, Pondicherry,Male,In hearing,2
+34,2,Rural,5-9, PONDICHERRY, Pondicherry,Male,In hearing,11
+34,2,Rural,10-19, PONDICHERRY, Pondicherry,Male,In hearing,31
+34,2,Rural,20-29, PONDICHERRY, Pondicherry,Male,In hearing,31
+34,2,Rural,30-39, PONDICHERRY, Pondicherry,Male,In hearing,37
+34,2,Rural,40-49, PONDICHERRY, Pondicherry,Male,In hearing,48
+34,2,Rural,50-59, PONDICHERRY, Pondicherry,Male,In hearing,52
+34,2,Rural,60-69, PONDICHERRY, Pondicherry,Male,In hearing,40
+34,2,Rural,70-79, PONDICHERRY, Pondicherry,Male,In hearing,36
+34,2,Rural,80-89, PONDICHERRY, Pondicherry,Male,In hearing,20
+34,2,Rural,90+, PONDICHERRY, Pondicherry,Male,In hearing,2
+34,2,Rural,Age not stated, PONDICHERRY, Pondicherry,Male,In hearing,0
+34,2,Urban,0-4, PONDICHERRY, Pondicherry,Male,In hearing,5
+34,2,Urban,5-9, PONDICHERRY, Pondicherry,Male,In hearing,25
+34,2,Urban,10-19, PONDICHERRY, Pondicherry,Male,In hearing,95
+34,2,Urban,20-29, PONDICHERRY, Pondicherry,Male,In hearing,46
+34,2,Urban,30-39, PONDICHERRY, Pondicherry,Male,In hearing,58
+34,2,Urban,40-49, PONDICHERRY, Pondicherry,Male,In hearing,61
+34,2,Urban,50-59, PONDICHERRY, Pondicherry,Male,In hearing,52
+34,2,Urban,60-69, PONDICHERRY, Pondicherry,Male,In hearing,81
+34,2,Urban,70-79, PONDICHERRY, Pondicherry,Male,In hearing,47
+34,2,Urban,80-89, PONDICHERRY, Pondicherry,Male,In hearing,25
+34,2,Urban,90+, PONDICHERRY, Pondicherry,Male,In hearing,4
+34,2,Urban,Age not stated, PONDICHERRY, Pondicherry,Male,In hearing,1
+34,3,Rural,0-4, PONDICHERRY, Mahe,Male,In hearing,0
+34,3,Rural,5-9, PONDICHERRY, Mahe,Male,In hearing,0
+34,3,Rural,10-19, PONDICHERRY, Mahe,Male,In hearing,0
+34,3,Rural,20-29, PONDICHERRY, Mahe,Male,In hearing,0
+34,3,Rural,30-39, PONDICHERRY, Mahe,Male,In hearing,0
+34,3,Rural,40-49, PONDICHERRY, Mahe,Male,In hearing,0
+34,3,Rural,50-59, PONDICHERRY, Mahe,Male,In hearing,0
+34,3,Rural,60-69, PONDICHERRY, Mahe,Male,In hearing,0
+34,3,Rural,70-79, PONDICHERRY, Mahe,Male,In hearing,0
+34,3,Rural,80-89, PONDICHERRY, Mahe,Male,In hearing,0
+34,3,Rural,90+, PONDICHERRY, Mahe,Male,In hearing,0
+34,3,Rural,Age not stated, PONDICHERRY, Mahe,Male,In hearing,0
+34,3,Urban,0-4, PONDICHERRY, Mahe,Male,In hearing,0
+34,3,Urban,5-9, PONDICHERRY, Mahe,Male,In hearing,3
+34,3,Urban,10-19, PONDICHERRY, Mahe,Male,In hearing,6
+34,3,Urban,20-29, PONDICHERRY, Mahe,Male,In hearing,4
+34,3,Urban,30-39, PONDICHERRY, Mahe,Male,In hearing,4
+34,3,Urban,40-49, PONDICHERRY, Mahe,Male,In hearing,1
+34,3,Urban,50-59, PONDICHERRY, Mahe,Male,In hearing,1
+34,3,Urban,60-69, PONDICHERRY, Mahe,Male,In hearing,5
+34,3,Urban,70-79, PONDICHERRY, Mahe,Male,In hearing,1
+34,3,Urban,80-89, PONDICHERRY, Mahe,Male,In hearing,1
+34,3,Urban,90+, PONDICHERRY, Mahe,Male,In hearing,0
+34,3,Urban,Age not stated, PONDICHERRY, Mahe,Male,In hearing,0
+34,4,Rural,0-4, PONDICHERRY, Karaikal,Male,In hearing,1
+34,4,Rural,5-9, PONDICHERRY, Karaikal,Male,In hearing,2
+34,4,Rural,10-19, PONDICHERRY, Karaikal,Male,In hearing,6
+34,4,Rural,20-29, PONDICHERRY, Karaikal,Male,In hearing,13
+34,4,Rural,30-39, PONDICHERRY, Karaikal,Male,In hearing,12
+34,4,Rural,40-49, PONDICHERRY, Karaikal,Male,In hearing,12
+34,4,Rural,50-59, PONDICHERRY, Karaikal,Male,In hearing,19
+34,4,Rural,60-69, PONDICHERRY, Karaikal,Male,In hearing,19
+34,4,Rural,70-79, PONDICHERRY, Karaikal,Male,In hearing,15
+34,4,Rural,80-89, PONDICHERRY, Karaikal,Male,In hearing,12
+34,4,Rural,90+, PONDICHERRY, Karaikal,Male,In hearing,0
+34,4,Rural,Age not stated, PONDICHERRY, Karaikal,Male,In hearing,0
+34,4,Urban,0-4, PONDICHERRY, Karaikal,Male,In hearing,0
+34,4,Urban,5-9, PONDICHERRY, Karaikal,Male,In hearing,8
+34,4,Urban,10-19, PONDICHERRY, Karaikal,Male,In hearing,14
+34,4,Urban,20-29, PONDICHERRY, Karaikal,Male,In hearing,9
+34,4,Urban,30-39, PONDICHERRY, Karaikal,Male,In hearing,11
+34,4,Urban,40-49, PONDICHERRY, Karaikal,Male,In hearing,7
+34,4,Urban,50-59, PONDICHERRY, Karaikal,Male,In hearing,10
+34,4,Urban,60-69, PONDICHERRY, Karaikal,Male,In hearing,12
+34,4,Urban,70-79, PONDICHERRY, Karaikal,Male,In hearing,7
+34,4,Urban,80-89, PONDICHERRY, Karaikal,Male,In hearing,2
+34,4,Urban,90+, PONDICHERRY, Karaikal,Male,In hearing,0
+34,4,Urban,Age not stated, PONDICHERRY, Karaikal,Male,In hearing,1
+34,1,Rural,0-4, PONDICHERRY, Yanam,Female,In hearing,0
+34,1,Rural,5-9, PONDICHERRY, Yanam,Female,In hearing,0
+34,1,Rural,10-19, PONDICHERRY, Yanam,Female,In hearing,0
+34,1,Rural,20-29, PONDICHERRY, Yanam,Female,In hearing,0
+34,1,Rural,30-39, PONDICHERRY, Yanam,Female,In hearing,0
+34,1,Rural,40-49, PONDICHERRY, Yanam,Female,In hearing,0
+34,1,Rural,50-59, PONDICHERRY, Yanam,Female,In hearing,0
+34,1,Rural,60-69, PONDICHERRY, Yanam,Female,In hearing,0
+34,1,Rural,70-79, PONDICHERRY, Yanam,Female,In hearing,0
+34,1,Rural,80-89, PONDICHERRY, Yanam,Female,In hearing,0
+34,1,Rural,90+, PONDICHERRY, Yanam,Female,In hearing,0
+34,1,Rural,Age not stated, PONDICHERRY, Yanam,Female,In hearing,0
+34,1,Urban,0-4, PONDICHERRY, Yanam,Female,In hearing,0
+34,1,Urban,5-9, PONDICHERRY, Yanam,Female,In hearing,0
+34,1,Urban,10-19, PONDICHERRY, Yanam,Female,In hearing,2
+34,1,Urban,20-29, PONDICHERRY, Yanam,Female,In hearing,3
+34,1,Urban,30-39, PONDICHERRY, Yanam,Female,In hearing,1
+34,1,Urban,40-49, PONDICHERRY, Yanam,Female,In hearing,0
+34,1,Urban,50-59, PONDICHERRY, Yanam,Female,In hearing,3
+34,1,Urban,60-69, PONDICHERRY, Yanam,Female,In hearing,2
+34,1,Urban,70-79, PONDICHERRY, Yanam,Female,In hearing,3
+34,1,Urban,80-89, PONDICHERRY, Yanam,Female,In hearing,1
+34,1,Urban,90+, PONDICHERRY, Yanam,Female,In hearing,0
+34,1,Urban,Age not stated, PONDICHERRY, Yanam,Female,In hearing,0
+34,2,Rural,0-4, PONDICHERRY, Pondicherry,Female,In hearing,2
+34,2,Rural,5-9, PONDICHERRY, Pondicherry,Female,In hearing,7
+34,2,Rural,10-19, PONDICHERRY, Pondicherry,Female,In hearing,33
+34,2,Rural,20-29, PONDICHERRY, Pondicherry,Female,In hearing,30
+34,2,Rural,30-39, PONDICHERRY, Pondicherry,Female,In hearing,53
+34,2,Rural,40-49, PONDICHERRY, Pondicherry,Female,In hearing,49
+34,2,Rural,50-59, PONDICHERRY, Pondicherry,Female,In hearing,42
+34,2,Rural,60-69, PONDICHERRY, Pondicherry,Female,In hearing,55
+34,2,Rural,70-79, PONDICHERRY, Pondicherry,Female,In hearing,39
+34,2,Rural,80-89, PONDICHERRY, Pondicherry,Female,In hearing,9
+34,2,Rural,90+, PONDICHERRY, Pondicherry,Female,In hearing,2
+34,2,Rural,Age not stated, PONDICHERRY, Pondicherry,Female,In hearing,1
+34,2,Urban,0-4, PONDICHERRY, Pondicherry,Female,In hearing,5
+34,2,Urban,5-9, PONDICHERRY, Pondicherry,Female,In hearing,24
+34,2,Urban,10-19, PONDICHERRY, Pondicherry,Female,In hearing,58
+34,2,Urban,20-29, PONDICHERRY, Pondicherry,Female,In hearing,54
+34,2,Urban,30-39, PONDICHERRY, Pondicherry,Female,In hearing,65
+34,2,Urban,40-49, PONDICHERRY, Pondicherry,Female,In hearing,76
+34,2,Urban,50-59, PONDICHERRY, Pondicherry,Female,In hearing,94
+34,2,Urban,60-69, PONDICHERRY, Pondicherry,Female,In hearing,123
+34,2,Urban,70-79, PONDICHERRY, Pondicherry,Female,In hearing,91
+34,2,Urban,80-89, PONDICHERRY, Pondicherry,Female,In hearing,36
+34,2,Urban,90+, PONDICHERRY, Pondicherry,Female,In hearing,8
+34,2,Urban,Age not stated, PONDICHERRY, Pondicherry,Female,In hearing,0
+34,3,Rural,0-4, PONDICHERRY, Mahe,Female,In hearing,0
+34,3,Rural,5-9, PONDICHERRY, Mahe,Female,In hearing,0
+34,3,Rural,10-19, PONDICHERRY, Mahe,Female,In hearing,0
+34,3,Rural,20-29, PONDICHERRY, Mahe,Female,In hearing,0
+34,3,Rural,30-39, PONDICHERRY, Mahe,Female,In hearing,0
+34,3,Rural,40-49, PONDICHERRY, Mahe,Female,In hearing,0
+34,3,Rural,50-59, PONDICHERRY, Mahe,Female,In hearing,0
+34,3,Rural,60-69, PONDICHERRY, Mahe,Female,In hearing,0
+34,3,Rural,70-79, PONDICHERRY, Mahe,Female,In hearing,0
+34,3,Rural,80-89, PONDICHERRY, Mahe,Female,In hearing,0
+34,3,Rural,90+, PONDICHERRY, Mahe,Female,In hearing,0
+34,3,Rural,Age not stated, PONDICHERRY, Mahe,Female,In hearing,0
+34,3,Urban,0-4, PONDICHERRY, Mahe,Female,In hearing,0
+34,3,Urban,5-9, PONDICHERRY, Mahe,Female,In hearing,1
+34,3,Urban,10-19, PONDICHERRY, Mahe,Female,In hearing,3
+34,3,Urban,20-29, PONDICHERRY, Mahe,Female,In hearing,4
+34,3,Urban,30-39, PONDICHERRY, Mahe,Female,In hearing,4
+34,3,Urban,40-49, PONDICHERRY, Mahe,Female,In hearing,2
+34,3,Urban,50-59, PONDICHERRY, Mahe,Female,In hearing,3
+34,3,Urban,60-69, PONDICHERRY, Mahe,Female,In hearing,3
+34,3,Urban,70-79, PONDICHERRY, Mahe,Female,In hearing,8
+34,3,Urban,80-89, PONDICHERRY, Mahe,Female,In hearing,4
+34,3,Urban,90+, PONDICHERRY, Mahe,Female,In hearing,0
+34,3,Urban,Age not stated, PONDICHERRY, Mahe,Female,In hearing,0
+34,4,Rural,0-4, PONDICHERRY, Karaikal,Female,In hearing,1
+34,4,Rural,5-9, PONDICHERRY, Karaikal,Female,In hearing,4
+34,4,Rural,10-19, PONDICHERRY, Karaikal,Female,In hearing,15
+34,4,Rural,20-29, PONDICHERRY, Karaikal,Female,In hearing,9
+34,4,Rural,30-39, PONDICHERRY, Karaikal,Female,In hearing,16
+34,4,Rural,40-49, PONDICHERRY, Karaikal,Female,In hearing,16
+34,4,Rural,50-59, PONDICHERRY, Karaikal,Female,In hearing,29
+34,4,Rural,60-69, PONDICHERRY, Karaikal,Female,In hearing,19
+34,4,Rural,70-79, PONDICHERRY, Karaikal,Female,In hearing,25
+34,4,Rural,80-89, PONDICHERRY, Karaikal,Female,In hearing,3
+34,4,Rural,90+, PONDICHERRY, Karaikal,Female,In hearing,0
+34,4,Rural,Age not stated, PONDICHERRY, Karaikal,Female,In hearing,0
+34,4,Urban,0-4, PONDICHERRY, Karaikal,Female,In hearing,2
+34,4,Urban,5-9, PONDICHERRY, Karaikal,Female,In hearing,3
+34,4,Urban,10-19, PONDICHERRY, Karaikal,Female,In hearing,6
+34,4,Urban,20-29, PONDICHERRY, Karaikal,Female,In hearing,10
+34,4,Urban,30-39, PONDICHERRY, Karaikal,Female,In hearing,7
+34,4,Urban,40-49, PONDICHERRY, Karaikal,Female,In hearing,15
+34,4,Urban,50-59, PONDICHERRY, Karaikal,Female,In hearing,14
+34,4,Urban,60-69, PONDICHERRY, Karaikal,Female,In hearing,15
+34,4,Urban,70-79, PONDICHERRY, Karaikal,Female,In hearing,9
+34,4,Urban,80-89, PONDICHERRY, Karaikal,Female,In hearing,8
+34,4,Urban,90+, PONDICHERRY, Karaikal,Female,In hearing,0
+34,4,Urban,Age not stated, PONDICHERRY, Karaikal,Female,In hearing,1
+34,1,Rural,0-4, PONDICHERRY, Yanam,Male,In movement,0
+34,1,Rural,5-9, PONDICHERRY, Yanam,Male,In movement,0
+34,1,Rural,10-19, PONDICHERRY, Yanam,Male,In movement,0
+34,1,Rural,20-29, PONDICHERRY, Yanam,Male,In movement,0
+34,1,Rural,30-39, PONDICHERRY, Yanam,Male,In movement,0
+34,1,Rural,40-49, PONDICHERRY, Yanam,Male,In movement,0
+34,1,Rural,50-59, PONDICHERRY, Yanam,Male,In movement,0
+34,1,Rural,60-69, PONDICHERRY, Yanam,Male,In movement,0
+34,1,Rural,70-79, PONDICHERRY, Yanam,Male,In movement,0
+34,1,Rural,80-89, PONDICHERRY, Yanam,Male,In movement,0
+34,1,Rural,90+, PONDICHERRY, Yanam,Male,In movement,0
+34,1,Rural,Age not stated, PONDICHERRY, Yanam,Male,In movement,0
+34,1,Urban,0-4, PONDICHERRY, Yanam,Male,In movement,4
+34,1,Urban,5-9, PONDICHERRY, Yanam,Male,In movement,6
+34,1,Urban,10-19, PONDICHERRY, Yanam,Male,In movement,27
+34,1,Urban,20-29, PONDICHERRY, Yanam,Male,In movement,19
+34,1,Urban,30-39, PONDICHERRY, Yanam,Male,In movement,15
+34,1,Urban,40-49, PONDICHERRY, Yanam,Male,In movement,16
+34,1,Urban,50-59, PONDICHERRY, Yanam,Male,In movement,9
+34,1,Urban,60-69, PONDICHERRY, Yanam,Male,In movement,8
+34,1,Urban,70-79, PONDICHERRY, Yanam,Male,In movement,1
+34,1,Urban,80-89, PONDICHERRY, Yanam,Male,In movement,0
+34,1,Urban,90+, PONDICHERRY, Yanam,Male,In movement,0
+34,1,Urban,Age not stated, PONDICHERRY, Yanam,Male,In movement,0
+34,2,Rural,0-4, PONDICHERRY, Pondicherry,Male,In movement,35
+34,2,Rural,5-9, PONDICHERRY, Pondicherry,Male,In movement,46
+34,2,Rural,10-19, PONDICHERRY, Pondicherry,Male,In movement,231
+34,2,Rural,20-29, PONDICHERRY, Pondicherry,Male,In movement,283
+34,2,Rural,30-39, PONDICHERRY, Pondicherry,Male,In movement,226
+34,2,Rural,40-49, PONDICHERRY, Pondicherry,Male,In movement,245
+34,2,Rural,50-59, PONDICHERRY, Pondicherry,Male,In movement,203
+34,2,Rural,60-69, PONDICHERRY, Pondicherry,Male,In movement,177
+34,2,Rural,70-79, PONDICHERRY, Pondicherry,Male,In movement,105
+34,2,Rural,80-89, PONDICHERRY, Pondicherry,Male,In movement,26
+34,2,Rural,90+, PONDICHERRY, Pondicherry,Male,In movement,4
+34,2,Rural,Age not stated, PONDICHERRY, Pondicherry,Male,In movement,1
+34,2,Urban,0-4, PONDICHERRY, Pondicherry,Male,In movement,53
+34,2,Urban,5-9, PONDICHERRY, Pondicherry,Male,In movement,76
+34,2,Urban,10-19, PONDICHERRY, Pondicherry,Male,In movement,442
+34,2,Urban,20-29, PONDICHERRY, Pondicherry,Male,In movement,509
+34,2,Urban,30-39, PONDICHERRY, Pondicherry,Male,In movement,386
+34,2,Urban,40-49, PONDICHERRY, Pondicherry,Male,In movement,384
+34,2,Urban,50-59, PONDICHERRY, Pondicherry,Male,In movement,337
+34,2,Urban,60-69, PONDICHERRY, Pondicherry,Male,In movement,292
+34,2,Urban,70-79, PONDICHERRY, Pondicherry,Male,In movement,172
+34,2,Urban,80-89, PONDICHERRY, Pondicherry,Male,In movement,51
+34,2,Urban,90+, PONDICHERRY, Pondicherry,Male,In movement,7
+34,2,Urban,Age not stated, PONDICHERRY, Pondicherry,Male,In movement,1
+34,3,Rural,0-4, PONDICHERRY, Mahe,Male,In movement,0
+34,3,Rural,5-9, PONDICHERRY, Mahe,Male,In movement,0
+34,3,Rural,10-19, PONDICHERRY, Mahe,Male,In movement,0
+34,3,Rural,20-29, PONDICHERRY, Mahe,Male,In movement,0
+34,3,Rural,30-39, PONDICHERRY, Mahe,Male,In movement,0
+34,3,Rural,40-49, PONDICHERRY, Mahe,Male,In movement,0
+34,3,Rural,50-59, PONDICHERRY, Mahe,Male,In movement,0
+34,3,Rural,60-69, PONDICHERRY, Mahe,Male,In movement,0
+34,3,Rural,70-79, PONDICHERRY, Mahe,Male,In movement,0
+34,3,Rural,80-89, PONDICHERRY, Mahe,Male,In movement,0
+34,3,Rural,90+, PONDICHERRY, Mahe,Male,In movement,0
+34,3,Rural,Age not stated, PONDICHERRY, Mahe,Male,In movement,0
+34,3,Urban,0-4, PONDICHERRY, Mahe,Male,In movement,4
+34,3,Urban,5-9, PONDICHERRY, Mahe,Male,In movement,9
+34,3,Urban,10-19, PONDICHERRY, Mahe,Male,In movement,15
+34,3,Urban,20-29, PONDICHERRY, Mahe,Male,In movement,16
+34,3,Urban,30-39, PONDICHERRY, Mahe,Male,In movement,18
+34,3,Urban,40-49, PONDICHERRY, Mahe,Male,In movement,16
+34,3,Urban,50-59, PONDICHERRY, Mahe,Male,In movement,12
+34,3,Urban,60-69, PONDICHERRY, Mahe,Male,In movement,11
+34,3,Urban,70-79, PONDICHERRY, Mahe,Male,In movement,5
+34,3,Urban,80-89, PONDICHERRY, Mahe,Male,In movement,2
+34,3,Urban,90+, PONDICHERRY, Mahe,Male,In movement,1
+34,3,Urban,Age not stated, PONDICHERRY, Mahe,Male,In movement,0
+34,4,Rural,0-4, PONDICHERRY, Karaikal,Male,In movement,15
+34,4,Rural,5-9, PONDICHERRY, Karaikal,Male,In movement,22
+34,4,Rural,10-19, PONDICHERRY, Karaikal,Male,In movement,71
+34,4,Rural,20-29, PONDICHERRY, Karaikal,Male,In movement,92
+34,4,Rural,30-39, PONDICHERRY, Karaikal,Male,In movement,91
+34,4,Rural,40-49, PONDICHERRY, Karaikal,Male,In movement,86
+34,4,Rural,50-59, PONDICHERRY, Karaikal,Male,In movement,81
+34,4,Rural,60-69, PONDICHERRY, Karaikal,Male,In movement,62
+34,4,Rural,70-79, PONDICHERRY, Karaikal,Male,In movement,42
+34,4,Rural,80-89, PONDICHERRY, Karaikal,Male,In movement,8
+34,4,Rural,90+, PONDICHERRY, Karaikal,Male,In movement,3
+34,4,Rural,Age not stated, PONDICHERRY, Karaikal,Male,In movement,0
+34,4,Urban,0-4, PONDICHERRY, Karaikal,Male,In movement,5
+34,4,Urban,5-9, PONDICHERRY, Karaikal,Male,In movement,23
+34,4,Urban,10-19, PONDICHERRY, Karaikal,Male,In movement,92
+34,4,Urban,20-29, PONDICHERRY, Karaikal,Male,In movement,85
+34,4,Urban,30-39, PONDICHERRY, Karaikal,Male,In movement,67
+34,4,Urban,40-49, PONDICHERRY, Karaikal,Male,In movement,61
+34,4,Urban,50-59, PONDICHERRY, Karaikal,Male,In movement,56
+34,4,Urban,60-69, PONDICHERRY, Karaikal,Male,In movement,44
+34,4,Urban,70-79, PONDICHERRY, Karaikal,Male,In movement,22
+34,4,Urban,80-89, PONDICHERRY, Karaikal,Male,In movement,7
+34,4,Urban,90+, PONDICHERRY, Karaikal,Male,In movement,1
+34,4,Urban,Age not stated, PONDICHERRY, Karaikal,Male,In movement,1
+34,1,Rural,0-4, PONDICHERRY, Yanam,Female,In movement,0
+34,1,Rural,5-9, PONDICHERRY, Yanam,Female,In movement,0
+34,1,Rural,10-19, PONDICHERRY, Yanam,Female,In movement,0
+34,1,Rural,20-29, PONDICHERRY, Yanam,Female,In movement,0
+34,1,Rural,30-39, PONDICHERRY, Yanam,Female,In movement,0
+34,1,Rural,40-49, PONDICHERRY, Yanam,Female,In movement,0
+34,1,Rural,50-59, PONDICHERRY, Yanam,Female,In movement,0
+34,1,Rural,60-69, PONDICHERRY, Yanam,Female,In movement,0
+34,1,Rural,70-79, PONDICHERRY, Yanam,Female,In movement,0
+34,1,Rural,80-89, PONDICHERRY, Yanam,Female,In movement,0
+34,1,Rural,90+, PONDICHERRY, Yanam,Female,In movement,0
+34,1,Rural,Age not stated, PONDICHERRY, Yanam,Female,In movement,0
+34,1,Urban,0-4, PONDICHERRY, Yanam,Female,In movement,4
+34,1,Urban,5-9, PONDICHERRY, Yanam,Female,In movement,4
+34,1,Urban,10-19, PONDICHERRY, Yanam,Female,In movement,15
+34,1,Urban,20-29, PONDICHERRY, Yanam,Female,In movement,7
+34,1,Urban,30-39, PONDICHERRY, Yanam,Female,In movement,10
+34,1,Urban,40-49, PONDICHERRY, Yanam,Female,In movement,5
+34,1,Urban,50-59, PONDICHERRY, Yanam,Female,In movement,5
+34,1,Urban,60-69, PONDICHERRY, Yanam,Female,In movement,9
+34,1,Urban,70-79, PONDICHERRY, Yanam,Female,In movement,4
+34,1,Urban,80-89, PONDICHERRY, Yanam,Female,In movement,0
+34,1,Urban,90+, PONDICHERRY, Yanam,Female,In movement,0
+34,1,Urban,Age not stated, PONDICHERRY, Yanam,Female,In movement,0
+34,2,Rural,0-4, PONDICHERRY, Pondicherry,Female,In movement,21
+34,2,Rural,5-9, PONDICHERRY, Pondicherry,Female,In movement,31
+34,2,Rural,10-19, PONDICHERRY, Pondicherry,Female,In movement,155
+34,2,Rural,20-29, PONDICHERRY, Pondicherry,Female,In movement,135
+34,2,Rural,30-39, PONDICHERRY, Pondicherry,Female,In movement,121
+34,2,Rural,40-49, PONDICHERRY, Pondicherry,Female,In movement,97
+34,2,Rural,50-59, PONDICHERRY, Pondicherry,Female,In movement,100
+34,2,Rural,60-69, PONDICHERRY, Pondicherry,Female,In movement,110
+34,2,Rural,70-79, PONDICHERRY, Pondicherry,Female,In movement,32
+34,2,Rural,80-89, PONDICHERRY, Pondicherry,Female,In movement,19
+34,2,Rural,90+, PONDICHERRY, Pondicherry,Female,In movement,4
+34,2,Rural,Age not stated, PONDICHERRY, Pondicherry,Female,In movement,0
+34,2,Urban,0-4, PONDICHERRY, Pondicherry,Female,In movement,39
+34,2,Urban,5-9, PONDICHERRY, Pondicherry,Female,In movement,55
+34,2,Urban,10-19, PONDICHERRY, Pondicherry,Female,In movement,330
+34,2,Urban,20-29, PONDICHERRY, Pondicherry,Female,In movement,304
+34,2,Urban,30-39, PONDICHERRY, Pondicherry,Female,In movement,248
+34,2,Urban,40-49, PONDICHERRY, Pondicherry,Female,In movement,197
+34,2,Urban,50-59, PONDICHERRY, Pondicherry,Female,In movement,165
+34,2,Urban,60-69, PONDICHERRY, Pondicherry,Female,In movement,194
+34,2,Urban,70-79, PONDICHERRY, Pondicherry,Female,In movement,111
+34,2,Urban,80-89, PONDICHERRY, Pondicherry,Female,In movement,66
+34,2,Urban,90+, PONDICHERRY, Pondicherry,Female,In movement,16
+34,2,Urban,Age not stated, PONDICHERRY, Pondicherry,Female,In movement,1
+34,3,Rural,0-4, PONDICHERRY, Mahe,Female,In movement,0
+34,3,Rural,5-9, PONDICHERRY, Mahe,Female,In movement,0
+34,3,Rural,10-19, PONDICHERRY, Mahe,Female,In movement,0
+34,3,Rural,20-29, PONDICHERRY, Mahe,Female,In movement,0
+34,3,Rural,30-39, PONDICHERRY, Mahe,Female,In movement,0
+34,3,Rural,40-49, PONDICHERRY, Mahe,Female,In movement,0
+34,3,Rural,50-59, PONDICHERRY, Mahe,Female,In movement,0
+34,3,Rural,60-69, PONDICHERRY, Mahe,Female,In movement,0
+34,3,Rural,70-79, PONDICHERRY, Mahe,Female,In movement,0
+34,3,Rural,80-89, PONDICHERRY, Mahe,Female,In movement,0
+34,3,Rural,90+, PONDICHERRY, Mahe,Female,In movement,0
+34,3,Rural,Age not stated, PONDICHERRY, Mahe,Female,In movement,0
+34,3,Urban,0-4, PONDICHERRY, Mahe,Female,In movement,3
+34,3,Urban,5-9, PONDICHERRY, Mahe,Female,In movement,4
+34,3,Urban,10-19, PONDICHERRY, Mahe,Female,In movement,13
+34,3,Urban,20-29, PONDICHERRY, Mahe,Female,In movement,16
+34,3,Urban,30-39, PONDICHERRY, Mahe,Female,In movement,9
+34,3,Urban,40-49, PONDICHERRY, Mahe,Female,In movement,13
+34,3,Urban,50-59, PONDICHERRY, Mahe,Female,In movement,6
+34,3,Urban,60-69, PONDICHERRY, Mahe,Female,In movement,10
+34,3,Urban,70-79, PONDICHERRY, Mahe,Female,In movement,3
+34,3,Urban,80-89, PONDICHERRY, Mahe,Female,In movement,3
+34,3,Urban,90+, PONDICHERRY, Mahe,Female,In movement,0
+34,3,Urban,Age not stated, PONDICHERRY, Mahe,Female,In movement,0
+34,4,Rural,0-4, PONDICHERRY, Karaikal,Female,In movement,11
+34,4,Rural,5-9, PONDICHERRY, Karaikal,Female,In movement,11
+34,4,Rural,10-19, PONDICHERRY, Karaikal,Female,In movement,45
+34,4,Rural,20-29, PONDICHERRY, Karaikal,Female,In movement,66
+34,4,Rural,30-39, PONDICHERRY, Karaikal,Female,In movement,33
+34,4,Rural,40-49, PONDICHERRY, Karaikal,Female,In movement,44
+34,4,Rural,50-59, PONDICHERRY, Karaikal,Female,In movement,39
+34,4,Rural,60-69, PONDICHERRY, Karaikal,Female,In movement,38
+34,4,Rural,70-79, PONDICHERRY, Karaikal,Female,In movement,27
+34,4,Rural,80-89, PONDICHERRY, Karaikal,Female,In movement,12
+34,4,Rural,90+, PONDICHERRY, Karaikal,Female,In movement,3
+34,4,Rural,Age not stated, PONDICHERRY, Karaikal,Female,In movement,0
+34,4,Urban,0-4, PONDICHERRY, Karaikal,Female,In movement,8
+34,4,Urban,5-9, PONDICHERRY, Karaikal,Female,In movement,6
+34,4,Urban,10-19, PONDICHERRY, Karaikal,Female,In movement,50
+34,4,Urban,20-29, PONDICHERRY, Karaikal,Female,In movement,46
+34,4,Urban,30-39, PONDICHERRY, Karaikal,Female,In movement,36
+34,4,Urban,40-49, PONDICHERRY, Karaikal,Female,In movement,22
+34,4,Urban,50-59, PONDICHERRY, Karaikal,Female,In movement,31
+34,4,Urban,60-69, PONDICHERRY, Karaikal,Female,In movement,28
+34,4,Urban,70-79, PONDICHERRY, Karaikal,Female,In movement,25
+34,4,Urban,80-89, PONDICHERRY, Karaikal,Female,In movement,8
+34,4,Urban,90+, PONDICHERRY, Karaikal,Female,In movement,3
+34,4,Urban,Age not stated, PONDICHERRY, Karaikal,Female,In movement,1
+34,1,Rural,0-4, PONDICHERRY, Yanam,Male,Mental,0
+34,1,Rural,5-9, PONDICHERRY, Yanam,Male,Mental,0
+34,1,Rural,10-19, PONDICHERRY, Yanam,Male,Mental,0
+34,1,Rural,20-29, PONDICHERRY, Yanam,Male,Mental,0
+34,1,Rural,30-39, PONDICHERRY, Yanam,Male,Mental,0
+34,1,Rural,40-49, PONDICHERRY, Yanam,Male,Mental,0
+34,1,Rural,50-59, PONDICHERRY, Yanam,Male,Mental,0
+34,1,Rural,60-69, PONDICHERRY, Yanam,Male,Mental,0
+34,1,Rural,70-79, PONDICHERRY, Yanam,Male,Mental,0
+34,1,Rural,80-89, PONDICHERRY, Yanam,Male,Mental,0
+34,1,Rural,90+, PONDICHERRY, Yanam,Male,Mental,0
+34,1,Rural,Age not stated, PONDICHERRY, Yanam,Male,Mental,0
+34,1,Urban,0-4, PONDICHERRY, Yanam,Male,Mental,4
+34,1,Urban,5-9, PONDICHERRY, Yanam,Male,Mental,4
+34,1,Urban,10-19, PONDICHERRY, Yanam,Male,Mental,11
+34,1,Urban,20-29, PONDICHERRY, Yanam,Male,Mental,3
+34,1,Urban,30-39, PONDICHERRY, Yanam,Male,Mental,1
+34,1,Urban,40-49, PONDICHERRY, Yanam,Male,Mental,1
+34,1,Urban,50-59, PONDICHERRY, Yanam,Male,Mental,0
+34,1,Urban,60-69, PONDICHERRY, Yanam,Male,Mental,0
+34,1,Urban,70-79, PONDICHERRY, Yanam,Male,Mental,0
+34,1,Urban,80-89, PONDICHERRY, Yanam,Male,Mental,0
+34,1,Urban,90+, PONDICHERRY, Yanam,Male,Mental,0
+34,1,Urban,Age not stated, PONDICHERRY, Yanam,Male,Mental,0
+34,2,Rural,0-4, PONDICHERRY, Pondicherry,Male,Mental,11
+34,2,Rural,5-9, PONDICHERRY, Pondicherry,Male,Mental,25
+34,2,Rural,10-19, PONDICHERRY, Pondicherry,Male,Mental,78
+34,2,Rural,20-29, PONDICHERRY, Pondicherry,Male,Mental,58
+34,2,Rural,30-39, PONDICHERRY, Pondicherry,Male,Mental,51
+34,2,Rural,40-49, PONDICHERRY, Pondicherry,Male,Mental,29
+34,2,Rural,50-59, PONDICHERRY, Pondicherry,Male,Mental,14
+34,2,Rural,60-69, PONDICHERRY, Pondicherry,Male,Mental,8
+34,2,Rural,70-79, PONDICHERRY, Pondicherry,Male,Mental,6
+34,2,Rural,80-89, PONDICHERRY, Pondicherry,Male,Mental,2
+34,2,Rural,90+, PONDICHERRY, Pondicherry,Male,Mental,1
+34,2,Rural,Age not stated, PONDICHERRY, Pondicherry,Male,Mental,0
+34,2,Urban,0-4, PONDICHERRY, Pondicherry,Male,Mental,30
+34,2,Urban,5-9, PONDICHERRY, Pondicherry,Male,Mental,56
+34,2,Urban,10-19, PONDICHERRY, Pondicherry,Male,Mental,151
+34,2,Urban,20-29, PONDICHERRY, Pondicherry,Male,Mental,158
+34,2,Urban,30-39, PONDICHERRY, Pondicherry,Male,Mental,128
+34,2,Urban,40-49, PONDICHERRY, Pondicherry,Male,Mental,92
+34,2,Urban,50-59, PONDICHERRY, Pondicherry,Male,Mental,37
+34,2,Urban,60-69, PONDICHERRY, Pondicherry,Male,Mental,18
+34,2,Urban,70-79, PONDICHERRY, Pondicherry,Male,Mental,8
+34,2,Urban,80-89, PONDICHERRY, Pondicherry,Male,Mental,6
+34,2,Urban,90+, PONDICHERRY, Pondicherry,Male,Mental,0
+34,2,Urban,Age not stated, PONDICHERRY, Pondicherry,Male,Mental,0
+34,3,Rural,0-4, PONDICHERRY, Mahe,Male,Mental,0
+34,3,Rural,5-9, PONDICHERRY, Mahe,Male,Mental,0
+34,3,Rural,10-19, PONDICHERRY, Mahe,Male,Mental,0
+34,3,Rural,20-29, PONDICHERRY, Mahe,Male,Mental,0
+34,3,Rural,30-39, PONDICHERRY, Mahe,Male,Mental,0
+34,3,Rural,40-49, PONDICHERRY, Mahe,Male,Mental,0
+34,3,Rural,50-59, PONDICHERRY, Mahe,Male,Mental,0
+34,3,Rural,60-69, PONDICHERRY, Mahe,Male,Mental,0
+34,3,Rural,70-79, PONDICHERRY, Mahe,Male,Mental,0
+34,3,Rural,80-89, PONDICHERRY, Mahe,Male,Mental,0
+34,3,Rural,90+, PONDICHERRY, Mahe,Male,Mental,0
+34,3,Rural,Age not stated, PONDICHERRY, Mahe,Male,Mental,0
+34,3,Urban,0-4, PONDICHERRY, Mahe,Male,Mental,0
+34,3,Urban,5-9, PONDICHERRY, Mahe,Male,Mental,2
+34,3,Urban,10-19, PONDICHERRY, Mahe,Male,Mental,11
+34,3,Urban,20-29, PONDICHERRY, Mahe,Male,Mental,14
+34,3,Urban,30-39, PONDICHERRY, Mahe,Male,Mental,13
+34,3,Urban,40-49, PONDICHERRY, Mahe,Male,Mental,21
+34,3,Urban,50-59, PONDICHERRY, Mahe,Male,Mental,6
+34,3,Urban,60-69, PONDICHERRY, Mahe,Male,Mental,6
+34,3,Urban,70-79, PONDICHERRY, Mahe,Male,Mental,0
+34,3,Urban,80-89, PONDICHERRY, Mahe,Male,Mental,0
+34,3,Urban,90+, PONDICHERRY, Mahe,Male,Mental,0
+34,3,Urban,Age not stated, PONDICHERRY, Mahe,Male,Mental,0
+34,4,Rural,0-4, PONDICHERRY, Karaikal,Male,Mental,4
+34,4,Rural,5-9, PONDICHERRY, Karaikal,Male,Mental,8
+34,4,Rural,10-19, PONDICHERRY, Karaikal,Male,Mental,35
+34,4,Rural,20-29, PONDICHERRY, Karaikal,Male,Mental,26
+34,4,Rural,30-39, PONDICHERRY, Karaikal,Male,Mental,23
+34,4,Rural,40-49, PONDICHERRY, Karaikal,Male,Mental,19
+34,4,Rural,50-59, PONDICHERRY, Karaikal,Male,Mental,6
+34,4,Rural,60-69, PONDICHERRY, Karaikal,Male,Mental,6
+34,4,Rural,70-79, PONDICHERRY, Karaikal,Male,Mental,0
+34,4,Rural,80-89, PONDICHERRY, Karaikal,Male,Mental,0
+34,4,Rural,90+, PONDICHERRY, Karaikal,Male,Mental,0
+34,4,Rural,Age not stated, PONDICHERRY, Karaikal,Male,Mental,0
+34,4,Urban,0-4, PONDICHERRY, Karaikal,Male,Mental,3
+34,4,Urban,5-9, PONDICHERRY, Karaikal,Male,Mental,7
+34,4,Urban,10-19, PONDICHERRY, Karaikal,Male,Mental,24
+34,4,Urban,20-29, PONDICHERRY, Karaikal,Male,Mental,24
+34,4,Urban,30-39, PONDICHERRY, Karaikal,Male,Mental,21
+34,4,Urban,40-49, PONDICHERRY, Karaikal,Male,Mental,12
+34,4,Urban,50-59, PONDICHERRY, Karaikal,Male,Mental,6
+34,4,Urban,60-69, PONDICHERRY, Karaikal,Male,Mental,5
+34,4,Urban,70-79, PONDICHERRY, Karaikal,Male,Mental,1
+34,4,Urban,80-89, PONDICHERRY, Karaikal,Male,Mental,0
+34,4,Urban,90+, PONDICHERRY, Karaikal,Male,Mental,0
+34,4,Urban,Age not stated, PONDICHERRY, Karaikal,Male,Mental,0
+34,1,Rural,0-4, PONDICHERRY, Yanam,Female,Mental,0
+34,1,Rural,5-9, PONDICHERRY, Yanam,Female,Mental,0
+34,1,Rural,10-19, PONDICHERRY, Yanam,Female,Mental,0
+34,1,Rural,20-29, PONDICHERRY, Yanam,Female,Mental,0
+34,1,Rural,30-39, PONDICHERRY, Yanam,Female,Mental,0
+34,1,Rural,40-49, PONDICHERRY, Yanam,Female,Mental,0
+34,1,Rural,50-59, PONDICHERRY, Yanam,Female,Mental,0
+34,1,Rural,60-69, PONDICHERRY, Yanam,Female,Mental,0
+34,1,Rural,70-79, PONDICHERRY, Yanam,Female,Mental,0
+34,1,Rural,80-89, PONDICHERRY, Yanam,Female,Mental,0
+34,1,Rural,90+, PONDICHERRY, Yanam,Female,Mental,0
+34,1,Rural,Age not stated, PONDICHERRY, Yanam,Female,Mental,0
+34,1,Urban,0-4, PONDICHERRY, Yanam,Female,Mental,1
+34,1,Urban,5-9, PONDICHERRY, Yanam,Female,Mental,1
+34,1,Urban,10-19, PONDICHERRY, Yanam,Female,Mental,3
+34,1,Urban,20-29, PONDICHERRY, Yanam,Female,Mental,3
+34,1,Urban,30-39, PONDICHERRY, Yanam,Female,Mental,2
+34,1,Urban,40-49, PONDICHERRY, Yanam,Female,Mental,3
+34,1,Urban,50-59, PONDICHERRY, Yanam,Female,Mental,0
+34,1,Urban,60-69, PONDICHERRY, Yanam,Female,Mental,2
+34,1,Urban,70-79, PONDICHERRY, Yanam,Female,Mental,0
+34,1,Urban,80-89, PONDICHERRY, Yanam,Female,Mental,0
+34,1,Urban,90+, PONDICHERRY, Yanam,Female,Mental,0
+34,1,Urban,Age not stated, PONDICHERRY, Yanam,Female,Mental,0
+34,2,Rural,0-4, PONDICHERRY, Pondicherry,Female,Mental,7
+34,2,Rural,5-9, PONDICHERRY, Pondicherry,Female,Mental,20
+34,2,Rural,10-19, PONDICHERRY, Pondicherry,Female,Mental,58
+34,2,Rural,20-29, PONDICHERRY, Pondicherry,Female,Mental,53
+34,2,Rural,30-39, PONDICHERRY, Pondicherry,Female,Mental,27
+34,2,Rural,40-49, PONDICHERRY, Pondicherry,Female,Mental,26
+34,2,Rural,50-59, PONDICHERRY, Pondicherry,Female,Mental,15
+34,2,Rural,60-69, PONDICHERRY, Pondicherry,Female,Mental,7
+34,2,Rural,70-79, PONDICHERRY, Pondicherry,Female,Mental,8
+34,2,Rural,80-89, PONDICHERRY, Pondicherry,Female,Mental,3
+34,2,Rural,90+, PONDICHERRY, Pondicherry,Female,Mental,0
+34,2,Rural,Age not stated, PONDICHERRY, Pondicherry,Female,Mental,0
+34,2,Urban,0-4, PONDICHERRY, Pondicherry,Female,Mental,15
+34,2,Urban,5-9, PONDICHERRY, Pondicherry,Female,Mental,38
+34,2,Urban,10-19, PONDICHERRY, Pondicherry,Female,Mental,122
+34,2,Urban,20-29, PONDICHERRY, Pondicherry,Female,Mental,117
+34,2,Urban,30-39, PONDICHERRY, Pondicherry,Female,Mental,96
+34,2,Urban,40-49, PONDICHERRY, Pondicherry,Female,Mental,62
+34,2,Urban,50-59, PONDICHERRY, Pondicherry,Female,Mental,34
+34,2,Urban,60-69, PONDICHERRY, Pondicherry,Female,Mental,21
+34,2,Urban,70-79, PONDICHERRY, Pondicherry,Female,Mental,13
+34,2,Urban,80-89, PONDICHERRY, Pondicherry,Female,Mental,2
+34,2,Urban,90+, PONDICHERRY, Pondicherry,Female,Mental,2
+34,2,Urban,Age not stated, PONDICHERRY, Pondicherry,Female,Mental,0
+34,3,Rural,0-4, PONDICHERRY, Mahe,Female,Mental,0
+34,3,Rural,5-9, PONDICHERRY, Mahe,Female,Mental,0
+34,3,Rural,10-19, PONDICHERRY, Mahe,Female,Mental,0
+34,3,Rural,20-29, PONDICHERRY, Mahe,Female,Mental,0
+34,3,Rural,30-39, PONDICHERRY, Mahe,Female,Mental,0
+34,3,Rural,40-49, PONDICHERRY, Mahe,Female,Mental,0
+34,3,Rural,50-59, PONDICHERRY, Mahe,Female,Mental,0
+34,3,Rural,60-69, PONDICHERRY, Mahe,Female,Mental,0
+34,3,Rural,70-79, PONDICHERRY, Mahe,Female,Mental,0
+34,3,Rural,80-89, PONDICHERRY, Mahe,Female,Mental,0
+34,3,Rural,90+, PONDICHERRY, Mahe,Female,Mental,0
+34,3,Rural,Age not stated, PONDICHERRY, Mahe,Female,Mental,0
+34,3,Urban,0-4, PONDICHERRY, Mahe,Female,Mental,0
+34,3,Urban,5-9, PONDICHERRY, Mahe,Female,Mental,3
+34,3,Urban,10-19, PONDICHERRY, Mahe,Female,Mental,9
+34,3,Urban,20-29, PONDICHERRY, Mahe,Female,Mental,15
+34,3,Urban,30-39, PONDICHERRY, Mahe,Female,Mental,9
+34,3,Urban,40-49, PONDICHERRY, Mahe,Female,Mental,7
+34,3,Urban,50-59, PONDICHERRY, Mahe,Female,Mental,8
+34,3,Urban,60-69, PONDICHERRY, Mahe,Female,Mental,4
+34,3,Urban,70-79, PONDICHERRY, Mahe,Female,Mental,2
+34,3,Urban,80-89, PONDICHERRY, Mahe,Female,Mental,0
+34,3,Urban,90+, PONDICHERRY, Mahe,Female,Mental,0
+34,3,Urban,Age not stated, PONDICHERRY, Mahe,Female,Mental,0
+34,4,Rural,0-4, PONDICHERRY, Karaikal,Female,Mental,4
+34,4,Rural,5-9, PONDICHERRY, Karaikal,Female,Mental,4
+34,4,Rural,10-19, PONDICHERRY, Karaikal,Female,Mental,22
+34,4,Rural,20-29, PONDICHERRY, Karaikal,Female,Mental,19
+34,4,Rural,30-39, PONDICHERRY, Karaikal,Female,Mental,21
+34,4,Rural,40-49, PONDICHERRY, Karaikal,Female,Mental,18
+34,4,Rural,50-59, PONDICHERRY, Karaikal,Female,Mental,9
+34,4,Rural,60-69, PONDICHERRY, Karaikal,Female,Mental,3
+34,4,Rural,70-79, PONDICHERRY, Karaikal,Female,Mental,1
+34,4,Rural,80-89, PONDICHERRY, Karaikal,Female,Mental,1
+34,4,Rural,90+, PONDICHERRY, Karaikal,Female,Mental,0
+34,4,Rural,Age not stated, PONDICHERRY, Karaikal,Female,Mental,0
+34,4,Urban,0-4, PONDICHERRY, Karaikal,Female,Mental,1
+34,4,Urban,5-9, PONDICHERRY, Karaikal,Female,Mental,5
+34,4,Urban,10-19, PONDICHERRY, Karaikal,Female,Mental,11
+34,4,Urban,20-29, PONDICHERRY, Karaikal,Female,Mental,14
+34,4,Urban,30-39, PONDICHERRY, Karaikal,Female,Mental,20
+34,4,Urban,40-49, PONDICHERRY, Karaikal,Female,Mental,10
+34,4,Urban,50-59, PONDICHERRY, Karaikal,Female,Mental,3
+34,4,Urban,60-69, PONDICHERRY, Karaikal,Female,Mental,3
+34,4,Urban,70-79, PONDICHERRY, Karaikal,Female,Mental,4
+34,4,Urban,80-89, PONDICHERRY, Karaikal,Female,Mental,1
+34,4,Urban,90+, PONDICHERRY, Karaikal,Female,Mental,0
+34,4,Urban,Age not stated, PONDICHERRY, Karaikal,Female,Mental,0
