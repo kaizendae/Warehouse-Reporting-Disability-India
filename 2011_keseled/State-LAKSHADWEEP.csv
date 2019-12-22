@@ -1,0 +1,241 @@
+State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
+31,1,Rural,0-4,LAKSHADWEEP,Lakshadweep,Male,In seeing,0
+31,1,Rural,5-9,LAKSHADWEEP,Lakshadweep,Male,In seeing,0
+31,1,Rural,10-19,LAKSHADWEEP,Lakshadweep,Male,In seeing,4
+31,1,Rural,20-29,LAKSHADWEEP,Lakshadweep,Male,In seeing,7
+31,1,Rural,30-39,LAKSHADWEEP,Lakshadweep,Male,In seeing,1
+31,1,Rural,40-49,LAKSHADWEEP,Lakshadweep,Male,In seeing,5
+31,1,Rural,50-59,LAKSHADWEEP,Lakshadweep,Male,In seeing,12
+31,1,Rural,60-69,LAKSHADWEEP,Lakshadweep,Male,In seeing,8
+31,1,Rural,70-79,LAKSHADWEEP,Lakshadweep,Male,In seeing,5
+31,1,Rural,80-89,LAKSHADWEEP,Lakshadweep,Male,In seeing,3
+31,1,Rural,90+,LAKSHADWEEP,Lakshadweep,Male,In seeing,0
+31,1,Rural,Age Not Stated,LAKSHADWEEP,Lakshadweep,Male,In seeing,0
+31,1,Urban,0-4,LAKSHADWEEP,Lakshadweep,Male,In seeing,2
+31,1,Urban,5-9,LAKSHADWEEP,Lakshadweep,Male,In seeing,6
+31,1,Urban,10-19,LAKSHADWEEP,Lakshadweep,Male,In seeing,24
+31,1,Urban,20-29,LAKSHADWEEP,Lakshadweep,Male,In seeing,14
+31,1,Urban,30-39,LAKSHADWEEP,Lakshadweep,Male,In seeing,7
+31,1,Urban,40-49,LAKSHADWEEP,Lakshadweep,Male,In seeing,13
+31,1,Urban,50-59,LAKSHADWEEP,Lakshadweep,Male,In seeing,12
+31,1,Urban,60-69,LAKSHADWEEP,Lakshadweep,Male,In seeing,15
+31,1,Urban,70-79,LAKSHADWEEP,Lakshadweep,Male,In seeing,7
+31,1,Urban,80-89,LAKSHADWEEP,Lakshadweep,Male,In seeing,4
+31,1,Urban,90+,LAKSHADWEEP,Lakshadweep,Male,In seeing,0
+31,1,Urban,Age Not Stated,LAKSHADWEEP,Lakshadweep,Male,In seeing,0
+31,1,Rural,0-4,LAKSHADWEEP,Lakshadweep,Female,In seeing,1
+31,1,Rural,5-9,LAKSHADWEEP,Lakshadweep,Female,In seeing,1
+31,1,Rural,10-19,LAKSHADWEEP,Lakshadweep,Female,In seeing,11
+31,1,Rural,20-29,LAKSHADWEEP,Lakshadweep,Female,In seeing,3
+31,1,Rural,30-39,LAKSHADWEEP,Lakshadweep,Female,In seeing,6
+31,1,Rural,40-49,LAKSHADWEEP,Lakshadweep,Female,In seeing,16
+31,1,Rural,50-59,LAKSHADWEEP,Lakshadweep,Female,In seeing,6
+31,1,Rural,60-69,LAKSHADWEEP,Lakshadweep,Female,In seeing,9
+31,1,Rural,70-79,LAKSHADWEEP,Lakshadweep,Female,In seeing,5
+31,1,Rural,80-89,LAKSHADWEEP,Lakshadweep,Female,In seeing,1
+31,1,Rural,90+,LAKSHADWEEP,Lakshadweep,Female,In seeing,0
+31,1,Rural,Age Not Stated,LAKSHADWEEP,Lakshadweep,Female,In seeing,0
+31,1,Urban,0-4,LAKSHADWEEP,Lakshadweep,Female,In seeing,0
+31,1,Urban,5-9,LAKSHADWEEP,Lakshadweep,Female,In seeing,10
+31,1,Urban,10-19,LAKSHADWEEP,Lakshadweep,Female,In seeing,11
+31,1,Urban,20-29,LAKSHADWEEP,Lakshadweep,Female,In seeing,18
+31,1,Urban,30-39,LAKSHADWEEP,Lakshadweep,Female,In seeing,16
+31,1,Urban,40-49,LAKSHADWEEP,Lakshadweep,Female,In seeing,12
+31,1,Urban,50-59,LAKSHADWEEP,Lakshadweep,Female,In seeing,26
+31,1,Urban,60-69,LAKSHADWEEP,Lakshadweep,Female,In seeing,19
+31,1,Urban,70-79,LAKSHADWEEP,Lakshadweep,Female,In seeing,12
+31,1,Urban,80-89,LAKSHADWEEP,Lakshadweep,Female,In seeing,4
+31,1,Urban,90+,LAKSHADWEEP,Lakshadweep,Female,In seeing,1
+31,1,Urban,Age Not Stated,LAKSHADWEEP,Lakshadweep,Female,In seeing,0
+31,1,Rural,0-4,LAKSHADWEEP,Lakshadweep,Male,In Speech,0
+31,1,Rural,5-9,LAKSHADWEEP,Lakshadweep,Male,In Speech,1
+31,1,Rural,10-19,LAKSHADWEEP,Lakshadweep,Male,In Speech,0
+31,1,Rural,20-29,LAKSHADWEEP,Lakshadweep,Male,In Speech,0
+31,1,Rural,30-39,LAKSHADWEEP,Lakshadweep,Male,In Speech,1
+31,1,Rural,40-49,LAKSHADWEEP,Lakshadweep,Male,In Speech,2
+31,1,Rural,50-59,LAKSHADWEEP,Lakshadweep,Male,In Speech,1
+31,1,Rural,60-69,LAKSHADWEEP,Lakshadweep,Male,In Speech,1
+31,1,Rural,70-79,LAKSHADWEEP,Lakshadweep,Male,In Speech,1
+31,1,Rural,80-89,LAKSHADWEEP,Lakshadweep,Male,In Speech,0
+31,1,Rural,90+,LAKSHADWEEP,Lakshadweep,Male,In Speech,0
+31,1,Rural,Age Not Stated,LAKSHADWEEP,Lakshadweep,Male,In Speech,0
+31,1,Urban,0-4,LAKSHADWEEP,Lakshadweep,Male,In Speech,1
+31,1,Urban,5-9,LAKSHADWEEP,Lakshadweep,Male,In Speech,3
+31,1,Urban,10-19,LAKSHADWEEP,Lakshadweep,Male,In Speech,7
+31,1,Urban,20-29,LAKSHADWEEP,Lakshadweep,Male,In Speech,12
+31,1,Urban,30-39,LAKSHADWEEP,Lakshadweep,Male,In Speech,9
+31,1,Urban,40-49,LAKSHADWEEP,Lakshadweep,Male,In Speech,5
+31,1,Urban,50-59,LAKSHADWEEP,Lakshadweep,Male,In Speech,1
+31,1,Urban,60-69,LAKSHADWEEP,Lakshadweep,Male,In Speech,3
+31,1,Urban,70-79,LAKSHADWEEP,Lakshadweep,Male,In Speech,0
+31,1,Urban,80-89,LAKSHADWEEP,Lakshadweep,Male,In Speech,0
+31,1,Urban,90+,LAKSHADWEEP,Lakshadweep,Male,In Speech,0
+31,1,Urban,Age Not Stated,LAKSHADWEEP,Lakshadweep,Male,In Speech,0
+31,1,Rural,0-4,LAKSHADWEEP,Lakshadweep,Female,In Speech,0
+31,1,Rural,5-9,LAKSHADWEEP,Lakshadweep,Female,In Speech,0
+31,1,Rural,10-19,LAKSHADWEEP,Lakshadweep,Female,In Speech,1
+31,1,Rural,20-29,LAKSHADWEEP,Lakshadweep,Female,In Speech,1
+31,1,Rural,30-39,LAKSHADWEEP,Lakshadweep,Female,In Speech,1
+31,1,Rural,40-49,LAKSHADWEEP,Lakshadweep,Female,In Speech,0
+31,1,Rural,50-59,LAKSHADWEEP,Lakshadweep,Female,In Speech,0
+31,1,Rural,60-69,LAKSHADWEEP,Lakshadweep,Female,In Speech,0
+31,1,Rural,70-79,LAKSHADWEEP,Lakshadweep,Female,In Speech,0
+31,1,Rural,80-89,LAKSHADWEEP,Lakshadweep,Female,In Speech,0
+31,1,Rural,90+,LAKSHADWEEP,Lakshadweep,Female,In Speech,0
+31,1,Rural,Age Not Stated,LAKSHADWEEP,Lakshadweep,Female,In Speech,0
+31,1,Urban,0-4,LAKSHADWEEP,Lakshadweep,Female,In Speech,1
+31,1,Urban,5-9,LAKSHADWEEP,Lakshadweep,Female,In Speech,0
+31,1,Urban,10-19,LAKSHADWEEP,Lakshadweep,Female,In Speech,5
+31,1,Urban,20-29,LAKSHADWEEP,Lakshadweep,Female,In Speech,7
+31,1,Urban,30-39,LAKSHADWEEP,Lakshadweep,Female,In Speech,3
+31,1,Urban,40-49,LAKSHADWEEP,Lakshadweep,Female,In Speech,2
+31,1,Urban,50-59,LAKSHADWEEP,Lakshadweep,Female,In Speech,2
+31,1,Urban,60-69,LAKSHADWEEP,Lakshadweep,Female,In Speech,2
+31,1,Urban,70-79,LAKSHADWEEP,Lakshadweep,Female,In Speech,0
+31,1,Urban,80-89,LAKSHADWEEP,Lakshadweep,Female,In Speech,0
+31,1,Urban,90+,LAKSHADWEEP,Lakshadweep,Female,In Speech,0
+31,1,Urban,Age Not Stated,LAKSHADWEEP,Lakshadweep,Female,In Speech,0
+31,1,Rural,0-4,LAKSHADWEEP,Lakshadweep,Male,In Hearing,1
+31,1,Rural,5-9,LAKSHADWEEP,Lakshadweep,Male,In Hearing,2
+31,1,Rural,10-19,LAKSHADWEEP,Lakshadweep,Male,In Hearing,5
+31,1,Rural,20-29,LAKSHADWEEP,Lakshadweep,Male,In Hearing,2
+31,1,Rural,30-39,LAKSHADWEEP,Lakshadweep,Male,In Hearing,4
+31,1,Rural,40-49,LAKSHADWEEP,Lakshadweep,Male,In Hearing,3
+31,1,Rural,50-59,LAKSHADWEEP,Lakshadweep,Male,In Hearing,2
+31,1,Rural,60-69,LAKSHADWEEP,Lakshadweep,Male,In Hearing,1
+31,1,Rural,70-79,LAKSHADWEEP,Lakshadweep,Male,In Hearing,0
+31,1,Rural,80-89,LAKSHADWEEP,Lakshadweep,Male,In Hearing,2
+31,1,Rural,90+,LAKSHADWEEP,Lakshadweep,Male,In Hearing,0
+31,1,Rural,Age Not Stated,LAKSHADWEEP,Lakshadweep,Male,In Hearing,0
+31,1,Urban,0-4,LAKSHADWEEP,Lakshadweep,Male,In Hearing,3
+31,1,Urban,5-9,LAKSHADWEEP,Lakshadweep,Male,In Hearing,1
+31,1,Urban,10-19,LAKSHADWEEP,Lakshadweep,Male,In Hearing,14
+31,1,Urban,20-29,LAKSHADWEEP,Lakshadweep,Male,In Hearing,18
+31,1,Urban,30-39,LAKSHADWEEP,Lakshadweep,Male,In Hearing,12
+31,1,Urban,40-49,LAKSHADWEEP,Lakshadweep,Male,In Hearing,13
+31,1,Urban,50-59,LAKSHADWEEP,Lakshadweep,Male,In Hearing,7
+31,1,Urban,60-69,LAKSHADWEEP,Lakshadweep,Male,In Hearing,8
+31,1,Urban,70-79,LAKSHADWEEP,Lakshadweep,Male,In Hearing,5
+31,1,Urban,80-89,LAKSHADWEEP,Lakshadweep,Male,In Hearing,2
+31,1,Urban,90+,LAKSHADWEEP,Lakshadweep,Male,In Hearing,0
+31,1,Urban,Age Not Stated,LAKSHADWEEP,Lakshadweep,Male,In Hearing,0
+31,1,Rural,0-4,LAKSHADWEEP,Lakshadweep,Female,In Hearing,1
+31,1,Rural,5-9,LAKSHADWEEP,Lakshadweep,Female,In Hearing,2
+31,1,Rural,10-19,LAKSHADWEEP,Lakshadweep,Female,In Hearing,3
+31,1,Rural,20-29,LAKSHADWEEP,Lakshadweep,Female,In Hearing,6
+31,1,Rural,30-39,LAKSHADWEEP,Lakshadweep,Female,In Hearing,3
+31,1,Rural,40-49,LAKSHADWEEP,Lakshadweep,Female,In Hearing,1
+31,1,Rural,50-59,LAKSHADWEEP,Lakshadweep,Female,In Hearing,3
+31,1,Rural,60-69,LAKSHADWEEP,Lakshadweep,Female,In Hearing,3
+31,1,Rural,70-79,LAKSHADWEEP,Lakshadweep,Female,In Hearing,2
+31,1,Rural,80-89,LAKSHADWEEP,Lakshadweep,Female,In Hearing,1
+31,1,Rural,90+,LAKSHADWEEP,Lakshadweep,Female,In Hearing,0
+31,1,Rural,Age Not Stated,LAKSHADWEEP,Lakshadweep,Female,In Hearing,0
+31,1,Urban,0-4,LAKSHADWEEP,Lakshadweep,Female,In Hearing,3
+31,1,Urban,5-9,LAKSHADWEEP,Lakshadweep,Female,In Hearing,7
+31,1,Urban,10-19,LAKSHADWEEP,Lakshadweep,Female,In Hearing,16
+31,1,Urban,20-29,LAKSHADWEEP,Lakshadweep,Female,In Hearing,18
+31,1,Urban,30-39,LAKSHADWEEP,Lakshadweep,Female,In Hearing,11
+31,1,Urban,40-49,LAKSHADWEEP,Lakshadweep,Female,In Hearing,13
+31,1,Urban,50-59,LAKSHADWEEP,Lakshadweep,Female,In Hearing,7
+31,1,Urban,60-69,LAKSHADWEEP,Lakshadweep,Female,In Hearing,8
+31,1,Urban,70-79,LAKSHADWEEP,Lakshadweep,Female,In Hearing,6
+31,1,Urban,80-89,LAKSHADWEEP,Lakshadweep,Female,In Hearing,4
+31,1,Urban,90+,LAKSHADWEEP,Lakshadweep,Female,In Hearing,1
+31,1,Urban,Age Not Stated,LAKSHADWEEP,Lakshadweep,Female,In Hearing,0
+31,1,Rural,0-4,LAKSHADWEEP,Lakshadweep,Male,In Movement,1
+31,1,Rural,5-9,LAKSHADWEEP,Lakshadweep,Male,In Movement,1
+31,1,Rural,10-19,LAKSHADWEEP,Lakshadweep,Male,In Movement,2
+31,1,Rural,20-29,LAKSHADWEEP,Lakshadweep,Male,In Movement,4
+31,1,Rural,30-39,LAKSHADWEEP,Lakshadweep,Male,In Movement,9
+31,1,Rural,40-49,LAKSHADWEEP,Lakshadweep,Male,In Movement,3
+31,1,Rural,50-59,LAKSHADWEEP,Lakshadweep,Male,In Movement,3
+31,1,Rural,60-69,LAKSHADWEEP,Lakshadweep,Male,In Movement,11
+31,1,Rural,70-79,LAKSHADWEEP,Lakshadweep,Male,In Movement,6
+31,1,Rural,80-89,LAKSHADWEEP,Lakshadweep,Male,In Movement,4
+31,1,Rural,90+,LAKSHADWEEP,Lakshadweep,Male,In Movement,0
+31,1,Rural,Age Not Stated,LAKSHADWEEP,Lakshadweep,Male,In Movement,0
+31,1,Urban,0-4,LAKSHADWEEP,Lakshadweep,Male,In Movement,4
+31,1,Urban,5-9,LAKSHADWEEP,Lakshadweep,Male,In Movement,6
+31,1,Urban,10-19,LAKSHADWEEP,Lakshadweep,Male,In Movement,10
+31,1,Urban,20-29,LAKSHADWEEP,Lakshadweep,Male,In Movement,26
+31,1,Urban,30-39,LAKSHADWEEP,Lakshadweep,Male,In Movement,39
+31,1,Urban,40-49,LAKSHADWEEP,Lakshadweep,Male,In Movement,24
+31,1,Urban,50-59,LAKSHADWEEP,Lakshadweep,Male,In Movement,25
+31,1,Urban,60-69,LAKSHADWEEP,Lakshadweep,Male,In Movement,18
+31,1,Urban,70-79,LAKSHADWEEP,Lakshadweep,Male,In Movement,9
+31,1,Urban,80-89,LAKSHADWEEP,Lakshadweep,Male,In Movement,4
+31,1,Urban,90+,LAKSHADWEEP,Lakshadweep,Male,In Movement,1
+31,1,Urban,Age Not Stated,LAKSHADWEEP,Lakshadweep,Male,In Movement,0
+31,1,Rural,0-4,LAKSHADWEEP,Lakshadweep,Female,In Movement,2
+31,1,Rural,5-9,LAKSHADWEEP,Lakshadweep,Female,In Movement,3
+31,1,Rural,10-19,LAKSHADWEEP,Lakshadweep,Female,In Movement,3
+31,1,Rural,20-29,LAKSHADWEEP,Lakshadweep,Female,In Movement,1
+31,1,Rural,30-39,LAKSHADWEEP,Lakshadweep,Female,In Movement,6
+31,1,Rural,40-49,LAKSHADWEEP,Lakshadweep,Female,In Movement,3
+31,1,Rural,50-59,LAKSHADWEEP,Lakshadweep,Female,In Movement,4
+31,1,Rural,60-69,LAKSHADWEEP,Lakshadweep,Female,In Movement,11
+31,1,Rural,70-79,LAKSHADWEEP,Lakshadweep,Female,In Movement,2
+31,1,Rural,80-89,LAKSHADWEEP,Lakshadweep,Female,In Movement,0
+31,1,Rural,90+,LAKSHADWEEP,Lakshadweep,Female,In Movement,0
+31,1,Rural,Age Not Stated,LAKSHADWEEP,Lakshadweep,Female,In Movement,0
+31,1,Urban,0-4,LAKSHADWEEP,Lakshadweep,Female,In Movement,4
+31,1,Urban,5-9,LAKSHADWEEP,Lakshadweep,Female,In Movement,4
+31,1,Urban,10-19,LAKSHADWEEP,Lakshadweep,Female,In Movement,10
+31,1,Urban,20-29,LAKSHADWEEP,Lakshadweep,Female,In Movement,12
+31,1,Urban,30-39,LAKSHADWEEP,Lakshadweep,Female,In Movement,24
+31,1,Urban,40-49,LAKSHADWEEP,Lakshadweep,Female,In Movement,13
+31,1,Urban,50-59,LAKSHADWEEP,Lakshadweep,Female,In Movement,16
+31,1,Urban,60-69,LAKSHADWEEP,Lakshadweep,Female,In Movement,17
+31,1,Urban,70-79,LAKSHADWEEP,Lakshadweep,Female,In Movement,7
+31,1,Urban,80-89,LAKSHADWEEP,Lakshadweep,Female,In Movement,7
+31,1,Urban,90+,LAKSHADWEEP,Lakshadweep,Female,In Movement,2
+31,1,Urban,Age Not Stated,LAKSHADWEEP,Lakshadweep,Female,In Movement,0
+31,1,Rural,0-4,LAKSHADWEEP,Lakshadweep,Male,Mental,0
+31,1,Rural,5-9,LAKSHADWEEP,Lakshadweep,Male,Mental,1
+31,1,Rural,10-19,LAKSHADWEEP,Lakshadweep,Male,Mental,4
+31,1,Rural,20-29,LAKSHADWEEP,Lakshadweep,Male,Mental,5
+31,1,Rural,30-39,LAKSHADWEEP,Lakshadweep,Male,Mental,7
+31,1,Rural,40-49,LAKSHADWEEP,Lakshadweep,Male,Mental,4
+31,1,Rural,50-59,LAKSHADWEEP,Lakshadweep,Male,Mental,2
+31,1,Rural,60-69,LAKSHADWEEP,Lakshadweep,Male,Mental,2
+31,1,Rural,70-79,LAKSHADWEEP,Lakshadweep,Male,Mental,0
+31,1,Rural,80-89,LAKSHADWEEP,Lakshadweep,Male,Mental,0
+31,1,Rural,90+,LAKSHADWEEP,Lakshadweep,Male,Mental,0
+31,1,Rural,Age Not Stated,LAKSHADWEEP,Lakshadweep,Male,Mental,0
+31,1,Urban,0-4,LAKSHADWEEP,Lakshadweep,Male,Mental,1
+31,1,Urban,5-9,LAKSHADWEEP,Lakshadweep,Male,Mental,9
+31,1,Urban,10-19,LAKSHADWEEP,Lakshadweep,Male,Mental,14
+31,1,Urban,20-29,LAKSHADWEEP,Lakshadweep,Male,Mental,19
+31,1,Urban,30-39,LAKSHADWEEP,Lakshadweep,Male,Mental,17
+31,1,Urban,40-49,LAKSHADWEEP,Lakshadweep,Male,Mental,8
+31,1,Urban,50-59,LAKSHADWEEP,Lakshadweep,Male,Mental,12
+31,1,Urban,60-69,LAKSHADWEEP,Lakshadweep,Male,Mental,3
+31,1,Urban,70-79,LAKSHADWEEP,Lakshadweep,Male,Mental,1
+31,1,Urban,80-89,LAKSHADWEEP,Lakshadweep,Male,Mental,0
+31,1,Urban,90+,LAKSHADWEEP,Lakshadweep,Male,Mental,0
+31,1,Urban,Age Not Stated,LAKSHADWEEP,Lakshadweep,Male,Mental,0
+31,1,Rural,0-4,LAKSHADWEEP,Lakshadweep,Female,Mental,0
+31,1,Rural,5-9,LAKSHADWEEP,Lakshadweep,Female,Mental,0
+31,1,Rural,10-19,LAKSHADWEEP,Lakshadweep,Female,Mental,6
+31,1,Rural,20-29,LAKSHADWEEP,Lakshadweep,Female,Mental,7
+31,1,Rural,30-39,LAKSHADWEEP,Lakshadweep,Female,Mental,7
+31,1,Rural,40-49,LAKSHADWEEP,Lakshadweep,Female,Mental,9
+31,1,Rural,50-59,LAKSHADWEEP,Lakshadweep,Female,Mental,6
+31,1,Rural,60-69,LAKSHADWEEP,Lakshadweep,Female,Mental,3
+31,1,Rural,70-79,LAKSHADWEEP,Lakshadweep,Female,Mental,0
+31,1,Rural,80-89,LAKSHADWEEP,Lakshadweep,Female,Mental,0
+31,1,Rural,90+,LAKSHADWEEP,Lakshadweep,Female,Mental,0
+31,1,Rural,Age Not Stated,LAKSHADWEEP,Lakshadweep,Female,Mental,0
+31,1,Urban,0-4,LAKSHADWEEP,Lakshadweep,Female,Mental,0
+31,1,Urban,5-9,LAKSHADWEEP,Lakshadweep,Female,Mental,3
+31,1,Urban,10-19,LAKSHADWEEP,Lakshadweep,Female,Mental,10
+31,1,Urban,20-29,LAKSHADWEEP,Lakshadweep,Female,Mental,7
+31,1,Urban,30-39,LAKSHADWEEP,Lakshadweep,Female,Mental,11
+31,1,Urban,40-49,LAKSHADWEEP,Lakshadweep,Female,Mental,16
+31,1,Urban,50-59,LAKSHADWEEP,Lakshadweep,Female,Mental,8
+31,1,Urban,60-69,LAKSHADWEEP,Lakshadweep,Female,Mental,5
+31,1,Urban,70-79,LAKSHADWEEP,Lakshadweep,Female,Mental,1
+31,1,Urban,80-89,LAKSHADWEEP,Lakshadweep,Female,Mental,0
+31,1,Urban,90+,LAKSHADWEEP,Lakshadweep,Female,Mental,0
+31,1,Urban,Age Not Stated,LAKSHADWEEP,Lakshadweep,Female,Mental,0

@@ -1,0 +1,2161 @@
+State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
+7,1,Rural,0-4,NCT OF DELHI,North West,Male,In seeing,7
+7,1,Rural,5-9,NCT OF DELHI,North West,Male,In seeing,5
+7,1,Rural,10-19,NCT OF DELHI,North West,Male,In seeing,23
+7,1,Rural,20-29,NCT OF DELHI,North West,Male,In seeing,18
+7,1,Rural,30-39,NCT OF DELHI,North West,Male,In seeing,25
+7,1,Rural,40-49,NCT OF DELHI,North West,Male,In seeing,23
+7,1,Rural,50-59,NCT OF DELHI,North West,Male,In seeing,16
+7,1,Rural,60-69,NCT OF DELHI,North West,Male,In seeing,18
+7,1,Rural,70-79,NCT OF DELHI,North West,Male,In seeing,9
+7,1,Rural,80-89,NCT OF DELHI,North West,Male,In seeing,4
+7,1,Rural,90+,NCT OF DELHI,North West,Male,In seeing,2
+7,1,Rural,Age Not Stated,NCT OF DELHI,North West,Male,In seeing,0
+7,1,Urban,0-4,NCT OF DELHI,North West,Male,In seeing,87
+7,1,Urban,5-9,NCT OF DELHI,North West,Male,In seeing,136
+7,1,Urban,10-19,NCT OF DELHI,North West,Male,In seeing,376
+7,1,Urban,20-29,NCT OF DELHI,North West,Male,In seeing,406
+7,1,Urban,30-39,NCT OF DELHI,North West,Male,In seeing,377
+7,1,Urban,40-49,NCT OF DELHI,North West,Male,In seeing,404
+7,1,Urban,50-59,NCT OF DELHI,North West,Male,In seeing,404
+7,1,Urban,60-69,NCT OF DELHI,North West,Male,In seeing,458
+7,1,Urban,70-79,NCT OF DELHI,North West,Male,In seeing,232
+7,1,Urban,80-89,NCT OF DELHI,North West,Male,In seeing,85
+7,1,Urban,90+,NCT OF DELHI,North West,Male,In seeing,16
+7,1,Urban,Age Not Stated,NCT OF DELHI,North West,Male,In seeing,3
+7,2,Rural,0-4,NCT OF DELHI,North,Male,In seeing,0
+7,2,Rural,5-9,NCT OF DELHI,North,Male,In seeing,0
+7,2,Rural,10-19,NCT OF DELHI,North,Male,In seeing,3
+7,2,Rural,20-29,NCT OF DELHI,North,Male,In seeing,2
+7,2,Rural,30-39,NCT OF DELHI,North,Male,In seeing,2
+7,2,Rural,40-49,NCT OF DELHI,North,Male,In seeing,2
+7,2,Rural,50-59,NCT OF DELHI,North,Male,In seeing,4
+7,2,Rural,60-69,NCT OF DELHI,North,Male,In seeing,7
+7,2,Rural,70-79,NCT OF DELHI,North,Male,In seeing,5
+7,2,Rural,80-89,NCT OF DELHI,North,Male,In seeing,0
+7,2,Rural,90+,NCT OF DELHI,North,Male,In seeing,1
+7,2,Rural,Age Not Stated,NCT OF DELHI,North,Male,In seeing,0
+7,2,Urban,0-4,NCT OF DELHI,North,Male,In seeing,22
+7,2,Urban,5-9,NCT OF DELHI,North,Male,In seeing,30
+7,2,Urban,10-19,NCT OF DELHI,North,Male,In seeing,80
+7,2,Urban,20-29,NCT OF DELHI,North,Male,In seeing,115
+7,2,Urban,30-39,NCT OF DELHI,North,Male,In seeing,105
+7,2,Urban,40-49,NCT OF DELHI,North,Male,In seeing,153
+7,2,Urban,50-59,NCT OF DELHI,North,Male,In seeing,128
+7,2,Urban,60-69,NCT OF DELHI,North,Male,In seeing,98
+7,2,Urban,70-79,NCT OF DELHI,North,Male,In seeing,77
+7,2,Urban,80-89,NCT OF DELHI,North,Male,In seeing,21
+7,2,Urban,90+,NCT OF DELHI,North,Male,In seeing,6
+7,2,Urban,Age Not Stated,NCT OF DELHI,North,Male,In seeing,0
+7,3,Rural,0-4,NCT OF DELHI,North East,Male,In seeing,2
+7,3,Rural,5-9,NCT OF DELHI,North East,Male,In seeing,1
+7,3,Rural,10-19,NCT OF DELHI,North East,Male,In seeing,6
+7,3,Rural,20-29,NCT OF DELHI,North East,Male,In seeing,1
+7,3,Rural,30-39,NCT OF DELHI,North East,Male,In seeing,2
+7,3,Rural,40-49,NCT OF DELHI,North East,Male,In seeing,2
+7,3,Rural,50-59,NCT OF DELHI,North East,Male,In seeing,0
+7,3,Rural,60-69,NCT OF DELHI,North East,Male,In seeing,5
+7,3,Rural,70-79,NCT OF DELHI,North East,Male,In seeing,1
+7,3,Rural,80-89,NCT OF DELHI,North East,Male,In seeing,1
+7,3,Rural,90+,NCT OF DELHI,North East,Male,In seeing,0
+7,3,Rural,Age Not Stated,NCT OF DELHI,North East,Male,In seeing,0
+7,3,Urban,0-4,NCT OF DELHI,North East,Male,In seeing,90
+7,3,Urban,5-9,NCT OF DELHI,North East,Male,In seeing,114
+7,3,Urban,10-19,NCT OF DELHI,North East,Male,In seeing,325
+7,3,Urban,20-29,NCT OF DELHI,North East,Male,In seeing,282
+7,3,Urban,30-39,NCT OF DELHI,North East,Male,In seeing,246
+7,3,Urban,40-49,NCT OF DELHI,North East,Male,In seeing,254
+7,3,Urban,50-59,NCT OF DELHI,North East,Male,In seeing,273
+7,3,Urban,60-69,NCT OF DELHI,North East,Male,In seeing,329
+7,3,Urban,70-79,NCT OF DELHI,North East,Male,In seeing,173
+7,3,Urban,80-89,NCT OF DELHI,North East,Male,In seeing,53
+7,3,Urban,90+,NCT OF DELHI,North East,Male,In seeing,10
+7,3,Urban,Age Not Stated,NCT OF DELHI,North East,Male,In seeing,0
+7,4,Rural,0-4,NCT OF DELHI,East,Male,In seeing,0
+7,4,Rural,5-9,NCT OF DELHI,East,Male,In seeing,0
+7,4,Rural,10-19,NCT OF DELHI,East,Male,In seeing,1
+7,4,Rural,20-29,NCT OF DELHI,East,Male,In seeing,2
+7,4,Rural,30-39,NCT OF DELHI,East,Male,In seeing,0
+7,4,Rural,40-49,NCT OF DELHI,East,Male,In seeing,0
+7,4,Rural,50-59,NCT OF DELHI,East,Male,In seeing,2
+7,4,Rural,60-69,NCT OF DELHI,East,Male,In seeing,0
+7,4,Rural,70-79,NCT OF DELHI,East,Male,In seeing,0
+7,4,Rural,80-89,NCT OF DELHI,East,Male,In seeing,0
+7,4,Rural,90+,NCT OF DELHI,East,Male,In seeing,0
+7,4,Rural,Age Not Stated,NCT OF DELHI,East,Male,In seeing,0
+7,4,Urban,0-4,NCT OF DELHI,East,Male,In seeing,60
+7,4,Urban,5-9,NCT OF DELHI,East,Male,In seeing,82
+7,4,Urban,10-19,NCT OF DELHI,East,Male,In seeing,233
+7,4,Urban,20-29,NCT OF DELHI,East,Male,In seeing,202
+7,4,Urban,30-39,NCT OF DELHI,East,Male,In seeing,170
+7,4,Urban,40-49,NCT OF DELHI,East,Male,In seeing,223
+7,4,Urban,50-59,NCT OF DELHI,East,Male,In seeing,173
+7,4,Urban,60-69,NCT OF DELHI,East,Male,In seeing,222
+7,4,Urban,70-79,NCT OF DELHI,East,Male,In seeing,104
+7,4,Urban,80-89,NCT OF DELHI,East,Male,In seeing,39
+7,4,Urban,90+,NCT OF DELHI,East,Male,In seeing,8
+7,4,Urban,Age Not Stated,NCT OF DELHI,East,Male,In seeing,2
+7,5,Rural,0-4,NCT OF DELHI,New Delhi,Male,In seeing,0
+7,5,Rural,5-9,NCT OF DELHI,New Delhi,Male,In seeing,0
+7,5,Rural,10-19,NCT OF DELHI,New Delhi,Male,In seeing,0
+7,5,Rural,20-29,NCT OF DELHI,New Delhi,Male,In seeing,0
+7,5,Rural,30-39,NCT OF DELHI,New Delhi,Male,In seeing,0
+7,5,Rural,40-49,NCT OF DELHI,New Delhi,Male,In seeing,0
+7,5,Rural,50-59,NCT OF DELHI,New Delhi,Male,In seeing,0
+7,5,Rural,60-69,NCT OF DELHI,New Delhi,Male,In seeing,0
+7,5,Rural,70-79,NCT OF DELHI,New Delhi,Male,In seeing,0
+7,5,Rural,80-89,NCT OF DELHI,New Delhi,Male,In seeing,0
+7,5,Rural,90+,NCT OF DELHI,New Delhi,Male,In seeing,0
+7,5,Rural,Age Not Stated,NCT OF DELHI,New Delhi,Male,In seeing,0
+7,5,Urban,0-4,NCT OF DELHI,New Delhi,Male,In seeing,5
+7,5,Urban,5-9,NCT OF DELHI,New Delhi,Male,In seeing,23
+7,5,Urban,10-19,NCT OF DELHI,New Delhi,Male,In seeing,90
+7,5,Urban,20-29,NCT OF DELHI,New Delhi,Male,In seeing,33
+7,5,Urban,30-39,NCT OF DELHI,New Delhi,Male,In seeing,19
+7,5,Urban,40-49,NCT OF DELHI,New Delhi,Male,In seeing,43
+7,5,Urban,50-59,NCT OF DELHI,New Delhi,Male,In seeing,39
+7,5,Urban,60-69,NCT OF DELHI,New Delhi,Male,In seeing,26
+7,5,Urban,70-79,NCT OF DELHI,New Delhi,Male,In seeing,5
+7,5,Urban,80-89,NCT OF DELHI,New Delhi,Male,In seeing,4
+7,5,Urban,90+,NCT OF DELHI,New Delhi,Male,In seeing,0
+7,5,Urban,Age Not Stated,NCT OF DELHI,New Delhi,Male,In seeing,1
+7,6,Rural,0-4,NCT OF DELHI,Central,Male,In seeing,0
+7,6,Rural,5-9,NCT OF DELHI,Central,Male,In seeing,0
+7,6,Rural,10-19,NCT OF DELHI,Central,Male,In seeing,0
+7,6,Rural,20-29,NCT OF DELHI,Central,Male,In seeing,0
+7,6,Rural,30-39,NCT OF DELHI,Central,Male,In seeing,0
+7,6,Rural,40-49,NCT OF DELHI,Central,Male,In seeing,0
+7,6,Rural,50-59,NCT OF DELHI,Central,Male,In seeing,0
+7,6,Rural,60-69,NCT OF DELHI,Central,Male,In seeing,0
+7,6,Rural,70-79,NCT OF DELHI,Central,Male,In seeing,0
+7,6,Rural,80-89,NCT OF DELHI,Central,Male,In seeing,0
+7,6,Rural,90+,NCT OF DELHI,Central,Male,In seeing,0
+7,6,Rural,Age Not Stated,NCT OF DELHI,Central,Male,In seeing,0
+7,6,Urban,0-4,NCT OF DELHI,Central,Male,In seeing,14
+7,6,Urban,5-9,NCT OF DELHI,Central,Male,In seeing,19
+7,6,Urban,10-19,NCT OF DELHI,Central,Male,In seeing,85
+7,6,Urban,20-29,NCT OF DELHI,Central,Male,In seeing,99
+7,6,Urban,30-39,NCT OF DELHI,Central,Male,In seeing,107
+7,6,Urban,40-49,NCT OF DELHI,Central,Male,In seeing,123
+7,6,Urban,50-59,NCT OF DELHI,Central,Male,In seeing,175
+7,6,Urban,60-69,NCT OF DELHI,Central,Male,In seeing,147
+7,6,Urban,70-79,NCT OF DELHI,Central,Male,In seeing,55
+7,6,Urban,80-89,NCT OF DELHI,Central,Male,In seeing,30
+7,6,Urban,90+,NCT OF DELHI,Central,Male,In seeing,9
+7,6,Urban,Age Not Stated,NCT OF DELHI,Central,Male,In seeing,3
+7,7,Rural,0-4,NCT OF DELHI,West,Male,In seeing,0
+7,7,Rural,5-9,NCT OF DELHI,West,Male,In seeing,2
+7,7,Rural,10-19,NCT OF DELHI,West,Male,In seeing,1
+7,7,Rural,20-29,NCT OF DELHI,West,Male,In seeing,0
+7,7,Rural,30-39,NCT OF DELHI,West,Male,In seeing,2
+7,7,Rural,40-49,NCT OF DELHI,West,Male,In seeing,0
+7,7,Rural,50-59,NCT OF DELHI,West,Male,In seeing,0
+7,7,Rural,60-69,NCT OF DELHI,West,Male,In seeing,2
+7,7,Rural,70-79,NCT OF DELHI,West,Male,In seeing,0
+7,7,Rural,80-89,NCT OF DELHI,West,Male,In seeing,0
+7,7,Rural,90+,NCT OF DELHI,West,Male,In seeing,1
+7,7,Rural,Age Not Stated,NCT OF DELHI,West,Male,In seeing,0
+7,7,Urban,0-4,NCT OF DELHI,West,Male,In seeing,86
+7,7,Urban,5-9,NCT OF DELHI,West,Male,In seeing,141
+7,7,Urban,10-19,NCT OF DELHI,West,Male,In seeing,339
+7,7,Urban,20-29,NCT OF DELHI,West,Male,In seeing,305
+7,7,Urban,30-39,NCT OF DELHI,West,Male,In seeing,265
+7,7,Urban,40-49,NCT OF DELHI,West,Male,In seeing,292
+7,7,Urban,50-59,NCT OF DELHI,West,Male,In seeing,298
+7,7,Urban,60-69,NCT OF DELHI,West,Male,In seeing,369
+7,7,Urban,70-79,NCT OF DELHI,West,Male,In seeing,194
+7,7,Urban,80-89,NCT OF DELHI,West,Male,In seeing,69
+7,7,Urban,90+,NCT OF DELHI,West,Male,In seeing,18
+7,7,Urban,Age Not Stated,NCT OF DELHI,West,Male,In seeing,8
+7,8,Rural,0-4,NCT OF DELHI,South West,Male,In seeing,11
+7,8,Rural,5-9,NCT OF DELHI,South West,Male,In seeing,11
+7,8,Rural,10-19,NCT OF DELHI,South West,Male,In seeing,22
+7,8,Rural,20-29,NCT OF DELHI,South West,Male,In seeing,14
+7,8,Rural,30-39,NCT OF DELHI,South West,Male,In seeing,19
+7,8,Rural,40-49,NCT OF DELHI,South West,Male,In seeing,23
+7,8,Rural,50-59,NCT OF DELHI,South West,Male,In seeing,25
+7,8,Rural,60-69,NCT OF DELHI,South West,Male,In seeing,48
+7,8,Rural,70-79,NCT OF DELHI,South West,Male,In seeing,28
+7,8,Rural,80-89,NCT OF DELHI,South West,Male,In seeing,8
+7,8,Rural,90+,NCT OF DELHI,South West,Male,In seeing,1
+7,8,Rural,Age Not Stated,NCT OF DELHI,South West,Male,In seeing,1
+7,8,Urban,0-4,NCT OF DELHI,South West,Male,In seeing,94
+7,8,Urban,5-9,NCT OF DELHI,South West,Male,In seeing,123
+7,8,Urban,10-19,NCT OF DELHI,South West,Male,In seeing,317
+7,8,Urban,20-29,NCT OF DELHI,South West,Male,In seeing,399
+7,8,Urban,30-39,NCT OF DELHI,South West,Male,In seeing,296
+7,8,Urban,40-49,NCT OF DELHI,South West,Male,In seeing,282
+7,8,Urban,50-59,NCT OF DELHI,South West,Male,In seeing,253
+7,8,Urban,60-69,NCT OF DELHI,South West,Male,In seeing,223
+7,8,Urban,70-79,NCT OF DELHI,South West,Male,In seeing,128
+7,8,Urban,80-89,NCT OF DELHI,South West,Male,In seeing,46
+7,8,Urban,90+,NCT OF DELHI,South West,Male,In seeing,16
+7,8,Urban,Age Not Stated,NCT OF DELHI,South West,Male,In seeing,7
+7,9,Rural,0-4,NCT OF DELHI,South,Male,In seeing,0
+7,9,Rural,5-9,NCT OF DELHI,South,Male,In seeing,1
+7,9,Rural,10-19,NCT OF DELHI,South,Male,In seeing,6
+7,9,Rural,20-29,NCT OF DELHI,South,Male,In seeing,0
+7,9,Rural,30-39,NCT OF DELHI,South,Male,In seeing,1
+7,9,Rural,40-49,NCT OF DELHI,South,Male,In seeing,1
+7,9,Rural,50-59,NCT OF DELHI,South,Male,In seeing,0
+7,9,Rural,60-69,NCT OF DELHI,South,Male,In seeing,0
+7,9,Rural,70-79,NCT OF DELHI,South,Male,In seeing,0
+7,9,Rural,80-89,NCT OF DELHI,South,Male,In seeing,0
+7,9,Rural,90+,NCT OF DELHI,South,Male,In seeing,0
+7,9,Rural,Age Not Stated,NCT OF DELHI,South,Male,In seeing,0
+7,9,Urban,0-4,NCT OF DELHI,South,Male,In seeing,122
+7,9,Urban,5-9,NCT OF DELHI,South,Male,In seeing,221
+7,9,Urban,10-19,NCT OF DELHI,South,Male,In seeing,570
+7,9,Urban,20-29,NCT OF DELHI,South,Male,In seeing,429
+7,9,Urban,30-39,NCT OF DELHI,South,Male,In seeing,393
+7,9,Urban,40-49,NCT OF DELHI,South,Male,In seeing,419
+7,9,Urban,50-59,NCT OF DELHI,South,Male,In seeing,401
+7,9,Urban,60-69,NCT OF DELHI,South,Male,In seeing,366
+7,9,Urban,70-79,NCT OF DELHI,South,Male,In seeing,203
+7,9,Urban,80-89,NCT OF DELHI,South,Male,In seeing,81
+7,9,Urban,90+,NCT OF DELHI,South,Male,In seeing,14
+7,9,Urban,Age Not Stated,NCT OF DELHI,South,Male,In seeing,7
+7,1,Rural,0-4,NCT OF DELHI,North West,Female,In seeing,6
+7,1,Rural,5-9,NCT OF DELHI,North West,Female,In seeing,6
+7,1,Rural,10-19,NCT OF DELHI,North West,Female,In seeing,16
+7,1,Rural,20-29,NCT OF DELHI,North West,Female,In seeing,12
+7,1,Rural,30-39,NCT OF DELHI,North West,Female,In seeing,7
+7,1,Rural,40-49,NCT OF DELHI,North West,Female,In seeing,9
+7,1,Rural,50-59,NCT OF DELHI,North West,Female,In seeing,13
+7,1,Rural,60-69,NCT OF DELHI,North West,Female,In seeing,17
+7,1,Rural,70-79,NCT OF DELHI,North West,Female,In seeing,12
+7,1,Rural,80-89,NCT OF DELHI,North West,Female,In seeing,1
+7,1,Rural,90+,NCT OF DELHI,North West,Female,In seeing,2
+7,1,Rural,Age Not Stated,NCT OF DELHI,North West,Female,In seeing,0
+7,1,Urban,0-4,NCT OF DELHI,North West,Female,In seeing,56
+7,1,Urban,5-9,NCT OF DELHI,North West,Female,In seeing,88
+7,1,Urban,10-19,NCT OF DELHI,North West,Female,In seeing,296
+7,1,Urban,20-29,NCT OF DELHI,North West,Female,In seeing,305
+7,1,Urban,30-39,NCT OF DELHI,North West,Female,In seeing,224
+7,1,Urban,40-49,NCT OF DELHI,North West,Female,In seeing,254
+7,1,Urban,50-59,NCT OF DELHI,North West,Female,In seeing,270
+7,1,Urban,60-69,NCT OF DELHI,North West,Female,In seeing,441
+7,1,Urban,70-79,NCT OF DELHI,North West,Female,In seeing,248
+7,1,Urban,80-89,NCT OF DELHI,North West,Female,In seeing,91
+7,1,Urban,90+,NCT OF DELHI,North West,Female,In seeing,31
+7,1,Urban,Age Not Stated,NCT OF DELHI,North West,Female,In seeing,1
+7,2,Rural,0-4,NCT OF DELHI,North,Female,In seeing,0
+7,2,Rural,5-9,NCT OF DELHI,North,Female,In seeing,1
+7,2,Rural,10-19,NCT OF DELHI,North,Female,In seeing,0
+7,2,Rural,20-29,NCT OF DELHI,North,Female,In seeing,0
+7,2,Rural,30-39,NCT OF DELHI,North,Female,In seeing,2
+7,2,Rural,40-49,NCT OF DELHI,North,Female,In seeing,0
+7,2,Rural,50-59,NCT OF DELHI,North,Female,In seeing,4
+7,2,Rural,60-69,NCT OF DELHI,North,Female,In seeing,5
+7,2,Rural,70-79,NCT OF DELHI,North,Female,In seeing,10
+7,2,Rural,80-89,NCT OF DELHI,North,Female,In seeing,6
+7,2,Rural,90+,NCT OF DELHI,North,Female,In seeing,2
+7,2,Rural,Age Not Stated,NCT OF DELHI,North,Female,In seeing,0
+7,2,Urban,0-4,NCT OF DELHI,North,Female,In seeing,19
+7,2,Urban,5-9,NCT OF DELHI,North,Female,In seeing,28
+7,2,Urban,10-19,NCT OF DELHI,North,Female,In seeing,71
+7,2,Urban,20-29,NCT OF DELHI,North,Female,In seeing,90
+7,2,Urban,30-39,NCT OF DELHI,North,Female,In seeing,90
+7,2,Urban,40-49,NCT OF DELHI,North,Female,In seeing,83
+7,2,Urban,50-59,NCT OF DELHI,North,Female,In seeing,87
+7,2,Urban,60-69,NCT OF DELHI,North,Female,In seeing,133
+7,2,Urban,70-79,NCT OF DELHI,North,Female,In seeing,88
+7,2,Urban,80-89,NCT OF DELHI,North,Female,In seeing,44
+7,2,Urban,90+,NCT OF DELHI,North,Female,In seeing,10
+7,2,Urban,Age Not Stated,NCT OF DELHI,North,Female,In seeing,0
+7,3,Rural,0-4,NCT OF DELHI,North East,Female,In seeing,1
+7,3,Rural,5-9,NCT OF DELHI,North East,Female,In seeing,1
+7,3,Rural,10-19,NCT OF DELHI,North East,Female,In seeing,2
+7,3,Rural,20-29,NCT OF DELHI,North East,Female,In seeing,2
+7,3,Rural,30-39,NCT OF DELHI,North East,Female,In seeing,1
+7,3,Rural,40-49,NCT OF DELHI,North East,Female,In seeing,1
+7,3,Rural,50-59,NCT OF DELHI,North East,Female,In seeing,1
+7,3,Rural,60-69,NCT OF DELHI,North East,Female,In seeing,1
+7,3,Rural,70-79,NCT OF DELHI,North East,Female,In seeing,0
+7,3,Rural,80-89,NCT OF DELHI,North East,Female,In seeing,0
+7,3,Rural,90+,NCT OF DELHI,North East,Female,In seeing,0
+7,3,Rural,Age Not Stated,NCT OF DELHI,North East,Female,In seeing,0
+7,3,Urban,0-4,NCT OF DELHI,North East,Female,In seeing,83
+7,3,Urban,5-9,NCT OF DELHI,North East,Female,In seeing,93
+7,3,Urban,10-19,NCT OF DELHI,North East,Female,In seeing,266
+7,3,Urban,20-29,NCT OF DELHI,North East,Female,In seeing,210
+7,3,Urban,30-39,NCT OF DELHI,North East,Female,In seeing,164
+7,3,Urban,40-49,NCT OF DELHI,North East,Female,In seeing,205
+7,3,Urban,50-59,NCT OF DELHI,North East,Female,In seeing,179
+7,3,Urban,60-69,NCT OF DELHI,North East,Female,In seeing,338
+7,3,Urban,70-79,NCT OF DELHI,North East,Female,In seeing,179
+7,3,Urban,80-89,NCT OF DELHI,North East,Female,In seeing,70
+7,3,Urban,90+,NCT OF DELHI,North East,Female,In seeing,13
+7,3,Urban,Age Not Stated,NCT OF DELHI,North East,Female,In seeing,2
+7,4,Rural,0-4,NCT OF DELHI,East,Female,In seeing,0
+7,4,Rural,5-9,NCT OF DELHI,East,Female,In seeing,1
+7,4,Rural,10-19,NCT OF DELHI,East,Female,In seeing,1
+7,4,Rural,20-29,NCT OF DELHI,East,Female,In seeing,1
+7,4,Rural,30-39,NCT OF DELHI,East,Female,In seeing,0
+7,4,Rural,40-49,NCT OF DELHI,East,Female,In seeing,2
+7,4,Rural,50-59,NCT OF DELHI,East,Female,In seeing,0
+7,4,Rural,60-69,NCT OF DELHI,East,Female,In seeing,1
+7,4,Rural,70-79,NCT OF DELHI,East,Female,In seeing,0
+7,4,Rural,80-89,NCT OF DELHI,East,Female,In seeing,0
+7,4,Rural,90+,NCT OF DELHI,East,Female,In seeing,0
+7,4,Rural,Age Not Stated,NCT OF DELHI,East,Female,In seeing,0
+7,4,Urban,0-4,NCT OF DELHI,East,Female,In seeing,46
+7,4,Urban,5-9,NCT OF DELHI,East,Female,In seeing,62
+7,4,Urban,10-19,NCT OF DELHI,East,Female,In seeing,165
+7,4,Urban,20-29,NCT OF DELHI,East,Female,In seeing,153
+7,4,Urban,30-39,NCT OF DELHI,East,Female,In seeing,124
+7,4,Urban,40-49,NCT OF DELHI,East,Female,In seeing,132
+7,4,Urban,50-59,NCT OF DELHI,East,Female,In seeing,129
+7,4,Urban,60-69,NCT OF DELHI,East,Female,In seeing,207
+7,4,Urban,70-79,NCT OF DELHI,East,Female,In seeing,130
+7,4,Urban,80-89,NCT OF DELHI,East,Female,In seeing,54
+7,4,Urban,90+,NCT OF DELHI,East,Female,In seeing,15
+7,4,Urban,Age Not Stated,NCT OF DELHI,East,Female,In seeing,0
+7,5,Rural,0-4,NCT OF DELHI,New Delhi,Female,In seeing,0
+7,5,Rural,5-9,NCT OF DELHI,New Delhi,Female,In seeing,0
+7,5,Rural,10-19,NCT OF DELHI,New Delhi,Female,In seeing,0
+7,5,Rural,20-29,NCT OF DELHI,New Delhi,Female,In seeing,0
+7,5,Rural,30-39,NCT OF DELHI,New Delhi,Female,In seeing,0
+7,5,Rural,40-49,NCT OF DELHI,New Delhi,Female,In seeing,0
+7,5,Rural,50-59,NCT OF DELHI,New Delhi,Female,In seeing,0
+7,5,Rural,60-69,NCT OF DELHI,New Delhi,Female,In seeing,0
+7,5,Rural,70-79,NCT OF DELHI,New Delhi,Female,In seeing,0
+7,5,Rural,80-89,NCT OF DELHI,New Delhi,Female,In seeing,0
+7,5,Rural,90+,NCT OF DELHI,New Delhi,Female,In seeing,0
+7,5,Rural,Age Not Stated,NCT OF DELHI,New Delhi,Female,In seeing,0
+7,5,Urban,0-4,NCT OF DELHI,New Delhi,Female,In seeing,6
+7,5,Urban,5-9,NCT OF DELHI,New Delhi,Female,In seeing,6
+7,5,Urban,10-19,NCT OF DELHI,New Delhi,Female,In seeing,25
+7,5,Urban,20-29,NCT OF DELHI,New Delhi,Female,In seeing,18
+7,5,Urban,30-39,NCT OF DELHI,New Delhi,Female,In seeing,16
+7,5,Urban,40-49,NCT OF DELHI,New Delhi,Female,In seeing,30
+7,5,Urban,50-59,NCT OF DELHI,New Delhi,Female,In seeing,24
+7,5,Urban,60-69,NCT OF DELHI,New Delhi,Female,In seeing,14
+7,5,Urban,70-79,NCT OF DELHI,New Delhi,Female,In seeing,14
+7,5,Urban,80-89,NCT OF DELHI,New Delhi,Female,In seeing,3
+7,5,Urban,90+,NCT OF DELHI,New Delhi,Female,In seeing,0
+7,5,Urban,Age Not Stated,NCT OF DELHI,New Delhi,Female,In seeing,0
+7,6,Rural,0-4,NCT OF DELHI,Central,Female,In seeing,0
+7,6,Rural,5-9,NCT OF DELHI,Central,Female,In seeing,0
+7,6,Rural,10-19,NCT OF DELHI,Central,Female,In seeing,0
+7,6,Rural,20-29,NCT OF DELHI,Central,Female,In seeing,0
+7,6,Rural,30-39,NCT OF DELHI,Central,Female,In seeing,0
+7,6,Rural,40-49,NCT OF DELHI,Central,Female,In seeing,0
+7,6,Rural,50-59,NCT OF DELHI,Central,Female,In seeing,0
+7,6,Rural,60-69,NCT OF DELHI,Central,Female,In seeing,0
+7,6,Rural,70-79,NCT OF DELHI,Central,Female,In seeing,0
+7,6,Rural,80-89,NCT OF DELHI,Central,Female,In seeing,0
+7,6,Rural,90+,NCT OF DELHI,Central,Female,In seeing,0
+7,6,Rural,Age Not Stated,NCT OF DELHI,Central,Female,In seeing,0
+7,6,Urban,0-4,NCT OF DELHI,Central,Female,In seeing,22
+7,6,Urban,5-9,NCT OF DELHI,Central,Female,In seeing,24
+7,6,Urban,10-19,NCT OF DELHI,Central,Female,In seeing,73
+7,6,Urban,20-29,NCT OF DELHI,Central,Female,In seeing,70
+7,6,Urban,30-39,NCT OF DELHI,Central,Female,In seeing,70
+7,6,Urban,40-49,NCT OF DELHI,Central,Female,In seeing,96
+7,6,Urban,50-59,NCT OF DELHI,Central,Female,In seeing,105
+7,6,Urban,60-69,NCT OF DELHI,Central,Female,In seeing,117
+7,6,Urban,70-79,NCT OF DELHI,Central,Female,In seeing,84
+7,6,Urban,80-89,NCT OF DELHI,Central,Female,In seeing,34
+7,6,Urban,90+,NCT OF DELHI,Central,Female,In seeing,6
+7,6,Urban,Age Not Stated,NCT OF DELHI,Central,Female,In seeing,0
+7,7,Rural,0-4,NCT OF DELHI,West,Female,In seeing,0
+7,7,Rural,5-9,NCT OF DELHI,West,Female,In seeing,1
+7,7,Rural,10-19,NCT OF DELHI,West,Female,In seeing,0
+7,7,Rural,20-29,NCT OF DELHI,West,Female,In seeing,5
+7,7,Rural,30-39,NCT OF DELHI,West,Female,In seeing,0
+7,7,Rural,40-49,NCT OF DELHI,West,Female,In seeing,1
+7,7,Rural,50-59,NCT OF DELHI,West,Female,In seeing,1
+7,7,Rural,60-69,NCT OF DELHI,West,Female,In seeing,6
+7,7,Rural,70-79,NCT OF DELHI,West,Female,In seeing,2
+7,7,Rural,80-89,NCT OF DELHI,West,Female,In seeing,2
+7,7,Rural,90+,NCT OF DELHI,West,Female,In seeing,1
+7,7,Rural,Age Not Stated,NCT OF DELHI,West,Female,In seeing,0
+7,7,Urban,0-4,NCT OF DELHI,West,Female,In seeing,76
+7,7,Urban,5-9,NCT OF DELHI,West,Female,In seeing,99
+7,7,Urban,10-19,NCT OF DELHI,West,Female,In seeing,218
+7,7,Urban,20-29,NCT OF DELHI,West,Female,In seeing,215
+7,7,Urban,30-39,NCT OF DELHI,West,Female,In seeing,216
+7,7,Urban,40-49,NCT OF DELHI,West,Female,In seeing,207
+7,7,Urban,50-59,NCT OF DELHI,West,Female,In seeing,213
+7,7,Urban,60-69,NCT OF DELHI,West,Female,In seeing,324
+7,7,Urban,70-79,NCT OF DELHI,West,Female,In seeing,200
+7,7,Urban,80-89,NCT OF DELHI,West,Female,In seeing,74
+7,7,Urban,90+,NCT OF DELHI,West,Female,In seeing,25
+7,7,Urban,Age Not Stated,NCT OF DELHI,West,Female,In seeing,4
+7,8,Rural,0-4,NCT OF DELHI,South West,Female,In seeing,6
+7,8,Rural,5-9,NCT OF DELHI,South West,Female,In seeing,9
+7,8,Rural,10-19,NCT OF DELHI,South West,Female,In seeing,12
+7,8,Rural,20-29,NCT OF DELHI,South West,Female,In seeing,16
+7,8,Rural,30-39,NCT OF DELHI,South West,Female,In seeing,10
+7,8,Rural,40-49,NCT OF DELHI,South West,Female,In seeing,14
+7,8,Rural,50-59,NCT OF DELHI,South West,Female,In seeing,33
+7,8,Rural,60-69,NCT OF DELHI,South West,Female,In seeing,47
+7,8,Rural,70-79,NCT OF DELHI,South West,Female,In seeing,30
+7,8,Rural,80-89,NCT OF DELHI,South West,Female,In seeing,7
+7,8,Rural,90+,NCT OF DELHI,South West,Female,In seeing,4
+7,8,Rural,Age Not Stated,NCT OF DELHI,South West,Female,In seeing,0
+7,8,Urban,0-4,NCT OF DELHI,South West,Female,In seeing,85
+7,8,Urban,5-9,NCT OF DELHI,South West,Female,In seeing,105
+7,8,Urban,10-19,NCT OF DELHI,South West,Female,In seeing,211
+7,8,Urban,20-29,NCT OF DELHI,South West,Female,In seeing,248
+7,8,Urban,30-39,NCT OF DELHI,South West,Female,In seeing,184
+7,8,Urban,40-49,NCT OF DELHI,South West,Female,In seeing,182
+7,8,Urban,50-59,NCT OF DELHI,South West,Female,In seeing,180
+7,8,Urban,60-69,NCT OF DELHI,South West,Female,In seeing,218
+7,8,Urban,70-79,NCT OF DELHI,South West,Female,In seeing,140
+7,8,Urban,80-89,NCT OF DELHI,South West,Female,In seeing,67
+7,8,Urban,90+,NCT OF DELHI,South West,Female,In seeing,13
+7,8,Urban,Age Not Stated,NCT OF DELHI,South West,Female,In seeing,8
+7,9,Rural,0-4,NCT OF DELHI,South,Female,In seeing,2
+7,9,Rural,5-9,NCT OF DELHI,South,Female,In seeing,1
+7,9,Rural,10-19,NCT OF DELHI,South,Female,In seeing,3
+7,9,Rural,20-29,NCT OF DELHI,South,Female,In seeing,1
+7,9,Rural,30-39,NCT OF DELHI,South,Female,In seeing,0
+7,9,Rural,40-49,NCT OF DELHI,South,Female,In seeing,0
+7,9,Rural,50-59,NCT OF DELHI,South,Female,In seeing,0
+7,9,Rural,60-69,NCT OF DELHI,South,Female,In seeing,0
+7,9,Rural,70-79,NCT OF DELHI,South,Female,In seeing,1
+7,9,Rural,80-89,NCT OF DELHI,South,Female,In seeing,0
+7,9,Rural,90+,NCT OF DELHI,South,Female,In seeing,0
+7,9,Rural,Age Not Stated,NCT OF DELHI,South,Female,In seeing,0
+7,9,Urban,0-4,NCT OF DELHI,South,Female,In seeing,102
+7,9,Urban,5-9,NCT OF DELHI,South,Female,In seeing,169
+7,9,Urban,10-19,NCT OF DELHI,South,Female,In seeing,334
+7,9,Urban,20-29,NCT OF DELHI,South,Female,In seeing,282
+7,9,Urban,30-39,NCT OF DELHI,South,Female,In seeing,242
+7,9,Urban,40-49,NCT OF DELHI,South,Female,In seeing,298
+7,9,Urban,50-59,NCT OF DELHI,South,Female,In seeing,283
+7,9,Urban,60-69,NCT OF DELHI,South,Female,In seeing,381
+7,9,Urban,70-79,NCT OF DELHI,South,Female,In seeing,226
+7,9,Urban,80-89,NCT OF DELHI,South,Female,In seeing,107
+7,9,Urban,90+,NCT OF DELHI,South,Female,In seeing,29
+7,9,Urban,Age Not Stated,NCT OF DELHI,South,Female,In seeing,9
+7,1,Rural,0-4,NCT OF DELHI,North West,Male,In Speech,3
+7,1,Rural,5-9,NCT OF DELHI,North West,Male,In Speech,19
+7,1,Rural,10-19,NCT OF DELHI,North West,Male,In Speech,19
+7,1,Rural,20-29,NCT OF DELHI,North West,Male,In Speech,23
+7,1,Rural,30-39,NCT OF DELHI,North West,Male,In Speech,13
+7,1,Rural,40-49,NCT OF DELHI,North West,Male,In Speech,7
+7,1,Rural,50-59,NCT OF DELHI,North West,Male,In Speech,2
+7,1,Rural,60-69,NCT OF DELHI,North West,Male,In Speech,4
+7,1,Rural,70-79,NCT OF DELHI,North West,Male,In Speech,2
+7,1,Rural,80-89,NCT OF DELHI,North West,Male,In Speech,0
+7,1,Rural,90+,NCT OF DELHI,North West,Male,In Speech,0
+7,1,Rural,Age Not Stated,NCT OF DELHI,North West,Male,In Speech,0
+7,1,Urban,0-4,NCT OF DELHI,North West,Male,In Speech,29
+7,1,Urban,5-9,NCT OF DELHI,North West,Male,In Speech,192
+7,1,Urban,10-19,NCT OF DELHI,North West,Male,In Speech,414
+7,1,Urban,20-29,NCT OF DELHI,North West,Male,In Speech,298
+7,1,Urban,30-39,NCT OF DELHI,North West,Male,In Speech,214
+7,1,Urban,40-49,NCT OF DELHI,North West,Male,In Speech,175
+7,1,Urban,50-59,NCT OF DELHI,North West,Male,In Speech,136
+7,1,Urban,60-69,NCT OF DELHI,North West,Male,In Speech,83
+7,1,Urban,70-79,NCT OF DELHI,North West,Male,In Speech,53
+7,1,Urban,80-89,NCT OF DELHI,North West,Male,In Speech,8
+7,1,Urban,90+,NCT OF DELHI,North West,Male,In Speech,2
+7,1,Urban,Age Not Stated,NCT OF DELHI,North West,Male,In Speech,3
+7,2,Rural,0-4,NCT OF DELHI,North,Male,In Speech,0
+7,2,Rural,5-9,NCT OF DELHI,North,Male,In Speech,2
+7,2,Rural,10-19,NCT OF DELHI,North,Male,In Speech,0
+7,2,Rural,20-29,NCT OF DELHI,North,Male,In Speech,1
+7,2,Rural,30-39,NCT OF DELHI,North,Male,In Speech,0
+7,2,Rural,40-49,NCT OF DELHI,North,Male,In Speech,1
+7,2,Rural,50-59,NCT OF DELHI,North,Male,In Speech,0
+7,2,Rural,60-69,NCT OF DELHI,North,Male,In Speech,1
+7,2,Rural,70-79,NCT OF DELHI,North,Male,In Speech,0
+7,2,Rural,80-89,NCT OF DELHI,North,Male,In Speech,0
+7,2,Rural,90+,NCT OF DELHI,North,Male,In Speech,0
+7,2,Rural,Age Not Stated,NCT OF DELHI,North,Male,In Speech,0
+7,2,Urban,0-4,NCT OF DELHI,North,Male,In Speech,6
+7,2,Urban,5-9,NCT OF DELHI,North,Male,In Speech,41
+7,2,Urban,10-19,NCT OF DELHI,North,Male,In Speech,90
+7,2,Urban,20-29,NCT OF DELHI,North,Male,In Speech,102
+7,2,Urban,30-39,NCT OF DELHI,North,Male,In Speech,72
+7,2,Urban,40-49,NCT OF DELHI,North,Male,In Speech,42
+7,2,Urban,50-59,NCT OF DELHI,North,Male,In Speech,27
+7,2,Urban,60-69,NCT OF DELHI,North,Male,In Speech,25
+7,2,Urban,70-79,NCT OF DELHI,North,Male,In Speech,7
+7,2,Urban,80-89,NCT OF DELHI,North,Male,In Speech,6
+7,2,Urban,90+,NCT OF DELHI,North,Male,In Speech,1
+7,2,Urban,Age Not Stated,NCT OF DELHI,North,Male,In Speech,0
+7,3,Rural,0-4,NCT OF DELHI,North East,Male,In Speech,0
+7,3,Rural,5-9,NCT OF DELHI,North East,Male,In Speech,6
+7,3,Rural,10-19,NCT OF DELHI,North East,Male,In Speech,2
+7,3,Rural,20-29,NCT OF DELHI,North East,Male,In Speech,3
+7,3,Rural,30-39,NCT OF DELHI,North East,Male,In Speech,1
+7,3,Rural,40-49,NCT OF DELHI,North East,Male,In Speech,0
+7,3,Rural,50-59,NCT OF DELHI,North East,Male,In Speech,1
+7,3,Rural,60-69,NCT OF DELHI,North East,Male,In Speech,3
+7,3,Rural,70-79,NCT OF DELHI,North East,Male,In Speech,0
+7,3,Rural,80-89,NCT OF DELHI,North East,Male,In Speech,0
+7,3,Rural,90+,NCT OF DELHI,North East,Male,In Speech,0
+7,3,Rural,Age Not Stated,NCT OF DELHI,North East,Male,In Speech,0
+7,3,Urban,0-4,NCT OF DELHI,North East,Male,In Speech,23
+7,3,Urban,5-9,NCT OF DELHI,North East,Male,In Speech,153
+7,3,Urban,10-19,NCT OF DELHI,North East,Male,In Speech,350
+7,3,Urban,20-29,NCT OF DELHI,North East,Male,In Speech,232
+7,3,Urban,30-39,NCT OF DELHI,North East,Male,In Speech,160
+7,3,Urban,40-49,NCT OF DELHI,North East,Male,In Speech,122
+7,3,Urban,50-59,NCT OF DELHI,North East,Male,In Speech,79
+7,3,Urban,60-69,NCT OF DELHI,North East,Male,In Speech,62
+7,3,Urban,70-79,NCT OF DELHI,North East,Male,In Speech,21
+7,3,Urban,80-89,NCT OF DELHI,North East,Male,In Speech,4
+7,3,Urban,90+,NCT OF DELHI,North East,Male,In Speech,2
+7,3,Urban,Age Not Stated,NCT OF DELHI,North East,Male,In Speech,3
+7,4,Rural,0-4,NCT OF DELHI,East,Male,In Speech,1
+7,4,Rural,5-9,NCT OF DELHI,East,Male,In Speech,0
+7,4,Rural,10-19,NCT OF DELHI,East,Male,In Speech,0
+7,4,Rural,20-29,NCT OF DELHI,East,Male,In Speech,2
+7,4,Rural,30-39,NCT OF DELHI,East,Male,In Speech,2
+7,4,Rural,40-49,NCT OF DELHI,East,Male,In Speech,0
+7,4,Rural,50-59,NCT OF DELHI,East,Male,In Speech,0
+7,4,Rural,60-69,NCT OF DELHI,East,Male,In Speech,0
+7,4,Rural,70-79,NCT OF DELHI,East,Male,In Speech,0
+7,4,Rural,80-89,NCT OF DELHI,East,Male,In Speech,0
+7,4,Rural,90+,NCT OF DELHI,East,Male,In Speech,0
+7,4,Rural,Age Not Stated,NCT OF DELHI,East,Male,In Speech,0
+7,4,Urban,0-4,NCT OF DELHI,East,Male,In Speech,12
+7,4,Urban,5-9,NCT OF DELHI,East,Male,In Speech,93
+7,4,Urban,10-19,NCT OF DELHI,East,Male,In Speech,167
+7,4,Urban,20-29,NCT OF DELHI,East,Male,In Speech,154
+7,4,Urban,30-39,NCT OF DELHI,East,Male,In Speech,119
+7,4,Urban,40-49,NCT OF DELHI,East,Male,In Speech,83
+7,4,Urban,50-59,NCT OF DELHI,East,Male,In Speech,70
+7,4,Urban,60-69,NCT OF DELHI,East,Male,In Speech,51
+7,4,Urban,70-79,NCT OF DELHI,East,Male,In Speech,29
+7,4,Urban,80-89,NCT OF DELHI,East,Male,In Speech,5
+7,4,Urban,90+,NCT OF DELHI,East,Male,In Speech,2
+7,4,Urban,Age Not Stated,NCT OF DELHI,East,Male,In Speech,0
+7,5,Rural,0-4,NCT OF DELHI,New Delhi,Male,In Speech,0
+7,5,Rural,5-9,NCT OF DELHI,New Delhi,Male,In Speech,0
+7,5,Rural,10-19,NCT OF DELHI,New Delhi,Male,In Speech,0
+7,5,Rural,20-29,NCT OF DELHI,New Delhi,Male,In Speech,0
+7,5,Rural,30-39,NCT OF DELHI,New Delhi,Male,In Speech,0
+7,5,Rural,40-49,NCT OF DELHI,New Delhi,Male,In Speech,0
+7,5,Rural,50-59,NCT OF DELHI,New Delhi,Male,In Speech,0
+7,5,Rural,60-69,NCT OF DELHI,New Delhi,Male,In Speech,0
+7,5,Rural,70-79,NCT OF DELHI,New Delhi,Male,In Speech,0
+7,5,Rural,80-89,NCT OF DELHI,New Delhi,Male,In Speech,0
+7,5,Rural,90+,NCT OF DELHI,New Delhi,Male,In Speech,0
+7,5,Rural,Age Not Stated,NCT OF DELHI,New Delhi,Male,In Speech,0
+7,5,Urban,0-4,NCT OF DELHI,New Delhi,Male,In Speech,0
+7,5,Urban,5-9,NCT OF DELHI,New Delhi,Male,In Speech,3
+7,5,Urban,10-19,NCT OF DELHI,New Delhi,Male,In Speech,21
+7,5,Urban,20-29,NCT OF DELHI,New Delhi,Male,In Speech,14
+7,5,Urban,30-39,NCT OF DELHI,New Delhi,Male,In Speech,13
+7,5,Urban,40-49,NCT OF DELHI,New Delhi,Male,In Speech,9
+7,5,Urban,50-59,NCT OF DELHI,New Delhi,Male,In Speech,15
+7,5,Urban,60-69,NCT OF DELHI,New Delhi,Male,In Speech,4
+7,5,Urban,70-79,NCT OF DELHI,New Delhi,Male,In Speech,2
+7,5,Urban,80-89,NCT OF DELHI,New Delhi,Male,In Speech,0
+7,5,Urban,90+,NCT OF DELHI,New Delhi,Male,In Speech,0
+7,5,Urban,Age Not Stated,NCT OF DELHI,New Delhi,Male,In Speech,0
+7,6,Rural,0-4,NCT OF DELHI,Central,Male,In Speech,0
+7,6,Rural,5-9,NCT OF DELHI,Central,Male,In Speech,0
+7,6,Rural,10-19,NCT OF DELHI,Central,Male,In Speech,0
+7,6,Rural,20-29,NCT OF DELHI,Central,Male,In Speech,0
+7,6,Rural,30-39,NCT OF DELHI,Central,Male,In Speech,0
+7,6,Rural,40-49,NCT OF DELHI,Central,Male,In Speech,0
+7,6,Rural,50-59,NCT OF DELHI,Central,Male,In Speech,0
+7,6,Rural,60-69,NCT OF DELHI,Central,Male,In Speech,0
+7,6,Rural,70-79,NCT OF DELHI,Central,Male,In Speech,0
+7,6,Rural,80-89,NCT OF DELHI,Central,Male,In Speech,0
+7,6,Rural,90+,NCT OF DELHI,Central,Male,In Speech,0
+7,6,Rural,Age Not Stated,NCT OF DELHI,Central,Male,In Speech,0
+7,6,Urban,0-4,NCT OF DELHI,Central,Male,In Speech,8
+7,6,Urban,5-9,NCT OF DELHI,Central,Male,In Speech,38
+7,6,Urban,10-19,NCT OF DELHI,Central,Male,In Speech,79
+7,6,Urban,20-29,NCT OF DELHI,Central,Male,In Speech,71
+7,6,Urban,30-39,NCT OF DELHI,Central,Male,In Speech,59
+7,6,Urban,40-49,NCT OF DELHI,Central,Male,In Speech,51
+7,6,Urban,50-59,NCT OF DELHI,Central,Male,In Speech,45
+7,6,Urban,60-69,NCT OF DELHI,Central,Male,In Speech,20
+7,6,Urban,70-79,NCT OF DELHI,Central,Male,In Speech,14
+7,6,Urban,80-89,NCT OF DELHI,Central,Male,In Speech,2
+7,6,Urban,90+,NCT OF DELHI,Central,Male,In Speech,1
+7,6,Urban,Age Not Stated,NCT OF DELHI,Central,Male,In Speech,1
+7,7,Rural,0-4,NCT OF DELHI,West,Male,In Speech,0
+7,7,Rural,5-9,NCT OF DELHI,West,Male,In Speech,0
+7,7,Rural,10-19,NCT OF DELHI,West,Male,In Speech,0
+7,7,Rural,20-29,NCT OF DELHI,West,Male,In Speech,0
+7,7,Rural,30-39,NCT OF DELHI,West,Male,In Speech,0
+7,7,Rural,40-49,NCT OF DELHI,West,Male,In Speech,0
+7,7,Rural,50-59,NCT OF DELHI,West,Male,In Speech,0
+7,7,Rural,60-69,NCT OF DELHI,West,Male,In Speech,1
+7,7,Rural,70-79,NCT OF DELHI,West,Male,In Speech,0
+7,7,Rural,80-89,NCT OF DELHI,West,Male,In Speech,0
+7,7,Rural,90+,NCT OF DELHI,West,Male,In Speech,0
+7,7,Rural,Age Not Stated,NCT OF DELHI,West,Male,In Speech,0
+7,7,Urban,0-4,NCT OF DELHI,West,Male,In Speech,15
+7,7,Urban,5-9,NCT OF DELHI,West,Male,In Speech,140
+7,7,Urban,10-19,NCT OF DELHI,West,Male,In Speech,288
+7,7,Urban,20-29,NCT OF DELHI,West,Male,In Speech,274
+7,7,Urban,30-39,NCT OF DELHI,West,Male,In Speech,180
+7,7,Urban,40-49,NCT OF DELHI,West,Male,In Speech,156
+7,7,Urban,50-59,NCT OF DELHI,West,Male,In Speech,147
+7,7,Urban,60-69,NCT OF DELHI,West,Male,In Speech,81
+7,7,Urban,70-79,NCT OF DELHI,West,Male,In Speech,46
+7,7,Urban,80-89,NCT OF DELHI,West,Male,In Speech,18
+7,7,Urban,90+,NCT OF DELHI,West,Male,In Speech,1
+7,7,Urban,Age Not Stated,NCT OF DELHI,West,Male,In Speech,9
+7,8,Rural,0-4,NCT OF DELHI,South West,Male,In Speech,4
+7,8,Rural,5-9,NCT OF DELHI,South West,Male,In Speech,7
+7,8,Rural,10-19,NCT OF DELHI,South West,Male,In Speech,29
+7,8,Rural,20-29,NCT OF DELHI,South West,Male,In Speech,13
+7,8,Rural,30-39,NCT OF DELHI,South West,Male,In Speech,6
+7,8,Rural,40-49,NCT OF DELHI,South West,Male,In Speech,8
+7,8,Rural,50-59,NCT OF DELHI,South West,Male,In Speech,3
+7,8,Rural,60-69,NCT OF DELHI,South West,Male,In Speech,2
+7,8,Rural,70-79,NCT OF DELHI,South West,Male,In Speech,0
+7,8,Rural,80-89,NCT OF DELHI,South West,Male,In Speech,0
+7,8,Rural,90+,NCT OF DELHI,South West,Male,In Speech,0
+7,8,Rural,Age Not Stated,NCT OF DELHI,South West,Male,In Speech,0
+7,8,Urban,0-4,NCT OF DELHI,South West,Male,In Speech,25
+7,8,Urban,5-9,NCT OF DELHI,South West,Male,In Speech,146
+7,8,Urban,10-19,NCT OF DELHI,South West,Male,In Speech,276
+7,8,Urban,20-29,NCT OF DELHI,South West,Male,In Speech,274
+7,8,Urban,30-39,NCT OF DELHI,South West,Male,In Speech,183
+7,8,Urban,40-49,NCT OF DELHI,South West,Male,In Speech,183
+7,8,Urban,50-59,NCT OF DELHI,South West,Male,In Speech,98
+7,8,Urban,60-69,NCT OF DELHI,South West,Male,In Speech,58
+7,8,Urban,70-79,NCT OF DELHI,South West,Male,In Speech,19
+7,8,Urban,80-89,NCT OF DELHI,South West,Male,In Speech,7
+7,8,Urban,90+,NCT OF DELHI,South West,Male,In Speech,2
+7,8,Urban,Age Not Stated,NCT OF DELHI,South West,Male,In Speech,0
+7,9,Rural,0-4,NCT OF DELHI,South,Male,In Speech,1
+7,9,Rural,5-9,NCT OF DELHI,South,Male,In Speech,2
+7,9,Rural,10-19,NCT OF DELHI,South,Male,In Speech,3
+7,9,Rural,20-29,NCT OF DELHI,South,Male,In Speech,3
+7,9,Rural,30-39,NCT OF DELHI,South,Male,In Speech,4
+7,9,Rural,40-49,NCT OF DELHI,South,Male,In Speech,0
+7,9,Rural,50-59,NCT OF DELHI,South,Male,In Speech,1
+7,9,Rural,60-69,NCT OF DELHI,South,Male,In Speech,1
+7,9,Rural,70-79,NCT OF DELHI,South,Male,In Speech,1
+7,9,Rural,80-89,NCT OF DELHI,South,Male,In Speech,1
+7,9,Rural,90+,NCT OF DELHI,South,Male,In Speech,0
+7,9,Rural,Age Not Stated,NCT OF DELHI,South,Male,In Speech,0
+7,9,Urban,0-4,NCT OF DELHI,South,Male,In Speech,31
+7,9,Urban,5-9,NCT OF DELHI,South,Male,In Speech,178
+7,9,Urban,10-19,NCT OF DELHI,South,Male,In Speech,376
+7,9,Urban,20-29,NCT OF DELHI,South,Male,In Speech,344
+7,9,Urban,30-39,NCT OF DELHI,South,Male,In Speech,240
+7,9,Urban,40-49,NCT OF DELHI,South,Male,In Speech,197
+7,9,Urban,50-59,NCT OF DELHI,South,Male,In Speech,125
+7,9,Urban,60-69,NCT OF DELHI,South,Male,In Speech,79
+7,9,Urban,70-79,NCT OF DELHI,South,Male,In Speech,31
+7,9,Urban,80-89,NCT OF DELHI,South,Male,In Speech,15
+7,9,Urban,90+,NCT OF DELHI,South,Male,In Speech,1
+7,9,Urban,Age Not Stated,NCT OF DELHI,South,Male,In Speech,3
+7,1,Rural,0-4,NCT OF DELHI,North West,Female,In Speech,0
+7,1,Rural,5-9,NCT OF DELHI,North West,Female,In Speech,11
+7,1,Rural,10-19,NCT OF DELHI,North West,Female,In Speech,14
+7,1,Rural,20-29,NCT OF DELHI,North West,Female,In Speech,11
+7,1,Rural,30-39,NCT OF DELHI,North West,Female,In Speech,5
+7,1,Rural,40-49,NCT OF DELHI,North West,Female,In Speech,6
+7,1,Rural,50-59,NCT OF DELHI,North West,Female,In Speech,1
+7,1,Rural,60-69,NCT OF DELHI,North West,Female,In Speech,4
+7,1,Rural,70-79,NCT OF DELHI,North West,Female,In Speech,1
+7,1,Rural,80-89,NCT OF DELHI,North West,Female,In Speech,0
+7,1,Rural,90+,NCT OF DELHI,North West,Female,In Speech,1
+7,1,Rural,Age Not Stated,NCT OF DELHI,North West,Female,In Speech,0
+7,1,Urban,0-4,NCT OF DELHI,North West,Female,In Speech,20
+7,1,Urban,5-9,NCT OF DELHI,North West,Female,In Speech,150
+7,1,Urban,10-19,NCT OF DELHI,North West,Female,In Speech,270
+7,1,Urban,20-29,NCT OF DELHI,North West,Female,In Speech,195
+7,1,Urban,30-39,NCT OF DELHI,North West,Female,In Speech,184
+7,1,Urban,40-49,NCT OF DELHI,North West,Female,In Speech,115
+7,1,Urban,50-59,NCT OF DELHI,North West,Female,In Speech,77
+7,1,Urban,60-69,NCT OF DELHI,North West,Female,In Speech,55
+7,1,Urban,70-79,NCT OF DELHI,North West,Female,In Speech,29
+7,1,Urban,80-89,NCT OF DELHI,North West,Female,In Speech,15
+7,1,Urban,90+,NCT OF DELHI,North West,Female,In Speech,3
+7,1,Urban,Age Not Stated,NCT OF DELHI,North West,Female,In Speech,2
+7,2,Rural,0-4,NCT OF DELHI,North,Female,In Speech,0
+7,2,Rural,5-9,NCT OF DELHI,North,Female,In Speech,0
+7,2,Rural,10-19,NCT OF DELHI,North,Female,In Speech,2
+7,2,Rural,20-29,NCT OF DELHI,North,Female,In Speech,1
+7,2,Rural,30-39,NCT OF DELHI,North,Female,In Speech,0
+7,2,Rural,40-49,NCT OF DELHI,North,Female,In Speech,0
+7,2,Rural,50-59,NCT OF DELHI,North,Female,In Speech,1
+7,2,Rural,60-69,NCT OF DELHI,North,Female,In Speech,0
+7,2,Rural,70-79,NCT OF DELHI,North,Female,In Speech,0
+7,2,Rural,80-89,NCT OF DELHI,North,Female,In Speech,0
+7,2,Rural,90+,NCT OF DELHI,North,Female,In Speech,0
+7,2,Rural,Age Not Stated,NCT OF DELHI,North,Female,In Speech,0
+7,2,Urban,0-4,NCT OF DELHI,North,Female,In Speech,9
+7,2,Urban,5-9,NCT OF DELHI,North,Female,In Speech,38
+7,2,Urban,10-19,NCT OF DELHI,North,Female,In Speech,79
+7,2,Urban,20-29,NCT OF DELHI,North,Female,In Speech,63
+7,2,Urban,30-39,NCT OF DELHI,North,Female,In Speech,49
+7,2,Urban,40-49,NCT OF DELHI,North,Female,In Speech,35
+7,2,Urban,50-59,NCT OF DELHI,North,Female,In Speech,25
+7,2,Urban,60-69,NCT OF DELHI,North,Female,In Speech,16
+7,2,Urban,70-79,NCT OF DELHI,North,Female,In Speech,8
+7,2,Urban,80-89,NCT OF DELHI,North,Female,In Speech,1
+7,2,Urban,90+,NCT OF DELHI,North,Female,In Speech,0
+7,2,Urban,Age Not Stated,NCT OF DELHI,North,Female,In Speech,0
+7,3,Rural,0-4,NCT OF DELHI,North East,Female,In Speech,0
+7,3,Rural,5-9,NCT OF DELHI,North East,Female,In Speech,2
+7,3,Rural,10-19,NCT OF DELHI,North East,Female,In Speech,2
+7,3,Rural,20-29,NCT OF DELHI,North East,Female,In Speech,0
+7,3,Rural,30-39,NCT OF DELHI,North East,Female,In Speech,1
+7,3,Rural,40-49,NCT OF DELHI,North East,Female,In Speech,1
+7,3,Rural,50-59,NCT OF DELHI,North East,Female,In Speech,1
+7,3,Rural,60-69,NCT OF DELHI,North East,Female,In Speech,0
+7,3,Rural,70-79,NCT OF DELHI,North East,Female,In Speech,0
+7,3,Rural,80-89,NCT OF DELHI,North East,Female,In Speech,0
+7,3,Rural,90+,NCT OF DELHI,North East,Female,In Speech,0
+7,3,Rural,Age Not Stated,NCT OF DELHI,North East,Female,In Speech,0
+7,3,Urban,0-4,NCT OF DELHI,North East,Female,In Speech,14
+7,3,Urban,5-9,NCT OF DELHI,North East,Female,In Speech,104
+7,3,Urban,10-19,NCT OF DELHI,North East,Female,In Speech,233
+7,3,Urban,20-29,NCT OF DELHI,North East,Female,In Speech,156
+7,3,Urban,30-39,NCT OF DELHI,North East,Female,In Speech,134
+7,3,Urban,40-49,NCT OF DELHI,North East,Female,In Speech,81
+7,3,Urban,50-59,NCT OF DELHI,North East,Female,In Speech,38
+7,3,Urban,60-69,NCT OF DELHI,North East,Female,In Speech,28
+7,3,Urban,70-79,NCT OF DELHI,North East,Female,In Speech,11
+7,3,Urban,80-89,NCT OF DELHI,North East,Female,In Speech,5
+7,3,Urban,90+,NCT OF DELHI,North East,Female,In Speech,0
+7,3,Urban,Age Not Stated,NCT OF DELHI,North East,Female,In Speech,1
+7,4,Rural,0-4,NCT OF DELHI,East,Female,In Speech,0
+7,4,Rural,5-9,NCT OF DELHI,East,Female,In Speech,0
+7,4,Rural,10-19,NCT OF DELHI,East,Female,In Speech,0
+7,4,Rural,20-29,NCT OF DELHI,East,Female,In Speech,0
+7,4,Rural,30-39,NCT OF DELHI,East,Female,In Speech,2
+7,4,Rural,40-49,NCT OF DELHI,East,Female,In Speech,0
+7,4,Rural,50-59,NCT OF DELHI,East,Female,In Speech,0
+7,4,Rural,60-69,NCT OF DELHI,East,Female,In Speech,0
+7,4,Rural,70-79,NCT OF DELHI,East,Female,In Speech,0
+7,4,Rural,80-89,NCT OF DELHI,East,Female,In Speech,0
+7,4,Rural,90+,NCT OF DELHI,East,Female,In Speech,0
+7,4,Rural,Age Not Stated,NCT OF DELHI,East,Female,In Speech,0
+7,4,Urban,0-4,NCT OF DELHI,East,Female,In Speech,18
+7,4,Urban,5-9,NCT OF DELHI,East,Female,In Speech,49
+7,4,Urban,10-19,NCT OF DELHI,East,Female,In Speech,126
+7,4,Urban,20-29,NCT OF DELHI,East,Female,In Speech,109
+7,4,Urban,30-39,NCT OF DELHI,East,Female,In Speech,86
+7,4,Urban,40-49,NCT OF DELHI,East,Female,In Speech,67
+7,4,Urban,50-59,NCT OF DELHI,East,Female,In Speech,38
+7,4,Urban,60-69,NCT OF DELHI,East,Female,In Speech,41
+7,4,Urban,70-79,NCT OF DELHI,East,Female,In Speech,17
+7,4,Urban,80-89,NCT OF DELHI,East,Female,In Speech,4
+7,4,Urban,90+,NCT OF DELHI,East,Female,In Speech,1
+7,4,Urban,Age Not Stated,NCT OF DELHI,East,Female,In Speech,0
+7,5,Rural,0-4,NCT OF DELHI,New Delhi,Female,In Speech,0
+7,5,Rural,5-9,NCT OF DELHI,New Delhi,Female,In Speech,0
+7,5,Rural,10-19,NCT OF DELHI,New Delhi,Female,In Speech,0
+7,5,Rural,20-29,NCT OF DELHI,New Delhi,Female,In Speech,0
+7,5,Rural,30-39,NCT OF DELHI,New Delhi,Female,In Speech,0
+7,5,Rural,40-49,NCT OF DELHI,New Delhi,Female,In Speech,0
+7,5,Rural,50-59,NCT OF DELHI,New Delhi,Female,In Speech,0
+7,5,Rural,60-69,NCT OF DELHI,New Delhi,Female,In Speech,0
+7,5,Rural,70-79,NCT OF DELHI,New Delhi,Female,In Speech,0
+7,5,Rural,80-89,NCT OF DELHI,New Delhi,Female,In Speech,0
+7,5,Rural,90+,NCT OF DELHI,New Delhi,Female,In Speech,0
+7,5,Rural,Age Not Stated,NCT OF DELHI,New Delhi,Female,In Speech,0
+7,5,Urban,0-4,NCT OF DELHI,New Delhi,Female,In Speech,2
+7,5,Urban,5-9,NCT OF DELHI,New Delhi,Female,In Speech,5
+7,5,Urban,10-19,NCT OF DELHI,New Delhi,Female,In Speech,14
+7,5,Urban,20-29,NCT OF DELHI,New Delhi,Female,In Speech,13
+7,5,Urban,30-39,NCT OF DELHI,New Delhi,Female,In Speech,5
+7,5,Urban,40-49,NCT OF DELHI,New Delhi,Female,In Speech,11
+7,5,Urban,50-59,NCT OF DELHI,New Delhi,Female,In Speech,7
+7,5,Urban,60-69,NCT OF DELHI,New Delhi,Female,In Speech,2
+7,5,Urban,70-79,NCT OF DELHI,New Delhi,Female,In Speech,2
+7,5,Urban,80-89,NCT OF DELHI,New Delhi,Female,In Speech,1
+7,5,Urban,90+,NCT OF DELHI,New Delhi,Female,In Speech,0
+7,5,Urban,Age Not Stated,NCT OF DELHI,New Delhi,Female,In Speech,0
+7,6,Rural,0-4,NCT OF DELHI,Central,Female,In Speech,0
+7,6,Rural,5-9,NCT OF DELHI,Central,Female,In Speech,0
+7,6,Rural,10-19,NCT OF DELHI,Central,Female,In Speech,0
+7,6,Rural,20-29,NCT OF DELHI,Central,Female,In Speech,0
+7,6,Rural,30-39,NCT OF DELHI,Central,Female,In Speech,0
+7,6,Rural,40-49,NCT OF DELHI,Central,Female,In Speech,0
+7,6,Rural,50-59,NCT OF DELHI,Central,Female,In Speech,0
+7,6,Rural,60-69,NCT OF DELHI,Central,Female,In Speech,0
+7,6,Rural,70-79,NCT OF DELHI,Central,Female,In Speech,0
+7,6,Rural,80-89,NCT OF DELHI,Central,Female,In Speech,0
+7,6,Rural,90+,NCT OF DELHI,Central,Female,In Speech,0
+7,6,Rural,Age Not Stated,NCT OF DELHI,Central,Female,In Speech,0
+7,6,Urban,0-4,NCT OF DELHI,Central,Female,In Speech,5
+7,6,Urban,5-9,NCT OF DELHI,Central,Female,In Speech,21
+7,6,Urban,10-19,NCT OF DELHI,Central,Female,In Speech,44
+7,6,Urban,20-29,NCT OF DELHI,Central,Female,In Speech,42
+7,6,Urban,30-39,NCT OF DELHI,Central,Female,In Speech,42
+7,6,Urban,40-49,NCT OF DELHI,Central,Female,In Speech,25
+7,6,Urban,50-59,NCT OF DELHI,Central,Female,In Speech,20
+7,6,Urban,60-69,NCT OF DELHI,Central,Female,In Speech,10
+7,6,Urban,70-79,NCT OF DELHI,Central,Female,In Speech,10
+7,6,Urban,80-89,NCT OF DELHI,Central,Female,In Speech,2
+7,6,Urban,90+,NCT OF DELHI,Central,Female,In Speech,1
+7,6,Urban,Age Not Stated,NCT OF DELHI,Central,Female,In Speech,0
+7,7,Rural,0-4,NCT OF DELHI,West,Female,In Speech,0
+7,7,Rural,5-9,NCT OF DELHI,West,Female,In Speech,0
+7,7,Rural,10-19,NCT OF DELHI,West,Female,In Speech,0
+7,7,Rural,20-29,NCT OF DELHI,West,Female,In Speech,1
+7,7,Rural,30-39,NCT OF DELHI,West,Female,In Speech,0
+7,7,Rural,40-49,NCT OF DELHI,West,Female,In Speech,0
+7,7,Rural,50-59,NCT OF DELHI,West,Female,In Speech,0
+7,7,Rural,60-69,NCT OF DELHI,West,Female,In Speech,0
+7,7,Rural,70-79,NCT OF DELHI,West,Female,In Speech,0
+7,7,Rural,80-89,NCT OF DELHI,West,Female,In Speech,0
+7,7,Rural,90+,NCT OF DELHI,West,Female,In Speech,0
+7,7,Rural,Age Not Stated,NCT OF DELHI,West,Female,In Speech,0
+7,7,Urban,0-4,NCT OF DELHI,West,Female,In Speech,10
+7,7,Urban,5-9,NCT OF DELHI,West,Female,In Speech,88
+7,7,Urban,10-19,NCT OF DELHI,West,Female,In Speech,192
+7,7,Urban,20-29,NCT OF DELHI,West,Female,In Speech,168
+7,7,Urban,30-39,NCT OF DELHI,West,Female,In Speech,148
+7,7,Urban,40-49,NCT OF DELHI,West,Female,In Speech,97
+7,7,Urban,50-59,NCT OF DELHI,West,Female,In Speech,86
+7,7,Urban,60-69,NCT OF DELHI,West,Female,In Speech,65
+7,7,Urban,70-79,NCT OF DELHI,West,Female,In Speech,38
+7,7,Urban,80-89,NCT OF DELHI,West,Female,In Speech,6
+7,7,Urban,90+,NCT OF DELHI,West,Female,In Speech,4
+7,7,Urban,Age Not Stated,NCT OF DELHI,West,Female,In Speech,4
+7,8,Rural,0-4,NCT OF DELHI,South West,Female,In Speech,1
+7,8,Rural,5-9,NCT OF DELHI,South West,Female,In Speech,12
+7,8,Rural,10-19,NCT OF DELHI,South West,Female,In Speech,12
+7,8,Rural,20-29,NCT OF DELHI,South West,Female,In Speech,9
+7,8,Rural,30-39,NCT OF DELHI,South West,Female,In Speech,8
+7,8,Rural,40-49,NCT OF DELHI,South West,Female,In Speech,7
+7,8,Rural,50-59,NCT OF DELHI,South West,Female,In Speech,2
+7,8,Rural,60-69,NCT OF DELHI,South West,Female,In Speech,0
+7,8,Rural,70-79,NCT OF DELHI,South West,Female,In Speech,2
+7,8,Rural,80-89,NCT OF DELHI,South West,Female,In Speech,2
+7,8,Rural,90+,NCT OF DELHI,South West,Female,In Speech,0
+7,8,Rural,Age Not Stated,NCT OF DELHI,South West,Female,In Speech,0
+7,8,Urban,0-4,NCT OF DELHI,South West,Female,In Speech,21
+7,8,Urban,5-9,NCT OF DELHI,South West,Female,In Speech,78
+7,8,Urban,10-19,NCT OF DELHI,South West,Female,In Speech,201
+7,8,Urban,20-29,NCT OF DELHI,South West,Female,In Speech,189
+7,8,Urban,30-39,NCT OF DELHI,South West,Female,In Speech,143
+7,8,Urban,40-49,NCT OF DELHI,South West,Female,In Speech,109
+7,8,Urban,50-59,NCT OF DELHI,South West,Female,In Speech,63
+7,8,Urban,60-69,NCT OF DELHI,South West,Female,In Speech,47
+7,8,Urban,70-79,NCT OF DELHI,South West,Female,In Speech,17
+7,8,Urban,80-89,NCT OF DELHI,South West,Female,In Speech,6
+7,8,Urban,90+,NCT OF DELHI,South West,Female,In Speech,4
+7,8,Urban,Age Not Stated,NCT OF DELHI,South West,Female,In Speech,2
+7,9,Rural,0-4,NCT OF DELHI,South,Female,In Speech,0
+7,9,Rural,5-9,NCT OF DELHI,South,Female,In Speech,0
+7,9,Rural,10-19,NCT OF DELHI,South,Female,In Speech,1
+7,9,Rural,20-29,NCT OF DELHI,South,Female,In Speech,2
+7,9,Rural,30-39,NCT OF DELHI,South,Female,In Speech,3
+7,9,Rural,40-49,NCT OF DELHI,South,Female,In Speech,2
+7,9,Rural,50-59,NCT OF DELHI,South,Female,In Speech,0
+7,9,Rural,60-69,NCT OF DELHI,South,Female,In Speech,0
+7,9,Rural,70-79,NCT OF DELHI,South,Female,In Speech,0
+7,9,Rural,80-89,NCT OF DELHI,South,Female,In Speech,0
+7,9,Rural,90+,NCT OF DELHI,South,Female,In Speech,0
+7,9,Rural,Age Not Stated,NCT OF DELHI,South,Female,In Speech,0
+7,9,Urban,0-4,NCT OF DELHI,South,Female,In Speech,21
+7,9,Urban,5-9,NCT OF DELHI,South,Female,In Speech,126
+7,9,Urban,10-19,NCT OF DELHI,South,Female,In Speech,285
+7,9,Urban,20-29,NCT OF DELHI,South,Female,In Speech,228
+7,9,Urban,30-39,NCT OF DELHI,South,Female,In Speech,180
+7,9,Urban,40-49,NCT OF DELHI,South,Female,In Speech,118
+7,9,Urban,50-59,NCT OF DELHI,South,Female,In Speech,71
+7,9,Urban,60-69,NCT OF DELHI,South,Female,In Speech,65
+7,9,Urban,70-79,NCT OF DELHI,South,Female,In Speech,31
+7,9,Urban,80-89,NCT OF DELHI,South,Female,In Speech,19
+7,9,Urban,90+,NCT OF DELHI,South,Female,In Speech,4
+7,9,Urban,Age Not Stated,NCT OF DELHI,South,Female,In Speech,0
+7,1,Rural,0-4,NCT OF DELHI,North West,Male,In Hearing,12
+7,1,Rural,5-9,NCT OF DELHI,North West,Male,In Hearing,13
+7,1,Rural,10-19,NCT OF DELHI,North West,Male,In Hearing,52
+7,1,Rural,20-29,NCT OF DELHI,North West,Male,In Hearing,32
+7,1,Rural,30-39,NCT OF DELHI,North West,Male,In Hearing,30
+7,1,Rural,40-49,NCT OF DELHI,North West,Male,In Hearing,17
+7,1,Rural,50-59,NCT OF DELHI,North West,Male,In Hearing,9
+7,1,Rural,60-69,NCT OF DELHI,North West,Male,In Hearing,13
+7,1,Rural,70-79,NCT OF DELHI,North West,Male,In Hearing,7
+7,1,Rural,80-89,NCT OF DELHI,North West,Male,In Hearing,7
+7,1,Rural,90+,NCT OF DELHI,North West,Male,In Hearing,2
+7,1,Rural,Age Not Stated,NCT OF DELHI,North West,Male,In Hearing,0
+7,1,Urban,0-4,NCT OF DELHI,North West,Male,In Hearing,137
+7,1,Urban,5-9,NCT OF DELHI,North West,Male,In Hearing,195
+7,1,Urban,10-19,NCT OF DELHI,North West,Male,In Hearing,490
+7,1,Urban,20-29,NCT OF DELHI,North West,Male,In Hearing,465
+7,1,Urban,30-39,NCT OF DELHI,North West,Male,In Hearing,442
+7,1,Urban,40-49,NCT OF DELHI,North West,Male,In Hearing,375
+7,1,Urban,50-59,NCT OF DELHI,North West,Male,In Hearing,272
+7,1,Urban,60-69,NCT OF DELHI,North West,Male,In Hearing,308
+7,1,Urban,70-79,NCT OF DELHI,North West,Male,In Hearing,234
+7,1,Urban,80-89,NCT OF DELHI,North West,Male,In Hearing,127
+7,1,Urban,90+,NCT OF DELHI,North West,Male,In Hearing,28
+7,1,Urban,Age Not Stated,NCT OF DELHI,North West,Male,In Hearing,5
+7,2,Rural,0-4,NCT OF DELHI,North,Male,In Hearing,1
+7,2,Rural,5-9,NCT OF DELHI,North,Male,In Hearing,0
+7,2,Rural,10-19,NCT OF DELHI,North,Male,In Hearing,0
+7,2,Rural,20-29,NCT OF DELHI,North,Male,In Hearing,2
+7,2,Rural,30-39,NCT OF DELHI,North,Male,In Hearing,0
+7,2,Rural,40-49,NCT OF DELHI,North,Male,In Hearing,1
+7,2,Rural,50-59,NCT OF DELHI,North,Male,In Hearing,2
+7,2,Rural,60-69,NCT OF DELHI,North,Male,In Hearing,3
+7,2,Rural,70-79,NCT OF DELHI,North,Male,In Hearing,2
+7,2,Rural,80-89,NCT OF DELHI,North,Male,In Hearing,0
+7,2,Rural,90+,NCT OF DELHI,North,Male,In Hearing,0
+7,2,Rural,Age Not Stated,NCT OF DELHI,North,Male,In Hearing,0
+7,2,Urban,0-4,NCT OF DELHI,North,Male,In Hearing,46
+7,2,Urban,5-9,NCT OF DELHI,North,Male,In Hearing,50
+7,2,Urban,10-19,NCT OF DELHI,North,Male,In Hearing,139
+7,2,Urban,20-29,NCT OF DELHI,North,Male,In Hearing,133
+7,2,Urban,30-39,NCT OF DELHI,North,Male,In Hearing,132
+7,2,Urban,40-49,NCT OF DELHI,North,Male,In Hearing,120
+7,2,Urban,50-59,NCT OF DELHI,North,Male,In Hearing,94
+7,2,Urban,60-69,NCT OF DELHI,North,Male,In Hearing,82
+7,2,Urban,70-79,NCT OF DELHI,North,Male,In Hearing,60
+7,2,Urban,80-89,NCT OF DELHI,North,Male,In Hearing,27
+7,2,Urban,90+,NCT OF DELHI,North,Male,In Hearing,10
+7,2,Urban,Age Not Stated,NCT OF DELHI,North,Male,In Hearing,2
+7,3,Rural,0-4,NCT OF DELHI,North East,Male,In Hearing,5
+7,3,Rural,5-9,NCT OF DELHI,North East,Male,In Hearing,2
+7,3,Rural,10-19,NCT OF DELHI,North East,Male,In Hearing,2
+7,3,Rural,20-29,NCT OF DELHI,North East,Male,In Hearing,3
+7,3,Rural,30-39,NCT OF DELHI,North East,Male,In Hearing,3
+7,3,Rural,40-49,NCT OF DELHI,North East,Male,In Hearing,1
+7,3,Rural,50-59,NCT OF DELHI,North East,Male,In Hearing,3
+7,3,Rural,60-69,NCT OF DELHI,North East,Male,In Hearing,0
+7,3,Rural,70-79,NCT OF DELHI,North East,Male,In Hearing,2
+7,3,Rural,80-89,NCT OF DELHI,North East,Male,In Hearing,0
+7,3,Rural,90+,NCT OF DELHI,North East,Male,In Hearing,0
+7,3,Rural,Age Not Stated,NCT OF DELHI,North East,Male,In Hearing,0
+7,3,Urban,0-4,NCT OF DELHI,North East,Male,In Hearing,125
+7,3,Urban,5-9,NCT OF DELHI,North East,Male,In Hearing,159
+7,3,Urban,10-19,NCT OF DELHI,North East,Male,In Hearing,372
+7,3,Urban,20-29,NCT OF DELHI,North East,Male,In Hearing,324
+7,3,Urban,30-39,NCT OF DELHI,North East,Male,In Hearing,270
+7,3,Urban,40-49,NCT OF DELHI,North East,Male,In Hearing,248
+7,3,Urban,50-59,NCT OF DELHI,North East,Male,In Hearing,171
+7,3,Urban,60-69,NCT OF DELHI,North East,Male,In Hearing,194
+7,3,Urban,70-79,NCT OF DELHI,North East,Male,In Hearing,138
+7,3,Urban,80-89,NCT OF DELHI,North East,Male,In Hearing,54
+7,3,Urban,90+,NCT OF DELHI,North East,Male,In Hearing,15
+7,3,Urban,Age Not Stated,NCT OF DELHI,North East,Male,In Hearing,4
+7,4,Rural,0-4,NCT OF DELHI,East,Male,In Hearing,0
+7,4,Rural,5-9,NCT OF DELHI,East,Male,In Hearing,1
+7,4,Rural,10-19,NCT OF DELHI,East,Male,In Hearing,0
+7,4,Rural,20-29,NCT OF DELHI,East,Male,In Hearing,0
+7,4,Rural,30-39,NCT OF DELHI,East,Male,In Hearing,1
+7,4,Rural,40-49,NCT OF DELHI,East,Male,In Hearing,0
+7,4,Rural,50-59,NCT OF DELHI,East,Male,In Hearing,1
+7,4,Rural,60-69,NCT OF DELHI,East,Male,In Hearing,0
+7,4,Rural,70-79,NCT OF DELHI,East,Male,In Hearing,0
+7,4,Rural,80-89,NCT OF DELHI,East,Male,In Hearing,0
+7,4,Rural,90+,NCT OF DELHI,East,Male,In Hearing,0
+7,4,Rural,Age Not Stated,NCT OF DELHI,East,Male,In Hearing,0
+7,4,Urban,0-4,NCT OF DELHI,East,Male,In Hearing,84
+7,4,Urban,5-9,NCT OF DELHI,East,Male,In Hearing,116
+7,4,Urban,10-19,NCT OF DELHI,East,Male,In Hearing,255
+7,4,Urban,20-29,NCT OF DELHI,East,Male,In Hearing,267
+7,4,Urban,30-39,NCT OF DELHI,East,Male,In Hearing,236
+7,4,Urban,40-49,NCT OF DELHI,East,Male,In Hearing,171
+7,4,Urban,50-59,NCT OF DELHI,East,Male,In Hearing,159
+7,4,Urban,60-69,NCT OF DELHI,East,Male,In Hearing,179
+7,4,Urban,70-79,NCT OF DELHI,East,Male,In Hearing,143
+7,4,Urban,80-89,NCT OF DELHI,East,Male,In Hearing,91
+7,4,Urban,90+,NCT OF DELHI,East,Male,In Hearing,18
+7,4,Urban,Age Not Stated,NCT OF DELHI,East,Male,In Hearing,6
+7,5,Rural,0-4,NCT OF DELHI,New Delhi,Male,In Hearing,0
+7,5,Rural,5-9,NCT OF DELHI,New Delhi,Male,In Hearing,0
+7,5,Rural,10-19,NCT OF DELHI,New Delhi,Male,In Hearing,0
+7,5,Rural,20-29,NCT OF DELHI,New Delhi,Male,In Hearing,0
+7,5,Rural,30-39,NCT OF DELHI,New Delhi,Male,In Hearing,0
+7,5,Rural,40-49,NCT OF DELHI,New Delhi,Male,In Hearing,0
+7,5,Rural,50-59,NCT OF DELHI,New Delhi,Male,In Hearing,0
+7,5,Rural,60-69,NCT OF DELHI,New Delhi,Male,In Hearing,0
+7,5,Rural,70-79,NCT OF DELHI,New Delhi,Male,In Hearing,0
+7,5,Rural,80-89,NCT OF DELHI,New Delhi,Male,In Hearing,0
+7,5,Rural,90+,NCT OF DELHI,New Delhi,Male,In Hearing,0
+7,5,Rural,Age Not Stated,NCT OF DELHI,New Delhi,Male,In Hearing,0
+7,5,Urban,0-4,NCT OF DELHI,New Delhi,Male,In Hearing,5
+7,5,Urban,5-9,NCT OF DELHI,New Delhi,Male,In Hearing,5
+7,5,Urban,10-19,NCT OF DELHI,New Delhi,Male,In Hearing,31
+7,5,Urban,20-29,NCT OF DELHI,New Delhi,Male,In Hearing,35
+7,5,Urban,30-39,NCT OF DELHI,New Delhi,Male,In Hearing,34
+7,5,Urban,40-49,NCT OF DELHI,New Delhi,Male,In Hearing,143
+7,5,Urban,50-59,NCT OF DELHI,New Delhi,Male,In Hearing,55
+7,5,Urban,60-69,NCT OF DELHI,New Delhi,Male,In Hearing,6
+7,5,Urban,70-79,NCT OF DELHI,New Delhi,Male,In Hearing,6
+7,5,Urban,80-89,NCT OF DELHI,New Delhi,Male,In Hearing,4
+7,5,Urban,90+,NCT OF DELHI,New Delhi,Male,In Hearing,3
+7,5,Urban,Age Not Stated,NCT OF DELHI,New Delhi,Male,In Hearing,6
+7,6,Rural,0-4,NCT OF DELHI,Central,Male,In Hearing,0
+7,6,Rural,5-9,NCT OF DELHI,Central,Male,In Hearing,0
+7,6,Rural,10-19,NCT OF DELHI,Central,Male,In Hearing,0
+7,6,Rural,20-29,NCT OF DELHI,Central,Male,In Hearing,0
+7,6,Rural,30-39,NCT OF DELHI,Central,Male,In Hearing,0
+7,6,Rural,40-49,NCT OF DELHI,Central,Male,In Hearing,0
+7,6,Rural,50-59,NCT OF DELHI,Central,Male,In Hearing,0
+7,6,Rural,60-69,NCT OF DELHI,Central,Male,In Hearing,0
+7,6,Rural,70-79,NCT OF DELHI,Central,Male,In Hearing,0
+7,6,Rural,80-89,NCT OF DELHI,Central,Male,In Hearing,0
+7,6,Rural,90+,NCT OF DELHI,Central,Male,In Hearing,0
+7,6,Rural,Age Not Stated,NCT OF DELHI,Central,Male,In Hearing,0
+7,6,Urban,0-4,NCT OF DELHI,Central,Male,In Hearing,46
+7,6,Urban,5-9,NCT OF DELHI,Central,Male,In Hearing,42
+7,6,Urban,10-19,NCT OF DELHI,Central,Male,In Hearing,97
+7,6,Urban,20-29,NCT OF DELHI,Central,Male,In Hearing,136
+7,6,Urban,30-39,NCT OF DELHI,Central,Male,In Hearing,112
+7,6,Urban,40-49,NCT OF DELHI,Central,Male,In Hearing,95
+7,6,Urban,50-59,NCT OF DELHI,Central,Male,In Hearing,106
+7,6,Urban,60-69,NCT OF DELHI,Central,Male,In Hearing,91
+7,6,Urban,70-79,NCT OF DELHI,Central,Male,In Hearing,70
+7,6,Urban,80-89,NCT OF DELHI,Central,Male,In Hearing,34
+7,6,Urban,90+,NCT OF DELHI,Central,Male,In Hearing,7
+7,6,Urban,Age Not Stated,NCT OF DELHI,Central,Male,In Hearing,2
+7,7,Rural,0-4,NCT OF DELHI,West,Male,In Hearing,0
+7,7,Rural,5-9,NCT OF DELHI,West,Male,In Hearing,1
+7,7,Rural,10-19,NCT OF DELHI,West,Male,In Hearing,0
+7,7,Rural,20-29,NCT OF DELHI,West,Male,In Hearing,1
+7,7,Rural,30-39,NCT OF DELHI,West,Male,In Hearing,0
+7,7,Rural,40-49,NCT OF DELHI,West,Male,In Hearing,0
+7,7,Rural,50-59,NCT OF DELHI,West,Male,In Hearing,2
+7,7,Rural,60-69,NCT OF DELHI,West,Male,In Hearing,2
+7,7,Rural,70-79,NCT OF DELHI,West,Male,In Hearing,1
+7,7,Rural,80-89,NCT OF DELHI,West,Male,In Hearing,2
+7,7,Rural,90+,NCT OF DELHI,West,Male,In Hearing,0
+7,7,Rural,Age Not Stated,NCT OF DELHI,West,Male,In Hearing,0
+7,7,Urban,0-4,NCT OF DELHI,West,Male,In Hearing,105
+7,7,Urban,5-9,NCT OF DELHI,West,Male,In Hearing,149
+7,7,Urban,10-19,NCT OF DELHI,West,Male,In Hearing,393
+7,7,Urban,20-29,NCT OF DELHI,West,Male,In Hearing,362
+7,7,Urban,30-39,NCT OF DELHI,West,Male,In Hearing,353
+7,7,Urban,40-49,NCT OF DELHI,West,Male,In Hearing,327
+7,7,Urban,50-59,NCT OF DELHI,West,Male,In Hearing,244
+7,7,Urban,60-69,NCT OF DELHI,West,Male,In Hearing,310
+7,7,Urban,70-79,NCT OF DELHI,West,Male,In Hearing,251
+7,7,Urban,80-89,NCT OF DELHI,West,Male,In Hearing,171
+7,7,Urban,90+,NCT OF DELHI,West,Male,In Hearing,28
+7,7,Urban,Age Not Stated,NCT OF DELHI,West,Male,In Hearing,12
+7,8,Rural,0-4,NCT OF DELHI,South West,Male,In Hearing,3
+7,8,Rural,5-9,NCT OF DELHI,South West,Male,In Hearing,9
+7,8,Rural,10-19,NCT OF DELHI,South West,Male,In Hearing,21
+7,8,Rural,20-29,NCT OF DELHI,South West,Male,In Hearing,13
+7,8,Rural,30-39,NCT OF DELHI,South West,Male,In Hearing,15
+7,8,Rural,40-49,NCT OF DELHI,South West,Male,In Hearing,21
+7,8,Rural,50-59,NCT OF DELHI,South West,Male,In Hearing,12
+7,8,Rural,60-69,NCT OF DELHI,South West,Male,In Hearing,22
+7,8,Rural,70-79,NCT OF DELHI,South West,Male,In Hearing,21
+7,8,Rural,80-89,NCT OF DELHI,South West,Male,In Hearing,21
+7,8,Rural,90+,NCT OF DELHI,South West,Male,In Hearing,5
+7,8,Rural,Age Not Stated,NCT OF DELHI,South West,Male,In Hearing,0
+7,8,Urban,0-4,NCT OF DELHI,South West,Male,In Hearing,138
+7,8,Urban,5-9,NCT OF DELHI,South West,Male,In Hearing,165
+7,8,Urban,10-19,NCT OF DELHI,South West,Male,In Hearing,413
+7,8,Urban,20-29,NCT OF DELHI,South West,Male,In Hearing,628
+7,8,Urban,30-39,NCT OF DELHI,South West,Male,In Hearing,644
+7,8,Urban,40-49,NCT OF DELHI,South West,Male,In Hearing,507
+7,8,Urban,50-59,NCT OF DELHI,South West,Male,In Hearing,281
+7,8,Urban,60-69,NCT OF DELHI,South West,Male,In Hearing,199
+7,8,Urban,70-79,NCT OF DELHI,South West,Male,In Hearing,144
+7,8,Urban,80-89,NCT OF DELHI,South West,Male,In Hearing,87
+7,8,Urban,90+,NCT OF DELHI,South West,Male,In Hearing,20
+7,8,Urban,Age Not Stated,NCT OF DELHI,South West,Male,In Hearing,29
+7,9,Rural,0-4,NCT OF DELHI,South,Male,In Hearing,1
+7,9,Rural,5-9,NCT OF DELHI,South,Male,In Hearing,4
+7,9,Rural,10-19,NCT OF DELHI,South,Male,In Hearing,9
+7,9,Rural,20-29,NCT OF DELHI,South,Male,In Hearing,4
+7,9,Rural,30-39,NCT OF DELHI,South,Male,In Hearing,7
+7,9,Rural,40-49,NCT OF DELHI,South,Male,In Hearing,4
+7,9,Rural,50-59,NCT OF DELHI,South,Male,In Hearing,0
+7,9,Rural,60-69,NCT OF DELHI,South,Male,In Hearing,1
+7,9,Rural,70-79,NCT OF DELHI,South,Male,In Hearing,1
+7,9,Rural,80-89,NCT OF DELHI,South,Male,In Hearing,0
+7,9,Rural,90+,NCT OF DELHI,South,Male,In Hearing,0
+7,9,Rural,Age Not Stated,NCT OF DELHI,South,Male,In Hearing,0
+7,9,Urban,0-4,NCT OF DELHI,South,Male,In Hearing,200
+7,9,Urban,5-9,NCT OF DELHI,South,Male,In Hearing,198
+7,9,Urban,10-19,NCT OF DELHI,South,Male,In Hearing,503
+7,9,Urban,20-29,NCT OF DELHI,South,Male,In Hearing,789
+7,9,Urban,30-39,NCT OF DELHI,South,Male,In Hearing,757
+7,9,Urban,40-49,NCT OF DELHI,South,Male,In Hearing,481
+7,9,Urban,50-59,NCT OF DELHI,South,Male,In Hearing,335
+7,9,Urban,60-69,NCT OF DELHI,South,Male,In Hearing,282
+7,9,Urban,70-79,NCT OF DELHI,South,Male,In Hearing,212
+7,9,Urban,80-89,NCT OF DELHI,South,Male,In Hearing,133
+7,9,Urban,90+,NCT OF DELHI,South,Male,In Hearing,29
+7,9,Urban,Age Not Stated,NCT OF DELHI,South,Male,In Hearing,23
+7,1,Rural,0-4,NCT OF DELHI,North West,Female,In Hearing,9
+7,1,Rural,5-9,NCT OF DELHI,North West,Female,In Hearing,7
+7,1,Rural,10-19,NCT OF DELHI,North West,Female,In Hearing,24
+7,1,Rural,20-29,NCT OF DELHI,North West,Female,In Hearing,26
+7,1,Rural,30-39,NCT OF DELHI,North West,Female,In Hearing,15
+7,1,Rural,40-49,NCT OF DELHI,North West,Female,In Hearing,16
+7,1,Rural,50-59,NCT OF DELHI,North West,Female,In Hearing,10
+7,1,Rural,60-69,NCT OF DELHI,North West,Female,In Hearing,18
+7,1,Rural,70-79,NCT OF DELHI,North West,Female,In Hearing,18
+7,1,Rural,80-89,NCT OF DELHI,North West,Female,In Hearing,7
+7,1,Rural,90+,NCT OF DELHI,North West,Female,In Hearing,1
+7,1,Rural,Age Not Stated,NCT OF DELHI,North West,Female,In Hearing,0
+7,1,Urban,0-4,NCT OF DELHI,North West,Female,In Hearing,147
+7,1,Urban,5-9,NCT OF DELHI,North West,Female,In Hearing,163
+7,1,Urban,10-19,NCT OF DELHI,North West,Female,In Hearing,425
+7,1,Urban,20-29,NCT OF DELHI,North West,Female,In Hearing,362
+7,1,Urban,30-39,NCT OF DELHI,North West,Female,In Hearing,309
+7,1,Urban,40-49,NCT OF DELHI,North West,Female,In Hearing,268
+7,1,Urban,50-59,NCT OF DELHI,North West,Female,In Hearing,219
+7,1,Urban,60-69,NCT OF DELHI,North West,Female,In Hearing,318
+7,1,Urban,70-79,NCT OF DELHI,North West,Female,In Hearing,217
+7,1,Urban,80-89,NCT OF DELHI,North West,Female,In Hearing,117
+7,1,Urban,90+,NCT OF DELHI,North West,Female,In Hearing,23
+7,1,Urban,Age Not Stated,NCT OF DELHI,North West,Female,In Hearing,2
+7,2,Rural,0-4,NCT OF DELHI,North,Female,In Hearing,0
+7,2,Rural,5-9,NCT OF DELHI,North,Female,In Hearing,0
+7,2,Rural,10-19,NCT OF DELHI,North,Female,In Hearing,1
+7,2,Rural,20-29,NCT OF DELHI,North,Female,In Hearing,1
+7,2,Rural,30-39,NCT OF DELHI,North,Female,In Hearing,0
+7,2,Rural,40-49,NCT OF DELHI,North,Female,In Hearing,2
+7,2,Rural,50-59,NCT OF DELHI,North,Female,In Hearing,0
+7,2,Rural,60-69,NCT OF DELHI,North,Female,In Hearing,4
+7,2,Rural,70-79,NCT OF DELHI,North,Female,In Hearing,3
+7,2,Rural,80-89,NCT OF DELHI,North,Female,In Hearing,0
+7,2,Rural,90+,NCT OF DELHI,North,Female,In Hearing,0
+7,2,Rural,Age Not Stated,NCT OF DELHI,North,Female,In Hearing,0
+7,2,Urban,0-4,NCT OF DELHI,North,Female,In Hearing,36
+7,2,Urban,5-9,NCT OF DELHI,North,Female,In Hearing,53
+7,2,Urban,10-19,NCT OF DELHI,North,Female,In Hearing,119
+7,2,Urban,20-29,NCT OF DELHI,North,Female,In Hearing,95
+7,2,Urban,30-39,NCT OF DELHI,North,Female,In Hearing,87
+7,2,Urban,40-49,NCT OF DELHI,North,Female,In Hearing,76
+7,2,Urban,50-59,NCT OF DELHI,North,Female,In Hearing,72
+7,2,Urban,60-69,NCT OF DELHI,North,Female,In Hearing,84
+7,2,Urban,70-79,NCT OF DELHI,North,Female,In Hearing,49
+7,2,Urban,80-89,NCT OF DELHI,North,Female,In Hearing,50
+7,2,Urban,90+,NCT OF DELHI,North,Female,In Hearing,6
+7,2,Urban,Age Not Stated,NCT OF DELHI,North,Female,In Hearing,1
+7,3,Rural,0-4,NCT OF DELHI,North East,Female,In Hearing,7
+7,3,Rural,5-9,NCT OF DELHI,North East,Female,In Hearing,4
+7,3,Rural,10-19,NCT OF DELHI,North East,Female,In Hearing,4
+7,3,Rural,20-29,NCT OF DELHI,North East,Female,In Hearing,14
+7,3,Rural,30-39,NCT OF DELHI,North East,Female,In Hearing,9
+7,3,Rural,40-49,NCT OF DELHI,North East,Female,In Hearing,3
+7,3,Rural,50-59,NCT OF DELHI,North East,Female,In Hearing,2
+7,3,Rural,60-69,NCT OF DELHI,North East,Female,In Hearing,0
+7,3,Rural,70-79,NCT OF DELHI,North East,Female,In Hearing,1
+7,3,Rural,80-89,NCT OF DELHI,North East,Female,In Hearing,0
+7,3,Rural,90+,NCT OF DELHI,North East,Female,In Hearing,0
+7,3,Rural,Age Not Stated,NCT OF DELHI,North East,Female,In Hearing,0
+7,3,Urban,0-4,NCT OF DELHI,North East,Female,In Hearing,108
+7,3,Urban,5-9,NCT OF DELHI,North East,Female,In Hearing,141
+7,3,Urban,10-19,NCT OF DELHI,North East,Female,In Hearing,320
+7,3,Urban,20-29,NCT OF DELHI,North East,Female,In Hearing,283
+7,3,Urban,30-39,NCT OF DELHI,North East,Female,In Hearing,239
+7,3,Urban,40-49,NCT OF DELHI,North East,Female,In Hearing,158
+7,3,Urban,50-59,NCT OF DELHI,North East,Female,In Hearing,127
+7,3,Urban,60-69,NCT OF DELHI,North East,Female,In Hearing,188
+7,3,Urban,70-79,NCT OF DELHI,North East,Female,In Hearing,129
+7,3,Urban,80-89,NCT OF DELHI,North East,Female,In Hearing,67
+7,3,Urban,90+,NCT OF DELHI,North East,Female,In Hearing,17
+7,3,Urban,Age Not Stated,NCT OF DELHI,North East,Female,In Hearing,1
+7,4,Rural,0-4,NCT OF DELHI,East,Female,In Hearing,0
+7,4,Rural,5-9,NCT OF DELHI,East,Female,In Hearing,0
+7,4,Rural,10-19,NCT OF DELHI,East,Female,In Hearing,0
+7,4,Rural,20-29,NCT OF DELHI,East,Female,In Hearing,1
+7,4,Rural,30-39,NCT OF DELHI,East,Female,In Hearing,1
+7,4,Rural,40-49,NCT OF DELHI,East,Female,In Hearing,0
+7,4,Rural,50-59,NCT OF DELHI,East,Female,In Hearing,0
+7,4,Rural,60-69,NCT OF DELHI,East,Female,In Hearing,0
+7,4,Rural,70-79,NCT OF DELHI,East,Female,In Hearing,0
+7,4,Rural,80-89,NCT OF DELHI,East,Female,In Hearing,0
+7,4,Rural,90+,NCT OF DELHI,East,Female,In Hearing,0
+7,4,Rural,Age Not Stated,NCT OF DELHI,East,Female,In Hearing,0
+7,4,Urban,0-4,NCT OF DELHI,East,Female,In Hearing,90
+7,4,Urban,5-9,NCT OF DELHI,East,Female,In Hearing,98
+7,4,Urban,10-19,NCT OF DELHI,East,Female,In Hearing,260
+7,4,Urban,20-29,NCT OF DELHI,East,Female,In Hearing,303
+7,4,Urban,30-39,NCT OF DELHI,East,Female,In Hearing,209
+7,4,Urban,40-49,NCT OF DELHI,East,Female,In Hearing,178
+7,4,Urban,50-59,NCT OF DELHI,East,Female,In Hearing,156
+7,4,Urban,60-69,NCT OF DELHI,East,Female,In Hearing,189
+7,4,Urban,70-79,NCT OF DELHI,East,Female,In Hearing,141
+7,4,Urban,80-89,NCT OF DELHI,East,Female,In Hearing,78
+7,4,Urban,90+,NCT OF DELHI,East,Female,In Hearing,22
+7,4,Urban,Age Not Stated,NCT OF DELHI,East,Female,In Hearing,9
+7,5,Rural,0-4,NCT OF DELHI,New Delhi,Female,In Hearing,0
+7,5,Rural,5-9,NCT OF DELHI,New Delhi,Female,In Hearing,0
+7,5,Rural,10-19,NCT OF DELHI,New Delhi,Female,In Hearing,0
+7,5,Rural,20-29,NCT OF DELHI,New Delhi,Female,In Hearing,0
+7,5,Rural,30-39,NCT OF DELHI,New Delhi,Female,In Hearing,0
+7,5,Rural,40-49,NCT OF DELHI,New Delhi,Female,In Hearing,0
+7,5,Rural,50-59,NCT OF DELHI,New Delhi,Female,In Hearing,0
+7,5,Rural,60-69,NCT OF DELHI,New Delhi,Female,In Hearing,0
+7,5,Rural,70-79,NCT OF DELHI,New Delhi,Female,In Hearing,0
+7,5,Rural,80-89,NCT OF DELHI,New Delhi,Female,In Hearing,0
+7,5,Rural,90+,NCT OF DELHI,New Delhi,Female,In Hearing,0
+7,5,Rural,Age Not Stated,NCT OF DELHI,New Delhi,Female,In Hearing,0
+7,5,Urban,0-4,NCT OF DELHI,New Delhi,Female,In Hearing,10
+7,5,Urban,5-9,NCT OF DELHI,New Delhi,Female,In Hearing,5
+7,5,Urban,10-19,NCT OF DELHI,New Delhi,Female,In Hearing,26
+7,5,Urban,20-29,NCT OF DELHI,New Delhi,Female,In Hearing,33
+7,5,Urban,30-39,NCT OF DELHI,New Delhi,Female,In Hearing,24
+7,5,Urban,40-49,NCT OF DELHI,New Delhi,Female,In Hearing,31
+7,5,Urban,50-59,NCT OF DELHI,New Delhi,Female,In Hearing,28
+7,5,Urban,60-69,NCT OF DELHI,New Delhi,Female,In Hearing,9
+7,5,Urban,70-79,NCT OF DELHI,New Delhi,Female,In Hearing,15
+7,5,Urban,80-89,NCT OF DELHI,New Delhi,Female,In Hearing,6
+7,5,Urban,90+,NCT OF DELHI,New Delhi,Female,In Hearing,1
+7,5,Urban,Age Not Stated,NCT OF DELHI,New Delhi,Female,In Hearing,0
+7,6,Rural,0-4,NCT OF DELHI,Central,Female,In Hearing,0
+7,6,Rural,5-9,NCT OF DELHI,Central,Female,In Hearing,0
+7,6,Rural,10-19,NCT OF DELHI,Central,Female,In Hearing,0
+7,6,Rural,20-29,NCT OF DELHI,Central,Female,In Hearing,0
+7,6,Rural,30-39,NCT OF DELHI,Central,Female,In Hearing,0
+7,6,Rural,40-49,NCT OF DELHI,Central,Female,In Hearing,0
+7,6,Rural,50-59,NCT OF DELHI,Central,Female,In Hearing,0
+7,6,Rural,60-69,NCT OF DELHI,Central,Female,In Hearing,0
+7,6,Rural,70-79,NCT OF DELHI,Central,Female,In Hearing,0
+7,6,Rural,80-89,NCT OF DELHI,Central,Female,In Hearing,0
+7,6,Rural,90+,NCT OF DELHI,Central,Female,In Hearing,0
+7,6,Rural,Age Not Stated,NCT OF DELHI,Central,Female,In Hearing,0
+7,6,Urban,0-4,NCT OF DELHI,Central,Female,In Hearing,39
+7,6,Urban,5-9,NCT OF DELHI,Central,Female,In Hearing,38
+7,6,Urban,10-19,NCT OF DELHI,Central,Female,In Hearing,91
+7,6,Urban,20-29,NCT OF DELHI,Central,Female,In Hearing,110
+7,6,Urban,30-39,NCT OF DELHI,Central,Female,In Hearing,98
+7,6,Urban,40-49,NCT OF DELHI,Central,Female,In Hearing,79
+7,6,Urban,50-59,NCT OF DELHI,Central,Female,In Hearing,76
+7,6,Urban,60-69,NCT OF DELHI,Central,Female,In Hearing,92
+7,6,Urban,70-79,NCT OF DELHI,Central,Female,In Hearing,95
+7,6,Urban,80-89,NCT OF DELHI,Central,Female,In Hearing,52
+7,6,Urban,90+,NCT OF DELHI,Central,Female,In Hearing,12
+7,6,Urban,Age Not Stated,NCT OF DELHI,Central,Female,In Hearing,0
+7,7,Rural,0-4,NCT OF DELHI,West,Female,In Hearing,1
+7,7,Rural,5-9,NCT OF DELHI,West,Female,In Hearing,0
+7,7,Rural,10-19,NCT OF DELHI,West,Female,In Hearing,2
+7,7,Rural,20-29,NCT OF DELHI,West,Female,In Hearing,0
+7,7,Rural,30-39,NCT OF DELHI,West,Female,In Hearing,0
+7,7,Rural,40-49,NCT OF DELHI,West,Female,In Hearing,0
+7,7,Rural,50-59,NCT OF DELHI,West,Female,In Hearing,0
+7,7,Rural,60-69,NCT OF DELHI,West,Female,In Hearing,0
+7,7,Rural,70-79,NCT OF DELHI,West,Female,In Hearing,3
+7,7,Rural,80-89,NCT OF DELHI,West,Female,In Hearing,2
+7,7,Rural,90+,NCT OF DELHI,West,Female,In Hearing,0
+7,7,Rural,Age Not Stated,NCT OF DELHI,West,Female,In Hearing,0
+7,7,Urban,0-4,NCT OF DELHI,West,Female,In Hearing,94
+7,7,Urban,5-9,NCT OF DELHI,West,Female,In Hearing,105
+7,7,Urban,10-19,NCT OF DELHI,West,Female,In Hearing,312
+7,7,Urban,20-29,NCT OF DELHI,West,Female,In Hearing,289
+7,7,Urban,30-39,NCT OF DELHI,West,Female,In Hearing,277
+7,7,Urban,40-49,NCT OF DELHI,West,Female,In Hearing,209
+7,7,Urban,50-59,NCT OF DELHI,West,Female,In Hearing,230
+7,7,Urban,60-69,NCT OF DELHI,West,Female,In Hearing,266
+7,7,Urban,70-79,NCT OF DELHI,West,Female,In Hearing,231
+7,7,Urban,80-89,NCT OF DELHI,West,Female,In Hearing,161
+7,7,Urban,90+,NCT OF DELHI,West,Female,In Hearing,30
+7,7,Urban,Age Not Stated,NCT OF DELHI,West,Female,In Hearing,8
+7,8,Rural,0-4,NCT OF DELHI,South West,Female,In Hearing,5
+7,8,Rural,5-9,NCT OF DELHI,South West,Female,In Hearing,7
+7,8,Rural,10-19,NCT OF DELHI,South West,Female,In Hearing,19
+7,8,Rural,20-29,NCT OF DELHI,South West,Female,In Hearing,12
+7,8,Rural,30-39,NCT OF DELHI,South West,Female,In Hearing,17
+7,8,Rural,40-49,NCT OF DELHI,South West,Female,In Hearing,17
+7,8,Rural,50-59,NCT OF DELHI,South West,Female,In Hearing,15
+7,8,Rural,60-69,NCT OF DELHI,South West,Female,In Hearing,23
+7,8,Rural,70-79,NCT OF DELHI,South West,Female,In Hearing,27
+7,8,Rural,80-89,NCT OF DELHI,South West,Female,In Hearing,19
+7,8,Rural,90+,NCT OF DELHI,South West,Female,In Hearing,1
+7,8,Rural,Age Not Stated,NCT OF DELHI,South West,Female,In Hearing,0
+7,8,Urban,0-4,NCT OF DELHI,South West,Female,In Hearing,130
+7,8,Urban,5-9,NCT OF DELHI,South West,Female,In Hearing,142
+7,8,Urban,10-19,NCT OF DELHI,South West,Female,In Hearing,297
+7,8,Urban,20-29,NCT OF DELHI,South West,Female,In Hearing,418
+7,8,Urban,30-39,NCT OF DELHI,South West,Female,In Hearing,308
+7,8,Urban,40-49,NCT OF DELHI,South West,Female,In Hearing,270
+7,8,Urban,50-59,NCT OF DELHI,South West,Female,In Hearing,190
+7,8,Urban,60-69,NCT OF DELHI,South West,Female,In Hearing,158
+7,8,Urban,70-79,NCT OF DELHI,South West,Female,In Hearing,130
+7,8,Urban,80-89,NCT OF DELHI,South West,Female,In Hearing,87
+7,8,Urban,90+,NCT OF DELHI,South West,Female,In Hearing,23
+7,8,Urban,Age Not Stated,NCT OF DELHI,South West,Female,In Hearing,2
+7,9,Rural,0-4,NCT OF DELHI,South,Female,In Hearing,2
+7,9,Rural,5-9,NCT OF DELHI,South,Female,In Hearing,2
+7,9,Rural,10-19,NCT OF DELHI,South,Female,In Hearing,5
+7,9,Rural,20-29,NCT OF DELHI,South,Female,In Hearing,2
+7,9,Rural,30-39,NCT OF DELHI,South,Female,In Hearing,2
+7,9,Rural,40-49,NCT OF DELHI,South,Female,In Hearing,1
+7,9,Rural,50-59,NCT OF DELHI,South,Female,In Hearing,0
+7,9,Rural,60-69,NCT OF DELHI,South,Female,In Hearing,1
+7,9,Rural,70-79,NCT OF DELHI,South,Female,In Hearing,0
+7,9,Rural,80-89,NCT OF DELHI,South,Female,In Hearing,0
+7,9,Rural,90+,NCT OF DELHI,South,Female,In Hearing,0
+7,9,Rural,Age Not Stated,NCT OF DELHI,South,Female,In Hearing,0
+7,9,Urban,0-4,NCT OF DELHI,South,Female,In Hearing,172
+7,9,Urban,5-9,NCT OF DELHI,South,Female,In Hearing,175
+7,9,Urban,10-19,NCT OF DELHI,South,Female,In Hearing,413
+7,9,Urban,20-29,NCT OF DELHI,South,Female,In Hearing,442
+7,9,Urban,30-39,NCT OF DELHI,South,Female,In Hearing,320
+7,9,Urban,40-49,NCT OF DELHI,South,Female,In Hearing,292
+7,9,Urban,50-59,NCT OF DELHI,South,Female,In Hearing,233
+7,9,Urban,60-69,NCT OF DELHI,South,Female,In Hearing,258
+7,9,Urban,70-79,NCT OF DELHI,South,Female,In Hearing,220
+7,9,Urban,80-89,NCT OF DELHI,South,Female,In Hearing,120
+7,9,Urban,90+,NCT OF DELHI,South,Female,In Hearing,30
+7,9,Urban,Age Not Stated,NCT OF DELHI,South,Female,In Hearing,8
+7,1,Rural,0-4,NCT OF DELHI,North West,Male,In Movement,9
+7,1,Rural,5-9,NCT OF DELHI,North West,Male,In Movement,27
+7,1,Rural,10-19,NCT OF DELHI,North West,Male,In Movement,88
+7,1,Rural,20-29,NCT OF DELHI,North West,Male,In Movement,116
+7,1,Rural,30-39,NCT OF DELHI,North West,Male,In Movement,112
+7,1,Rural,40-49,NCT OF DELHI,North West,Male,In Movement,80
+7,1,Rural,50-59,NCT OF DELHI,North West,Male,In Movement,59
+7,1,Rural,60-69,NCT OF DELHI,North West,Male,In Movement,66
+7,1,Rural,70-79,NCT OF DELHI,North West,Male,In Movement,27
+7,1,Rural,80-89,NCT OF DELHI,North West,Male,In Movement,5
+7,1,Rural,90+,NCT OF DELHI,North West,Male,In Movement,4
+7,1,Rural,Age Not Stated,NCT OF DELHI,North West,Male,In Movement,0
+7,1,Urban,0-4,NCT OF DELHI,North West,Male,In Movement,143
+7,1,Urban,5-9,NCT OF DELHI,North West,Male,In Movement,239
+7,1,Urban,10-19,NCT OF DELHI,North West,Male,In Movement,1019
+7,1,Urban,20-29,NCT OF DELHI,North West,Male,In Movement,1719
+7,1,Urban,30-39,NCT OF DELHI,North West,Male,In Movement,1432
+7,1,Urban,40-49,NCT OF DELHI,North West,Male,In Movement,1212
+7,1,Urban,50-59,NCT OF DELHI,North West,Male,In Movement,962
+7,1,Urban,60-69,NCT OF DELHI,North West,Male,In Movement,1082
+7,1,Urban,70-79,NCT OF DELHI,North West,Male,In Movement,530
+7,1,Urban,80-89,NCT OF DELHI,North West,Male,In Movement,227
+7,1,Urban,90+,NCT OF DELHI,North West,Male,In Movement,43
+7,1,Urban,Age Not Stated,NCT OF DELHI,North West,Male,In Movement,2
+7,2,Rural,0-4,NCT OF DELHI,North,Male,In Movement,0
+7,2,Rural,5-9,NCT OF DELHI,North,Male,In Movement,0
+7,2,Rural,10-19,NCT OF DELHI,North,Male,In Movement,8
+7,2,Rural,20-29,NCT OF DELHI,North,Male,In Movement,7
+7,2,Rural,30-39,NCT OF DELHI,North,Male,In Movement,7
+7,2,Rural,40-49,NCT OF DELHI,North,Male,In Movement,7
+7,2,Rural,50-59,NCT OF DELHI,North,Male,In Movement,3
+7,2,Rural,60-69,NCT OF DELHI,North,Male,In Movement,7
+7,2,Rural,70-79,NCT OF DELHI,North,Male,In Movement,2
+7,2,Rural,80-89,NCT OF DELHI,North,Male,In Movement,3
+7,2,Rural,90+,NCT OF DELHI,North,Male,In Movement,0
+7,2,Rural,Age Not Stated,NCT OF DELHI,North,Male,In Movement,0
+7,2,Urban,0-4,NCT OF DELHI,North,Male,In Movement,29
+7,2,Urban,5-9,NCT OF DELHI,North,Male,In Movement,47
+7,2,Urban,10-19,NCT OF DELHI,North,Male,In Movement,218
+7,2,Urban,20-29,NCT OF DELHI,North,Male,In Movement,373
+7,2,Urban,30-39,NCT OF DELHI,North,Male,In Movement,353
+7,2,Urban,40-49,NCT OF DELHI,North,Male,In Movement,326
+7,2,Urban,50-59,NCT OF DELHI,North,Male,In Movement,298
+7,2,Urban,60-69,NCT OF DELHI,North,Male,In Movement,287
+7,2,Urban,70-79,NCT OF DELHI,North,Male,In Movement,159
+7,2,Urban,80-89,NCT OF DELHI,North,Male,In Movement,68
+7,2,Urban,90+,NCT OF DELHI,North,Male,In Movement,19
+7,2,Urban,Age Not Stated,NCT OF DELHI,North,Male,In Movement,1
+7,3,Rural,0-4,NCT OF DELHI,North East,Male,In Movement,1
+7,3,Rural,5-9,NCT OF DELHI,North East,Male,In Movement,4
+7,3,Rural,10-19,NCT OF DELHI,North East,Male,In Movement,9
+7,3,Rural,20-29,NCT OF DELHI,North East,Male,In Movement,9
+7,3,Rural,30-39,NCT OF DELHI,North East,Male,In Movement,7
+7,3,Rural,40-49,NCT OF DELHI,North East,Male,In Movement,10
+7,3,Rural,50-59,NCT OF DELHI,North East,Male,In Movement,2
+7,3,Rural,60-69,NCT OF DELHI,North East,Male,In Movement,3
+7,3,Rural,70-79,NCT OF DELHI,North East,Male,In Movement,1
+7,3,Rural,80-89,NCT OF DELHI,North East,Male,In Movement,1
+7,3,Rural,90+,NCT OF DELHI,North East,Male,In Movement,2
+7,3,Rural,Age Not Stated,NCT OF DELHI,North East,Male,In Movement,0
+7,3,Urban,0-4,NCT OF DELHI,North East,Male,In Movement,87
+7,3,Urban,5-9,NCT OF DELHI,North East,Male,In Movement,198
+7,3,Urban,10-19,NCT OF DELHI,North East,Male,In Movement,808
+7,3,Urban,20-29,NCT OF DELHI,North East,Male,In Movement,1354
+7,3,Urban,30-39,NCT OF DELHI,North East,Male,In Movement,1136
+7,3,Urban,40-49,NCT OF DELHI,North East,Male,In Movement,879
+7,3,Urban,50-59,NCT OF DELHI,North East,Male,In Movement,627
+7,3,Urban,60-69,NCT OF DELHI,North East,Male,In Movement,713
+7,3,Urban,70-79,NCT OF DELHI,North East,Male,In Movement,302
+7,3,Urban,80-89,NCT OF DELHI,North East,Male,In Movement,86
+7,3,Urban,90+,NCT OF DELHI,North East,Male,In Movement,20
+7,3,Urban,Age Not Stated,NCT OF DELHI,North East,Male,In Movement,3
+7,4,Rural,0-4,NCT OF DELHI,East,Male,In Movement,0
+7,4,Rural,5-9,NCT OF DELHI,East,Male,In Movement,1
+7,4,Rural,10-19,NCT OF DELHI,East,Male,In Movement,0
+7,4,Rural,20-29,NCT OF DELHI,East,Male,In Movement,0
+7,4,Rural,30-39,NCT OF DELHI,East,Male,In Movement,1
+7,4,Rural,40-49,NCT OF DELHI,East,Male,In Movement,1
+7,4,Rural,50-59,NCT OF DELHI,East,Male,In Movement,2
+7,4,Rural,60-69,NCT OF DELHI,East,Male,In Movement,1
+7,4,Rural,70-79,NCT OF DELHI,East,Male,In Movement,0
+7,4,Rural,80-89,NCT OF DELHI,East,Male,In Movement,1
+7,4,Rural,90+,NCT OF DELHI,East,Male,In Movement,0
+7,4,Rural,Age Not Stated,NCT OF DELHI,East,Male,In Movement,0
+7,4,Urban,0-4,NCT OF DELHI,East,Male,In Movement,51
+7,4,Urban,5-9,NCT OF DELHI,East,Male,In Movement,111
+7,4,Urban,10-19,NCT OF DELHI,East,Male,In Movement,398
+7,4,Urban,20-29,NCT OF DELHI,East,Male,In Movement,715
+7,4,Urban,30-39,NCT OF DELHI,East,Male,In Movement,655
+7,4,Urban,40-49,NCT OF DELHI,East,Male,In Movement,579
+7,4,Urban,50-59,NCT OF DELHI,East,Male,In Movement,477
+7,4,Urban,60-69,NCT OF DELHI,East,Male,In Movement,520
+7,4,Urban,70-79,NCT OF DELHI,East,Male,In Movement,370
+7,4,Urban,80-89,NCT OF DELHI,East,Male,In Movement,174
+7,4,Urban,90+,NCT OF DELHI,East,Male,In Movement,18
+7,4,Urban,Age Not Stated,NCT OF DELHI,East,Male,In Movement,1
+7,5,Rural,0-4,NCT OF DELHI,New Delhi,Male,In Movement,0
+7,5,Rural,5-9,NCT OF DELHI,New Delhi,Male,In Movement,0
+7,5,Rural,10-19,NCT OF DELHI,New Delhi,Male,In Movement,0
+7,5,Rural,20-29,NCT OF DELHI,New Delhi,Male,In Movement,0
+7,5,Rural,30-39,NCT OF DELHI,New Delhi,Male,In Movement,0
+7,5,Rural,40-49,NCT OF DELHI,New Delhi,Male,In Movement,0
+7,5,Rural,50-59,NCT OF DELHI,New Delhi,Male,In Movement,0
+7,5,Rural,60-69,NCT OF DELHI,New Delhi,Male,In Movement,0
+7,5,Rural,70-79,NCT OF DELHI,New Delhi,Male,In Movement,0
+7,5,Rural,80-89,NCT OF DELHI,New Delhi,Male,In Movement,0
+7,5,Rural,90+,NCT OF DELHI,New Delhi,Male,In Movement,0
+7,5,Rural,Age Not Stated,NCT OF DELHI,New Delhi,Male,In Movement,0
+7,5,Urban,0-4,NCT OF DELHI,New Delhi,Male,In Movement,1
+7,5,Urban,5-9,NCT OF DELHI,New Delhi,Male,In Movement,9
+7,5,Urban,10-19,NCT OF DELHI,New Delhi,Male,In Movement,43
+7,5,Urban,20-29,NCT OF DELHI,New Delhi,Male,In Movement,53
+7,5,Urban,30-39,NCT OF DELHI,New Delhi,Male,In Movement,59
+7,5,Urban,40-49,NCT OF DELHI,New Delhi,Male,In Movement,59
+7,5,Urban,50-59,NCT OF DELHI,New Delhi,Male,In Movement,51
+7,5,Urban,60-69,NCT OF DELHI,New Delhi,Male,In Movement,33
+7,5,Urban,70-79,NCT OF DELHI,New Delhi,Male,In Movement,18
+7,5,Urban,80-89,NCT OF DELHI,New Delhi,Male,In Movement,11
+7,5,Urban,90+,NCT OF DELHI,New Delhi,Male,In Movement,2
+7,5,Urban,Age Not Stated,NCT OF DELHI,New Delhi,Male,In Movement,1
+7,6,Rural,0-4,NCT OF DELHI,Central,Male,In Movement,0
+7,6,Rural,5-9,NCT OF DELHI,Central,Male,In Movement,0
+7,6,Rural,10-19,NCT OF DELHI,Central,Male,In Movement,0
+7,6,Rural,20-29,NCT OF DELHI,Central,Male,In Movement,0
+7,6,Rural,30-39,NCT OF DELHI,Central,Male,In Movement,0
+7,6,Rural,40-49,NCT OF DELHI,Central,Male,In Movement,0
+7,6,Rural,50-59,NCT OF DELHI,Central,Male,In Movement,0
+7,6,Rural,60-69,NCT OF DELHI,Central,Male,In Movement,0
+7,6,Rural,70-79,NCT OF DELHI,Central,Male,In Movement,0
+7,6,Rural,80-89,NCT OF DELHI,Central,Male,In Movement,0
+7,6,Rural,90+,NCT OF DELHI,Central,Male,In Movement,0
+7,6,Rural,Age Not Stated,NCT OF DELHI,Central,Male,In Movement,0
+7,6,Urban,0-4,NCT OF DELHI,Central,Male,In Movement,20
+7,6,Urban,5-9,NCT OF DELHI,Central,Male,In Movement,34
+7,6,Urban,10-19,NCT OF DELHI,Central,Male,In Movement,122
+7,6,Urban,20-29,NCT OF DELHI,Central,Male,In Movement,215
+7,6,Urban,30-39,NCT OF DELHI,Central,Male,In Movement,220
+7,6,Urban,40-49,NCT OF DELHI,Central,Male,In Movement,261
+7,6,Urban,50-59,NCT OF DELHI,Central,Male,In Movement,277
+7,6,Urban,60-69,NCT OF DELHI,Central,Male,In Movement,308
+7,6,Urban,70-79,NCT OF DELHI,Central,Male,In Movement,189
+7,6,Urban,80-89,NCT OF DELHI,Central,Male,In Movement,87
+7,6,Urban,90+,NCT OF DELHI,Central,Male,In Movement,22
+7,6,Urban,Age Not Stated,NCT OF DELHI,Central,Male,In Movement,0
+7,7,Rural,0-4,NCT OF DELHI,West,Male,In Movement,1
+7,7,Rural,5-9,NCT OF DELHI,West,Male,In Movement,0
+7,7,Rural,10-19,NCT OF DELHI,West,Male,In Movement,1
+7,7,Rural,20-29,NCT OF DELHI,West,Male,In Movement,3
+7,7,Rural,30-39,NCT OF DELHI,West,Male,In Movement,2
+7,7,Rural,40-49,NCT OF DELHI,West,Male,In Movement,5
+7,7,Rural,50-59,NCT OF DELHI,West,Male,In Movement,0
+7,7,Rural,60-69,NCT OF DELHI,West,Male,In Movement,0
+7,7,Rural,70-79,NCT OF DELHI,West,Male,In Movement,0
+7,7,Rural,80-89,NCT OF DELHI,West,Male,In Movement,1
+7,7,Rural,90+,NCT OF DELHI,West,Male,In Movement,0
+7,7,Rural,Age Not Stated,NCT OF DELHI,West,Male,In Movement,0
+7,7,Urban,0-4,NCT OF DELHI,West,Male,In Movement,68
+7,7,Urban,5-9,NCT OF DELHI,West,Male,In Movement,173
+7,7,Urban,10-19,NCT OF DELHI,West,Male,In Movement,572
+7,7,Urban,20-29,NCT OF DELHI,West,Male,In Movement,912
+7,7,Urban,30-39,NCT OF DELHI,West,Male,In Movement,902
+7,7,Urban,40-49,NCT OF DELHI,West,Male,In Movement,912
+7,7,Urban,50-59,NCT OF DELHI,West,Male,In Movement,772
+7,7,Urban,60-69,NCT OF DELHI,West,Male,In Movement,954
+7,7,Urban,70-79,NCT OF DELHI,West,Male,In Movement,581
+7,7,Urban,80-89,NCT OF DELHI,West,Male,In Movement,278
+7,7,Urban,90+,NCT OF DELHI,West,Male,In Movement,48
+7,7,Urban,Age Not Stated,NCT OF DELHI,West,Male,In Movement,10
+7,8,Rural,0-4,NCT OF DELHI,South West,Male,In Movement,10
+7,8,Rural,5-9,NCT OF DELHI,South West,Male,In Movement,10
+7,8,Rural,10-19,NCT OF DELHI,South West,Male,In Movement,41
+7,8,Rural,20-29,NCT OF DELHI,South West,Male,In Movement,79
+7,8,Rural,30-39,NCT OF DELHI,South West,Male,In Movement,84
+7,8,Rural,40-49,NCT OF DELHI,South West,Male,In Movement,68
+7,8,Rural,50-59,NCT OF DELHI,South West,Male,In Movement,45
+7,8,Rural,60-69,NCT OF DELHI,South West,Male,In Movement,67
+7,8,Rural,70-79,NCT OF DELHI,South West,Male,In Movement,46
+7,8,Rural,80-89,NCT OF DELHI,South West,Male,In Movement,15
+7,8,Rural,90+,NCT OF DELHI,South West,Male,In Movement,9
+7,8,Rural,Age Not Stated,NCT OF DELHI,South West,Male,In Movement,1
+7,8,Urban,0-4,NCT OF DELHI,South West,Male,In Movement,69
+7,8,Urban,5-9,NCT OF DELHI,South West,Male,In Movement,116
+7,8,Urban,10-19,NCT OF DELHI,South West,Male,In Movement,442
+7,8,Urban,20-29,NCT OF DELHI,South West,Male,In Movement,866
+7,8,Urban,30-39,NCT OF DELHI,South West,Male,In Movement,910
+7,8,Urban,40-49,NCT OF DELHI,South West,Male,In Movement,748
+7,8,Urban,50-59,NCT OF DELHI,South West,Male,In Movement,632
+7,8,Urban,60-69,NCT OF DELHI,South West,Male,In Movement,524
+7,8,Urban,70-79,NCT OF DELHI,South West,Male,In Movement,267
+7,8,Urban,80-89,NCT OF DELHI,South West,Male,In Movement,97
+7,8,Urban,90+,NCT OF DELHI,South West,Male,In Movement,18
+7,8,Urban,Age Not Stated,NCT OF DELHI,South West,Male,In Movement,3
+7,9,Rural,0-4,NCT OF DELHI,South,Male,In Movement,0
+7,9,Rural,5-9,NCT OF DELHI,South,Male,In Movement,3
+7,9,Rural,10-19,NCT OF DELHI,South,Male,In Movement,7
+7,9,Rural,20-29,NCT OF DELHI,South,Male,In Movement,3
+7,9,Rural,30-39,NCT OF DELHI,South,Male,In Movement,2
+7,9,Rural,40-49,NCT OF DELHI,South,Male,In Movement,1
+7,9,Rural,50-59,NCT OF DELHI,South,Male,In Movement,0
+7,9,Rural,60-69,NCT OF DELHI,South,Male,In Movement,0
+7,9,Rural,70-79,NCT OF DELHI,South,Male,In Movement,0
+7,9,Rural,80-89,NCT OF DELHI,South,Male,In Movement,1
+7,9,Rural,90+,NCT OF DELHI,South,Male,In Movement,0
+7,9,Rural,Age Not Stated,NCT OF DELHI,South,Male,In Movement,0
+7,9,Urban,0-4,NCT OF DELHI,South,Male,In Movement,118
+7,9,Urban,5-9,NCT OF DELHI,South,Male,In Movement,157
+7,9,Urban,10-19,NCT OF DELHI,South,Male,In Movement,651
+7,9,Urban,20-29,NCT OF DELHI,South,Male,In Movement,996
+7,9,Urban,30-39,NCT OF DELHI,South,Male,In Movement,883
+7,9,Urban,40-49,NCT OF DELHI,South,Male,In Movement,792
+7,9,Urban,50-59,NCT OF DELHI,South,Male,In Movement,609
+7,9,Urban,60-69,NCT OF DELHI,South,Male,In Movement,647
+7,9,Urban,70-79,NCT OF DELHI,South,Male,In Movement,388
+7,9,Urban,80-89,NCT OF DELHI,South,Male,In Movement,196
+7,9,Urban,90+,NCT OF DELHI,South,Male,In Movement,44
+7,9,Urban,Age Not Stated,NCT OF DELHI,South,Male,In Movement,9
+7,1,Rural,0-4,NCT OF DELHI,North West,Female,In Movement,8
+7,1,Rural,5-9,NCT OF DELHI,North West,Female,In Movement,12
+7,1,Rural,10-19,NCT OF DELHI,North West,Female,In Movement,43
+7,1,Rural,20-29,NCT OF DELHI,North West,Female,In Movement,71
+7,1,Rural,30-39,NCT OF DELHI,North West,Female,In Movement,56
+7,1,Rural,40-49,NCT OF DELHI,North West,Female,In Movement,30
+7,1,Rural,50-59,NCT OF DELHI,North West,Female,In Movement,31
+7,1,Rural,60-69,NCT OF DELHI,North West,Female,In Movement,29
+7,1,Rural,70-79,NCT OF DELHI,North West,Female,In Movement,22
+7,1,Rural,80-89,NCT OF DELHI,North West,Female,In Movement,10
+7,1,Rural,90+,NCT OF DELHI,North West,Female,In Movement,3
+7,1,Rural,Age Not Stated,NCT OF DELHI,North West,Female,In Movement,1
+7,1,Urban,0-4,NCT OF DELHI,North West,Female,In Movement,87
+7,1,Urban,5-9,NCT OF DELHI,North West,Female,In Movement,201
+7,1,Urban,10-19,NCT OF DELHI,North West,Female,In Movement,621
+7,1,Urban,20-29,NCT OF DELHI,North West,Female,In Movement,779
+7,1,Urban,30-39,NCT OF DELHI,North West,Female,In Movement,706
+7,1,Urban,40-49,NCT OF DELHI,North West,Female,In Movement,540
+7,1,Urban,50-59,NCT OF DELHI,North West,Female,In Movement,525
+7,1,Urban,60-69,NCT OF DELHI,North West,Female,In Movement,776
+7,1,Urban,70-79,NCT OF DELHI,North West,Female,In Movement,572
+7,1,Urban,80-89,NCT OF DELHI,North West,Female,In Movement,304
+7,1,Urban,90+,NCT OF DELHI,North West,Female,In Movement,61
+7,1,Urban,Age Not Stated,NCT OF DELHI,North West,Female,In Movement,2
+7,2,Rural,0-4,NCT OF DELHI,North,Female,In Movement,0
+7,2,Rural,5-9,NCT OF DELHI,North,Female,In Movement,1
+7,2,Rural,10-19,NCT OF DELHI,North,Female,In Movement,1
+7,2,Rural,20-29,NCT OF DELHI,North,Female,In Movement,8
+7,2,Rural,30-39,NCT OF DELHI,North,Female,In Movement,3
+7,2,Rural,40-49,NCT OF DELHI,North,Female,In Movement,2
+7,2,Rural,50-59,NCT OF DELHI,North,Female,In Movement,2
+7,2,Rural,60-69,NCT OF DELHI,North,Female,In Movement,3
+7,2,Rural,70-79,NCT OF DELHI,North,Female,In Movement,4
+7,2,Rural,80-89,NCT OF DELHI,North,Female,In Movement,3
+7,2,Rural,90+,NCT OF DELHI,North,Female,In Movement,0
+7,2,Rural,Age Not Stated,NCT OF DELHI,North,Female,In Movement,0
+7,2,Urban,0-4,NCT OF DELHI,North,Female,In Movement,16
+7,2,Urban,5-9,NCT OF DELHI,North,Female,In Movement,33
+7,2,Urban,10-19,NCT OF DELHI,North,Female,In Movement,96
+7,2,Urban,20-29,NCT OF DELHI,North,Female,In Movement,169
+7,2,Urban,30-39,NCT OF DELHI,North,Female,In Movement,179
+7,2,Urban,40-49,NCT OF DELHI,North,Female,In Movement,144
+7,2,Urban,50-59,NCT OF DELHI,North,Female,In Movement,184
+7,2,Urban,60-69,NCT OF DELHI,North,Female,In Movement,216
+7,2,Urban,70-79,NCT OF DELHI,North,Female,In Movement,171
+7,2,Urban,80-89,NCT OF DELHI,North,Female,In Movement,65
+7,2,Urban,90+,NCT OF DELHI,North,Female,In Movement,23
+7,2,Urban,Age Not Stated,NCT OF DELHI,North,Female,In Movement,0
+7,3,Rural,0-4,NCT OF DELHI,North East,Female,In Movement,0
+7,3,Rural,5-9,NCT OF DELHI,North East,Female,In Movement,1
+7,3,Rural,10-19,NCT OF DELHI,North East,Female,In Movement,1
+7,3,Rural,20-29,NCT OF DELHI,North East,Female,In Movement,8
+7,3,Rural,30-39,NCT OF DELHI,North East,Female,In Movement,1
+7,3,Rural,40-49,NCT OF DELHI,North East,Female,In Movement,1
+7,3,Rural,50-59,NCT OF DELHI,North East,Female,In Movement,1
+7,3,Rural,60-69,NCT OF DELHI,North East,Female,In Movement,4
+7,3,Rural,70-79,NCT OF DELHI,North East,Female,In Movement,2
+7,3,Rural,80-89,NCT OF DELHI,North East,Female,In Movement,1
+7,3,Rural,90+,NCT OF DELHI,North East,Female,In Movement,0
+7,3,Rural,Age Not Stated,NCT OF DELHI,North East,Female,In Movement,0
+7,3,Urban,0-4,NCT OF DELHI,North East,Female,In Movement,74
+7,3,Urban,5-9,NCT OF DELHI,North East,Female,In Movement,135
+7,3,Urban,10-19,NCT OF DELHI,North East,Female,In Movement,543
+7,3,Urban,20-29,NCT OF DELHI,North East,Female,In Movement,736
+7,3,Urban,30-39,NCT OF DELHI,North East,Female,In Movement,543
+7,3,Urban,40-49,NCT OF DELHI,North East,Female,In Movement,394
+7,3,Urban,50-59,NCT OF DELHI,North East,Female,In Movement,357
+7,3,Urban,60-69,NCT OF DELHI,North East,Female,In Movement,541
+7,3,Urban,70-79,NCT OF DELHI,North East,Female,In Movement,290
+7,3,Urban,80-89,NCT OF DELHI,North East,Female,In Movement,116
+7,3,Urban,90+,NCT OF DELHI,North East,Female,In Movement,39
+7,3,Urban,Age Not Stated,NCT OF DELHI,North East,Female,In Movement,2
+7,4,Rural,0-4,NCT OF DELHI,East,Female,In Movement,0
+7,4,Rural,5-9,NCT OF DELHI,East,Female,In Movement,0
+7,4,Rural,10-19,NCT OF DELHI,East,Female,In Movement,1
+7,4,Rural,20-29,NCT OF DELHI,East,Female,In Movement,1
+7,4,Rural,30-39,NCT OF DELHI,East,Female,In Movement,0
+7,4,Rural,40-49,NCT OF DELHI,East,Female,In Movement,2
+7,4,Rural,50-59,NCT OF DELHI,East,Female,In Movement,2
+7,4,Rural,60-69,NCT OF DELHI,East,Female,In Movement,1
+7,4,Rural,70-79,NCT OF DELHI,East,Female,In Movement,2
+7,4,Rural,80-89,NCT OF DELHI,East,Female,In Movement,1
+7,4,Rural,90+,NCT OF DELHI,East,Female,In Movement,1
+7,4,Rural,Age Not Stated,NCT OF DELHI,East,Female,In Movement,0
+7,4,Urban,0-4,NCT OF DELHI,East,Female,In Movement,43
+7,4,Urban,5-9,NCT OF DELHI,East,Female,In Movement,90
+7,4,Urban,10-19,NCT OF DELHI,East,Female,In Movement,257
+7,4,Urban,20-29,NCT OF DELHI,East,Female,In Movement,417
+7,4,Urban,30-39,NCT OF DELHI,East,Female,In Movement,328
+7,4,Urban,40-49,NCT OF DELHI,East,Female,In Movement,248
+7,4,Urban,50-59,NCT OF DELHI,East,Female,In Movement,312
+7,4,Urban,60-69,NCT OF DELHI,East,Female,In Movement,497
+7,4,Urban,70-79,NCT OF DELHI,East,Female,In Movement,460
+7,4,Urban,80-89,NCT OF DELHI,East,Female,In Movement,223
+7,4,Urban,90+,NCT OF DELHI,East,Female,In Movement,39
+7,4,Urban,Age Not Stated,NCT OF DELHI,East,Female,In Movement,1
+7,5,Rural,0-4,NCT OF DELHI,New Delhi,Female,In Movement,0
+7,5,Rural,5-9,NCT OF DELHI,New Delhi,Female,In Movement,0
+7,5,Rural,10-19,NCT OF DELHI,New Delhi,Female,In Movement,0
+7,5,Rural,20-29,NCT OF DELHI,New Delhi,Female,In Movement,0
+7,5,Rural,30-39,NCT OF DELHI,New Delhi,Female,In Movement,0
+7,5,Rural,40-49,NCT OF DELHI,New Delhi,Female,In Movement,0
+7,5,Rural,50-59,NCT OF DELHI,New Delhi,Female,In Movement,0
+7,5,Rural,60-69,NCT OF DELHI,New Delhi,Female,In Movement,0
+7,5,Rural,70-79,NCT OF DELHI,New Delhi,Female,In Movement,0
+7,5,Rural,80-89,NCT OF DELHI,New Delhi,Female,In Movement,0
+7,5,Rural,90+,NCT OF DELHI,New Delhi,Female,In Movement,0
+7,5,Rural,Age Not Stated,NCT OF DELHI,New Delhi,Female,In Movement,0
+7,5,Urban,0-4,NCT OF DELHI,New Delhi,Female,In Movement,2
+7,5,Urban,5-9,NCT OF DELHI,New Delhi,Female,In Movement,6
+7,5,Urban,10-19,NCT OF DELHI,New Delhi,Female,In Movement,15
+7,5,Urban,20-29,NCT OF DELHI,New Delhi,Female,In Movement,29
+7,5,Urban,30-39,NCT OF DELHI,New Delhi,Female,In Movement,28
+7,5,Urban,40-49,NCT OF DELHI,New Delhi,Female,In Movement,39
+7,5,Urban,50-59,NCT OF DELHI,New Delhi,Female,In Movement,35
+7,5,Urban,60-69,NCT OF DELHI,New Delhi,Female,In Movement,22
+7,5,Urban,70-79,NCT OF DELHI,New Delhi,Female,In Movement,32
+7,5,Urban,80-89,NCT OF DELHI,New Delhi,Female,In Movement,25
+7,5,Urban,90+,NCT OF DELHI,New Delhi,Female,In Movement,4
+7,5,Urban,Age Not Stated,NCT OF DELHI,New Delhi,Female,In Movement,0
+7,6,Rural,0-4,NCT OF DELHI,Central,Female,In Movement,0
+7,6,Rural,5-9,NCT OF DELHI,Central,Female,In Movement,0
+7,6,Rural,10-19,NCT OF DELHI,Central,Female,In Movement,0
+7,6,Rural,20-29,NCT OF DELHI,Central,Female,In Movement,0
+7,6,Rural,30-39,NCT OF DELHI,Central,Female,In Movement,0
+7,6,Rural,40-49,NCT OF DELHI,Central,Female,In Movement,0
+7,6,Rural,50-59,NCT OF DELHI,Central,Female,In Movement,0
+7,6,Rural,60-69,NCT OF DELHI,Central,Female,In Movement,0
+7,6,Rural,70-79,NCT OF DELHI,Central,Female,In Movement,0
+7,6,Rural,80-89,NCT OF DELHI,Central,Female,In Movement,0
+7,6,Rural,90+,NCT OF DELHI,Central,Female,In Movement,0
+7,6,Rural,Age Not Stated,NCT OF DELHI,Central,Female,In Movement,0
+7,6,Urban,0-4,NCT OF DELHI,Central,Female,In Movement,12
+7,6,Urban,5-9,NCT OF DELHI,Central,Female,In Movement,25
+7,6,Urban,10-19,NCT OF DELHI,Central,Female,In Movement,79
+7,6,Urban,20-29,NCT OF DELHI,Central,Female,In Movement,131
+7,6,Urban,30-39,NCT OF DELHI,Central,Female,In Movement,104
+7,6,Urban,40-49,NCT OF DELHI,Central,Female,In Movement,140
+7,6,Urban,50-59,NCT OF DELHI,Central,Female,In Movement,227
+7,6,Urban,60-69,NCT OF DELHI,Central,Female,In Movement,351
+7,6,Urban,70-79,NCT OF DELHI,Central,Female,In Movement,299
+7,6,Urban,80-89,NCT OF DELHI,Central,Female,In Movement,150
+7,6,Urban,90+,NCT OF DELHI,Central,Female,In Movement,36
+7,6,Urban,Age Not Stated,NCT OF DELHI,Central,Female,In Movement,2
+7,7,Rural,0-4,NCT OF DELHI,West,Female,In Movement,0
+7,7,Rural,5-9,NCT OF DELHI,West,Female,In Movement,0
+7,7,Rural,10-19,NCT OF DELHI,West,Female,In Movement,2
+7,7,Rural,20-29,NCT OF DELHI,West,Female,In Movement,0
+7,7,Rural,30-39,NCT OF DELHI,West,Female,In Movement,0
+7,7,Rural,40-49,NCT OF DELHI,West,Female,In Movement,2
+7,7,Rural,50-59,NCT OF DELHI,West,Female,In Movement,0
+7,7,Rural,60-69,NCT OF DELHI,West,Female,In Movement,1
+7,7,Rural,70-79,NCT OF DELHI,West,Female,In Movement,0
+7,7,Rural,80-89,NCT OF DELHI,West,Female,In Movement,1
+7,7,Rural,90+,NCT OF DELHI,West,Female,In Movement,0
+7,7,Rural,Age Not Stated,NCT OF DELHI,West,Female,In Movement,0
+7,7,Urban,0-4,NCT OF DELHI,West,Female,In Movement,61
+7,7,Urban,5-9,NCT OF DELHI,West,Female,In Movement,106
+7,7,Urban,10-19,NCT OF DELHI,West,Female,In Movement,333
+7,7,Urban,20-29,NCT OF DELHI,West,Female,In Movement,494
+7,7,Urban,30-39,NCT OF DELHI,West,Female,In Movement,466
+7,7,Urban,40-49,NCT OF DELHI,West,Female,In Movement,452
+7,7,Urban,50-59,NCT OF DELHI,West,Female,In Movement,546
+7,7,Urban,60-69,NCT OF DELHI,West,Female,In Movement,882
+7,7,Urban,70-79,NCT OF DELHI,West,Female,In Movement,732
+7,7,Urban,80-89,NCT OF DELHI,West,Female,In Movement,349
+7,7,Urban,90+,NCT OF DELHI,West,Female,In Movement,83
+7,7,Urban,Age Not Stated,NCT OF DELHI,West,Female,In Movement,5
+7,8,Rural,0-4,NCT OF DELHI,South West,Female,In Movement,1
+7,8,Rural,5-9,NCT OF DELHI,South West,Female,In Movement,9
+7,8,Rural,10-19,NCT OF DELHI,South West,Female,In Movement,26
+7,8,Rural,20-29,NCT OF DELHI,South West,Female,In Movement,28
+7,8,Rural,30-39,NCT OF DELHI,South West,Female,In Movement,36
+7,8,Rural,40-49,NCT OF DELHI,South West,Female,In Movement,26
+7,8,Rural,50-59,NCT OF DELHI,South West,Female,In Movement,35
+7,8,Rural,60-69,NCT OF DELHI,South West,Female,In Movement,67
+7,8,Rural,70-79,NCT OF DELHI,South West,Female,In Movement,35
+7,8,Rural,80-89,NCT OF DELHI,South West,Female,In Movement,30
+7,8,Rural,90+,NCT OF DELHI,South West,Female,In Movement,5
+7,8,Rural,Age Not Stated,NCT OF DELHI,South West,Female,In Movement,0
+7,8,Urban,0-4,NCT OF DELHI,South West,Female,In Movement,44
+7,8,Urban,5-9,NCT OF DELHI,South West,Female,In Movement,78
+7,8,Urban,10-19,NCT OF DELHI,South West,Female,In Movement,257
+7,8,Urban,20-29,NCT OF DELHI,South West,Female,In Movement,416
+7,8,Urban,30-39,NCT OF DELHI,South West,Female,In Movement,419
+7,8,Urban,40-49,NCT OF DELHI,South West,Female,In Movement,365
+7,8,Urban,50-59,NCT OF DELHI,South West,Female,In Movement,357
+7,8,Urban,60-69,NCT OF DELHI,South West,Female,In Movement,380
+7,8,Urban,70-79,NCT OF DELHI,South West,Female,In Movement,294
+7,8,Urban,80-89,NCT OF DELHI,South West,Female,In Movement,152
+7,8,Urban,90+,NCT OF DELHI,South West,Female,In Movement,34
+7,8,Urban,Age Not Stated,NCT OF DELHI,South West,Female,In Movement,2
+7,9,Rural,0-4,NCT OF DELHI,South,Female,In Movement,0
+7,9,Rural,5-9,NCT OF DELHI,South,Female,In Movement,1
+7,9,Rural,10-19,NCT OF DELHI,South,Female,In Movement,0
+7,9,Rural,20-29,NCT OF DELHI,South,Female,In Movement,4
+7,9,Rural,30-39,NCT OF DELHI,South,Female,In Movement,0
+7,9,Rural,40-49,NCT OF DELHI,South,Female,In Movement,0
+7,9,Rural,50-59,NCT OF DELHI,South,Female,In Movement,0
+7,9,Rural,60-69,NCT OF DELHI,South,Female,In Movement,1
+7,9,Rural,70-79,NCT OF DELHI,South,Female,In Movement,0
+7,9,Rural,80-89,NCT OF DELHI,South,Female,In Movement,3
+7,9,Rural,90+,NCT OF DELHI,South,Female,In Movement,0
+7,9,Rural,Age Not Stated,NCT OF DELHI,South,Female,In Movement,0
+7,9,Urban,0-4,NCT OF DELHI,South,Female,In Movement,62
+7,9,Urban,5-9,NCT OF DELHI,South,Female,In Movement,119
+7,9,Urban,10-19,NCT OF DELHI,South,Female,In Movement,382
+7,9,Urban,20-29,NCT OF DELHI,South,Female,In Movement,500
+7,9,Urban,30-39,NCT OF DELHI,South,Female,In Movement,445
+7,9,Urban,40-49,NCT OF DELHI,South,Female,In Movement,370
+7,9,Urban,50-59,NCT OF DELHI,South,Female,In Movement,413
+7,9,Urban,60-69,NCT OF DELHI,South,Female,In Movement,562
+7,9,Urban,70-79,NCT OF DELHI,South,Female,In Movement,484
+7,9,Urban,80-89,NCT OF DELHI,South,Female,In Movement,308
+7,9,Urban,90+,NCT OF DELHI,South,Female,In Movement,64
+7,9,Urban,Age Not Stated,NCT OF DELHI,South,Female,In Movement,5
+7,1,Rural,0-4,NCT OF DELHI,North West,Male,Mental,7
+7,1,Rural,5-9,NCT OF DELHI,North West,Male,Mental,15
+7,1,Rural,10-19,NCT OF DELHI,North West,Male,Mental,54
+7,1,Rural,20-29,NCT OF DELHI,North West,Male,Mental,44
+7,1,Rural,30-39,NCT OF DELHI,North West,Male,Mental,40
+7,1,Rural,40-49,NCT OF DELHI,North West,Male,Mental,28
+7,1,Rural,50-59,NCT OF DELHI,North West,Male,Mental,25
+7,1,Rural,60-69,NCT OF DELHI,North West,Male,Mental,7
+7,1,Rural,70-79,NCT OF DELHI,North West,Male,Mental,5
+7,1,Rural,80-89,NCT OF DELHI,North West,Male,Mental,1
+7,1,Rural,90+,NCT OF DELHI,North West,Male,Mental,0
+7,1,Rural,Age Not Stated,NCT OF DELHI,North West,Male,Mental,0
+7,1,Urban,0-4,NCT OF DELHI,North West,Male,Mental,69
+7,1,Urban,5-9,NCT OF DELHI,North West,Male,Mental,232
+7,1,Urban,10-19,NCT OF DELHI,North West,Male,Mental,973
+7,1,Urban,20-29,NCT OF DELHI,North West,Male,Mental,884
+7,1,Urban,30-39,NCT OF DELHI,North West,Male,Mental,531
+7,1,Urban,40-49,NCT OF DELHI,North West,Male,Mental,434
+7,1,Urban,50-59,NCT OF DELHI,North West,Male,Mental,237
+7,1,Urban,60-69,NCT OF DELHI,North West,Male,Mental,128
+7,1,Urban,70-79,NCT OF DELHI,North West,Male,Mental,50
+7,1,Urban,80-89,NCT OF DELHI,North West,Male,Mental,8
+7,1,Urban,90+,NCT OF DELHI,North West,Male,Mental,3
+7,1,Urban,Age Not Stated,NCT OF DELHI,North West,Male,Mental,2
+7,2,Rural,0-4,NCT OF DELHI,North,Male,Mental,0
+7,2,Rural,5-9,NCT OF DELHI,North,Male,Mental,1
+7,2,Rural,10-19,NCT OF DELHI,North,Male,Mental,1
+7,2,Rural,20-29,NCT OF DELHI,North,Male,Mental,2
+7,2,Rural,30-39,NCT OF DELHI,North,Male,Mental,5
+7,2,Rural,40-49,NCT OF DELHI,North,Male,Mental,2
+7,2,Rural,50-59,NCT OF DELHI,North,Male,Mental,1
+7,2,Rural,60-69,NCT OF DELHI,North,Male,Mental,1
+7,2,Rural,70-79,NCT OF DELHI,North,Male,Mental,1
+7,2,Rural,80-89,NCT OF DELHI,North,Male,Mental,0
+7,2,Rural,90+,NCT OF DELHI,North,Male,Mental,0
+7,2,Rural,Age Not Stated,NCT OF DELHI,North,Male,Mental,0
+7,2,Urban,0-4,NCT OF DELHI,North,Male,Mental,21
+7,2,Urban,5-9,NCT OF DELHI,North,Male,Mental,58
+7,2,Urban,10-19,NCT OF DELHI,North,Male,Mental,213
+7,2,Urban,20-29,NCT OF DELHI,North,Male,Mental,216
+7,2,Urban,30-39,NCT OF DELHI,North,Male,Mental,163
+7,2,Urban,40-49,NCT OF DELHI,North,Male,Mental,154
+7,2,Urban,50-59,NCT OF DELHI,North,Male,Mental,63
+7,2,Urban,60-69,NCT OF DELHI,North,Male,Mental,52
+7,2,Urban,70-79,NCT OF DELHI,North,Male,Mental,13
+7,2,Urban,80-89,NCT OF DELHI,North,Male,Mental,1
+7,2,Urban,90+,NCT OF DELHI,North,Male,Mental,1
+7,2,Urban,Age Not Stated,NCT OF DELHI,North,Male,Mental,0
+7,3,Rural,0-4,NCT OF DELHI,North East,Male,Mental,0
+7,3,Rural,5-9,NCT OF DELHI,North East,Male,Mental,2
+7,3,Rural,10-19,NCT OF DELHI,North East,Male,Mental,4
+7,3,Rural,20-29,NCT OF DELHI,North East,Male,Mental,6
+7,3,Rural,30-39,NCT OF DELHI,North East,Male,Mental,1
+7,3,Rural,40-49,NCT OF DELHI,North East,Male,Mental,2
+7,3,Rural,50-59,NCT OF DELHI,North East,Male,Mental,1
+7,3,Rural,60-69,NCT OF DELHI,North East,Male,Mental,1
+7,3,Rural,70-79,NCT OF DELHI,North East,Male,Mental,0
+7,3,Rural,80-89,NCT OF DELHI,North East,Male,Mental,0
+7,3,Rural,90+,NCT OF DELHI,North East,Male,Mental,0
+7,3,Rural,Age Not Stated,NCT OF DELHI,North East,Male,Mental,0
+7,3,Urban,0-4,NCT OF DELHI,North East,Male,Mental,67
+7,3,Urban,5-9,NCT OF DELHI,North East,Male,Mental,169
+7,3,Urban,10-19,NCT OF DELHI,North East,Male,Mental,611
+7,3,Urban,20-29,NCT OF DELHI,North East,Male,Mental,527
+7,3,Urban,30-39,NCT OF DELHI,North East,Male,Mental,379
+7,3,Urban,40-49,NCT OF DELHI,North East,Male,Mental,237
+7,3,Urban,50-59,NCT OF DELHI,North East,Male,Mental,106
+7,3,Urban,60-69,NCT OF DELHI,North East,Male,Mental,74
+7,3,Urban,70-79,NCT OF DELHI,North East,Male,Mental,21
+7,3,Urban,80-89,NCT OF DELHI,North East,Male,Mental,4
+7,3,Urban,90+,NCT OF DELHI,North East,Male,Mental,4
+7,3,Urban,Age Not Stated,NCT OF DELHI,North East,Male,Mental,2
+7,4,Rural,0-4,NCT OF DELHI,East,Male,Mental,0
+7,4,Rural,5-9,NCT OF DELHI,East,Male,Mental,0
+7,4,Rural,10-19,NCT OF DELHI,East,Male,Mental,2
+7,4,Rural,20-29,NCT OF DELHI,East,Male,Mental,0
+7,4,Rural,30-39,NCT OF DELHI,East,Male,Mental,0
+7,4,Rural,40-49,NCT OF DELHI,East,Male,Mental,0
+7,4,Rural,50-59,NCT OF DELHI,East,Male,Mental,0
+7,4,Rural,60-69,NCT OF DELHI,East,Male,Mental,0
+7,4,Rural,70-79,NCT OF DELHI,East,Male,Mental,0
+7,4,Rural,80-89,NCT OF DELHI,East,Male,Mental,0
+7,4,Rural,90+,NCT OF DELHI,East,Male,Mental,0
+7,4,Rural,Age Not Stated,NCT OF DELHI,East,Male,Mental,0
+7,4,Urban,0-4,NCT OF DELHI,East,Male,Mental,31
+7,4,Urban,5-9,NCT OF DELHI,East,Male,Mental,105
+7,4,Urban,10-19,NCT OF DELHI,East,Male,Mental,425
+7,4,Urban,20-29,NCT OF DELHI,East,Male,Mental,395
+7,4,Urban,30-39,NCT OF DELHI,East,Male,Mental,358
+7,4,Urban,40-49,NCT OF DELHI,East,Male,Mental,261
+7,4,Urban,50-59,NCT OF DELHI,East,Male,Mental,116
+7,4,Urban,60-69,NCT OF DELHI,East,Male,Mental,87
+7,4,Urban,70-79,NCT OF DELHI,East,Male,Mental,32
+7,4,Urban,80-89,NCT OF DELHI,East,Male,Mental,12
+7,4,Urban,90+,NCT OF DELHI,East,Male,Mental,0
+7,4,Urban,Age Not Stated,NCT OF DELHI,East,Male,Mental,0
+7,5,Rural,0-4,NCT OF DELHI,New Delhi,Male,Mental,0
+7,5,Rural,5-9,NCT OF DELHI,New Delhi,Male,Mental,0
+7,5,Rural,10-19,NCT OF DELHI,New Delhi,Male,Mental,0
+7,5,Rural,20-29,NCT OF DELHI,New Delhi,Male,Mental,0
+7,5,Rural,30-39,NCT OF DELHI,New Delhi,Male,Mental,0
+7,5,Rural,40-49,NCT OF DELHI,New Delhi,Male,Mental,0
+7,5,Rural,50-59,NCT OF DELHI,New Delhi,Male,Mental,0
+7,5,Rural,60-69,NCT OF DELHI,New Delhi,Male,Mental,0
+7,5,Rural,70-79,NCT OF DELHI,New Delhi,Male,Mental,0
+7,5,Rural,80-89,NCT OF DELHI,New Delhi,Male,Mental,0
+7,5,Rural,90+,NCT OF DELHI,New Delhi,Male,Mental,0
+7,5,Rural,Age Not Stated,NCT OF DELHI,New Delhi,Male,Mental,0
+7,5,Urban,0-4,NCT OF DELHI,New Delhi,Male,Mental,2
+7,5,Urban,5-9,NCT OF DELHI,New Delhi,Male,Mental,9
+7,5,Urban,10-19,NCT OF DELHI,New Delhi,Male,Mental,24
+7,5,Urban,20-29,NCT OF DELHI,New Delhi,Male,Mental,41
+7,5,Urban,30-39,NCT OF DELHI,New Delhi,Male,Mental,14
+7,5,Urban,40-49,NCT OF DELHI,New Delhi,Male,Mental,12
+7,5,Urban,50-59,NCT OF DELHI,New Delhi,Male,Mental,11
+7,5,Urban,60-69,NCT OF DELHI,New Delhi,Male,Mental,4
+7,5,Urban,70-79,NCT OF DELHI,New Delhi,Male,Mental,1
+7,5,Urban,80-89,NCT OF DELHI,New Delhi,Male,Mental,0
+7,5,Urban,90+,NCT OF DELHI,New Delhi,Male,Mental,1
+7,5,Urban,Age Not Stated,NCT OF DELHI,New Delhi,Male,Mental,0
+7,6,Rural,0-4,NCT OF DELHI,Central,Male,Mental,0
+7,6,Rural,5-9,NCT OF DELHI,Central,Male,Mental,0
+7,6,Rural,10-19,NCT OF DELHI,Central,Male,Mental,0
+7,6,Rural,20-29,NCT OF DELHI,Central,Male,Mental,0
+7,6,Rural,30-39,NCT OF DELHI,Central,Male,Mental,0
+7,6,Rural,40-49,NCT OF DELHI,Central,Male,Mental,0
+7,6,Rural,50-59,NCT OF DELHI,Central,Male,Mental,0
+7,6,Rural,60-69,NCT OF DELHI,Central,Male,Mental,0
+7,6,Rural,70-79,NCT OF DELHI,Central,Male,Mental,0
+7,6,Rural,80-89,NCT OF DELHI,Central,Male,Mental,0
+7,6,Rural,90+,NCT OF DELHI,Central,Male,Mental,0
+7,6,Rural,Age Not Stated,NCT OF DELHI,Central,Male,Mental,0
+7,6,Urban,0-4,NCT OF DELHI,Central,Male,Mental,20
+7,6,Urban,5-9,NCT OF DELHI,Central,Male,Mental,43
+7,6,Urban,10-19,NCT OF DELHI,Central,Male,Mental,154
+7,6,Urban,20-29,NCT OF DELHI,Central,Male,Mental,163
+7,6,Urban,30-39,NCT OF DELHI,Central,Male,Mental,134
+7,6,Urban,40-49,NCT OF DELHI,Central,Male,Mental,105
+7,6,Urban,50-59,NCT OF DELHI,Central,Male,Mental,75
+7,6,Urban,60-69,NCT OF DELHI,Central,Male,Mental,40
+7,6,Urban,70-79,NCT OF DELHI,Central,Male,Mental,12
+7,6,Urban,80-89,NCT OF DELHI,Central,Male,Mental,3
+7,6,Urban,90+,NCT OF DELHI,Central,Male,Mental,3
+7,6,Urban,Age Not Stated,NCT OF DELHI,Central,Male,Mental,0
+7,7,Rural,0-4,NCT OF DELHI,West,Male,Mental,0
+7,7,Rural,5-9,NCT OF DELHI,West,Male,Mental,0
+7,7,Rural,10-19,NCT OF DELHI,West,Male,Mental,4
+7,7,Rural,20-29,NCT OF DELHI,West,Male,Mental,0
+7,7,Rural,30-39,NCT OF DELHI,West,Male,Mental,1
+7,7,Rural,40-49,NCT OF DELHI,West,Male,Mental,1
+7,7,Rural,50-59,NCT OF DELHI,West,Male,Mental,1
+7,7,Rural,60-69,NCT OF DELHI,West,Male,Mental,0
+7,7,Rural,70-79,NCT OF DELHI,West,Male,Mental,0
+7,7,Rural,80-89,NCT OF DELHI,West,Male,Mental,0
+7,7,Rural,90+,NCT OF DELHI,West,Male,Mental,0
+7,7,Rural,Age Not Stated,NCT OF DELHI,West,Male,Mental,0
+7,7,Urban,0-4,NCT OF DELHI,West,Male,Mental,48
+7,7,Urban,5-9,NCT OF DELHI,West,Male,Mental,169
+7,7,Urban,10-19,NCT OF DELHI,West,Male,Mental,601
+7,7,Urban,20-29,NCT OF DELHI,West,Male,Mental,592
+7,7,Urban,30-39,NCT OF DELHI,West,Male,Mental,423
+7,7,Urban,40-49,NCT OF DELHI,West,Male,Mental,372
+7,7,Urban,50-59,NCT OF DELHI,West,Male,Mental,217
+7,7,Urban,60-69,NCT OF DELHI,West,Male,Mental,130
+7,7,Urban,70-79,NCT OF DELHI,West,Male,Mental,40
+7,7,Urban,80-89,NCT OF DELHI,West,Male,Mental,12
+7,7,Urban,90+,NCT OF DELHI,West,Male,Mental,3
+7,7,Urban,Age Not Stated,NCT OF DELHI,West,Male,Mental,2
+7,8,Rural,0-4,NCT OF DELHI,South West,Male,Mental,1
+7,8,Rural,5-9,NCT OF DELHI,South West,Male,Mental,8
+7,8,Rural,10-19,NCT OF DELHI,South West,Male,Mental,38
+7,8,Rural,20-29,NCT OF DELHI,South West,Male,Mental,40
+7,8,Rural,30-39,NCT OF DELHI,South West,Male,Mental,26
+7,8,Rural,40-49,NCT OF DELHI,South West,Male,Mental,18
+7,8,Rural,50-59,NCT OF DELHI,South West,Male,Mental,4
+7,8,Rural,60-69,NCT OF DELHI,South West,Male,Mental,7
+7,8,Rural,70-79,NCT OF DELHI,South West,Male,Mental,3
+7,8,Rural,80-89,NCT OF DELHI,South West,Male,Mental,0
+7,8,Rural,90+,NCT OF DELHI,South West,Male,Mental,0
+7,8,Rural,Age Not Stated,NCT OF DELHI,South West,Male,Mental,0
+7,8,Urban,0-4,NCT OF DELHI,South West,Male,Mental,45
+7,8,Urban,5-9,NCT OF DELHI,South West,Male,Mental,138
+7,8,Urban,10-19,NCT OF DELHI,South West,Male,Mental,463
+7,8,Urban,20-29,NCT OF DELHI,South West,Male,Mental,466
+7,8,Urban,30-39,NCT OF DELHI,South West,Male,Mental,302
+7,8,Urban,40-49,NCT OF DELHI,South West,Male,Mental,240
+7,8,Urban,50-59,NCT OF DELHI,South West,Male,Mental,116
+7,8,Urban,60-69,NCT OF DELHI,South West,Male,Mental,57
+7,8,Urban,70-79,NCT OF DELHI,South West,Male,Mental,15
+7,8,Urban,80-89,NCT OF DELHI,South West,Male,Mental,11
+7,8,Urban,90+,NCT OF DELHI,South West,Male,Mental,4
+7,8,Urban,Age Not Stated,NCT OF DELHI,South West,Male,Mental,2
+7,9,Rural,0-4,NCT OF DELHI,South,Male,Mental,0
+7,9,Rural,5-9,NCT OF DELHI,South,Male,Mental,0
+7,9,Rural,10-19,NCT OF DELHI,South,Male,Mental,2
+7,9,Rural,20-29,NCT OF DELHI,South,Male,Mental,2
+7,9,Rural,30-39,NCT OF DELHI,South,Male,Mental,0
+7,9,Rural,40-49,NCT OF DELHI,South,Male,Mental,2
+7,9,Rural,50-59,NCT OF DELHI,South,Male,Mental,0
+7,9,Rural,60-69,NCT OF DELHI,South,Male,Mental,0
+7,9,Rural,70-79,NCT OF DELHI,South,Male,Mental,0
+7,9,Rural,80-89,NCT OF DELHI,South,Male,Mental,0
+7,9,Rural,90+,NCT OF DELHI,South,Male,Mental,0
+7,9,Rural,Age Not Stated,NCT OF DELHI,South,Male,Mental,0
+7,9,Urban,0-4,NCT OF DELHI,South,Male,Mental,51
+7,9,Urban,5-9,NCT OF DELHI,South,Male,Mental,195
+7,9,Urban,10-19,NCT OF DELHI,South,Male,Mental,603
+7,9,Urban,20-29,NCT OF DELHI,South,Male,Mental,534
+7,9,Urban,30-39,NCT OF DELHI,South,Male,Mental,374
+7,9,Urban,40-49,NCT OF DELHI,South,Male,Mental,299
+7,9,Urban,50-59,NCT OF DELHI,South,Male,Mental,163
+7,9,Urban,60-69,NCT OF DELHI,South,Male,Mental,96
+7,9,Urban,70-79,NCT OF DELHI,South,Male,Mental,44
+7,9,Urban,80-89,NCT OF DELHI,South,Male,Mental,17
+7,9,Urban,90+,NCT OF DELHI,South,Male,Mental,9
+7,9,Urban,Age Not Stated,NCT OF DELHI,South,Male,Mental,7
+7,1,Rural,0-4,NCT OF DELHI,North West,Female,Mental,4
+7,1,Rural,5-9,NCT OF DELHI,North West,Female,Mental,4
+7,1,Rural,10-19,NCT OF DELHI,North West,Female,Mental,26
+7,1,Rural,20-29,NCT OF DELHI,North West,Female,Mental,16
+7,1,Rural,30-39,NCT OF DELHI,North West,Female,Mental,16
+7,1,Rural,40-49,NCT OF DELHI,North West,Female,Mental,9
+7,1,Rural,50-59,NCT OF DELHI,North West,Female,Mental,7
+7,1,Rural,60-69,NCT OF DELHI,North West,Female,Mental,4
+7,1,Rural,70-79,NCT OF DELHI,North West,Female,Mental,3
+7,1,Rural,80-89,NCT OF DELHI,North West,Female,Mental,0
+7,1,Rural,90+,NCT OF DELHI,North West,Female,Mental,0
+7,1,Rural,Age Not Stated,NCT OF DELHI,North West,Female,Mental,0
+7,1,Urban,0-4,NCT OF DELHI,North West,Female,Mental,42
+7,1,Urban,5-9,NCT OF DELHI,North West,Female,Mental,143
+7,1,Urban,10-19,NCT OF DELHI,North West,Female,Mental,596
+7,1,Urban,20-29,NCT OF DELHI,North West,Female,Mental,450
+7,1,Urban,30-39,NCT OF DELHI,North West,Female,Mental,352
+7,1,Urban,40-49,NCT OF DELHI,North West,Female,Mental,267
+7,1,Urban,50-59,NCT OF DELHI,North West,Female,Mental,151
+7,1,Urban,60-69,NCT OF DELHI,North West,Female,Mental,96
+7,1,Urban,70-79,NCT OF DELHI,North West,Female,Mental,35
+7,1,Urban,80-89,NCT OF DELHI,North West,Female,Mental,21
+7,1,Urban,90+,NCT OF DELHI,North West,Female,Mental,3
+7,1,Urban,Age Not Stated,NCT OF DELHI,North West,Female,Mental,0
+7,2,Rural,0-4,NCT OF DELHI,North,Female,Mental,0
+7,2,Rural,5-9,NCT OF DELHI,North,Female,Mental,1
+7,2,Rural,10-19,NCT OF DELHI,North,Female,Mental,2
+7,2,Rural,20-29,NCT OF DELHI,North,Female,Mental,3
+7,2,Rural,30-39,NCT OF DELHI,North,Female,Mental,0
+7,2,Rural,40-49,NCT OF DELHI,North,Female,Mental,0
+7,2,Rural,50-59,NCT OF DELHI,North,Female,Mental,0
+7,2,Rural,60-69,NCT OF DELHI,North,Female,Mental,1
+7,2,Rural,70-79,NCT OF DELHI,North,Female,Mental,0
+7,2,Rural,80-89,NCT OF DELHI,North,Female,Mental,0
+7,2,Rural,90+,NCT OF DELHI,North,Female,Mental,0
+7,2,Rural,Age Not Stated,NCT OF DELHI,North,Female,Mental,0
+7,2,Urban,0-4,NCT OF DELHI,North,Female,Mental,14
+7,2,Urban,5-9,NCT OF DELHI,North,Female,Mental,33
+7,2,Urban,10-19,NCT OF DELHI,North,Female,Mental,130
+7,2,Urban,20-29,NCT OF DELHI,North,Female,Mental,109
+7,2,Urban,30-39,NCT OF DELHI,North,Female,Mental,102
+7,2,Urban,40-49,NCT OF DELHI,North,Female,Mental,77
+7,2,Urban,50-59,NCT OF DELHI,North,Female,Mental,39
+7,2,Urban,60-69,NCT OF DELHI,North,Female,Mental,27
+7,2,Urban,70-79,NCT OF DELHI,North,Female,Mental,18
+7,2,Urban,80-89,NCT OF DELHI,North,Female,Mental,6
+7,2,Urban,90+,NCT OF DELHI,North,Female,Mental,1
+7,2,Urban,Age Not Stated,NCT OF DELHI,North,Female,Mental,0
+7,3,Rural,0-4,NCT OF DELHI,North East,Female,Mental,1
+7,3,Rural,5-9,NCT OF DELHI,North East,Female,Mental,0
+7,3,Rural,10-19,NCT OF DELHI,North East,Female,Mental,1
+7,3,Rural,20-29,NCT OF DELHI,North East,Female,Mental,0
+7,3,Rural,30-39,NCT OF DELHI,North East,Female,Mental,1
+7,3,Rural,40-49,NCT OF DELHI,North East,Female,Mental,1
+7,3,Rural,50-59,NCT OF DELHI,North East,Female,Mental,0
+7,3,Rural,60-69,NCT OF DELHI,North East,Female,Mental,0
+7,3,Rural,70-79,NCT OF DELHI,North East,Female,Mental,0
+7,3,Rural,80-89,NCT OF DELHI,North East,Female,Mental,0
+7,3,Rural,90+,NCT OF DELHI,North East,Female,Mental,0
+7,3,Rural,Age Not Stated,NCT OF DELHI,North East,Female,Mental,0
+7,3,Urban,0-4,NCT OF DELHI,North East,Female,Mental,30
+7,3,Urban,5-9,NCT OF DELHI,North East,Female,Mental,106
+7,3,Urban,10-19,NCT OF DELHI,North East,Female,Mental,408
+7,3,Urban,20-29,NCT OF DELHI,North East,Female,Mental,239
+7,3,Urban,30-39,NCT OF DELHI,North East,Female,Mental,189
+7,3,Urban,40-49,NCT OF DELHI,North East,Female,Mental,112
+7,3,Urban,50-59,NCT OF DELHI,North East,Female,Mental,70
+7,3,Urban,60-69,NCT OF DELHI,North East,Female,Mental,59
+7,3,Urban,70-79,NCT OF DELHI,North East,Female,Mental,15
+7,3,Urban,80-89,NCT OF DELHI,North East,Female,Mental,9
+7,3,Urban,90+,NCT OF DELHI,North East,Female,Mental,4
+7,3,Urban,Age Not Stated,NCT OF DELHI,North East,Female,Mental,2
+7,4,Rural,0-4,NCT OF DELHI,East,Female,Mental,0
+7,4,Rural,5-9,NCT OF DELHI,East,Female,Mental,0
+7,4,Rural,10-19,NCT OF DELHI,East,Female,Mental,0
+7,4,Rural,20-29,NCT OF DELHI,East,Female,Mental,1
+7,4,Rural,30-39,NCT OF DELHI,East,Female,Mental,1
+7,4,Rural,40-49,NCT OF DELHI,East,Female,Mental,0
+7,4,Rural,50-59,NCT OF DELHI,East,Female,Mental,0
+7,4,Rural,60-69,NCT OF DELHI,East,Female,Mental,1
+7,4,Rural,70-79,NCT OF DELHI,East,Female,Mental,0
+7,4,Rural,80-89,NCT OF DELHI,East,Female,Mental,0
+7,4,Rural,90+,NCT OF DELHI,East,Female,Mental,0
+7,4,Rural,Age Not Stated,NCT OF DELHI,East,Female,Mental,0
+7,4,Urban,0-4,NCT OF DELHI,East,Female,Mental,18
+7,4,Urban,5-9,NCT OF DELHI,East,Female,Mental,69
+7,4,Urban,10-19,NCT OF DELHI,East,Female,Mental,246
+7,4,Urban,20-29,NCT OF DELHI,East,Female,Mental,209
+7,4,Urban,30-39,NCT OF DELHI,East,Female,Mental,182
+7,4,Urban,40-49,NCT OF DELHI,East,Female,Mental,123
+7,4,Urban,50-59,NCT OF DELHI,East,Female,Mental,79
+7,4,Urban,60-69,NCT OF DELHI,East,Female,Mental,56
+7,4,Urban,70-79,NCT OF DELHI,East,Female,Mental,26
+7,4,Urban,80-89,NCT OF DELHI,East,Female,Mental,15
+7,4,Urban,90+,NCT OF DELHI,East,Female,Mental,2
+7,4,Urban,Age Not Stated,NCT OF DELHI,East,Female,Mental,0
+7,5,Rural,0-4,NCT OF DELHI,New Delhi,Female,Mental,0
+7,5,Rural,5-9,NCT OF DELHI,New Delhi,Female,Mental,0
+7,5,Rural,10-19,NCT OF DELHI,New Delhi,Female,Mental,0
+7,5,Rural,20-29,NCT OF DELHI,New Delhi,Female,Mental,0
+7,5,Rural,30-39,NCT OF DELHI,New Delhi,Female,Mental,0
+7,5,Rural,40-49,NCT OF DELHI,New Delhi,Female,Mental,0
+7,5,Rural,50-59,NCT OF DELHI,New Delhi,Female,Mental,0
+7,5,Rural,60-69,NCT OF DELHI,New Delhi,Female,Mental,0
+7,5,Rural,70-79,NCT OF DELHI,New Delhi,Female,Mental,0
+7,5,Rural,80-89,NCT OF DELHI,New Delhi,Female,Mental,0
+7,5,Rural,90+,NCT OF DELHI,New Delhi,Female,Mental,0
+7,5,Rural,Age Not Stated,NCT OF DELHI,New Delhi,Female,Mental,0
+7,5,Urban,0-4,NCT OF DELHI,New Delhi,Female,Mental,1
+7,5,Urban,5-9,NCT OF DELHI,New Delhi,Female,Mental,5
+7,5,Urban,10-19,NCT OF DELHI,New Delhi,Female,Mental,18
+7,5,Urban,20-29,NCT OF DELHI,New Delhi,Female,Mental,19
+7,5,Urban,30-39,NCT OF DELHI,New Delhi,Female,Mental,14
+7,5,Urban,40-49,NCT OF DELHI,New Delhi,Female,Mental,8
+7,5,Urban,50-59,NCT OF DELHI,New Delhi,Female,Mental,6
+7,5,Urban,60-69,NCT OF DELHI,New Delhi,Female,Mental,3
+7,5,Urban,70-79,NCT OF DELHI,New Delhi,Female,Mental,2
+7,5,Urban,80-89,NCT OF DELHI,New Delhi,Female,Mental,1
+7,5,Urban,90+,NCT OF DELHI,New Delhi,Female,Mental,2
+7,5,Urban,Age Not Stated,NCT OF DELHI,New Delhi,Female,Mental,0
+7,6,Rural,0-4,NCT OF DELHI,Central,Female,Mental,0
+7,6,Rural,5-9,NCT OF DELHI,Central,Female,Mental,0
+7,6,Rural,10-19,NCT OF DELHI,Central,Female,Mental,0
+7,6,Rural,20-29,NCT OF DELHI,Central,Female,Mental,0
+7,6,Rural,30-39,NCT OF DELHI,Central,Female,Mental,0
+7,6,Rural,40-49,NCT OF DELHI,Central,Female,Mental,0
+7,6,Rural,50-59,NCT OF DELHI,Central,Female,Mental,0
+7,6,Rural,60-69,NCT OF DELHI,Central,Female,Mental,0
+7,6,Rural,70-79,NCT OF DELHI,Central,Female,Mental,0
+7,6,Rural,80-89,NCT OF DELHI,Central,Female,Mental,0
+7,6,Rural,90+,NCT OF DELHI,Central,Female,Mental,0
+7,6,Rural,Age Not Stated,NCT OF DELHI,Central,Female,Mental,0
+7,6,Urban,0-4,NCT OF DELHI,Central,Female,Mental,13
+7,6,Urban,5-9,NCT OF DELHI,Central,Female,Mental,20
+7,6,Urban,10-19,NCT OF DELHI,Central,Female,Mental,111
+7,6,Urban,20-29,NCT OF DELHI,Central,Female,Mental,102
+7,6,Urban,30-39,NCT OF DELHI,Central,Female,Mental,90
+7,6,Urban,40-49,NCT OF DELHI,Central,Female,Mental,49
+7,6,Urban,50-59,NCT OF DELHI,Central,Female,Mental,31
+7,6,Urban,60-69,NCT OF DELHI,Central,Female,Mental,33
+7,6,Urban,70-79,NCT OF DELHI,Central,Female,Mental,20
+7,6,Urban,80-89,NCT OF DELHI,Central,Female,Mental,1
+7,6,Urban,90+,NCT OF DELHI,Central,Female,Mental,5
+7,6,Urban,Age Not Stated,NCT OF DELHI,Central,Female,Mental,0
+7,7,Rural,0-4,NCT OF DELHI,West,Female,Mental,0
+7,7,Rural,5-9,NCT OF DELHI,West,Female,Mental,0
+7,7,Rural,10-19,NCT OF DELHI,West,Female,Mental,1
+7,7,Rural,20-29,NCT OF DELHI,West,Female,Mental,0
+7,7,Rural,30-39,NCT OF DELHI,West,Female,Mental,1
+7,7,Rural,40-49,NCT OF DELHI,West,Female,Mental,1
+7,7,Rural,50-59,NCT OF DELHI,West,Female,Mental,0
+7,7,Rural,60-69,NCT OF DELHI,West,Female,Mental,0
+7,7,Rural,70-79,NCT OF DELHI,West,Female,Mental,0
+7,7,Rural,80-89,NCT OF DELHI,West,Female,Mental,0
+7,7,Rural,90+,NCT OF DELHI,West,Female,Mental,0
+7,7,Rural,Age Not Stated,NCT OF DELHI,West,Female,Mental,0
+7,7,Urban,0-4,NCT OF DELHI,West,Female,Mental,27
+7,7,Urban,5-9,NCT OF DELHI,West,Female,Mental,90
+7,7,Urban,10-19,NCT OF DELHI,West,Female,Mental,349
+7,7,Urban,20-29,NCT OF DELHI,West,Female,Mental,310
+7,7,Urban,30-39,NCT OF DELHI,West,Female,Mental,226
+7,7,Urban,40-49,NCT OF DELHI,West,Female,Mental,188
+7,7,Urban,50-59,NCT OF DELHI,West,Female,Mental,128
+7,7,Urban,60-69,NCT OF DELHI,West,Female,Mental,81
+7,7,Urban,70-79,NCT OF DELHI,West,Female,Mental,43
+7,7,Urban,80-89,NCT OF DELHI,West,Female,Mental,15
+7,7,Urban,90+,NCT OF DELHI,West,Female,Mental,3
+7,7,Urban,Age Not Stated,NCT OF DELHI,West,Female,Mental,1
+7,8,Rural,0-4,NCT OF DELHI,South West,Female,Mental,1
+7,8,Rural,5-9,NCT OF DELHI,South West,Female,Mental,3
+7,8,Rural,10-19,NCT OF DELHI,South West,Female,Mental,17
+7,8,Rural,20-29,NCT OF DELHI,South West,Female,Mental,14
+7,8,Rural,30-39,NCT OF DELHI,South West,Female,Mental,14
+7,8,Rural,40-49,NCT OF DELHI,South West,Female,Mental,9
+7,8,Rural,50-59,NCT OF DELHI,South West,Female,Mental,5
+7,8,Rural,60-69,NCT OF DELHI,South West,Female,Mental,3
+7,8,Rural,70-79,NCT OF DELHI,South West,Female,Mental,3
+7,8,Rural,80-89,NCT OF DELHI,South West,Female,Mental,2
+7,8,Rural,90+,NCT OF DELHI,South West,Female,Mental,0
+7,8,Rural,Age Not Stated,NCT OF DELHI,South West,Female,Mental,0
+7,8,Urban,0-4,NCT OF DELHI,South West,Female,Mental,32
+7,8,Urban,5-9,NCT OF DELHI,South West,Female,Mental,70
+7,8,Urban,10-19,NCT OF DELHI,South West,Female,Mental,274
+7,8,Urban,20-29,NCT OF DELHI,South West,Female,Mental,225
+7,8,Urban,30-39,NCT OF DELHI,South West,Female,Mental,154
+7,8,Urban,40-49,NCT OF DELHI,South West,Female,Mental,112
+7,8,Urban,50-59,NCT OF DELHI,South West,Female,Mental,73
+7,8,Urban,60-69,NCT OF DELHI,South West,Female,Mental,45
+7,8,Urban,70-79,NCT OF DELHI,South West,Female,Mental,17
+7,8,Urban,80-89,NCT OF DELHI,South West,Female,Mental,10
+7,8,Urban,90+,NCT OF DELHI,South West,Female,Mental,3
+7,8,Urban,Age Not Stated,NCT OF DELHI,South West,Female,Mental,2
+7,9,Rural,0-4,NCT OF DELHI,South,Female,Mental,0
+7,9,Rural,5-9,NCT OF DELHI,South,Female,Mental,0
+7,9,Rural,10-19,NCT OF DELHI,South,Female,Mental,2
+7,9,Rural,20-29,NCT OF DELHI,South,Female,Mental,1
+7,9,Rural,30-39,NCT OF DELHI,South,Female,Mental,0
+7,9,Rural,40-49,NCT OF DELHI,South,Female,Mental,0
+7,9,Rural,50-59,NCT OF DELHI,South,Female,Mental,0
+7,9,Rural,60-69,NCT OF DELHI,South,Female,Mental,0
+7,9,Rural,70-79,NCT OF DELHI,South,Female,Mental,0
+7,9,Rural,80-89,NCT OF DELHI,South,Female,Mental,0
+7,9,Rural,90+,NCT OF DELHI,South,Female,Mental,0
+7,9,Rural,Age Not Stated,NCT OF DELHI,South,Female,Mental,0
+7,9,Urban,0-4,NCT OF DELHI,South,Female,Mental,49
+7,9,Urban,5-9,NCT OF DELHI,South,Female,Mental,113
+7,9,Urban,10-19,NCT OF DELHI,South,Female,Mental,433
+7,9,Urban,20-29,NCT OF DELHI,South,Female,Mental,287
+7,9,Urban,30-39,NCT OF DELHI,South,Female,Mental,205
+7,9,Urban,40-49,NCT OF DELHI,South,Female,Mental,194
+7,9,Urban,50-59,NCT OF DELHI,South,Female,Mental,111
+7,9,Urban,60-69,NCT OF DELHI,South,Female,Mental,73
+7,9,Urban,70-79,NCT OF DELHI,South,Female,Mental,34
+7,9,Urban,80-89,NCT OF DELHI,South,Female,Mental,13
+7,9,Urban,90+,NCT OF DELHI,South,Female,Mental,1
+7,9,Urban,Age Not Stated,NCT OF DELHI,South,Female,Mental,2

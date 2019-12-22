@@ -1,97 +1,97 @@
-Table Name,State Code,Distt.Code,Area Name,Total/Rural/Urban,Age-group,In seeing Persons Males,In Hearing Persons Males,In Hearing Persons Females,In Speech Males,In Speech Females,In Movement Males,In Movement  Females,Mental Persons Males,Mental Persons Females
-C4920,16,1,District-West Tripura ,Rural,0-4,51,80,72,15,13,55,34,26,11
-C4920,16,1,District-West Tripura ,Rural,5-9,76,80,76,77,66,80,52,35,35
-C4920,16,1,District-West Tripura ,Rural,10-19,188,258,223,174,132,239,170,147,135
-C4920,16,1,District-West Tripura ,Rural,20-29,219,284,218,153,130,293,189,202,184
-C4920,16,1,District-West Tripura ,Rural,30-39,218,266,191,100,75,289,128,208,149
-C4920,16,1,District-West Tripura ,Rural,40-49,259,262,189,78,60,281,116,174,150
-C4920,16,1,District-West Tripura ,Rural,50-59,209,205,169,48,34,235,103,102,90
-C4920,16,1,District-West Tripura ,Rural,60-69,208,174,160,25,24,166,128,66,64
-C4920,16,1,District-West Tripura ,Rural,70-79,184,133,153,12,7,145,122,25,25
-C4920,16,1,District-West Tripura ,Rural,80-89,98,70,71,2,2,64,77,12,20
-C4920,16,1,District-West Tripura ,Rural,90+,36,25,45,0,1,24,44,4,14
-C4920,16,1,District-West Tripura ,Rural,Age Not Stated,5,4,1,0,0,1,0,1,1
-C4920,16,1,District-West Tripura ,Urban,0-4,11,37,33,5,13,29,21,10,14
-C4920,16,1,District-West Tripura ,Urban,5-9,37,57,34,51,32,56,49,29,22
-C4920,16,1,District-West Tripura ,Urban,10-19,164,137,101,137,103,129,103,146,100
-C4920,16,1,District-West Tripura ,Urban,20-29,145,171,154,136,105,223,130,183,137
-C4920,16,1,District-West Tripura ,Urban,30-39,146,192,143,91,106,262,126,194,137
-C4920,16,1,District-West Tripura ,Urban,40-49,172,200,171,86,84,276,136,169,151
-C4920,16,1,District-West Tripura ,Urban,50-59,155,138,120,75,53,275,123,115,106
-C4920,16,1,District-West Tripura ,Urban,60-69,143,113,118,26,20,187,109,65,42
-C4920,16,1,District-West Tripura ,Urban,70-79,108,101,90,9,12,94,90,16,21
-C4920,16,1,District-West Tripura ,Urban,80-89,45,41,53,1,5,44,60,4,6
-C4920,16,1,District-West Tripura ,Urban,90+,15,11,17,0,2,11,21,1,3
-C4920,16,1,District-West Tripura ,Urban,Age Not Stated,1,2,0,0,1,0,1,1,1
-C4920,16,2,District-South Tripura ,Rural,0-4,25,46,57,11,13,29,27,22,20
-C4920,16,2,District-South Tripura ,Rural,5-9,49,65,51,55,36,58,31,42,28
-C4920,16,2,District-South Tripura ,Rural,10-19,118,143,137,93,75,189,135,139,99
-C4920,16,2,District-South Tripura ,Rural,20-29,105,178,159,108,74,243,165,144,126
-C4920,16,2,District-South Tripura ,Rural,30-39,115,239,137,69,67,220,123,134,136
-C4920,16,2,District-South Tripura ,Rural,40-49,125,201,114,53,39,193,100,111,113
-C4920,16,2,District-South Tripura ,Rural,50-59,101,106,90,19,15,176,67,76,50
-C4920,16,2,District-South Tripura ,Rural,60-69,77,92,89,24,13,111,79,39,38
-C4920,16,2,District-South Tripura ,Rural,70-79,63,67,68,16,7,64,61,13,12
-C4920,16,2,District-South Tripura ,Rural,80-89,46,21,38,1,5,29,22,7,5
-C4920,16,2,District-South Tripura ,Rural,90+,14,13,19,3,1,6,20,0,5
-C4920,16,2,District-South Tripura ,Rural,Age Not Stated,0,0,0,0,0,0,1,1,2
-C4920,16,2,District-South Tripura ,Urban,0-4,3,3,3,1,0,3,2,1,0
-C4920,16,2,District-South Tripura ,Urban,5-9,9,6,7,11,8,7,4,5,4
-C4920,16,2,District-South Tripura ,Urban,10-19,14,12,12,20,15,30,15,24,11
-C4920,16,2,District-South Tripura ,Urban,20-29,20,35,15,25,13,46,46,28,17
-C4920,16,2,District-South Tripura ,Urban,30-39,26,48,28,21,10,51,26,30,20
-C4920,16,2,District-South Tripura ,Urban,40-49,42,48,28,10,6,52,13,30,24
-C4920,16,2,District-South Tripura ,Urban,50-59,43,28,21,7,6,54,24,28,20
-C4920,16,2,District-South Tripura ,Urban,60-69,40,29,18,5,5,33,14,14,12
-C4920,16,2,District-South Tripura ,Urban,70-79,22,20,19,1,1,16,12,3,4
-C4920,16,2,District-South Tripura ,Urban,80-89,9,5,9,1,0,10,8,1,4
-C4920,16,2,District-South Tripura ,Urban,90+,1,3,3,0,0,4,8,1,2
-C4920,16,2,District-South Tripura ,Urban,Age Not Stated,0,0,0,0,1,1,1,0,3
-C4920,16,3,District-Dhalai,Rural,0-4,17,29,19,2,2,9,9,21,6
-C4920,16,3,District-Dhalai,Rural,5-9,33,42,48,39,17,26,24,24,18
-C4920,16,3,District-Dhalai,Rural,10-19,62,93,86,65,53,86,79,72,56
-C4920,16,3,District-Dhalai,Rural,20-29,46,115,78,47,35,115,54,66,45
-C4920,16,3,District-Dhalai,Rural,30-39,56,93,71,27,27,70,35,76,33
-C4920,16,3,District-Dhalai,Rural,40-49,71,65,58,28,22,98,50,59,48
-C4920,16,3,District-Dhalai,Rural,50-59,67,70,56,10,6,77,39,22,36
-C4920,16,3,District-Dhalai,Rural,60-69,74,70,98,9,4,91,95,24,29
-C4920,16,3,District-Dhalai,Rural,70-79,64,56,62,3,1,84,98,6,16
-C4920,16,3,District-Dhalai,Rural,80-89,48,24,25,0,1,30,53,6,3
-C4920,16,3,District-Dhalai,Rural,90+,16,10,10,1,1,20,15,1,1
-C4920,16,3,District-Dhalai,Rural,Age Not Stated,1,0,0,0,0,0,0,0,0
-C4920,16,3,District-Dhalai,Urban,0-4,2,0,0,0,0,1,3,0,0
-C4920,16,3,District-Dhalai,Urban,5-9,4,4,2,3,4,6,2,0,0
-C4920,16,3,District-Dhalai,Urban,10-19,6,8,6,3,2,13,11,8,4
-C4920,16,3,District-Dhalai,Urban,20-29,10,9,8,8,5,21,11,6,6
-C4920,16,3,District-Dhalai,Urban,30-39,7,8,6,8,3,21,10,9,13
-C4920,16,3,District-Dhalai,Urban,40-49,7,5,8,8,4,21,13,15,6
-C4920,16,3,District-Dhalai,Urban,50-59,7,5,6,3,3,31,12,7,10
-C4920,16,3,District-Dhalai,Urban,60-69,9,7,8,3,3,30,13,5,8
-C4920,16,3,District-Dhalai,Urban,70-79,8,3,4,0,0,9,23,2,3
-C4920,16,3,District-Dhalai,Urban,80-89,3,0,4,0,0,2,12,2,1
-C4920,16,3,District-Dhalai,Urban,90+,0,2,1,0,0,0,5,0,2
-C4920,16,3,District-Dhalai,Urban,Age Not Stated,0,0,0,0,0,0,0,0,0
-C4920,16,4,District-North Tripura,Rural,0-4,48,63,57,7,6,40,26,11,17
-C4920,16,4,District-North Tripura,Rural,5-9,49,61,51,46,36,74,48,26,20
-C4920,16,4,District-North Tripura,Rural,10-19,126,141,136,90,72,128,111,94,68
-C4920,16,4,District-North Tripura,Rural,20-29,93,175,129,65,72,178,119,106,93
-C4920,16,4,District-North Tripura,Rural,30-39,105,197,95,53,41,137,76,110,78
-C4920,16,4,District-North Tripura,Rural,40-49,95,107,100,30,16,120,69,99,85
-C4920,16,4,District-North Tripura,Rural,50-59,75,72,69,21,15,115,49,48,56
-C4920,16,4,District-North Tripura,Rural,60-69,72,72,75,16,8,89,57,20,25
-C4920,16,4,District-North Tripura,Rural,70-79,78,54,51,3,7,48,36,8,10
-C4920,16,4,District-North Tripura,Rural,80-89,21,23,23,2,4,17,23,4,3
-C4920,16,4,District-North Tripura,Rural,90+,7,7,9,2,2,4,10,0,1
-C4920,16,4,District-North Tripura,Rural,Age Not Stated,0,1,0,0,0,0,0,0,0
-C4920,16,4,District-North Tripura,Urban,0-4,7,1,4,0,1,6,6,2,0
-C4920,16,4,District-North Tripura,Urban,5-9,6,9,7,6,6,9,8,2,4
-C4920,16,4,District-North Tripura,Urban,10-19,26,12,12,26,8,31,21,25,19
-C4920,16,4,District-North Tripura,Urban,20-29,21,87,19,10,24,34,20,31,14
-C4920,16,4,District-North Tripura,Urban,30-39,16,44,15,10,10,32,16,33,22
-C4920,16,4,District-North Tripura,Urban,40-49,28,41,18,6,9,33,15,34,20
-C4920,16,4,District-North Tripura,Urban,50-59,20,17,16,12,5,33,19,16,10
-C4920,16,4,District-North Tripura,Urban,60-69,17,12,14,8,1,32,23,7,7
-C4920,16,4,District-North Tripura,Urban,70-79,15,14,12,3,2,15,16,5,4
-C4920,16,4,District-North Tripura,Urban,80-89,7,4,8,0,1,6,6,1,2
-C4920,16,4,District-North Tripura,Urban,90+,2,1,5,0,0,1,5,0,0
-C4920,16,4,District-North Tripura,Urban,Age Not Stated,0,0,0,0,0,0,0,0,0
+Table Name,State Code,Distt.Code,Area Name,Total/Rural/Urban,Age-group,In seeing - Males,In seeing - Females,In Hearing - Males,In Hearing - Females,In Speech - Males,In Speech - Females,In Movement - Males,In Movement - Females,Mental - Males,Mental - Females
+C4920,16,1,District-West Tripura ,Rural,0-4,51,51,80,72,15,13,55,34,26,11
+C4920,16,1,District-West Tripura ,Rural,5-9,76,68,80,76,77,66,80,52,35,35
+C4920,16,1,District-West Tripura ,Rural,10-19,188,175,258,223,174,132,239,170,147,135
+C4920,16,1,District-West Tripura ,Rural,20-29,219,155,284,218,153,130,293,189,202,184
+C4920,16,1,District-West Tripura ,Rural,30-39,218,188,266,191,100,75,289,128,208,149
+C4920,16,1,District-West Tripura ,Rural,40-49,259,187,262,189,78,60,281,116,174,150
+C4920,16,1,District-West Tripura ,Rural,50-59,209,227,205,169,48,34,235,103,102,90
+C4920,16,1,District-West Tripura ,Rural,60-69,208,282,174,160,25,24,166,128,66,64
+C4920,16,1,District-West Tripura ,Rural,70-79,184,275,133,153,12,7,145,122,25,25
+C4920,16,1,District-West Tripura ,Rural,80-89,98,123,70,71,2,2,64,77,12,20
+C4920,16,1,District-West Tripura ,Rural,90+,36,60,25,45,0,1,24,44,4,14
+C4920,16,1,District-West Tripura ,Rural,Age Not Stated,5,0,4,1,0,0,1,0,1,1
+C4920,16,1,District-West Tripura ,Urban,0-4,11,12,37,33,5,13,29,21,10,14
+C4920,16,1,District-West Tripura ,Urban,5-9,37,25,57,34,51,32,56,49,29,22
+C4920,16,1,District-West Tripura ,Urban,10-19,164,116,137,101,137,103,129,103,146,100
+C4920,16,1,District-West Tripura ,Urban,20-29,145,100,171,154,136,105,223,130,183,137
+C4920,16,1,District-West Tripura ,Urban,30-39,146,104,192,143,91,106,262,126,194,137
+C4920,16,1,District-West Tripura ,Urban,40-49,172,142,200,171,86,84,276,136,169,151
+C4920,16,1,District-West Tripura ,Urban,50-59,155,134,138,120,75,53,275,123,115,106
+C4920,16,1,District-West Tripura ,Urban,60-69,143,192,113,118,26,20,187,109,65,42
+C4920,16,1,District-West Tripura ,Urban,70-79,108,153,101,90,9,12,94,90,16,21
+C4920,16,1,District-West Tripura ,Urban,80-89,45,66,41,53,1,5,44,60,4,6
+C4920,16,1,District-West Tripura ,Urban,90+,15,28,11,17,0,2,11,21,1,3
+C4920,16,1,District-West Tripura ,Urban,Age Not Stated,1,0,2,0,0,1,0,1,1,1
+C4920,16,2,District-South Tripura ,Rural,0-4,25,24,46,57,11,13,29,27,22,20
+C4920,16,2,District-South Tripura ,Rural,5-9,49,43,65,51,55,36,58,31,42,28
+C4920,16,2,District-South Tripura ,Rural,10-19,118,116,143,137,93,75,189,135,139,99
+C4920,16,2,District-South Tripura ,Rural,20-29,105,106,178,159,108,74,243,165,144,126
+C4920,16,2,District-South Tripura ,Rural,30-39,115,63,239,137,69,67,220,123,134,136
+C4920,16,2,District-South Tripura ,Rural,40-49,125,64,201,114,53,39,193,100,111,113
+C4920,16,2,District-South Tripura ,Rural,50-59,101,56,106,90,19,15,176,67,76,50
+C4920,16,2,District-South Tripura ,Rural,60-69,77,105,92,89,24,13,111,79,39,38
+C4920,16,2,District-South Tripura ,Rural,70-79,63,66,67,68,16,7,64,61,13,12
+C4920,16,2,District-South Tripura ,Rural,80-89,46,44,21,38,1,5,29,22,7,5
+C4920,16,2,District-South Tripura ,Rural,90+,14,19,13,19,3,1,6,20,0,5
+C4920,16,2,District-South Tripura ,Rural,Age Not Stated,0,1,0,0,0,0,0,1,1,2
+C4920,16,2,District-South Tripura ,Urban,0-4,3,4,3,3,1,0,3,2,1,0
+C4920,16,2,District-South Tripura ,Urban,5-9,9,2,6,7,11,8,7,4,5,4
+C4920,16,2,District-South Tripura ,Urban,10-19,14,15,12,12,20,15,30,15,24,11
+C4920,16,2,District-South Tripura ,Urban,20-29,20,15,35,15,25,13,46,46,28,17
+C4920,16,2,District-South Tripura ,Urban,30-39,26,20,48,28,21,10,51,26,30,20
+C4920,16,2,District-South Tripura ,Urban,40-49,42,40,48,28,10,6,52,13,30,24
+C4920,16,2,District-South Tripura ,Urban,50-59,43,40,28,21,7,6,54,24,28,20
+C4920,16,2,District-South Tripura ,Urban,60-69,40,38,29,18,5,5,33,14,14,12
+C4920,16,2,District-South Tripura ,Urban,70-79,22,22,20,19,1,1,16,12,3,4
+C4920,16,2,District-South Tripura ,Urban,80-89,9,21,5,9,1,0,10,8,1,4
+C4920,16,2,District-South Tripura ,Urban,90+,1,5,3,3,0,0,4,8,1,2
+C4920,16,2,District-South Tripura ,Urban,Age Not Stated,0,0,0,0,0,1,1,1,0,3
+C4920,16,3,District-Dhalai,Rural,0-4,17,33,29,19,2,2,9,9,21,6
+C4920,16,3,District-Dhalai,Rural,5-9,33,18,42,48,39,17,26,24,24,18
+C4920,16,3,District-Dhalai,Rural,10-19,62,56,93,86,65,53,86,79,72,56
+C4920,16,3,District-Dhalai,Rural,20-29,46,52,115,78,47,35,115,54,66,45
+C4920,16,3,District-Dhalai,Rural,30-39,56,35,93,71,27,27,70,35,76,33
+C4920,16,3,District-Dhalai,Rural,40-49,71,54,65,58,28,22,98,50,59,48
+C4920,16,3,District-Dhalai,Rural,50-59,67,70,70,56,10,6,77,39,22,36
+C4920,16,3,District-Dhalai,Rural,60-69,74,104,70,98,9,4,91,95,24,29
+C4920,16,3,District-Dhalai,Rural,70-79,64,83,56,62,3,1,84,98,6,16
+C4920,16,3,District-Dhalai,Rural,80-89,48,51,24,25,0,1,30,53,6,3
+C4920,16,3,District-Dhalai,Rural,90+,16,18,10,10,1,1,20,15,1,1
+C4920,16,3,District-Dhalai,Rural,Age Not Stated,1,0,0,0,0,0,0,0,0,0
+C4920,16,3,District-Dhalai,Urban,0-4,2,2,0,0,0,0,1,3,0,0
+C4920,16,3,District-Dhalai,Urban,5-9,4,2,4,2,3,4,6,2,0,0
+C4920,16,3,District-Dhalai,Urban,10-19,6,2,8,6,3,2,13,11,8,4
+C4920,16,3,District-Dhalai,Urban,20-29,10,2,9,8,8,5,21,11,6,6
+C4920,16,3,District-Dhalai,Urban,30-39,7,9,8,6,8,3,21,10,9,13
+C4920,16,3,District-Dhalai,Urban,40-49,7,14,5,8,8,4,21,13,15,6
+C4920,16,3,District-Dhalai,Urban,50-59,7,6,5,6,3,3,31,12,7,10
+C4920,16,3,District-Dhalai,Urban,60-69,9,13,7,8,3,3,30,13,5,8
+C4920,16,3,District-Dhalai,Urban,70-79,8,11,3,4,0,0,9,23,2,3
+C4920,16,3,District-Dhalai,Urban,80-89,3,6,0,4,0,0,2,12,2,1
+C4920,16,3,District-Dhalai,Urban,90+,0,4,2,1,0,0,0,5,0,2
+C4920,16,3,District-Dhalai,Urban,Age Not Stated,0,0,0,0,0,0,0,0,0,0
+C4920,16,4,District-North Tripura,Rural,0-4,48,32,63,57,7,6,40,26,11,17
+C4920,16,4,District-North Tripura,Rural,5-9,49,48,61,51,46,36,74,48,26,20
+C4920,16,4,District-North Tripura,Rural,10-19,126,86,141,136,90,72,128,111,94,68
+C4920,16,4,District-North Tripura,Rural,20-29,93,93,175,129,65,72,178,119,106,93
+C4920,16,4,District-North Tripura,Rural,30-39,105,73,197,95,53,41,137,76,110,78
+C4920,16,4,District-North Tripura,Rural,40-49,95,70,107,100,30,16,120,69,99,85
+C4920,16,4,District-North Tripura,Rural,50-59,75,68,72,69,21,15,115,49,48,56
+C4920,16,4,District-North Tripura,Rural,60-69,72,94,72,75,16,8,89,57,20,25
+C4920,16,4,District-North Tripura,Rural,70-79,78,84,54,51,3,7,48,36,8,10
+C4920,16,4,District-North Tripura,Rural,80-89,21,32,23,23,2,4,17,23,4,3
+C4920,16,4,District-North Tripura,Rural,90+,7,10,7,9,2,2,4,10,0,1
+C4920,16,4,District-North Tripura,Rural,Age Not Stated,0,0,1,0,0,0,0,0,0,0
+C4920,16,4,District-North Tripura,Urban,0-4,7,4,1,4,0,1,6,6,2,0
+C4920,16,4,District-North Tripura,Urban,5-9,6,11,9,7,6,6,9,8,2,4
+C4920,16,4,District-North Tripura,Urban,10-19,26,19,12,12,26,8,31,21,25,19
+C4920,16,4,District-North Tripura,Urban,20-29,21,29,87,19,10,24,34,20,31,14
+C4920,16,4,District-North Tripura,Urban,30-39,16,21,44,15,10,10,32,16,33,22
+C4920,16,4,District-North Tripura,Urban,40-49,28,22,41,18,6,9,33,15,34,20
+C4920,16,4,District-North Tripura,Urban,50-59,20,18,17,16,12,5,33,19,16,10
+C4920,16,4,District-North Tripura,Urban,60-69,17,30,12,14,8,1,32,23,7,7
+C4920,16,4,District-North Tripura,Urban,70-79,15,23,14,12,3,2,15,16,5,4
+C4920,16,4,District-North Tripura,Urban,80-89,7,10,4,8,0,1,6,6,1,2
+C4920,16,4,District-North Tripura,Urban,90+,2,2,1,5,0,0,1,5,0,0
+C4920,16,4,District-North Tripura,Urban,Age Not Stated,0,0,0,0,0,0,0,0,0,0

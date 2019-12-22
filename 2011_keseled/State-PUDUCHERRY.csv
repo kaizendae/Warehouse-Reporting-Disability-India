@@ -1,0 +1,961 @@
+State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
+34,1,Rural,0-4,PUDUCHERRY,Yanam,Male,In seeing,0
+34,1,Rural,5-9,PUDUCHERRY,Yanam,Male,In seeing,0
+34,1,Rural,10-19,PUDUCHERRY,Yanam,Male,In seeing,0
+34,1,Rural,20-29,PUDUCHERRY,Yanam,Male,In seeing,0
+34,1,Rural,30-39,PUDUCHERRY,Yanam,Male,In seeing,0
+34,1,Rural,40-49,PUDUCHERRY,Yanam,Male,In seeing,0
+34,1,Rural,50-59,PUDUCHERRY,Yanam,Male,In seeing,0
+34,1,Rural,60-69,PUDUCHERRY,Yanam,Male,In seeing,0
+34,1,Rural,70-79,PUDUCHERRY,Yanam,Male,In seeing,0
+34,1,Rural,80-89,PUDUCHERRY,Yanam,Male,In seeing,0
+34,1,Rural,90+,PUDUCHERRY,Yanam,Male,In seeing,0
+34,1,Rural,Age Not Stated,PUDUCHERRY,Yanam,Male,In seeing,0
+34,1,Urban,0-4,PUDUCHERRY,Yanam,Male,In seeing,1
+34,1,Urban,5-9,PUDUCHERRY,Yanam,Male,In seeing,4
+34,1,Urban,10-19,PUDUCHERRY,Yanam,Male,In seeing,6
+34,1,Urban,20-29,PUDUCHERRY,Yanam,Male,In seeing,9
+34,1,Urban,30-39,PUDUCHERRY,Yanam,Male,In seeing,6
+34,1,Urban,40-49,PUDUCHERRY,Yanam,Male,In seeing,17
+34,1,Urban,50-59,PUDUCHERRY,Yanam,Male,In seeing,14
+34,1,Urban,60-69,PUDUCHERRY,Yanam,Male,In seeing,21
+34,1,Urban,70-79,PUDUCHERRY,Yanam,Male,In seeing,8
+34,1,Urban,80-89,PUDUCHERRY,Yanam,Male,In seeing,2
+34,1,Urban,90+,PUDUCHERRY,Yanam,Male,In seeing,0
+34,1,Urban,Age Not Stated,PUDUCHERRY,Yanam,Male,In seeing,0
+34,2,Rural,0-4,PUDUCHERRY,Puducherry,Male,In seeing,9
+34,2,Rural,5-9,PUDUCHERRY,Puducherry,Male,In seeing,15
+34,2,Rural,10-19,PUDUCHERRY,Puducherry,Male,In seeing,59
+34,2,Rural,20-29,PUDUCHERRY,Puducherry,Male,In seeing,52
+34,2,Rural,30-39,PUDUCHERRY,Puducherry,Male,In seeing,73
+34,2,Rural,40-49,PUDUCHERRY,Puducherry,Male,In seeing,80
+34,2,Rural,50-59,PUDUCHERRY,Puducherry,Male,In seeing,68
+34,2,Rural,60-69,PUDUCHERRY,Puducherry,Male,In seeing,68
+34,2,Rural,70-79,PUDUCHERRY,Puducherry,Male,In seeing,49
+34,2,Rural,80-89,PUDUCHERRY,Puducherry,Male,In seeing,18
+34,2,Rural,90+,PUDUCHERRY,Puducherry,Male,In seeing,3
+34,2,Rural,Age Not Stated,PUDUCHERRY,Puducherry,Male,In seeing,1
+34,2,Urban,0-4,PUDUCHERRY,Puducherry,Male,In seeing,16
+34,2,Urban,5-9,PUDUCHERRY,Puducherry,Male,In seeing,23
+34,2,Urban,10-19,PUDUCHERRY,Puducherry,Male,In seeing,80
+34,2,Urban,20-29,PUDUCHERRY,Puducherry,Male,In seeing,100
+34,2,Urban,30-39,PUDUCHERRY,Puducherry,Male,In seeing,128
+34,2,Urban,40-49,PUDUCHERRY,Puducherry,Male,In seeing,131
+34,2,Urban,50-59,PUDUCHERRY,Puducherry,Male,In seeing,168
+34,2,Urban,60-69,PUDUCHERRY,Puducherry,Male,In seeing,124
+34,2,Urban,70-79,PUDUCHERRY,Puducherry,Male,In seeing,85
+34,2,Urban,80-89,PUDUCHERRY,Puducherry,Male,In seeing,37
+34,2,Urban,90+,PUDUCHERRY,Puducherry,Male,In seeing,7
+34,2,Urban,Age Not Stated,PUDUCHERRY,Puducherry,Male,In seeing,0
+34,3,Rural,0-4,PUDUCHERRY,Mahe,Male,In seeing,0
+34,3,Rural,5-9,PUDUCHERRY,Mahe,Male,In seeing,0
+34,3,Rural,10-19,PUDUCHERRY,Mahe,Male,In seeing,0
+34,3,Rural,20-29,PUDUCHERRY,Mahe,Male,In seeing,0
+34,3,Rural,30-39,PUDUCHERRY,Mahe,Male,In seeing,0
+34,3,Rural,40-49,PUDUCHERRY,Mahe,Male,In seeing,0
+34,3,Rural,50-59,PUDUCHERRY,Mahe,Male,In seeing,0
+34,3,Rural,60-69,PUDUCHERRY,Mahe,Male,In seeing,0
+34,3,Rural,70-79,PUDUCHERRY,Mahe,Male,In seeing,0
+34,3,Rural,80-89,PUDUCHERRY,Mahe,Male,In seeing,0
+34,3,Rural,90+,PUDUCHERRY,Mahe,Male,In seeing,0
+34,3,Rural,Age Not Stated,PUDUCHERRY,Mahe,Male,In seeing,0
+34,3,Urban,0-4,PUDUCHERRY,Mahe,Male,In seeing,1
+34,3,Urban,5-9,PUDUCHERRY,Mahe,Male,In seeing,3
+34,3,Urban,10-19,PUDUCHERRY,Mahe,Male,In seeing,6
+34,3,Urban,20-29,PUDUCHERRY,Mahe,Male,In seeing,5
+34,3,Urban,30-39,PUDUCHERRY,Mahe,Male,In seeing,1
+34,3,Urban,40-49,PUDUCHERRY,Mahe,Male,In seeing,9
+34,3,Urban,50-59,PUDUCHERRY,Mahe,Male,In seeing,7
+34,3,Urban,60-69,PUDUCHERRY,Mahe,Male,In seeing,3
+34,3,Urban,70-79,PUDUCHERRY,Mahe,Male,In seeing,2
+34,3,Urban,80-89,PUDUCHERRY,Mahe,Male,In seeing,2
+34,3,Urban,90+,PUDUCHERRY,Mahe,Male,In seeing,0
+34,3,Urban,Age Not Stated,PUDUCHERRY,Mahe,Male,In seeing,0
+34,4,Rural,0-4,PUDUCHERRY,Karaikal,Male,In seeing,5
+34,4,Rural,5-9,PUDUCHERRY,Karaikal,Male,In seeing,7
+34,4,Rural,10-19,PUDUCHERRY,Karaikal,Male,In seeing,16
+34,4,Rural,20-29,PUDUCHERRY,Karaikal,Male,In seeing,18
+34,4,Rural,30-39,PUDUCHERRY,Karaikal,Male,In seeing,7
+34,4,Rural,40-49,PUDUCHERRY,Karaikal,Male,In seeing,30
+34,4,Rural,50-59,PUDUCHERRY,Karaikal,Male,In seeing,36
+34,4,Rural,60-69,PUDUCHERRY,Karaikal,Male,In seeing,32
+34,4,Rural,70-79,PUDUCHERRY,Karaikal,Male,In seeing,15
+34,4,Rural,80-89,PUDUCHERRY,Karaikal,Male,In seeing,10
+34,4,Rural,90+,PUDUCHERRY,Karaikal,Male,In seeing,1
+34,4,Rural,Age Not Stated,PUDUCHERRY,Karaikal,Male,In seeing,0
+34,4,Urban,0-4,PUDUCHERRY,Karaikal,Male,In seeing,6
+34,4,Urban,5-9,PUDUCHERRY,Karaikal,Male,In seeing,8
+34,4,Urban,10-19,PUDUCHERRY,Karaikal,Male,In seeing,16
+34,4,Urban,20-29,PUDUCHERRY,Karaikal,Male,In seeing,16
+34,4,Urban,30-39,PUDUCHERRY,Karaikal,Male,In seeing,18
+34,4,Urban,40-49,PUDUCHERRY,Karaikal,Male,In seeing,25
+34,4,Urban,50-59,PUDUCHERRY,Karaikal,Male,In seeing,19
+34,4,Urban,60-69,PUDUCHERRY,Karaikal,Male,In seeing,18
+34,4,Urban,70-79,PUDUCHERRY,Karaikal,Male,In seeing,10
+34,4,Urban,80-89,PUDUCHERRY,Karaikal,Male,In seeing,4
+34,4,Urban,90+,PUDUCHERRY,Karaikal,Male,In seeing,2
+34,4,Urban,Age Not Stated,PUDUCHERRY,Karaikal,Male,In seeing,1
+34,1,Rural,0-4,PUDUCHERRY,Yanam,Female,In seeing,0
+34,1,Rural,5-9,PUDUCHERRY,Yanam,Female,In seeing,0
+34,1,Rural,10-19,PUDUCHERRY,Yanam,Female,In seeing,0
+34,1,Rural,20-29,PUDUCHERRY,Yanam,Female,In seeing,0
+34,1,Rural,30-39,PUDUCHERRY,Yanam,Female,In seeing,0
+34,1,Rural,40-49,PUDUCHERRY,Yanam,Female,In seeing,0
+34,1,Rural,50-59,PUDUCHERRY,Yanam,Female,In seeing,0
+34,1,Rural,60-69,PUDUCHERRY,Yanam,Female,In seeing,0
+34,1,Rural,70-79,PUDUCHERRY,Yanam,Female,In seeing,0
+34,1,Rural,80-89,PUDUCHERRY,Yanam,Female,In seeing,0
+34,1,Rural,90+,PUDUCHERRY,Yanam,Female,In seeing,0
+34,1,Rural,Age Not Stated,PUDUCHERRY,Yanam,Female,In seeing,0
+34,1,Urban,0-4,PUDUCHERRY,Yanam,Female,In seeing,1
+34,1,Urban,5-9,PUDUCHERRY,Yanam,Female,In seeing,1
+34,1,Urban,10-19,PUDUCHERRY,Yanam,Female,In seeing,8
+34,1,Urban,20-29,PUDUCHERRY,Yanam,Female,In seeing,5
+34,1,Urban,30-39,PUDUCHERRY,Yanam,Female,In seeing,14
+34,1,Urban,40-49,PUDUCHERRY,Yanam,Female,In seeing,11
+34,1,Urban,50-59,PUDUCHERRY,Yanam,Female,In seeing,10
+34,1,Urban,60-69,PUDUCHERRY,Yanam,Female,In seeing,24
+34,1,Urban,70-79,PUDUCHERRY,Yanam,Female,In seeing,16
+34,1,Urban,80-89,PUDUCHERRY,Yanam,Female,In seeing,3
+34,1,Urban,90+,PUDUCHERRY,Yanam,Female,In seeing,2
+34,1,Urban,Age Not Stated,PUDUCHERRY,Yanam,Female,In seeing,0
+34,2,Rural,0-4,PUDUCHERRY,Puducherry,Female,In seeing,14
+34,2,Rural,5-9,PUDUCHERRY,Puducherry,Female,In seeing,9
+34,2,Rural,10-19,PUDUCHERRY,Puducherry,Female,In seeing,42
+34,2,Rural,20-29,PUDUCHERRY,Puducherry,Female,In seeing,45
+34,2,Rural,30-39,PUDUCHERRY,Puducherry,Female,In seeing,67
+34,2,Rural,40-49,PUDUCHERRY,Puducherry,Female,In seeing,58
+34,2,Rural,50-59,PUDUCHERRY,Puducherry,Female,In seeing,70
+34,2,Rural,60-69,PUDUCHERRY,Puducherry,Female,In seeing,85
+34,2,Rural,70-79,PUDUCHERRY,Puducherry,Female,In seeing,46
+34,2,Rural,80-89,PUDUCHERRY,Puducherry,Female,In seeing,25
+34,2,Rural,90+,PUDUCHERRY,Puducherry,Female,In seeing,5
+34,2,Rural,Age Not Stated,PUDUCHERRY,Puducherry,Female,In seeing,0
+34,2,Urban,0-4,PUDUCHERRY,Puducherry,Female,In seeing,10
+34,2,Urban,5-9,PUDUCHERRY,Puducherry,Female,In seeing,24
+34,2,Urban,10-19,PUDUCHERRY,Puducherry,Female,In seeing,64
+34,2,Urban,20-29,PUDUCHERRY,Puducherry,Female,In seeing,74
+34,2,Urban,30-39,PUDUCHERRY,Puducherry,Female,In seeing,95
+34,2,Urban,40-49,PUDUCHERRY,Puducherry,Female,In seeing,106
+34,2,Urban,50-59,PUDUCHERRY,Puducherry,Female,In seeing,131
+34,2,Urban,60-69,PUDUCHERRY,Puducherry,Female,In seeing,142
+34,2,Urban,70-79,PUDUCHERRY,Puducherry,Female,In seeing,106
+34,2,Urban,80-89,PUDUCHERRY,Puducherry,Female,In seeing,40
+34,2,Urban,90+,PUDUCHERRY,Puducherry,Female,In seeing,8
+34,2,Urban,Age Not Stated,PUDUCHERRY,Puducherry,Female,In seeing,1
+34,3,Rural,0-4,PUDUCHERRY,Mahe,Female,In seeing,0
+34,3,Rural,5-9,PUDUCHERRY,Mahe,Female,In seeing,0
+34,3,Rural,10-19,PUDUCHERRY,Mahe,Female,In seeing,0
+34,3,Rural,20-29,PUDUCHERRY,Mahe,Female,In seeing,0
+34,3,Rural,30-39,PUDUCHERRY,Mahe,Female,In seeing,0
+34,3,Rural,40-49,PUDUCHERRY,Mahe,Female,In seeing,0
+34,3,Rural,50-59,PUDUCHERRY,Mahe,Female,In seeing,0
+34,3,Rural,60-69,PUDUCHERRY,Mahe,Female,In seeing,0
+34,3,Rural,70-79,PUDUCHERRY,Mahe,Female,In seeing,0
+34,3,Rural,80-89,PUDUCHERRY,Mahe,Female,In seeing,0
+34,3,Rural,90+,PUDUCHERRY,Mahe,Female,In seeing,0
+34,3,Rural,Age Not Stated,PUDUCHERRY,Mahe,Female,In seeing,0
+34,3,Urban,0-4,PUDUCHERRY,Mahe,Female,In seeing,1
+34,3,Urban,5-9,PUDUCHERRY,Mahe,Female,In seeing,1
+34,3,Urban,10-19,PUDUCHERRY,Mahe,Female,In seeing,3
+34,3,Urban,20-29,PUDUCHERRY,Mahe,Female,In seeing,3
+34,3,Urban,30-39,PUDUCHERRY,Mahe,Female,In seeing,9
+34,3,Urban,40-49,PUDUCHERRY,Mahe,Female,In seeing,2
+34,3,Urban,50-59,PUDUCHERRY,Mahe,Female,In seeing,8
+34,3,Urban,60-69,PUDUCHERRY,Mahe,Female,In seeing,6
+34,3,Urban,70-79,PUDUCHERRY,Mahe,Female,In seeing,8
+34,3,Urban,80-89,PUDUCHERRY,Mahe,Female,In seeing,8
+34,3,Urban,90+,PUDUCHERRY,Mahe,Female,In seeing,0
+34,3,Urban,Age Not Stated,PUDUCHERRY,Mahe,Female,In seeing,0
+34,4,Rural,0-4,PUDUCHERRY,Karaikal,Female,In seeing,5
+34,4,Rural,5-9,PUDUCHERRY,Karaikal,Female,In seeing,4
+34,4,Rural,10-19,PUDUCHERRY,Karaikal,Female,In seeing,27
+34,4,Rural,20-29,PUDUCHERRY,Karaikal,Female,In seeing,18
+34,4,Rural,30-39,PUDUCHERRY,Karaikal,Female,In seeing,15
+34,4,Rural,40-49,PUDUCHERRY,Karaikal,Female,In seeing,37
+34,4,Rural,50-59,PUDUCHERRY,Karaikal,Female,In seeing,26
+34,4,Rural,60-69,PUDUCHERRY,Karaikal,Female,In seeing,40
+34,4,Rural,70-79,PUDUCHERRY,Karaikal,Female,In seeing,29
+34,4,Rural,80-89,PUDUCHERRY,Karaikal,Female,In seeing,7
+34,4,Rural,90+,PUDUCHERRY,Karaikal,Female,In seeing,2
+34,4,Rural,Age Not Stated,PUDUCHERRY,Karaikal,Female,In seeing,1
+34,4,Urban,0-4,PUDUCHERRY,Karaikal,Female,In seeing,2
+34,4,Urban,5-9,PUDUCHERRY,Karaikal,Female,In seeing,8
+34,4,Urban,10-19,PUDUCHERRY,Karaikal,Female,In seeing,13
+34,4,Urban,20-29,PUDUCHERRY,Karaikal,Female,In seeing,21
+34,4,Urban,30-39,PUDUCHERRY,Karaikal,Female,In seeing,12
+34,4,Urban,40-49,PUDUCHERRY,Karaikal,Female,In seeing,23
+34,4,Urban,50-59,PUDUCHERRY,Karaikal,Female,In seeing,17
+34,4,Urban,60-69,PUDUCHERRY,Karaikal,Female,In seeing,20
+34,4,Urban,70-79,PUDUCHERRY,Karaikal,Female,In seeing,15
+34,4,Urban,80-89,PUDUCHERRY,Karaikal,Female,In seeing,13
+34,4,Urban,90+,PUDUCHERRY,Karaikal,Female,In seeing,1
+34,4,Urban,Age Not Stated,PUDUCHERRY,Karaikal,Female,In seeing,0
+34,1,Rural,0-4,PUDUCHERRY,Yanam,Male,In Speech,0
+34,1,Rural,5-9,PUDUCHERRY,Yanam,Male,In Speech,0
+34,1,Rural,10-19,PUDUCHERRY,Yanam,Male,In Speech,0
+34,1,Rural,20-29,PUDUCHERRY,Yanam,Male,In Speech,0
+34,1,Rural,30-39,PUDUCHERRY,Yanam,Male,In Speech,0
+34,1,Rural,40-49,PUDUCHERRY,Yanam,Male,In Speech,0
+34,1,Rural,50-59,PUDUCHERRY,Yanam,Male,In Speech,0
+34,1,Rural,60-69,PUDUCHERRY,Yanam,Male,In Speech,0
+34,1,Rural,70-79,PUDUCHERRY,Yanam,Male,In Speech,0
+34,1,Rural,80-89,PUDUCHERRY,Yanam,Male,In Speech,0
+34,1,Rural,90+,PUDUCHERRY,Yanam,Male,In Speech,0
+34,1,Rural,Age Not Stated,PUDUCHERRY,Yanam,Male,In Speech,0
+34,1,Urban,0-4,PUDUCHERRY,Yanam,Male,In Speech,2
+34,1,Urban,5-9,PUDUCHERRY,Yanam,Male,In Speech,5
+34,1,Urban,10-19,PUDUCHERRY,Yanam,Male,In Speech,16
+34,1,Urban,20-29,PUDUCHERRY,Yanam,Male,In Speech,4
+34,1,Urban,30-39,PUDUCHERRY,Yanam,Male,In Speech,5
+34,1,Urban,40-49,PUDUCHERRY,Yanam,Male,In Speech,8
+34,1,Urban,50-59,PUDUCHERRY,Yanam,Male,In Speech,1
+34,1,Urban,60-69,PUDUCHERRY,Yanam,Male,In Speech,1
+34,1,Urban,70-79,PUDUCHERRY,Yanam,Male,In Speech,3
+34,1,Urban,80-89,PUDUCHERRY,Yanam,Male,In Speech,0
+34,1,Urban,90+,PUDUCHERRY,Yanam,Male,In Speech,0
+34,1,Urban,Age Not Stated,PUDUCHERRY,Yanam,Male,In Speech,0
+34,2,Rural,0-4,PUDUCHERRY,Puducherry,Male,In Speech,2
+34,2,Rural,5-9,PUDUCHERRY,Puducherry,Male,In Speech,16
+34,2,Rural,10-19,PUDUCHERRY,Puducherry,Male,In Speech,40
+34,2,Rural,20-29,PUDUCHERRY,Puducherry,Male,In Speech,50
+34,2,Rural,30-39,PUDUCHERRY,Puducherry,Male,In Speech,53
+34,2,Rural,40-49,PUDUCHERRY,Puducherry,Male,In Speech,37
+34,2,Rural,50-59,PUDUCHERRY,Puducherry,Male,In Speech,21
+34,2,Rural,60-69,PUDUCHERRY,Puducherry,Male,In Speech,10
+34,2,Rural,70-79,PUDUCHERRY,Puducherry,Male,In Speech,6
+34,2,Rural,80-89,PUDUCHERRY,Puducherry,Male,In Speech,2
+34,2,Rural,90+,PUDUCHERRY,Puducherry,Male,In Speech,1
+34,2,Rural,Age Not Stated,PUDUCHERRY,Puducherry,Male,In Speech,0
+34,2,Urban,0-4,PUDUCHERRY,Puducherry,Male,In Speech,2
+34,2,Urban,5-9,PUDUCHERRY,Puducherry,Male,In Speech,37
+34,2,Urban,10-19,PUDUCHERRY,Puducherry,Male,In Speech,72
+34,2,Urban,20-29,PUDUCHERRY,Puducherry,Male,In Speech,78
+34,2,Urban,30-39,PUDUCHERRY,Puducherry,Male,In Speech,96
+34,2,Urban,40-49,PUDUCHERRY,Puducherry,Male,In Speech,92
+34,2,Urban,50-59,PUDUCHERRY,Puducherry,Male,In Speech,47
+34,2,Urban,60-69,PUDUCHERRY,Puducherry,Male,In Speech,34
+34,2,Urban,70-79,PUDUCHERRY,Puducherry,Male,In Speech,9
+34,2,Urban,80-89,PUDUCHERRY,Puducherry,Male,In Speech,3
+34,2,Urban,90+,PUDUCHERRY,Puducherry,Male,In Speech,1
+34,2,Urban,Age Not Stated,PUDUCHERRY,Puducherry,Male,In Speech,0
+34,3,Rural,0-4,PUDUCHERRY,Mahe,Male,In Speech,0
+34,3,Rural,5-9,PUDUCHERRY,Mahe,Male,In Speech,0
+34,3,Rural,10-19,PUDUCHERRY,Mahe,Male,In Speech,0
+34,3,Rural,20-29,PUDUCHERRY,Mahe,Male,In Speech,0
+34,3,Rural,30-39,PUDUCHERRY,Mahe,Male,In Speech,0
+34,3,Rural,40-49,PUDUCHERRY,Mahe,Male,In Speech,0
+34,3,Rural,50-59,PUDUCHERRY,Mahe,Male,In Speech,0
+34,3,Rural,60-69,PUDUCHERRY,Mahe,Male,In Speech,0
+34,3,Rural,70-79,PUDUCHERRY,Mahe,Male,In Speech,0
+34,3,Rural,80-89,PUDUCHERRY,Mahe,Male,In Speech,0
+34,3,Rural,90+,PUDUCHERRY,Mahe,Male,In Speech,0
+34,3,Rural,Age Not Stated,PUDUCHERRY,Mahe,Male,In Speech,0
+34,3,Urban,0-4,PUDUCHERRY,Mahe,Male,In Speech,0
+34,3,Urban,5-9,PUDUCHERRY,Mahe,Male,In Speech,1
+34,3,Urban,10-19,PUDUCHERRY,Mahe,Male,In Speech,3
+34,3,Urban,20-29,PUDUCHERRY,Mahe,Male,In Speech,4
+34,3,Urban,30-39,PUDUCHERRY,Mahe,Male,In Speech,5
+34,3,Urban,40-49,PUDUCHERRY,Mahe,Male,In Speech,3
+34,3,Urban,50-59,PUDUCHERRY,Mahe,Male,In Speech,5
+34,3,Urban,60-69,PUDUCHERRY,Mahe,Male,In Speech,2
+34,3,Urban,70-79,PUDUCHERRY,Mahe,Male,In Speech,0
+34,3,Urban,80-89,PUDUCHERRY,Mahe,Male,In Speech,0
+34,3,Urban,90+,PUDUCHERRY,Mahe,Male,In Speech,0
+34,3,Urban,Age Not Stated,PUDUCHERRY,Mahe,Male,In Speech,1
+34,4,Rural,0-4,PUDUCHERRY,Karaikal,Male,In Speech,0
+34,4,Rural,5-9,PUDUCHERRY,Karaikal,Male,In Speech,8
+34,4,Rural,10-19,PUDUCHERRY,Karaikal,Male,In Speech,20
+34,4,Rural,20-29,PUDUCHERRY,Karaikal,Male,In Speech,20
+34,4,Rural,30-39,PUDUCHERRY,Karaikal,Male,In Speech,16
+34,4,Rural,40-49,PUDUCHERRY,Karaikal,Male,In Speech,18
+34,4,Rural,50-59,PUDUCHERRY,Karaikal,Male,In Speech,6
+34,4,Rural,60-69,PUDUCHERRY,Karaikal,Male,In Speech,7
+34,4,Rural,70-79,PUDUCHERRY,Karaikal,Male,In Speech,5
+34,4,Rural,80-89,PUDUCHERRY,Karaikal,Male,In Speech,1
+34,4,Rural,90+,PUDUCHERRY,Karaikal,Male,In Speech,0
+34,4,Rural,Age Not Stated,PUDUCHERRY,Karaikal,Male,In Speech,0
+34,4,Urban,0-4,PUDUCHERRY,Karaikal,Male,In Speech,5
+34,4,Urban,5-9,PUDUCHERRY,Karaikal,Male,In Speech,6
+34,4,Urban,10-19,PUDUCHERRY,Karaikal,Male,In Speech,9
+34,4,Urban,20-29,PUDUCHERRY,Karaikal,Male,In Speech,18
+34,4,Urban,30-39,PUDUCHERRY,Karaikal,Male,In Speech,18
+34,4,Urban,40-49,PUDUCHERRY,Karaikal,Male,In Speech,14
+34,4,Urban,50-59,PUDUCHERRY,Karaikal,Male,In Speech,5
+34,4,Urban,60-69,PUDUCHERRY,Karaikal,Male,In Speech,4
+34,4,Urban,70-79,PUDUCHERRY,Karaikal,Male,In Speech,0
+34,4,Urban,80-89,PUDUCHERRY,Karaikal,Male,In Speech,0
+34,4,Urban,90+,PUDUCHERRY,Karaikal,Male,In Speech,0
+34,4,Urban,Age Not Stated,PUDUCHERRY,Karaikal,Male,In Speech,0
+34,1,Rural,0-4,PUDUCHERRY,Yanam,Female,In Speech,0
+34,1,Rural,5-9,PUDUCHERRY,Yanam,Female,In Speech,0
+34,1,Rural,10-19,PUDUCHERRY,Yanam,Female,In Speech,0
+34,1,Rural,20-29,PUDUCHERRY,Yanam,Female,In Speech,0
+34,1,Rural,30-39,PUDUCHERRY,Yanam,Female,In Speech,0
+34,1,Rural,40-49,PUDUCHERRY,Yanam,Female,In Speech,0
+34,1,Rural,50-59,PUDUCHERRY,Yanam,Female,In Speech,0
+34,1,Rural,60-69,PUDUCHERRY,Yanam,Female,In Speech,0
+34,1,Rural,70-79,PUDUCHERRY,Yanam,Female,In Speech,0
+34,1,Rural,80-89,PUDUCHERRY,Yanam,Female,In Speech,0
+34,1,Rural,90+,PUDUCHERRY,Yanam,Female,In Speech,0
+34,1,Rural,Age Not Stated,PUDUCHERRY,Yanam,Female,In Speech,0
+34,1,Urban,0-4,PUDUCHERRY,Yanam,Female,In Speech,0
+34,1,Urban,5-9,PUDUCHERRY,Yanam,Female,In Speech,9
+34,1,Urban,10-19,PUDUCHERRY,Yanam,Female,In Speech,15
+34,1,Urban,20-29,PUDUCHERRY,Yanam,Female,In Speech,4
+34,1,Urban,30-39,PUDUCHERRY,Yanam,Female,In Speech,4
+34,1,Urban,40-49,PUDUCHERRY,Yanam,Female,In Speech,2
+34,1,Urban,50-59,PUDUCHERRY,Yanam,Female,In Speech,3
+34,1,Urban,60-69,PUDUCHERRY,Yanam,Female,In Speech,3
+34,1,Urban,70-79,PUDUCHERRY,Yanam,Female,In Speech,0
+34,1,Urban,80-89,PUDUCHERRY,Yanam,Female,In Speech,0
+34,1,Urban,90+,PUDUCHERRY,Yanam,Female,In Speech,0
+34,1,Urban,Age Not Stated,PUDUCHERRY,Yanam,Female,In Speech,0
+34,2,Rural,0-4,PUDUCHERRY,Puducherry,Female,In Speech,2
+34,2,Rural,5-9,PUDUCHERRY,Puducherry,Female,In Speech,10
+34,2,Rural,10-19,PUDUCHERRY,Puducherry,Female,In Speech,35
+34,2,Rural,20-29,PUDUCHERRY,Puducherry,Female,In Speech,41
+34,2,Rural,30-39,PUDUCHERRY,Puducherry,Female,In Speech,42
+34,2,Rural,40-49,PUDUCHERRY,Puducherry,Female,In Speech,26
+34,2,Rural,50-59,PUDUCHERRY,Puducherry,Female,In Speech,16
+34,2,Rural,60-69,PUDUCHERRY,Puducherry,Female,In Speech,8
+34,2,Rural,70-79,PUDUCHERRY,Puducherry,Female,In Speech,4
+34,2,Rural,80-89,PUDUCHERRY,Puducherry,Female,In Speech,2
+34,2,Rural,90+,PUDUCHERRY,Puducherry,Female,In Speech,0
+34,2,Rural,Age Not Stated,PUDUCHERRY,Puducherry,Female,In Speech,1
+34,2,Urban,0-4,PUDUCHERRY,Puducherry,Female,In Speech,5
+34,2,Urban,5-9,PUDUCHERRY,Puducherry,Female,In Speech,35
+34,2,Urban,10-19,PUDUCHERRY,Puducherry,Female,In Speech,67
+34,2,Urban,20-29,PUDUCHERRY,Puducherry,Female,In Speech,98
+34,2,Urban,30-39,PUDUCHERRY,Puducherry,Female,In Speech,85
+34,2,Urban,40-49,PUDUCHERRY,Puducherry,Female,In Speech,65
+34,2,Urban,50-59,PUDUCHERRY,Puducherry,Female,In Speech,46
+34,2,Urban,60-69,PUDUCHERRY,Puducherry,Female,In Speech,36
+34,2,Urban,70-79,PUDUCHERRY,Puducherry,Female,In Speech,15
+34,2,Urban,80-89,PUDUCHERRY,Puducherry,Female,In Speech,8
+34,2,Urban,90+,PUDUCHERRY,Puducherry,Female,In Speech,2
+34,2,Urban,Age Not Stated,PUDUCHERRY,Puducherry,Female,In Speech,0
+34,3,Rural,0-4,PUDUCHERRY,Mahe,Female,In Speech,0
+34,3,Rural,5-9,PUDUCHERRY,Mahe,Female,In Speech,0
+34,3,Rural,10-19,PUDUCHERRY,Mahe,Female,In Speech,0
+34,3,Rural,20-29,PUDUCHERRY,Mahe,Female,In Speech,0
+34,3,Rural,30-39,PUDUCHERRY,Mahe,Female,In Speech,0
+34,3,Rural,40-49,PUDUCHERRY,Mahe,Female,In Speech,0
+34,3,Rural,50-59,PUDUCHERRY,Mahe,Female,In Speech,0
+34,3,Rural,60-69,PUDUCHERRY,Mahe,Female,In Speech,0
+34,3,Rural,70-79,PUDUCHERRY,Mahe,Female,In Speech,0
+34,3,Rural,80-89,PUDUCHERRY,Mahe,Female,In Speech,0
+34,3,Rural,90+,PUDUCHERRY,Mahe,Female,In Speech,0
+34,3,Rural,Age Not Stated,PUDUCHERRY,Mahe,Female,In Speech,0
+34,3,Urban,0-4,PUDUCHERRY,Mahe,Female,In Speech,0
+34,3,Urban,5-9,PUDUCHERRY,Mahe,Female,In Speech,2
+34,3,Urban,10-19,PUDUCHERRY,Mahe,Female,In Speech,2
+34,3,Urban,20-29,PUDUCHERRY,Mahe,Female,In Speech,2
+34,3,Urban,30-39,PUDUCHERRY,Mahe,Female,In Speech,9
+34,3,Urban,40-49,PUDUCHERRY,Mahe,Female,In Speech,5
+34,3,Urban,50-59,PUDUCHERRY,Mahe,Female,In Speech,1
+34,3,Urban,60-69,PUDUCHERRY,Mahe,Female,In Speech,4
+34,3,Urban,70-79,PUDUCHERRY,Mahe,Female,In Speech,0
+34,3,Urban,80-89,PUDUCHERRY,Mahe,Female,In Speech,0
+34,3,Urban,90+,PUDUCHERRY,Mahe,Female,In Speech,0
+34,3,Urban,Age Not Stated,PUDUCHERRY,Mahe,Female,In Speech,0
+34,4,Rural,0-4,PUDUCHERRY,Karaikal,Female,In Speech,1
+34,4,Rural,5-9,PUDUCHERRY,Karaikal,Female,In Speech,7
+34,4,Rural,10-19,PUDUCHERRY,Karaikal,Female,In Speech,16
+34,4,Rural,20-29,PUDUCHERRY,Karaikal,Female,In Speech,19
+34,4,Rural,30-39,PUDUCHERRY,Karaikal,Female,In Speech,11
+34,4,Rural,40-49,PUDUCHERRY,Karaikal,Female,In Speech,13
+34,4,Rural,50-59,PUDUCHERRY,Karaikal,Female,In Speech,10
+34,4,Rural,60-69,PUDUCHERRY,Karaikal,Female,In Speech,6
+34,4,Rural,70-79,PUDUCHERRY,Karaikal,Female,In Speech,2
+34,4,Rural,80-89,PUDUCHERRY,Karaikal,Female,In Speech,0
+34,4,Rural,90+,PUDUCHERRY,Karaikal,Female,In Speech,0
+34,4,Rural,Age Not Stated,PUDUCHERRY,Karaikal,Female,In Speech,0
+34,4,Urban,0-4,PUDUCHERRY,Karaikal,Female,In Speech,0
+34,4,Urban,5-9,PUDUCHERRY,Karaikal,Female,In Speech,5
+34,4,Urban,10-19,PUDUCHERRY,Karaikal,Female,In Speech,10
+34,4,Urban,20-29,PUDUCHERRY,Karaikal,Female,In Speech,16
+34,4,Urban,30-39,PUDUCHERRY,Karaikal,Female,In Speech,17
+34,4,Urban,40-49,PUDUCHERRY,Karaikal,Female,In Speech,13
+34,4,Urban,50-59,PUDUCHERRY,Karaikal,Female,In Speech,3
+34,4,Urban,60-69,PUDUCHERRY,Karaikal,Female,In Speech,0
+34,4,Urban,70-79,PUDUCHERRY,Karaikal,Female,In Speech,3
+34,4,Urban,80-89,PUDUCHERRY,Karaikal,Female,In Speech,0
+34,4,Urban,90+,PUDUCHERRY,Karaikal,Female,In Speech,0
+34,4,Urban,Age Not Stated,PUDUCHERRY,Karaikal,Female,In Speech,0
+34,1,Rural,0-4,PUDUCHERRY,Yanam,Male,In Hearing,0
+34,1,Rural,5-9,PUDUCHERRY,Yanam,Male,In Hearing,0
+34,1,Rural,10-19,PUDUCHERRY,Yanam,Male,In Hearing,0
+34,1,Rural,20-29,PUDUCHERRY,Yanam,Male,In Hearing,0
+34,1,Rural,30-39,PUDUCHERRY,Yanam,Male,In Hearing,0
+34,1,Rural,40-49,PUDUCHERRY,Yanam,Male,In Hearing,0
+34,1,Rural,50-59,PUDUCHERRY,Yanam,Male,In Hearing,0
+34,1,Rural,60-69,PUDUCHERRY,Yanam,Male,In Hearing,0
+34,1,Rural,70-79,PUDUCHERRY,Yanam,Male,In Hearing,0
+34,1,Rural,80-89,PUDUCHERRY,Yanam,Male,In Hearing,0
+34,1,Rural,90+,PUDUCHERRY,Yanam,Male,In Hearing,0
+34,1,Rural,Age Not Stated,PUDUCHERRY,Yanam,Male,In Hearing,0
+34,1,Urban,0-4,PUDUCHERRY,Yanam,Male,In Hearing,0
+34,1,Urban,5-9,PUDUCHERRY,Yanam,Male,In Hearing,5
+34,1,Urban,10-19,PUDUCHERRY,Yanam,Male,In Hearing,9
+34,1,Urban,20-29,PUDUCHERRY,Yanam,Male,In Hearing,12
+34,1,Urban,30-39,PUDUCHERRY,Yanam,Male,In Hearing,15
+34,1,Urban,40-49,PUDUCHERRY,Yanam,Male,In Hearing,11
+34,1,Urban,50-59,PUDUCHERRY,Yanam,Male,In Hearing,5
+34,1,Urban,60-69,PUDUCHERRY,Yanam,Male,In Hearing,11
+34,1,Urban,70-79,PUDUCHERRY,Yanam,Male,In Hearing,8
+34,1,Urban,80-89,PUDUCHERRY,Yanam,Male,In Hearing,1
+34,1,Urban,90+,PUDUCHERRY,Yanam,Male,In Hearing,1
+34,1,Urban,Age Not Stated,PUDUCHERRY,Yanam,Male,In Hearing,0
+34,2,Rural,0-4,PUDUCHERRY,Puducherry,Male,In Hearing,25
+34,2,Rural,5-9,PUDUCHERRY,Puducherry,Male,In Hearing,28
+34,2,Rural,10-19,PUDUCHERRY,Puducherry,Male,In Hearing,70
+34,2,Rural,20-29,PUDUCHERRY,Puducherry,Male,In Hearing,125
+34,2,Rural,30-39,PUDUCHERRY,Puducherry,Male,In Hearing,117
+34,2,Rural,40-49,PUDUCHERRY,Puducherry,Male,In Hearing,132
+34,2,Rural,50-59,PUDUCHERRY,Puducherry,Male,In Hearing,122
+34,2,Rural,60-69,PUDUCHERRY,Puducherry,Male,In Hearing,91
+34,2,Rural,70-79,PUDUCHERRY,Puducherry,Male,In Hearing,71
+34,2,Rural,80-89,PUDUCHERRY,Puducherry,Male,In Hearing,36
+34,2,Rural,90+,PUDUCHERRY,Puducherry,Male,In Hearing,6
+34,2,Rural,Age Not Stated,PUDUCHERRY,Puducherry,Male,In Hearing,2
+34,2,Urban,0-4,PUDUCHERRY,Puducherry,Male,In Hearing,44
+34,2,Urban,5-9,PUDUCHERRY,Puducherry,Male,In Hearing,82
+34,2,Urban,10-19,PUDUCHERRY,Puducherry,Male,In Hearing,148
+34,2,Urban,20-29,PUDUCHERRY,Puducherry,Male,In Hearing,168
+34,2,Urban,30-39,PUDUCHERRY,Puducherry,Male,In Hearing,238
+34,2,Urban,40-49,PUDUCHERRY,Puducherry,Male,In Hearing,251
+34,2,Urban,50-59,PUDUCHERRY,Puducherry,Male,In Hearing,207
+34,2,Urban,60-69,PUDUCHERRY,Puducherry,Male,In Hearing,199
+34,2,Urban,70-79,PUDUCHERRY,Puducherry,Male,In Hearing,153
+34,2,Urban,80-89,PUDUCHERRY,Puducherry,Male,In Hearing,74
+34,2,Urban,90+,PUDUCHERRY,Puducherry,Male,In Hearing,11
+34,2,Urban,Age Not Stated,PUDUCHERRY,Puducherry,Male,In Hearing,0
+34,3,Rural,0-4,PUDUCHERRY,Mahe,Male,In Hearing,0
+34,3,Rural,5-9,PUDUCHERRY,Mahe,Male,In Hearing,0
+34,3,Rural,10-19,PUDUCHERRY,Mahe,Male,In Hearing,0
+34,3,Rural,20-29,PUDUCHERRY,Mahe,Male,In Hearing,0
+34,3,Rural,30-39,PUDUCHERRY,Mahe,Male,In Hearing,0
+34,3,Rural,40-49,PUDUCHERRY,Mahe,Male,In Hearing,0
+34,3,Rural,50-59,PUDUCHERRY,Mahe,Male,In Hearing,0
+34,3,Rural,60-69,PUDUCHERRY,Mahe,Male,In Hearing,0
+34,3,Rural,70-79,PUDUCHERRY,Mahe,Male,In Hearing,0
+34,3,Rural,80-89,PUDUCHERRY,Mahe,Male,In Hearing,0
+34,3,Rural,90+,PUDUCHERRY,Mahe,Male,In Hearing,0
+34,3,Rural,Age Not Stated,PUDUCHERRY,Mahe,Male,In Hearing,0
+34,3,Urban,0-4,PUDUCHERRY,Mahe,Male,In Hearing,0
+34,3,Urban,5-9,PUDUCHERRY,Mahe,Male,In Hearing,3
+34,3,Urban,10-19,PUDUCHERRY,Mahe,Male,In Hearing,4
+34,3,Urban,20-29,PUDUCHERRY,Mahe,Male,In Hearing,4
+34,3,Urban,30-39,PUDUCHERRY,Mahe,Male,In Hearing,2
+34,3,Urban,40-49,PUDUCHERRY,Mahe,Male,In Hearing,6
+34,3,Urban,50-59,PUDUCHERRY,Mahe,Male,In Hearing,4
+34,3,Urban,60-69,PUDUCHERRY,Mahe,Male,In Hearing,4
+34,3,Urban,70-79,PUDUCHERRY,Mahe,Male,In Hearing,6
+34,3,Urban,80-89,PUDUCHERRY,Mahe,Male,In Hearing,0
+34,3,Urban,90+,PUDUCHERRY,Mahe,Male,In Hearing,0
+34,3,Urban,Age Not Stated,PUDUCHERRY,Mahe,Male,In Hearing,0
+34,4,Rural,0-4,PUDUCHERRY,Karaikal,Male,In Hearing,10
+34,4,Rural,5-9,PUDUCHERRY,Karaikal,Male,In Hearing,15
+34,4,Rural,10-19,PUDUCHERRY,Karaikal,Male,In Hearing,27
+34,4,Rural,20-29,PUDUCHERRY,Karaikal,Male,In Hearing,36
+34,4,Rural,30-39,PUDUCHERRY,Karaikal,Male,In Hearing,40
+34,4,Rural,40-49,PUDUCHERRY,Karaikal,Male,In Hearing,39
+34,4,Rural,50-59,PUDUCHERRY,Karaikal,Male,In Hearing,37
+34,4,Rural,60-69,PUDUCHERRY,Karaikal,Male,In Hearing,24
+34,4,Rural,70-79,PUDUCHERRY,Karaikal,Male,In Hearing,29
+34,4,Rural,80-89,PUDUCHERRY,Karaikal,Male,In Hearing,13
+34,4,Rural,90+,PUDUCHERRY,Karaikal,Male,In Hearing,2
+34,4,Rural,Age Not Stated,PUDUCHERRY,Karaikal,Male,In Hearing,1
+34,4,Urban,0-4,PUDUCHERRY,Karaikal,Male,In Hearing,10
+34,4,Urban,5-9,PUDUCHERRY,Karaikal,Male,In Hearing,9
+34,4,Urban,10-19,PUDUCHERRY,Karaikal,Male,In Hearing,18
+34,4,Urban,20-29,PUDUCHERRY,Karaikal,Male,In Hearing,14
+34,4,Urban,30-39,PUDUCHERRY,Karaikal,Male,In Hearing,21
+34,4,Urban,40-49,PUDUCHERRY,Karaikal,Male,In Hearing,36
+34,4,Urban,50-59,PUDUCHERRY,Karaikal,Male,In Hearing,32
+34,4,Urban,60-69,PUDUCHERRY,Karaikal,Male,In Hearing,17
+34,4,Urban,70-79,PUDUCHERRY,Karaikal,Male,In Hearing,10
+34,4,Urban,80-89,PUDUCHERRY,Karaikal,Male,In Hearing,8
+34,4,Urban,90+,PUDUCHERRY,Karaikal,Male,In Hearing,0
+34,4,Urban,Age Not Stated,PUDUCHERRY,Karaikal,Male,In Hearing,0
+34,1,Rural,0-4,PUDUCHERRY,Yanam,Female,In Hearing,0
+34,1,Rural,5-9,PUDUCHERRY,Yanam,Female,In Hearing,0
+34,1,Rural,10-19,PUDUCHERRY,Yanam,Female,In Hearing,0
+34,1,Rural,20-29,PUDUCHERRY,Yanam,Female,In Hearing,0
+34,1,Rural,30-39,PUDUCHERRY,Yanam,Female,In Hearing,0
+34,1,Rural,40-49,PUDUCHERRY,Yanam,Female,In Hearing,0
+34,1,Rural,50-59,PUDUCHERRY,Yanam,Female,In Hearing,0
+34,1,Rural,60-69,PUDUCHERRY,Yanam,Female,In Hearing,0
+34,1,Rural,70-79,PUDUCHERRY,Yanam,Female,In Hearing,0
+34,1,Rural,80-89,PUDUCHERRY,Yanam,Female,In Hearing,0
+34,1,Rural,90+,PUDUCHERRY,Yanam,Female,In Hearing,0
+34,1,Rural,Age Not Stated,PUDUCHERRY,Yanam,Female,In Hearing,0
+34,1,Urban,0-4,PUDUCHERRY,Yanam,Female,In Hearing,0
+34,1,Urban,5-9,PUDUCHERRY,Yanam,Female,In Hearing,2
+34,1,Urban,10-19,PUDUCHERRY,Yanam,Female,In Hearing,7
+34,1,Urban,20-29,PUDUCHERRY,Yanam,Female,In Hearing,11
+34,1,Urban,30-39,PUDUCHERRY,Yanam,Female,In Hearing,8
+34,1,Urban,40-49,PUDUCHERRY,Yanam,Female,In Hearing,6
+34,1,Urban,50-59,PUDUCHERRY,Yanam,Female,In Hearing,13
+34,1,Urban,60-69,PUDUCHERRY,Yanam,Female,In Hearing,11
+34,1,Urban,70-79,PUDUCHERRY,Yanam,Female,In Hearing,9
+34,1,Urban,80-89,PUDUCHERRY,Yanam,Female,In Hearing,5
+34,1,Urban,90+,PUDUCHERRY,Yanam,Female,In Hearing,0
+34,1,Urban,Age Not Stated,PUDUCHERRY,Yanam,Female,In Hearing,0
+34,2,Rural,0-4,PUDUCHERRY,Puducherry,Female,In Hearing,29
+34,2,Rural,5-9,PUDUCHERRY,Puducherry,Female,In Hearing,24
+34,2,Rural,10-19,PUDUCHERRY,Puducherry,Female,In Hearing,60
+34,2,Rural,20-29,PUDUCHERRY,Puducherry,Female,In Hearing,106
+34,2,Rural,30-39,PUDUCHERRY,Puducherry,Female,In Hearing,127
+34,2,Rural,40-49,PUDUCHERRY,Puducherry,Female,In Hearing,138
+34,2,Rural,50-59,PUDUCHERRY,Puducherry,Female,In Hearing,109
+34,2,Rural,60-69,PUDUCHERRY,Puducherry,Female,In Hearing,119
+34,2,Rural,70-79,PUDUCHERRY,Puducherry,Female,In Hearing,108
+34,2,Rural,80-89,PUDUCHERRY,Puducherry,Female,In Hearing,32
+34,2,Rural,90+,PUDUCHERRY,Puducherry,Female,In Hearing,6
+34,2,Rural,Age Not Stated,PUDUCHERRY,Puducherry,Female,In Hearing,0
+34,2,Urban,0-4,PUDUCHERRY,Puducherry,Female,In Hearing,56
+34,2,Urban,5-9,PUDUCHERRY,Puducherry,Female,In Hearing,58
+34,2,Urban,10-19,PUDUCHERRY,Puducherry,Female,In Hearing,127
+34,2,Urban,20-29,PUDUCHERRY,Puducherry,Female,In Hearing,158
+34,2,Urban,30-39,PUDUCHERRY,Puducherry,Female,In Hearing,259
+34,2,Urban,40-49,PUDUCHERRY,Puducherry,Female,In Hearing,226
+34,2,Urban,50-59,PUDUCHERRY,Puducherry,Female,In Hearing,258
+34,2,Urban,60-69,PUDUCHERRY,Puducherry,Female,In Hearing,256
+34,2,Urban,70-79,PUDUCHERRY,Puducherry,Female,In Hearing,211
+34,2,Urban,80-89,PUDUCHERRY,Puducherry,Female,In Hearing,88
+34,2,Urban,90+,PUDUCHERRY,Puducherry,Female,In Hearing,18
+34,2,Urban,Age Not Stated,PUDUCHERRY,Puducherry,Female,In Hearing,1
+34,3,Rural,0-4,PUDUCHERRY,Mahe,Female,In Hearing,0
+34,3,Rural,5-9,PUDUCHERRY,Mahe,Female,In Hearing,0
+34,3,Rural,10-19,PUDUCHERRY,Mahe,Female,In Hearing,0
+34,3,Rural,20-29,PUDUCHERRY,Mahe,Female,In Hearing,0
+34,3,Rural,30-39,PUDUCHERRY,Mahe,Female,In Hearing,0
+34,3,Rural,40-49,PUDUCHERRY,Mahe,Female,In Hearing,0
+34,3,Rural,50-59,PUDUCHERRY,Mahe,Female,In Hearing,0
+34,3,Rural,60-69,PUDUCHERRY,Mahe,Female,In Hearing,0
+34,3,Rural,70-79,PUDUCHERRY,Mahe,Female,In Hearing,0
+34,3,Rural,80-89,PUDUCHERRY,Mahe,Female,In Hearing,0
+34,3,Rural,90+,PUDUCHERRY,Mahe,Female,In Hearing,0
+34,3,Rural,Age Not Stated,PUDUCHERRY,Mahe,Female,In Hearing,0
+34,3,Urban,0-4,PUDUCHERRY,Mahe,Female,In Hearing,1
+34,3,Urban,5-9,PUDUCHERRY,Mahe,Female,In Hearing,0
+34,3,Urban,10-19,PUDUCHERRY,Mahe,Female,In Hearing,2
+34,3,Urban,20-29,PUDUCHERRY,Mahe,Female,In Hearing,5
+34,3,Urban,30-39,PUDUCHERRY,Mahe,Female,In Hearing,6
+34,3,Urban,40-49,PUDUCHERRY,Mahe,Female,In Hearing,6
+34,3,Urban,50-59,PUDUCHERRY,Mahe,Female,In Hearing,7
+34,3,Urban,60-69,PUDUCHERRY,Mahe,Female,In Hearing,7
+34,3,Urban,70-79,PUDUCHERRY,Mahe,Female,In Hearing,10
+34,3,Urban,80-89,PUDUCHERRY,Mahe,Female,In Hearing,3
+34,3,Urban,90+,PUDUCHERRY,Mahe,Female,In Hearing,0
+34,3,Urban,Age Not Stated,PUDUCHERRY,Mahe,Female,In Hearing,1
+34,4,Rural,0-4,PUDUCHERRY,Karaikal,Female,In Hearing,9
+34,4,Rural,5-9,PUDUCHERRY,Karaikal,Female,In Hearing,9
+34,4,Rural,10-19,PUDUCHERRY,Karaikal,Female,In Hearing,25
+34,4,Rural,20-29,PUDUCHERRY,Karaikal,Female,In Hearing,26
+34,4,Rural,30-39,PUDUCHERRY,Karaikal,Female,In Hearing,31
+34,4,Rural,40-49,PUDUCHERRY,Karaikal,Female,In Hearing,37
+34,4,Rural,50-59,PUDUCHERRY,Karaikal,Female,In Hearing,52
+34,4,Rural,60-69,PUDUCHERRY,Karaikal,Female,In Hearing,41
+34,4,Rural,70-79,PUDUCHERRY,Karaikal,Female,In Hearing,28
+34,4,Rural,80-89,PUDUCHERRY,Karaikal,Female,In Hearing,14
+34,4,Rural,90+,PUDUCHERRY,Karaikal,Female,In Hearing,1
+34,4,Rural,Age Not Stated,PUDUCHERRY,Karaikal,Female,In Hearing,0
+34,4,Urban,0-4,PUDUCHERRY,Karaikal,Female,In Hearing,6
+34,4,Urban,5-9,PUDUCHERRY,Karaikal,Female,In Hearing,14
+34,4,Urban,10-19,PUDUCHERRY,Karaikal,Female,In Hearing,24
+34,4,Urban,20-29,PUDUCHERRY,Karaikal,Female,In Hearing,30
+34,4,Urban,30-39,PUDUCHERRY,Karaikal,Female,In Hearing,19
+34,4,Urban,40-49,PUDUCHERRY,Karaikal,Female,In Hearing,34
+34,4,Urban,50-59,PUDUCHERRY,Karaikal,Female,In Hearing,26
+34,4,Urban,60-69,PUDUCHERRY,Karaikal,Female,In Hearing,44
+34,4,Urban,70-79,PUDUCHERRY,Karaikal,Female,In Hearing,19
+34,4,Urban,80-89,PUDUCHERRY,Karaikal,Female,In Hearing,7
+34,4,Urban,90+,PUDUCHERRY,Karaikal,Female,In Hearing,3
+34,4,Urban,Age Not Stated,PUDUCHERRY,Karaikal,Female,In Hearing,0
+34,1,Rural,0-4,PUDUCHERRY,Yanam,Male,In Movement,0
+34,1,Rural,5-9,PUDUCHERRY,Yanam,Male,In Movement,0
+34,1,Rural,10-19,PUDUCHERRY,Yanam,Male,In Movement,0
+34,1,Rural,20-29,PUDUCHERRY,Yanam,Male,In Movement,0
+34,1,Rural,30-39,PUDUCHERRY,Yanam,Male,In Movement,0
+34,1,Rural,40-49,PUDUCHERRY,Yanam,Male,In Movement,0
+34,1,Rural,50-59,PUDUCHERRY,Yanam,Male,In Movement,0
+34,1,Rural,60-69,PUDUCHERRY,Yanam,Male,In Movement,0
+34,1,Rural,70-79,PUDUCHERRY,Yanam,Male,In Movement,0
+34,1,Rural,80-89,PUDUCHERRY,Yanam,Male,In Movement,0
+34,1,Rural,90+,PUDUCHERRY,Yanam,Male,In Movement,0
+34,1,Rural,Age Not Stated,PUDUCHERRY,Yanam,Male,In Movement,0
+34,1,Urban,0-4,PUDUCHERRY,Yanam,Male,In Movement,4
+34,1,Urban,5-9,PUDUCHERRY,Yanam,Male,In Movement,14
+34,1,Urban,10-19,PUDUCHERRY,Yanam,Male,In Movement,41
+34,1,Urban,20-29,PUDUCHERRY,Yanam,Male,In Movement,59
+34,1,Urban,30-39,PUDUCHERRY,Yanam,Male,In Movement,53
+34,1,Urban,40-49,PUDUCHERRY,Yanam,Male,In Movement,47
+34,1,Urban,50-59,PUDUCHERRY,Yanam,Male,In Movement,33
+34,1,Urban,60-69,PUDUCHERRY,Yanam,Male,In Movement,42
+34,1,Urban,70-79,PUDUCHERRY,Yanam,Male,In Movement,16
+34,1,Urban,80-89,PUDUCHERRY,Yanam,Male,In Movement,0
+34,1,Urban,90+,PUDUCHERRY,Yanam,Male,In Movement,0
+34,1,Urban,Age Not Stated,PUDUCHERRY,Yanam,Male,In Movement,0
+34,2,Rural,0-4,PUDUCHERRY,Puducherry,Male,In Movement,9
+34,2,Rural,5-9,PUDUCHERRY,Puducherry,Male,In Movement,32
+34,2,Rural,10-19,PUDUCHERRY,Puducherry,Male,In Movement,98
+34,2,Rural,20-29,PUDUCHERRY,Puducherry,Male,In Movement,233
+34,2,Rural,30-39,PUDUCHERRY,Puducherry,Male,In Movement,280
+34,2,Rural,40-49,PUDUCHERRY,Puducherry,Male,In Movement,285
+34,2,Rural,50-59,PUDUCHERRY,Puducherry,Male,In Movement,240
+34,2,Rural,60-69,PUDUCHERRY,Puducherry,Male,In Movement,199
+34,2,Rural,70-79,PUDUCHERRY,Puducherry,Male,In Movement,104
+34,2,Rural,80-89,PUDUCHERRY,Puducherry,Male,In Movement,32
+34,2,Rural,90+,PUDUCHERRY,Puducherry,Male,In Movement,6
+34,2,Rural,Age Not Stated,PUDUCHERRY,Puducherry,Male,In Movement,0
+34,2,Urban,0-4,PUDUCHERRY,Puducherry,Male,In Movement,20
+34,2,Urban,5-9,PUDUCHERRY,Puducherry,Male,In Movement,64
+34,2,Urban,10-19,PUDUCHERRY,Puducherry,Male,In Movement,162
+34,2,Urban,20-29,PUDUCHERRY,Puducherry,Male,In Movement,350
+34,2,Urban,30-39,PUDUCHERRY,Puducherry,Male,In Movement,541
+34,2,Urban,40-49,PUDUCHERRY,Puducherry,Male,In Movement,502
+34,2,Urban,50-59,PUDUCHERRY,Puducherry,Male,In Movement,442
+34,2,Urban,60-69,PUDUCHERRY,Puducherry,Male,In Movement,305
+34,2,Urban,70-79,PUDUCHERRY,Puducherry,Male,In Movement,209
+34,2,Urban,80-89,PUDUCHERRY,Puducherry,Male,In Movement,50
+34,2,Urban,90+,PUDUCHERRY,Puducherry,Male,In Movement,6
+34,2,Urban,Age Not Stated,PUDUCHERRY,Puducherry,Male,In Movement,2
+34,3,Rural,0-4,PUDUCHERRY,Mahe,Male,In Movement,0
+34,3,Rural,5-9,PUDUCHERRY,Mahe,Male,In Movement,0
+34,3,Rural,10-19,PUDUCHERRY,Mahe,Male,In Movement,0
+34,3,Rural,20-29,PUDUCHERRY,Mahe,Male,In Movement,0
+34,3,Rural,30-39,PUDUCHERRY,Mahe,Male,In Movement,0
+34,3,Rural,40-49,PUDUCHERRY,Mahe,Male,In Movement,0
+34,3,Rural,50-59,PUDUCHERRY,Mahe,Male,In Movement,0
+34,3,Rural,60-69,PUDUCHERRY,Mahe,Male,In Movement,0
+34,3,Rural,70-79,PUDUCHERRY,Mahe,Male,In Movement,0
+34,3,Rural,80-89,PUDUCHERRY,Mahe,Male,In Movement,0
+34,3,Rural,90+,PUDUCHERRY,Mahe,Male,In Movement,0
+34,3,Rural,Age Not Stated,PUDUCHERRY,Mahe,Male,In Movement,0
+34,3,Urban,0-4,PUDUCHERRY,Mahe,Male,In Movement,0
+34,3,Urban,5-9,PUDUCHERRY,Mahe,Male,In Movement,5
+34,3,Urban,10-19,PUDUCHERRY,Mahe,Male,In Movement,7
+34,3,Urban,20-29,PUDUCHERRY,Mahe,Male,In Movement,9
+34,3,Urban,30-39,PUDUCHERRY,Mahe,Male,In Movement,15
+34,3,Urban,40-49,PUDUCHERRY,Mahe,Male,In Movement,14
+34,3,Urban,50-59,PUDUCHERRY,Mahe,Male,In Movement,10
+34,3,Urban,60-69,PUDUCHERRY,Mahe,Male,In Movement,25
+34,3,Urban,70-79,PUDUCHERRY,Mahe,Male,In Movement,6
+34,3,Urban,80-89,PUDUCHERRY,Mahe,Male,In Movement,3
+34,3,Urban,90+,PUDUCHERRY,Mahe,Male,In Movement,1
+34,3,Urban,Age Not Stated,PUDUCHERRY,Mahe,Male,In Movement,0
+34,4,Rural,0-4,PUDUCHERRY,Karaikal,Male,In Movement,6
+34,4,Rural,5-9,PUDUCHERRY,Karaikal,Male,In Movement,12
+34,4,Rural,10-19,PUDUCHERRY,Karaikal,Male,In Movement,34
+34,4,Rural,20-29,PUDUCHERRY,Karaikal,Male,In Movement,56
+34,4,Rural,30-39,PUDUCHERRY,Karaikal,Male,In Movement,83
+34,4,Rural,40-49,PUDUCHERRY,Karaikal,Male,In Movement,95
+34,4,Rural,50-59,PUDUCHERRY,Karaikal,Male,In Movement,77
+34,4,Rural,60-69,PUDUCHERRY,Karaikal,Male,In Movement,69
+34,4,Rural,70-79,PUDUCHERRY,Karaikal,Male,In Movement,37
+34,4,Rural,80-89,PUDUCHERRY,Karaikal,Male,In Movement,16
+34,4,Rural,90+,PUDUCHERRY,Karaikal,Male,In Movement,2
+34,4,Rural,Age Not Stated,PUDUCHERRY,Karaikal,Male,In Movement,1
+34,4,Urban,0-4,PUDUCHERRY,Karaikal,Male,In Movement,5
+34,4,Urban,5-9,PUDUCHERRY,Karaikal,Male,In Movement,8
+34,4,Urban,10-19,PUDUCHERRY,Karaikal,Male,In Movement,27
+34,4,Urban,20-29,PUDUCHERRY,Karaikal,Male,In Movement,57
+34,4,Urban,30-39,PUDUCHERRY,Karaikal,Male,In Movement,75
+34,4,Urban,40-49,PUDUCHERRY,Karaikal,Male,In Movement,66
+34,4,Urban,50-59,PUDUCHERRY,Karaikal,Male,In Movement,74
+34,4,Urban,60-69,PUDUCHERRY,Karaikal,Male,In Movement,51
+34,4,Urban,70-79,PUDUCHERRY,Karaikal,Male,In Movement,24
+34,4,Urban,80-89,PUDUCHERRY,Karaikal,Male,In Movement,13
+34,4,Urban,90+,PUDUCHERRY,Karaikal,Male,In Movement,1
+34,4,Urban,Age Not Stated,PUDUCHERRY,Karaikal,Male,In Movement,0
+34,1,Rural,0-4,PUDUCHERRY,Yanam,Female,In Movement,0
+34,1,Rural,5-9,PUDUCHERRY,Yanam,Female,In Movement,0
+34,1,Rural,10-19,PUDUCHERRY,Yanam,Female,In Movement,0
+34,1,Rural,20-29,PUDUCHERRY,Yanam,Female,In Movement,0
+34,1,Rural,30-39,PUDUCHERRY,Yanam,Female,In Movement,0
+34,1,Rural,40-49,PUDUCHERRY,Yanam,Female,In Movement,0
+34,1,Rural,50-59,PUDUCHERRY,Yanam,Female,In Movement,0
+34,1,Rural,60-69,PUDUCHERRY,Yanam,Female,In Movement,0
+34,1,Rural,70-79,PUDUCHERRY,Yanam,Female,In Movement,0
+34,1,Rural,80-89,PUDUCHERRY,Yanam,Female,In Movement,0
+34,1,Rural,90+,PUDUCHERRY,Yanam,Female,In Movement,0
+34,1,Rural,Age Not Stated,PUDUCHERRY,Yanam,Female,In Movement,0
+34,1,Urban,0-4,PUDUCHERRY,Yanam,Female,In Movement,7
+34,1,Urban,5-9,PUDUCHERRY,Yanam,Female,In Movement,7
+34,1,Urban,10-19,PUDUCHERRY,Yanam,Female,In Movement,28
+34,1,Urban,20-29,PUDUCHERRY,Yanam,Female,In Movement,35
+34,1,Urban,30-39,PUDUCHERRY,Yanam,Female,In Movement,28
+34,1,Urban,40-49,PUDUCHERRY,Yanam,Female,In Movement,24
+34,1,Urban,50-59,PUDUCHERRY,Yanam,Female,In Movement,28
+34,1,Urban,60-69,PUDUCHERRY,Yanam,Female,In Movement,23
+34,1,Urban,70-79,PUDUCHERRY,Yanam,Female,In Movement,12
+34,1,Urban,80-89,PUDUCHERRY,Yanam,Female,In Movement,5
+34,1,Urban,90+,PUDUCHERRY,Yanam,Female,In Movement,0
+34,1,Urban,Age Not Stated,PUDUCHERRY,Yanam,Female,In Movement,0
+34,2,Rural,0-4,PUDUCHERRY,Puducherry,Female,In Movement,5
+34,2,Rural,5-9,PUDUCHERRY,Puducherry,Female,In Movement,15
+34,2,Rural,10-19,PUDUCHERRY,Puducherry,Female,In Movement,56
+34,2,Rural,20-29,PUDUCHERRY,Puducherry,Female,In Movement,156
+34,2,Rural,30-39,PUDUCHERRY,Puducherry,Female,In Movement,182
+34,2,Rural,40-49,PUDUCHERRY,Puducherry,Female,In Movement,154
+34,2,Rural,50-59,PUDUCHERRY,Puducherry,Female,In Movement,127
+34,2,Rural,60-69,PUDUCHERRY,Puducherry,Female,In Movement,107
+34,2,Rural,70-79,PUDUCHERRY,Puducherry,Female,In Movement,85
+34,2,Rural,80-89,PUDUCHERRY,Puducherry,Female,In Movement,27
+34,2,Rural,90+,PUDUCHERRY,Puducherry,Female,In Movement,5
+34,2,Rural,Age Not Stated,PUDUCHERRY,Puducherry,Female,In Movement,2
+34,2,Urban,0-4,PUDUCHERRY,Puducherry,Female,In Movement,17
+34,2,Urban,5-9,PUDUCHERRY,Puducherry,Female,In Movement,32
+34,2,Urban,10-19,PUDUCHERRY,Puducherry,Female,In Movement,100
+34,2,Urban,20-29,PUDUCHERRY,Puducherry,Female,In Movement,291
+34,2,Urban,30-39,PUDUCHERRY,Puducherry,Female,In Movement,338
+34,2,Urban,40-49,PUDUCHERRY,Puducherry,Female,In Movement,305
+34,2,Urban,50-59,PUDUCHERRY,Puducherry,Female,In Movement,259
+34,2,Urban,60-69,PUDUCHERRY,Puducherry,Female,In Movement,234
+34,2,Urban,70-79,PUDUCHERRY,Puducherry,Female,In Movement,169
+34,2,Urban,80-89,PUDUCHERRY,Puducherry,Female,In Movement,90
+34,2,Urban,90+,PUDUCHERRY,Puducherry,Female,In Movement,9
+34,2,Urban,Age Not Stated,PUDUCHERRY,Puducherry,Female,In Movement,0
+34,3,Rural,0-4,PUDUCHERRY,Mahe,Female,In Movement,0
+34,3,Rural,5-9,PUDUCHERRY,Mahe,Female,In Movement,0
+34,3,Rural,10-19,PUDUCHERRY,Mahe,Female,In Movement,0
+34,3,Rural,20-29,PUDUCHERRY,Mahe,Female,In Movement,0
+34,3,Rural,30-39,PUDUCHERRY,Mahe,Female,In Movement,0
+34,3,Rural,40-49,PUDUCHERRY,Mahe,Female,In Movement,0
+34,3,Rural,50-59,PUDUCHERRY,Mahe,Female,In Movement,0
+34,3,Rural,60-69,PUDUCHERRY,Mahe,Female,In Movement,0
+34,3,Rural,70-79,PUDUCHERRY,Mahe,Female,In Movement,0
+34,3,Rural,80-89,PUDUCHERRY,Mahe,Female,In Movement,0
+34,3,Rural,90+,PUDUCHERRY,Mahe,Female,In Movement,0
+34,3,Rural,Age Not Stated,PUDUCHERRY,Mahe,Female,In Movement,0
+34,3,Urban,0-4,PUDUCHERRY,Mahe,Female,In Movement,1
+34,3,Urban,5-9,PUDUCHERRY,Mahe,Female,In Movement,1
+34,3,Urban,10-19,PUDUCHERRY,Mahe,Female,In Movement,2
+34,3,Urban,20-29,PUDUCHERRY,Mahe,Female,In Movement,7
+34,3,Urban,30-39,PUDUCHERRY,Mahe,Female,In Movement,15
+34,3,Urban,40-49,PUDUCHERRY,Mahe,Female,In Movement,9
+34,3,Urban,50-59,PUDUCHERRY,Mahe,Female,In Movement,9
+34,3,Urban,60-69,PUDUCHERRY,Mahe,Female,In Movement,13
+34,3,Urban,70-79,PUDUCHERRY,Mahe,Female,In Movement,9
+34,3,Urban,80-89,PUDUCHERRY,Mahe,Female,In Movement,6
+34,3,Urban,90+,PUDUCHERRY,Mahe,Female,In Movement,0
+34,3,Urban,Age Not Stated,PUDUCHERRY,Mahe,Female,In Movement,0
+34,4,Rural,0-4,PUDUCHERRY,Karaikal,Female,In Movement,11
+34,4,Rural,5-9,PUDUCHERRY,Karaikal,Female,In Movement,12
+34,4,Rural,10-19,PUDUCHERRY,Karaikal,Female,In Movement,19
+34,4,Rural,20-29,PUDUCHERRY,Karaikal,Female,In Movement,28
+34,4,Rural,30-39,PUDUCHERRY,Karaikal,Female,In Movement,56
+34,4,Rural,40-49,PUDUCHERRY,Karaikal,Female,In Movement,54
+34,4,Rural,50-59,PUDUCHERRY,Karaikal,Female,In Movement,35
+34,4,Rural,60-69,PUDUCHERRY,Karaikal,Female,In Movement,37
+34,4,Rural,70-79,PUDUCHERRY,Karaikal,Female,In Movement,20
+34,4,Rural,80-89,PUDUCHERRY,Karaikal,Female,In Movement,6
+34,4,Rural,90+,PUDUCHERRY,Karaikal,Female,In Movement,3
+34,4,Rural,Age Not Stated,PUDUCHERRY,Karaikal,Female,In Movement,0
+34,4,Urban,0-4,PUDUCHERRY,Karaikal,Female,In Movement,0
+34,4,Urban,5-9,PUDUCHERRY,Karaikal,Female,In Movement,7
+34,4,Urban,10-19,PUDUCHERRY,Karaikal,Female,In Movement,20
+34,4,Urban,20-29,PUDUCHERRY,Karaikal,Female,In Movement,33
+34,4,Urban,30-39,PUDUCHERRY,Karaikal,Female,In Movement,44
+34,4,Urban,40-49,PUDUCHERRY,Karaikal,Female,In Movement,33
+34,4,Urban,50-59,PUDUCHERRY,Karaikal,Female,In Movement,43
+34,4,Urban,60-69,PUDUCHERRY,Karaikal,Female,In Movement,49
+34,4,Urban,70-79,PUDUCHERRY,Karaikal,Female,In Movement,30
+34,4,Urban,80-89,PUDUCHERRY,Karaikal,Female,In Movement,14
+34,4,Urban,90+,PUDUCHERRY,Karaikal,Female,In Movement,1
+34,4,Urban,Age Not Stated,PUDUCHERRY,Karaikal,Female,In Movement,1
+34,1,Rural,0-4,PUDUCHERRY,Yanam,Male,Mental,0
+34,1,Rural,5-9,PUDUCHERRY,Yanam,Male,Mental,0
+34,1,Rural,10-19,PUDUCHERRY,Yanam,Male,Mental,0
+34,1,Rural,20-29,PUDUCHERRY,Yanam,Male,Mental,0
+34,1,Rural,30-39,PUDUCHERRY,Yanam,Male,Mental,0
+34,1,Rural,40-49,PUDUCHERRY,Yanam,Male,Mental,0
+34,1,Rural,50-59,PUDUCHERRY,Yanam,Male,Mental,0
+34,1,Rural,60-69,PUDUCHERRY,Yanam,Male,Mental,0
+34,1,Rural,70-79,PUDUCHERRY,Yanam,Male,Mental,0
+34,1,Rural,80-89,PUDUCHERRY,Yanam,Male,Mental,0
+34,1,Rural,90+,PUDUCHERRY,Yanam,Male,Mental,0
+34,1,Rural,Age Not Stated,PUDUCHERRY,Yanam,Male,Mental,0
+34,1,Urban,0-4,PUDUCHERRY,Yanam,Male,Mental,0
+34,1,Urban,5-9,PUDUCHERRY,Yanam,Male,Mental,7
+34,1,Urban,10-19,PUDUCHERRY,Yanam,Male,Mental,20
+34,1,Urban,20-29,PUDUCHERRY,Yanam,Male,Mental,17
+34,1,Urban,30-39,PUDUCHERRY,Yanam,Male,Mental,4
+34,1,Urban,40-49,PUDUCHERRY,Yanam,Male,Mental,6
+34,1,Urban,50-59,PUDUCHERRY,Yanam,Male,Mental,2
+34,1,Urban,60-69,PUDUCHERRY,Yanam,Male,Mental,3
+34,1,Urban,70-79,PUDUCHERRY,Yanam,Male,Mental,2
+34,1,Urban,80-89,PUDUCHERRY,Yanam,Male,Mental,0
+34,1,Urban,90+,PUDUCHERRY,Yanam,Male,Mental,0
+34,1,Urban,Age Not Stated,PUDUCHERRY,Yanam,Male,Mental,0
+34,2,Rural,0-4,PUDUCHERRY,Puducherry,Male,Mental,11
+34,2,Rural,5-9,PUDUCHERRY,Puducherry,Male,Mental,40
+34,2,Rural,10-19,PUDUCHERRY,Puducherry,Male,Mental,85
+34,2,Rural,20-29,PUDUCHERRY,Puducherry,Male,Mental,72
+34,2,Rural,30-39,PUDUCHERRY,Puducherry,Male,Mental,60
+34,2,Rural,40-49,PUDUCHERRY,Puducherry,Male,Mental,42
+34,2,Rural,50-59,PUDUCHERRY,Puducherry,Male,Mental,20
+34,2,Rural,60-69,PUDUCHERRY,Puducherry,Male,Mental,13
+34,2,Rural,70-79,PUDUCHERRY,Puducherry,Male,Mental,3
+34,2,Rural,80-89,PUDUCHERRY,Puducherry,Male,Mental,0
+34,2,Rural,90+,PUDUCHERRY,Puducherry,Male,Mental,0
+34,2,Rural,Age Not Stated,PUDUCHERRY,Puducherry,Male,Mental,0
+34,2,Urban,0-4,PUDUCHERRY,Puducherry,Male,Mental,31
+34,2,Urban,5-9,PUDUCHERRY,Puducherry,Male,Mental,92
+34,2,Urban,10-19,PUDUCHERRY,Puducherry,Male,Mental,207
+34,2,Urban,20-29,PUDUCHERRY,Puducherry,Male,Mental,200
+34,2,Urban,30-39,PUDUCHERRY,Puducherry,Male,Mental,183
+34,2,Urban,40-49,PUDUCHERRY,Puducherry,Male,Mental,115
+34,2,Urban,50-59,PUDUCHERRY,Puducherry,Male,Mental,70
+34,2,Urban,60-69,PUDUCHERRY,Puducherry,Male,Mental,30
+34,2,Urban,70-79,PUDUCHERRY,Puducherry,Male,Mental,12
+34,2,Urban,80-89,PUDUCHERRY,Puducherry,Male,Mental,5
+34,2,Urban,90+,PUDUCHERRY,Puducherry,Male,Mental,0
+34,2,Urban,Age Not Stated,PUDUCHERRY,Puducherry,Male,Mental,0
+34,3,Rural,0-4,PUDUCHERRY,Mahe,Male,Mental,0
+34,3,Rural,5-9,PUDUCHERRY,Mahe,Male,Mental,0
+34,3,Rural,10-19,PUDUCHERRY,Mahe,Male,Mental,0
+34,3,Rural,20-29,PUDUCHERRY,Mahe,Male,Mental,0
+34,3,Rural,30-39,PUDUCHERRY,Mahe,Male,Mental,0
+34,3,Rural,40-49,PUDUCHERRY,Mahe,Male,Mental,0
+34,3,Rural,50-59,PUDUCHERRY,Mahe,Male,Mental,0
+34,3,Rural,60-69,PUDUCHERRY,Mahe,Male,Mental,0
+34,3,Rural,70-79,PUDUCHERRY,Mahe,Male,Mental,0
+34,3,Rural,80-89,PUDUCHERRY,Mahe,Male,Mental,0
+34,3,Rural,90+,PUDUCHERRY,Mahe,Male,Mental,0
+34,3,Rural,Age Not Stated,PUDUCHERRY,Mahe,Male,Mental,0
+34,3,Urban,0-4,PUDUCHERRY,Mahe,Male,Mental,0
+34,3,Urban,5-9,PUDUCHERRY,Mahe,Male,Mental,1
+34,3,Urban,10-19,PUDUCHERRY,Mahe,Male,Mental,11
+34,3,Urban,20-29,PUDUCHERRY,Mahe,Male,Mental,11
+34,3,Urban,30-39,PUDUCHERRY,Mahe,Male,Mental,11
+34,3,Urban,40-49,PUDUCHERRY,Mahe,Male,Mental,7
+34,3,Urban,50-59,PUDUCHERRY,Mahe,Male,Mental,9
+34,3,Urban,60-69,PUDUCHERRY,Mahe,Male,Mental,8
+34,3,Urban,70-79,PUDUCHERRY,Mahe,Male,Mental,0
+34,3,Urban,80-89,PUDUCHERRY,Mahe,Male,Mental,0
+34,3,Urban,90+,PUDUCHERRY,Mahe,Male,Mental,0
+34,3,Urban,Age Not Stated,PUDUCHERRY,Mahe,Male,Mental,0
+34,4,Rural,0-4,PUDUCHERRY,Karaikal,Male,Mental,5
+34,4,Rural,5-9,PUDUCHERRY,Karaikal,Male,Mental,8
+34,4,Rural,10-19,PUDUCHERRY,Karaikal,Male,Mental,33
+34,4,Rural,20-29,PUDUCHERRY,Karaikal,Male,Mental,28
+34,4,Rural,30-39,PUDUCHERRY,Karaikal,Male,Mental,31
+34,4,Rural,40-49,PUDUCHERRY,Karaikal,Male,Mental,27
+34,4,Rural,50-59,PUDUCHERRY,Karaikal,Male,Mental,17
+34,4,Rural,60-69,PUDUCHERRY,Karaikal,Male,Mental,4
+34,4,Rural,70-79,PUDUCHERRY,Karaikal,Male,Mental,2
+34,4,Rural,80-89,PUDUCHERRY,Karaikal,Male,Mental,0
+34,4,Rural,90+,PUDUCHERRY,Karaikal,Male,Mental,0
+34,4,Rural,Age Not Stated,PUDUCHERRY,Karaikal,Male,Mental,0
+34,4,Urban,0-4,PUDUCHERRY,Karaikal,Male,Mental,1
+34,4,Urban,5-9,PUDUCHERRY,Karaikal,Male,Mental,17
+34,4,Urban,10-19,PUDUCHERRY,Karaikal,Male,Mental,35
+34,4,Urban,20-29,PUDUCHERRY,Karaikal,Male,Mental,30
+34,4,Urban,30-39,PUDUCHERRY,Karaikal,Male,Mental,34
+34,4,Urban,40-49,PUDUCHERRY,Karaikal,Male,Mental,22
+34,4,Urban,50-59,PUDUCHERRY,Karaikal,Male,Mental,21
+34,4,Urban,60-69,PUDUCHERRY,Karaikal,Male,Mental,8
+34,4,Urban,70-79,PUDUCHERRY,Karaikal,Male,Mental,2
+34,4,Urban,80-89,PUDUCHERRY,Karaikal,Male,Mental,0
+34,4,Urban,90+,PUDUCHERRY,Karaikal,Male,Mental,0
+34,4,Urban,Age Not Stated,PUDUCHERRY,Karaikal,Male,Mental,0
+34,1,Rural,0-4,PUDUCHERRY,Yanam,Female,Mental,0
+34,1,Rural,5-9,PUDUCHERRY,Yanam,Female,Mental,0
+34,1,Rural,10-19,PUDUCHERRY,Yanam,Female,Mental,0
+34,1,Rural,20-29,PUDUCHERRY,Yanam,Female,Mental,0
+34,1,Rural,30-39,PUDUCHERRY,Yanam,Female,Mental,0
+34,1,Rural,40-49,PUDUCHERRY,Yanam,Female,Mental,0
+34,1,Rural,50-59,PUDUCHERRY,Yanam,Female,Mental,0
+34,1,Rural,60-69,PUDUCHERRY,Yanam,Female,Mental,0
+34,1,Rural,70-79,PUDUCHERRY,Yanam,Female,Mental,0
+34,1,Rural,80-89,PUDUCHERRY,Yanam,Female,Mental,0
+34,1,Rural,90+,PUDUCHERRY,Yanam,Female,Mental,0
+34,1,Rural,Age Not Stated,PUDUCHERRY,Yanam,Female,Mental,0
+34,1,Urban,0-4,PUDUCHERRY,Yanam,Female,Mental,0
+34,1,Urban,5-9,PUDUCHERRY,Yanam,Female,Mental,2
+34,1,Urban,10-19,PUDUCHERRY,Yanam,Female,Mental,16
+34,1,Urban,20-29,PUDUCHERRY,Yanam,Female,Mental,9
+34,1,Urban,30-39,PUDUCHERRY,Yanam,Female,Mental,10
+34,1,Urban,40-49,PUDUCHERRY,Yanam,Female,Mental,10
+34,1,Urban,50-59,PUDUCHERRY,Yanam,Female,Mental,4
+34,1,Urban,60-69,PUDUCHERRY,Yanam,Female,Mental,1
+34,1,Urban,70-79,PUDUCHERRY,Yanam,Female,Mental,2
+34,1,Urban,80-89,PUDUCHERRY,Yanam,Female,Mental,1
+34,1,Urban,90+,PUDUCHERRY,Yanam,Female,Mental,0
+34,1,Urban,Age Not Stated,PUDUCHERRY,Yanam,Female,Mental,0
+34,2,Rural,0-4,PUDUCHERRY,Puducherry,Female,Mental,10
+34,2,Rural,5-9,PUDUCHERRY,Puducherry,Female,Mental,15
+34,2,Rural,10-19,PUDUCHERRY,Puducherry,Female,Mental,59
+34,2,Rural,20-29,PUDUCHERRY,Puducherry,Female,Mental,46
+34,2,Rural,30-39,PUDUCHERRY,Puducherry,Female,Mental,67
+34,2,Rural,40-49,PUDUCHERRY,Puducherry,Female,Mental,45
+34,2,Rural,50-59,PUDUCHERRY,Puducherry,Female,Mental,16
+34,2,Rural,60-69,PUDUCHERRY,Puducherry,Female,Mental,16
+34,2,Rural,70-79,PUDUCHERRY,Puducherry,Female,Mental,3
+34,2,Rural,80-89,PUDUCHERRY,Puducherry,Female,Mental,1
+34,2,Rural,90+,PUDUCHERRY,Puducherry,Female,Mental,1
+34,2,Rural,Age Not Stated,PUDUCHERRY,Puducherry,Female,Mental,0
+34,2,Urban,0-4,PUDUCHERRY,Puducherry,Female,Mental,31
+34,2,Urban,5-9,PUDUCHERRY,Puducherry,Female,Mental,50
+34,2,Urban,10-19,PUDUCHERRY,Puducherry,Female,Mental,152
+34,2,Urban,20-29,PUDUCHERRY,Puducherry,Female,Mental,162
+34,2,Urban,30-39,PUDUCHERRY,Puducherry,Female,Mental,144
+34,2,Urban,40-49,PUDUCHERRY,Puducherry,Female,Mental,140
+34,2,Urban,50-59,PUDUCHERRY,Puducherry,Female,Mental,67
+34,2,Urban,60-69,PUDUCHERRY,Puducherry,Female,Mental,42
+34,2,Urban,70-79,PUDUCHERRY,Puducherry,Female,Mental,27
+34,2,Urban,80-89,PUDUCHERRY,Puducherry,Female,Mental,9
+34,2,Urban,90+,PUDUCHERRY,Puducherry,Female,Mental,1
+34,2,Urban,Age Not Stated,PUDUCHERRY,Puducherry,Female,Mental,1
+34,3,Rural,0-4,PUDUCHERRY,Mahe,Female,Mental,0
+34,3,Rural,5-9,PUDUCHERRY,Mahe,Female,Mental,0
+34,3,Rural,10-19,PUDUCHERRY,Mahe,Female,Mental,0
+34,3,Rural,20-29,PUDUCHERRY,Mahe,Female,Mental,0
+34,3,Rural,30-39,PUDUCHERRY,Mahe,Female,Mental,0
+34,3,Rural,40-49,PUDUCHERRY,Mahe,Female,Mental,0
+34,3,Rural,50-59,PUDUCHERRY,Mahe,Female,Mental,0
+34,3,Rural,60-69,PUDUCHERRY,Mahe,Female,Mental,0
+34,3,Rural,70-79,PUDUCHERRY,Mahe,Female,Mental,0
+34,3,Rural,80-89,PUDUCHERRY,Mahe,Female,Mental,0
+34,3,Rural,90+,PUDUCHERRY,Mahe,Female,Mental,0
+34,3,Rural,Age Not Stated,PUDUCHERRY,Mahe,Female,Mental,0
+34,3,Urban,0-4,PUDUCHERRY,Mahe,Female,Mental,1
+34,3,Urban,5-9,PUDUCHERRY,Mahe,Female,Mental,3
+34,3,Urban,10-19,PUDUCHERRY,Mahe,Female,Mental,5
+34,3,Urban,20-29,PUDUCHERRY,Mahe,Female,Mental,9
+34,3,Urban,30-39,PUDUCHERRY,Mahe,Female,Mental,8
+34,3,Urban,40-49,PUDUCHERRY,Mahe,Female,Mental,5
+34,3,Urban,50-59,PUDUCHERRY,Mahe,Female,Mental,11
+34,3,Urban,60-69,PUDUCHERRY,Mahe,Female,Mental,7
+34,3,Urban,70-79,PUDUCHERRY,Mahe,Female,Mental,3
+34,3,Urban,80-89,PUDUCHERRY,Mahe,Female,Mental,0
+34,3,Urban,90+,PUDUCHERRY,Mahe,Female,Mental,0
+34,3,Urban,Age Not Stated,PUDUCHERRY,Mahe,Female,Mental,0
+34,4,Rural,0-4,PUDUCHERRY,Karaikal,Female,Mental,1
+34,4,Rural,5-9,PUDUCHERRY,Karaikal,Female,Mental,11
+34,4,Rural,10-19,PUDUCHERRY,Karaikal,Female,Mental,31
+34,4,Rural,20-29,PUDUCHERRY,Karaikal,Female,Mental,19
+34,4,Rural,30-39,PUDUCHERRY,Karaikal,Female,Mental,22
+34,4,Rural,40-49,PUDUCHERRY,Karaikal,Female,Mental,16
+34,4,Rural,50-59,PUDUCHERRY,Karaikal,Female,Mental,17
+34,4,Rural,60-69,PUDUCHERRY,Karaikal,Female,Mental,6
+34,4,Rural,70-79,PUDUCHERRY,Karaikal,Female,Mental,1
+34,4,Rural,80-89,PUDUCHERRY,Karaikal,Female,Mental,0
+34,4,Rural,90+,PUDUCHERRY,Karaikal,Female,Mental,0
+34,4,Rural,Age Not Stated,PUDUCHERRY,Karaikal,Female,Mental,0
+34,4,Urban,0-4,PUDUCHERRY,Karaikal,Female,Mental,1
+34,4,Urban,5-9,PUDUCHERRY,Karaikal,Female,Mental,2
+34,4,Urban,10-19,PUDUCHERRY,Karaikal,Female,Mental,19
+34,4,Urban,20-29,PUDUCHERRY,Karaikal,Female,Mental,21
+34,4,Urban,30-39,PUDUCHERRY,Karaikal,Female,Mental,30
+34,4,Urban,40-49,PUDUCHERRY,Karaikal,Female,Mental,20
+34,4,Urban,50-59,PUDUCHERRY,Karaikal,Female,Mental,11
+34,4,Urban,60-69,PUDUCHERRY,Karaikal,Female,Mental,9
+34,4,Urban,70-79,PUDUCHERRY,Karaikal,Female,Mental,4
+34,4,Urban,80-89,PUDUCHERRY,Karaikal,Female,Mental,0
+34,4,Urban,90+,PUDUCHERRY,Karaikal,Female,Mental,0
+34,4,Urban,Age Not Stated,PUDUCHERRY,Karaikal,Female,Mental,0
