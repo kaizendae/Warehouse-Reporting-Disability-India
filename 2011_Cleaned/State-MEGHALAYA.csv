@@ -1,0 +1,169 @@
+Table Name,State Code,Distt.Code,Area Name,Total/Rural/Urban,Age-group,In seeing Persons Males,In Hearing Persons Males,In Hearing Persons Females,In Speech Males,In Speech Females,In Movement Males,In Movement  Females,Mental Persons Males,Mental Persons Females
+C4920,17,1,District-West Garo Hills,Rural,0-4,40,92,102,9,8,31,27,23,14
+C4920,17,1,District-West Garo Hills,Rural,5-9,55,129,112,35,17,43,27,52,30
+C4920,17,1,District-West Garo Hills,Rural,10-19,118,234,251,76,65,107,81,123,120
+C4920,17,1,District-West Garo Hills,Rural,20-29,87,188,177,59,56,119,65,114,89
+C4920,17,1,District-West Garo Hills,Rural,30-39,64,126,148,53,50,72,53,95,76
+C4920,17,1,District-West Garo Hills,Rural,40-49,107,163,171,41,33,93,49,60,64
+C4920,17,1,District-West Garo Hills,Rural,50-59,154,166,145,17,14,66,49,30,49
+C4920,17,1,District-West Garo Hills,Rural,60-69,121,151,133,9,9,80,43,25,19
+C4920,17,1,District-West Garo Hills,Rural,70-79,61,62,68,4,10,31,28,3,10
+C4920,17,1,District-West Garo Hills,Rural,80-89,22,22,24,0,1,8,18,3,2
+C4920,17,1,District-West Garo Hills,Rural,90+,10,9,8,1,2,3,6,0,1
+C4920,17,1,District-West Garo Hills,Rural,Age Not Stated,1,2,2,1,2,1,0,0,1
+C4920,17,1,District-West Garo Hills,Urban,0-4,1,5,3,1,0,1,0,2,2
+C4920,17,1,District-West Garo Hills,Urban,5-9,3,4,5,2,0,4,1,1,1
+C4920,17,1,District-West Garo Hills,Urban,10-19,8,20,17,9,12,11,6,10,11
+C4920,17,1,District-West Garo Hills,Urban,20-29,9,15,14,4,7,2,7,15,14
+C4920,17,1,District-West Garo Hills,Urban,30-39,7,9,10,4,3,4,3,11,10
+C4920,17,1,District-West Garo Hills,Urban,40-49,12,9,19,1,7,11,9,9,13
+C4920,17,1,District-West Garo Hills,Urban,50-59,9,12,10,3,2,5,6,8,3
+C4920,17,1,District-West Garo Hills,Urban,60-69,11,8,6,3,0,4,5,1,2
+C4920,17,1,District-West Garo Hills,Urban,70-79,6,7,3,0,0,3,4,2,0
+C4920,17,1,District-West Garo Hills,Urban,80-89,3,3,2,0,0,2,3,0,1
+C4920,17,1,District-West Garo Hills,Urban,90+,1,0,0,0,0,0,0,0,1
+C4920,17,1,District-West Garo Hills,Urban,Age Not Stated,0,0,0,0,0,0,0,0,0
+C4920,17,2,District-East Garo Hills,Rural,0-4,13,79,74,1,0,17,9,3,4
+C4920,17,2,District-East Garo Hills,Rural,5-9,22,77,65,14,25,15,10,13,8
+C4920,17,2,District-East Garo Hills,Rural,10-19,40,195,172,33,35,49,39,37,32
+C4920,17,2,District-East Garo Hills,Rural,20-29,35,142,143,25,25,42,35,32,29
+C4920,17,2,District-East Garo Hills,Rural,30-39,33,104,93,19,20,40,23,16,20
+C4920,17,2,District-East Garo Hills,Rural,40-49,32,85,62,18,9,34,23,14,16
+C4920,17,2,District-East Garo Hills,Rural,50-59,35,52,62,8,6,29,20,5,9
+C4920,17,2,District-East Garo Hills,Rural,60-69,26,53,44,5,3,26,11,7,3
+C4920,17,2,District-East Garo Hills,Rural,70-79,12,32,25,1,1,12,16,2,0
+C4920,17,2,District-East Garo Hills,Rural,80-89,2,8,2,0,0,3,4,1,0
+C4920,17,2,District-East Garo Hills,Rural,90+,1,5,0,1,1,2,1,0,0
+C4920,17,2,District-East Garo Hills,Rural,Age Not Stated,4,0,0,0,0,0,0,0,1
+C4920,17,2,District-East Garo Hills,Urban,0-4,5,1,0,0,0,0,3,1,3
+C4920,17,2,District-East Garo Hills,Urban,5-9,2,7,6,5,4,2,2,0,1
+C4920,17,2,District-East Garo Hills,Urban,10-19,1,10,12,5,5,8,2,13,12
+C4920,17,2,District-East Garo Hills,Urban,20-29,8,119,7,5,2,7,4,12,7
+C4920,17,2,District-East Garo Hills,Urban,30-39,5,11,6,1,2,4,5,4,6
+C4920,17,2,District-East Garo Hills,Urban,40-49,6,8,5,1,4,7,3,5,4
+C4920,17,2,District-East Garo Hills,Urban,50-59,3,4,3,0,0,5,3,2,1
+C4920,17,2,District-East Garo Hills,Urban,60-69,4,6,6,1,0,6,0,1,1
+C4920,17,2,District-East Garo Hills,Urban,70-79,1,2,4,0,0,4,1,2,1
+C4920,17,2,District-East Garo Hills,Urban,80-89,0,4,1,0,1,0,0,0,0
+C4920,17,2,District-East Garo Hills,Urban,90+,0,0,0,0,0,0,0,0,0
+C4920,17,2,District-East Garo Hills,Urban,Age Not Stated,0,185,0,0,0,0,0,1,0
+C4920,17,3,District-South Garo Hills,Rural,0-4,7,45,48,3,2,1,6,4,6
+C4920,17,3,District-South Garo Hills,Rural,5-9,19,45,40,12,9,12,9,9,6
+C4920,17,3,District-South Garo Hills,Rural,10-19,23,85,87,25,15,27,12,29,25
+C4920,17,3,District-South Garo Hills,Rural,20-29,21,71,72,12,18,21,16,27,25
+C4920,17,3,District-South Garo Hills,Rural,30-39,12,59,51,9,12,14,11,17,21
+C4920,17,3,District-South Garo Hills,Rural,40-49,24,46,37,10,7,19,15,15,13
+C4920,17,3,District-South Garo Hills,Rural,50-59,27,32,22,3,6,11,9,6,14
+C4920,17,3,District-South Garo Hills,Rural,60-69,26,31,21,2,1,9,5,2,2
+C4920,17,3,District-South Garo Hills,Rural,70-79,12,17,11,2,2,6,7,1,1
+C4920,17,3,District-South Garo Hills,Rural,80-89,4,8,5,0,0,1,3,0,0
+C4920,17,3,District-South Garo Hills,Rural,90+,2,3,2,0,0,1,0,1,0
+C4920,17,3,District-South Garo Hills,Rural,Age Not Stated,0,1,0,0,0,0,0,0,0
+C4920,17,3,District-South Garo Hills,Urban,0-4,0,5,3,0,1,0,1,3,3
+C4920,17,3,District-South Garo Hills,Urban,5-9,1,1,6,1,2,2,0,3,4
+C4920,17,3,District-South Garo Hills,Urban,10-19,5,5,5,2,0,2,2,11,7
+C4920,17,3,District-South Garo Hills,Urban,20-29,3,3,4,1,0,1,1,6,7
+C4920,17,3,District-South Garo Hills,Urban,30-39,2,3,5,0,1,1,1,3,5
+C4920,17,3,District-South Garo Hills,Urban,40-49,0,5,2,1,0,0,1,2,0
+C4920,17,3,District-South Garo Hills,Urban,50-59,3,2,2,0,1,0,3,0,0
+C4920,17,3,District-South Garo Hills,Urban,60-69,0,3,2,0,0,0,0,3,0
+C4920,17,3,District-South Garo Hills,Urban,70-79,2,2,2,1,0,0,0,0,0
+C4920,17,3,District-South Garo Hills,Urban,80-89,0,2,0,0,0,0,0,0,0
+C4920,17,3,District-South Garo Hills,Urban,90+,0,0,0,0,0,0,0,0,0
+C4920,17,3,District-South Garo Hills,Urban,Age Not Stated,0,0,0,0,0,0,0,0,0
+C4920,17,4,District-West Khasi Hills,Rural,0-4,39,87,83,4,4,36,30,8,7
+C4920,17,4,District-West Khasi Hills,Rural,5-9,35,122,87,30,31,52,33,26,22
+C4920,17,4,District-West Khasi Hills,Rural,10-19,97,196,165,58,41,101,71,73,58
+C4920,17,4,District-West Khasi Hills,Rural,20-29,54,118,126,35,18,61,53,58,54
+C4920,17,4,District-West Khasi Hills,Rural,30-39,32,78,84,26,12,52,33,31,52
+C4920,17,4,District-West Khasi Hills,Rural,40-49,59,77,62,18,10,28,23,33,31
+C4920,17,4,District-West Khasi Hills,Rural,50-59,46,67,51,10,5,28,24,15,15
+C4920,17,4,District-West Khasi Hills,Rural,60-69,31,45,42,8,4,30,25,11,12
+C4920,17,4,District-West Khasi Hills,Rural,70-79,22,31,38,2,0,17,14,4,7
+C4920,17,4,District-West Khasi Hills,Rural,80-89,11,13,12,0,0,4,5,0,0
+C4920,17,4,District-West Khasi Hills,Rural,90+,3,5,8,0,0,0,2,0,2
+C4920,17,4,District-West Khasi Hills,Rural,Age Not Stated,0,53,49,0,0,1,1,1,1
+C4920,17,4,District-West Khasi Hills,Urban,0-4,3,2,7,1,2,5,1,0,1
+C4920,17,4,District-West Khasi Hills,Urban,5-9,2,7,5,8,5,4,4,4,1
+C4920,17,4,District-West Khasi Hills,Urban,10-19,7,13,13,4,8,14,5,7,7
+C4920,17,4,District-West Khasi Hills,Urban,20-29,5,11,8,3,4,5,4,6,6
+C4920,17,4,District-West Khasi Hills,Urban,30-39,5,5,6,1,3,4,6,8,4
+C4920,17,4,District-West Khasi Hills,Urban,40-49,2,2,4,1,3,7,0,2,4
+C4920,17,4,District-West Khasi Hills,Urban,50-59,1,4,4,0,0,2,1,1,1
+C4920,17,4,District-West Khasi Hills,Urban,60-69,3,3,2,0,0,1,2,0,0
+C4920,17,4,District-West Khasi Hills,Urban,70-79,2,0,3,0,0,0,2,0,1
+C4920,17,4,District-West Khasi Hills,Urban,80-89,0,1,1,0,0,1,0,0,0
+C4920,17,4,District-West Khasi Hills,Urban,90+,0,0,1,0,0,0,1,0,0
+C4920,17,4,District-West Khasi Hills,Urban,Age Not Stated,0,0,0,0,0,0,0,0,0
+C4920,17,5,District-Ribhoi,Rural,0-4,18,37,24,3,2,23,21,6,4
+C4920,17,5,District-Ribhoi,Rural,5-9,31,51,38,16,22,28,28,16,12
+C4920,17,5,District-Ribhoi,Rural,10-19,58,95,81,42,20,64,51,57,57
+C4920,17,5,District-Ribhoi,Rural,20-29,35,52,58,34,32,49,45,48,50
+C4920,17,5,District-Ribhoi,Rural,30-39,16,75,60,26,19,40,30,29,28
+C4920,17,5,District-Ribhoi,Rural,40-49,31,64,40,20,19,28,24,22,25
+C4920,17,5,District-Ribhoi,Rural,50-59,15,40,36,6,6,21,9,10,20
+C4920,17,5,District-Ribhoi,Rural,60-69,28,36,31,6,6,18,12,11,13
+C4920,17,5,District-Ribhoi,Rural,70-79,18,18,17,0,1,8,6,2,4
+C4920,17,5,District-Ribhoi,Rural,80-89,6,6,5,0,3,2,1,0,0
+C4920,17,5,District-Ribhoi,Rural,90+,2,0,3,0,0,0,2,0,0
+C4920,17,5,District-Ribhoi,Rural,Age Not Stated,0,0,1,0,0,0,0,0,0
+C4920,17,5,District-Ribhoi,Urban,0-4,0,3,3,0,0,1,0,1,1
+C4920,17,5,District-Ribhoi,Urban,5-9,0,3,5,0,2,3,2,2,0
+C4920,17,5,District-Ribhoi,Urban,10-19,2,5,6,5,1,3,4,12,10
+C4920,17,5,District-Ribhoi,Urban,20-29,5,5,4,0,2,9,6,12,9
+C4920,17,5,District-Ribhoi,Urban,30-39,2,7,3,3,2,9,3,8,8
+C4920,17,5,District-Ribhoi,Urban,40-49,11,8,6,0,1,3,3,4,5
+C4920,17,5,District-Ribhoi,Urban,50-59,13,0,2,0,0,2,0,1,4
+C4920,17,5,District-Ribhoi,Urban,60-69,4,0,3,0,1,3,0,3,3
+C4920,17,5,District-Ribhoi,Urban,70-79,2,0,5,0,0,3,0,1,0
+C4920,17,5,District-Ribhoi,Urban,80-89,0,1,3,0,0,0,0,0,1
+C4920,17,5,District-Ribhoi,Urban,90+,0,0,1,0,0,0,0,0,0
+C4920,17,5,District-Ribhoi,Urban,Age Not Stated,1,0,0,0,0,0,0,0,0
+C4920,17,6,District-East Khasi Hills,Rural,0-4,57,46,53,2,8,46,38,7,6
+C4920,17,6,District-East Khasi Hills,Rural,5-9,101,110,70,46,43,79,45,21,15
+C4920,17,6,District-East Khasi Hills,Rural,10-19,144,215,173,68,61,114,112,84,84
+C4920,17,6,District-East Khasi Hills,Rural,20-29,79,120,92,37,38,99,90,81,63
+C4920,17,6,District-East Khasi Hills,Rural,30-39,69,101,77,22,25,50,44,64,75
+C4920,17,6,District-East Khasi Hills,Rural,40-49,76,78,76,13,14,58,36,54,60
+C4920,17,6,District-East Khasi Hills,Rural,50-59,58,67,71,15,9,39,28,18,27
+C4920,17,6,District-East Khasi Hills,Rural,60-69,53,39,55,2,3,30,23,6,17
+C4920,17,6,District-East Khasi Hills,Rural,70-79,34,28,37,5,5,12,12,2,11
+C4920,17,6,District-East Khasi Hills,Rural,80-89,15,20,23,1,1,6,7,4,1
+C4920,17,6,District-East Khasi Hills,Rural,90+,4,3,9,1,0,1,2,0,0
+C4920,17,6,District-East Khasi Hills,Rural,Age Not Stated,2,0,2,0,0,1,2,1,1
+C4920,17,6,District-East Khasi Hills,Urban,0-4,8,26,20,2,3,13,19,6,1
+C4920,17,6,District-East Khasi Hills,Urban,5-9,20,26,33,10,10,18,15,5,11
+C4920,17,6,District-East Khasi Hills,Urban,10-19,70,150,74,27,24,52,42,68,64
+C4920,17,6,District-East Khasi Hills,Urban,20-29,49,76,76,15,20,50,52,106,56
+C4920,17,6,District-East Khasi Hills,Urban,30-39,28,58,48,16,23,37,18,70,37
+C4920,17,6,District-East Khasi Hills,Urban,40-49,19,66,42,15,5,31,20,41,36
+C4920,17,6,District-East Khasi Hills,Urban,50-59,31,29,28,8,9,27,15,30,19
+C4920,17,6,District-East Khasi Hills,Urban,60-69,22,19,32,5,1,24,17,9,10
+C4920,17,6,District-East Khasi Hills,Urban,70-79,10,14,14,1,1,14,7,2,3
+C4920,17,6,District-East Khasi Hills,Urban,80-89,2,4,9,0,0,2,6,1,5
+C4920,17,6,District-East Khasi Hills,Urban,90+,0,1,5,0,0,0,7,0,1
+C4920,17,6,District-East Khasi Hills,Urban,Age Not Stated,0,0,0,0,0,0,1,1,0
+C4920,17,7,District-Jaintia Hills,Rural,0-4,44,67,75,8,8,11,18,11,17
+C4920,17,7,District-Jaintia Hills,Rural,5-9,57,78,64,35,35,27,32,22,18
+C4920,17,7,District-Jaintia Hills,Rural,10-19,95,192,156,48,52,60,49,76,67
+C4920,17,7,District-Jaintia Hills,Rural,20-29,56,114,121,28,31,57,49,59,57
+C4920,17,7,District-Jaintia Hills,Rural,30-39,32,74,81,20,27,23,25,52,47
+C4920,17,7,District-Jaintia Hills,Rural,40-49,36,69,61,14,11,39,23,31,26
+C4920,17,7,District-Jaintia Hills,Rural,50-59,28,35,39,2,7,22,19,16,30
+C4920,17,7,District-Jaintia Hills,Rural,60-69,12,28,36,7,2,13,20,7,8
+C4920,17,7,District-Jaintia Hills,Rural,70-79,9,19,28,1,2,10,15,2,4
+C4920,17,7,District-Jaintia Hills,Rural,80-89,5,4,18,1,0,2,3,0,0
+C4920,17,7,District-Jaintia Hills,Rural,90+,1,0,6,0,0,0,0,1,0
+C4920,17,7,District-Jaintia Hills,Rural,Age Not Stated,0,4,3,0,0,0,0,1,1
+C4920,17,7,District-Jaintia Hills,Urban,0-4,1,1,0,0,0,1,1,0,1
+C4920,17,7,District-Jaintia Hills,Urban,5-9,0,3,1,1,2,1,2,1,1
+C4920,17,7,District-Jaintia Hills,Urban,10-19,3,7,15,3,4,5,2,6,3
+C4920,17,7,District-Jaintia Hills,Urban,20-29,1,6,9,1,1,5,0,2,1
+C4920,17,7,District-Jaintia Hills,Urban,30-39,7,2,10,2,0,3,2,6,5
+C4920,17,7,District-Jaintia Hills,Urban,40-49,2,3,5,1,2,2,1,1,2
+C4920,17,7,District-Jaintia Hills,Urban,50-59,3,2,3,0,1,1,1,0,2
+C4920,17,7,District-Jaintia Hills,Urban,60-69,1,2,1,0,0,1,1,1,0
+C4920,17,7,District-Jaintia Hills,Urban,70-79,0,0,3,0,0,0,0,0,0
+C4920,17,7,District-Jaintia Hills,Urban,80-89,0,0,1,0,0,1,0,0,0
+C4920,17,7,District-Jaintia Hills,Urban,90+,0,0,2,0,0,0,0,0,0
+C4920,17,7,District-Jaintia Hills,Urban,Age Not Stated,0,0,0,0,0,0,0,0,0

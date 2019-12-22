@@ -1,0 +1,385 @@
+Table Name,State Code,Distt.Code,Area Name,Total/Rural/Urban,Age-group,In seeing Persons Males,In Hearing Persons Males,In Hearing Persons Females,In Speech Males,In Speech Females,In Movement Males,In Movement  Females,Mental Persons Males,Mental Persons Females
+C4920,12,1,District-Tawang,Rural,0-4,2,0,4,0,0,1,1,2,0
+C4920,12,1,District-Tawang,Rural,5-9,5,11,3,5,1,3,0,1,1
+C4920,12,1,District-Tawang,Rural,10-19,13,13,19,3,5,12,10,3,3
+C4920,12,1,District-Tawang,Rural,20-29,8,15,8,6,2,8,15,2,2
+C4920,12,1,District-Tawang,Rural,30-39,9,14,16,5,2,10,9,3,2
+C4920,12,1,District-Tawang,Rural,40-49,14,16,6,4,5,7,16,2,1
+C4920,12,1,District-Tawang,Rural,50-59,10,18,20,13,5,19,8,5,2
+C4920,12,1,District-Tawang,Rural,60-69,23,17,35,2,5,14,7,0,4
+C4920,12,1,District-Tawang,Rural,70-79,17,14,26,0,0,14,14,0,0
+C4920,12,1,District-Tawang,Rural,80-89,9,6,11,1,2,7,9,0,0
+C4920,12,1,District-Tawang,Rural,90+,3,1,0,0,0,1,4,0,0
+C4920,12,1,District-Tawang,Rural,Age Not Stated,0,0,0,0,0,0,0,0,0
+C4920,12,1,District-Tawang,Urban,0-4,0,1,0,0,0,0,0,0,0
+C4920,12,1,District-Tawang,Urban,5-9,0,0,0,1,0,0,0,0,0
+C4920,12,1,District-Tawang,Urban,10-19,1,2,1,0,0,0,1,1,0
+C4920,12,1,District-Tawang,Urban,20-29,5,6,0,3,0,2,1,0,0
+C4920,12,1,District-Tawang,Urban,30-39,7,1,1,0,1,1,0,2,0
+C4920,12,1,District-Tawang,Urban,40-49,6,4,2,2,0,0,0,0,0
+C4920,12,1,District-Tawang,Urban,50-59,0,1,1,0,0,1,0,0,0
+C4920,12,1,District-Tawang,Urban,60-69,2,0,0,1,0,0,0,0,0
+C4920,12,1,District-Tawang,Urban,70-79,0,0,2,0,0,0,0,0,0
+C4920,12,1,District-Tawang,Urban,80-89,0,0,0,0,0,0,1,0,0
+C4920,12,1,District-Tawang,Urban,90+,0,0,0,0,0,0,0,0,0
+C4920,12,1,District-Tawang,Urban,Age Not Stated,0,0,0,0,0,0,0,0,0
+C4920,12,2,District-West Kameng,Rural,0-4,5,5,6,1,1,6,7,2,2
+C4920,12,2,District-West Kameng,Rural,5-9,14,19,14,5,4,8,5,3,1
+C4920,12,2,District-West Kameng,Rural,10-19,38,24,23,7,8,15,14,9,7
+C4920,12,2,District-West Kameng,Rural,20-29,37,140,38,10,6,31,11,8,4
+C4920,12,2,District-West Kameng,Rural,30-39,39,56,29,7,6,15,13,6,4
+C4920,12,2,District-West Kameng,Rural,40-49,32,52,36,5,7,28,10,7,4
+C4920,12,2,District-West Kameng,Rural,50-59,27,36,32,9,5,25,15,1,2
+C4920,12,2,District-West Kameng,Rural,60-69,38,46,29,4,3,25,17,2,0
+C4920,12,2,District-West Kameng,Rural,70-79,19,25,9,1,1,15,8,1,0
+C4920,12,2,District-West Kameng,Rural,80-89,11,4,4,2,0,1,0,2,0
+C4920,12,2,District-West Kameng,Rural,90+,1,6,1,0,0,1,0,0,0
+C4920,12,2,District-West Kameng,Rural,Age Not Stated,0,0,0,0,0,0,0,0,0
+C4920,12,2,District-West Kameng,Urban,0-4,1,2,0,0,0,0,0,0,1
+C4920,12,2,District-West Kameng,Urban,5-9,4,2,1,0,2,3,1,0,0
+C4920,12,2,District-West Kameng,Urban,10-19,8,5,3,3,2,3,2,2,2
+C4920,12,2,District-West Kameng,Urban,20-29,9,2,2,0,3,3,2,1,3
+C4920,12,2,District-West Kameng,Urban,30-39,8,3,4,1,0,2,3,1,0
+C4920,12,2,District-West Kameng,Urban,40-49,3,5,1,0,1,1,3,1,0
+C4920,12,2,District-West Kameng,Urban,50-59,4,3,2,3,1,3,1,1,1
+C4920,12,2,District-West Kameng,Urban,60-69,1,0,2,0,0,2,0,0,0
+C4920,12,2,District-West Kameng,Urban,70-79,1,1,1,0,0,2,0,0,0
+C4920,12,2,District-West Kameng,Urban,80-89,0,3,2,0,0,0,0,0,0
+C4920,12,2,District-West Kameng,Urban,90+,0,0,0,0,0,0,0,0,0
+C4920,12,2,District-West Kameng,Urban,Age Not Stated,0,0,0,0,0,0,0,0,0
+C4920,12,3,District-East Kameng,Rural,0-4,10,13,19,0,1,2,4,4,2
+C4920,12,3,District-East Kameng,Rural,5-9,23,27,40,4,3,5,6,1,7
+C4920,12,3,District-East Kameng,Rural,10-19,32,54,60,12,6,18,17,14,5
+C4920,12,3,District-East Kameng,Rural,20-29,18,21,25,4,4,15,11,6,7
+C4920,12,3,District-East Kameng,Rural,30-39,16,27,41,5,4,12,8,8,16
+C4920,12,3,District-East Kameng,Rural,40-49,12,19,24,11,4,11,8,3,4
+C4920,12,3,District-East Kameng,Rural,50-59,12,19,29,2,1,13,5,6,5
+C4920,12,3,District-East Kameng,Rural,60-69,8,16,21,0,1,6,8,2,5
+C4920,12,3,District-East Kameng,Rural,70-79,13,10,6,0,0,5,4,0,2
+C4920,12,3,District-East Kameng,Rural,80-89,5,3,2,0,0,0,1,0,0
+C4920,12,3,District-East Kameng,Rural,90+,0,2,0,0,0,1,0,0,1
+C4920,12,3,District-East Kameng,Rural,Age Not Stated,0,2,0,0,0,0,0,0,0
+C4920,12,3,District-East Kameng,Urban,0-4,4,0,1,0,0,1,0,0,1
+C4920,12,3,District-East Kameng,Urban,5-9,5,1,2,2,4,1,1,3,3
+C4920,12,3,District-East Kameng,Urban,10-19,9,11,4,1,1,5,8,4,6
+C4920,12,3,District-East Kameng,Urban,20-29,2,11,3,3,2,3,5,3,4
+C4920,12,3,District-East Kameng,Urban,30-39,9,3,3,2,0,6,3,2,0
+C4920,12,3,District-East Kameng,Urban,40-49,5,2,3,0,0,4,3,1,1
+C4920,12,3,District-East Kameng,Urban,50-59,4,1,2,1,0,2,4,1,0
+C4920,12,3,District-East Kameng,Urban,60-69,2,0,0,0,0,0,2,0,0
+C4920,12,3,District-East Kameng,Urban,70-79,0,0,0,0,0,1,1,0,0
+C4920,12,3,District-East Kameng,Urban,80-89,0,1,0,0,0,0,0,0,0
+C4920,12,3,District-East Kameng,Urban,90+,0,0,0,0,0,0,0,0,0
+C4920,12,3,District-East Kameng,Urban,Age Not Stated,0,0,0,0,0,0,0,0,0
+C4920,12,4,District-Papum Pare,Rural,0-4,8,6,13,0,0,7,5,3,5
+C4920,12,4,District-Papum Pare,Rural,5-9,11,19,13,1,5,7,4,3,10
+C4920,12,4,District-Papum Pare,Rural,10-19,19,35,57,15,8,15,13,15,8
+C4920,12,4,District-Papum Pare,Rural,20-29,18,37,34,6,12,10,9,15,7
+C4920,12,4,District-Papum Pare,Rural,30-39,14,26,34,5,4,7,8,10,12
+C4920,12,4,District-Papum Pare,Rural,40-49,10,18,16,3,0,16,7,2,7
+C4920,12,4,District-Papum Pare,Rural,50-59,15,17,15,3,0,12,6,2,1
+C4920,12,4,District-Papum Pare,Rural,60-69,12,8,11,3,3,4,10,0,2
+C4920,12,4,District-Papum Pare,Rural,70-79,5,8,5,0,0,8,0,0,0
+C4920,12,4,District-Papum Pare,Rural,80-89,1,0,4,0,0,0,0,0,0
+C4920,12,4,District-Papum Pare,Rural,90+,0,2,0,0,0,0,0,0,0
+C4920,12,4,District-Papum Pare,Rural,Age Not Stated,0,0,0,0,0,0,0,0,1
+C4920,12,4,District-Papum Pare,Urban,0-4,10,13,13,0,0,2,3,4,3
+C4920,12,4,District-Papum Pare,Urban,5-9,16,36,31,14,2,7,3,7,2
+C4920,12,4,District-Papum Pare,Urban,10-19,39,78,68,9,5,12,9,12,15
+C4920,12,4,District-Papum Pare,Urban,20-29,28,45,47,8,3,13,9,13,10
+C4920,12,4,District-Papum Pare,Urban,30-39,20,20,30,5,4,14,12,5,5
+C4920,12,4,District-Papum Pare,Urban,40-49,30,27,16,3,4,19,9,9,3
+C4920,12,4,District-Papum Pare,Urban,50-59,13,18,16,1,5,10,7,3,4
+C4920,12,4,District-Papum Pare,Urban,60-69,6,6,2,0,2,3,1,1,1
+C4920,12,4,District-Papum Pare,Urban,70-79,3,2,2,1,0,2,2,0,1
+C4920,12,4,District-Papum Pare,Urban,80-89,0,1,0,0,0,0,0,0,0
+C4920,12,4,District-Papum Pare,Urban,90+,1,0,1,0,0,0,1,0,0
+C4920,12,4,District-Papum Pare,Urban,Age Not Stated,0,1,0,0,0,0,0,0,0
+C4920,12,5,District-Upper Subansiri,Rural,0-4,7,23,31,0,1,4,1,3,4
+C4920,12,5,District-Upper Subansiri,Rural,5-9,17,33,37,3,0,4,5,6,3
+C4920,12,5,District-Upper Subansiri,Rural,10-19,36,74,73,8,3,13,16,13,7
+C4920,12,5,District-Upper Subansiri,Rural,20-29,21,60,69,7,7,16,9,14,7
+C4920,12,5,District-Upper Subansiri,Rural,30-39,20,42,42,5,1,8,9,9,6
+C4920,12,5,District-Upper Subansiri,Rural,40-49,13,34,50,3,4,11,5,5,10
+C4920,12,5,District-Upper Subansiri,Rural,50-59,18,37,33,3,3,14,8,6,1
+C4920,12,5,District-Upper Subansiri,Rural,60-69,8,15,22,1,1,7,4,0,2
+C4920,12,5,District-Upper Subansiri,Rural,70-79,5,6,9,1,0,5,2,0,0
+C4920,12,5,District-Upper Subansiri,Rural,80-89,2,2,1,0,0,2,0,0,0
+C4920,12,5,District-Upper Subansiri,Rural,90+,2,0,0,0,0,1,1,0,0
+C4920,12,5,District-Upper Subansiri,Rural,Age Not Stated,0,0,3,0,0,0,0,0,0
+C4920,12,5,District-Upper Subansiri,Urban,0-4,0,1,2,0,0,2,0,1,1
+C4920,12,5,District-Upper Subansiri,Urban,5-9,2,2,1,0,0,0,0,2,0
+C4920,12,5,District-Upper Subansiri,Urban,10-19,8,4,5,2,0,4,1,1,7
+C4920,12,5,District-Upper Subansiri,Urban,20-29,8,5,6,0,0,4,1,2,2
+C4920,12,5,District-Upper Subansiri,Urban,30-39,4,2,2,1,0,4,0,1,0
+C4920,12,5,District-Upper Subansiri,Urban,40-49,7,1,1,1,0,4,1,0,2
+C4920,12,5,District-Upper Subansiri,Urban,50-59,4,3,2,0,0,1,1,3,0
+C4920,12,5,District-Upper Subansiri,Urban,60-69,0,2,1,0,0,0,0,0,0
+C4920,12,5,District-Upper Subansiri,Urban,70-79,1,0,0,0,0,0,0,0,0
+C4920,12,5,District-Upper Subansiri,Urban,80-89,1,0,0,0,0,0,0,0,0
+C4920,12,5,District-Upper Subansiri,Urban,90+,0,0,0,1,0,0,0,0,0
+C4920,12,5,District-Upper Subansiri,Urban,Age Not Stated,0,0,0,0,0,0,0,0,0
+C4920,12,6,District-West Siang,Rural,0-4,12,11,18,0,0,3,1,4,2
+C4920,12,6,District-West Siang,Rural,5-9,15,19,15,6,2,7,2,2,3
+C4920,12,6,District-West Siang,Rural,10-19,34,31,30,13,9,27,28,12,8
+C4920,12,6,District-West Siang,Rural,20-29,19,25,21,5,6,16,8,11,19
+C4920,12,6,District-West Siang,Rural,30-39,18,26,25,6,11,22,9,11,7
+C4920,12,6,District-West Siang,Rural,40-49,18,24,19,7,11,16,14,6,9
+C4920,12,6,District-West Siang,Rural,50-59,15,36,21,5,6,18,9,4,5
+C4920,12,6,District-West Siang,Rural,60-69,22,33,25,4,3,12,8,3,5
+C4920,12,6,District-West Siang,Rural,70-79,13,16,15,2,0,11,6,1,3
+C4920,12,6,District-West Siang,Rural,80-89,5,4,3,0,0,3,4,0,2
+C4920,12,6,District-West Siang,Rural,90+,0,0,1,0,0,0,0,0,0
+C4920,12,6,District-West Siang,Rural,Age Not Stated,0,1,0,0,0,0,0,1,0
+C4920,12,6,District-West Siang,Urban,0-4,6,4,2,1,0,0,0,0,1
+C4920,12,6,District-West Siang,Urban,5-9,6,4,9,2,1,0,0,4,6
+C4920,12,6,District-West Siang,Urban,10-19,18,11,19,1,1,3,3,5,4
+C4920,12,6,District-West Siang,Urban,20-29,10,6,12,0,4,0,3,2,1
+C4920,12,6,District-West Siang,Urban,30-39,9,10,14,1,1,2,0,1,7
+C4920,12,6,District-West Siang,Urban,40-49,8,14,9,3,1,3,1,1,3
+C4920,12,6,District-West Siang,Urban,50-59,3,5,2,1,0,3,1,0,0
+C4920,12,6,District-West Siang,Urban,60-69,3,1,1,0,0,2,1,1,0
+C4920,12,6,District-West Siang,Urban,70-79,0,0,0,0,0,0,0,1,0
+C4920,12,6,District-West Siang,Urban,80-89,0,1,0,0,0,1,0,0,1
+C4920,12,6,District-West Siang,Urban,90+,0,0,0,0,0,0,0,0,0
+C4920,12,6,District-West Siang,Urban,Age Not Stated,0,0,0,0,0,0,0,0,0
+C4920,12,7,District-East Siang,Rural,0-4,5,8,6,1,0,2,2,0,1
+C4920,12,7,District-East Siang,Rural,5-9,6,14,11,4,3,2,1,4,3
+C4920,12,7,District-East Siang,Rural,10-19,20,31,38,15,11,23,10,11,12
+C4920,12,7,District-East Siang,Rural,20-29,23,27,38,11,6,15,7,13,14
+C4920,12,7,District-East Siang,Rural,30-39,13,41,31,9,8,14,9,11,11
+C4920,12,7,District-East Siang,Rural,40-49,20,29,39,7,5,15,12,5,14
+C4920,12,7,District-East Siang,Rural,50-59,17,25,38,5,1,24,8,2,2
+C4920,12,7,District-East Siang,Rural,60-69,29,55,52,2,4,21,16,3,4
+C4920,12,7,District-East Siang,Rural,70-79,15,33,27,5,2,21,13,3,3
+C4920,12,7,District-East Siang,Rural,80-89,13,2,11,0,0,4,3,2,0
+C4920,12,7,District-East Siang,Rural,90+,6,3,0,0,0,3,1,0,0
+C4920,12,7,District-East Siang,Rural,Age Not Stated,1,0,1,0,0,1,0,0,0
+C4920,12,7,District-East Siang,Urban,0-4,7,0,2,0,0,1,1,1,1
+C4920,12,7,District-East Siang,Urban,5-9,4,1,1,1,2,3,0,2,1
+C4920,12,7,District-East Siang,Urban,10-19,9,3,3,3,5,0,2,8,6
+C4920,12,7,District-East Siang,Urban,20-29,6,3,9,3,1,3,2,3,8
+C4920,12,7,District-East Siang,Urban,30-39,6,3,2,2,2,6,2,7,3
+C4920,12,7,District-East Siang,Urban,40-49,3,4,6,0,0,9,3,1,5
+C4920,12,7,District-East Siang,Urban,50-59,2,10,1,2,0,6,2,3,3
+C4920,12,7,District-East Siang,Urban,60-69,3,2,1,0,0,3,1,0,0
+C4920,12,7,District-East Siang,Urban,70-79,0,0,0,0,0,0,0,0,0
+C4920,12,7,District-East Siang,Urban,80-89,0,0,0,0,0,1,0,0,0
+C4920,12,7,District-East Siang,Urban,90+,0,0,0,0,0,0,0,0,0
+C4920,12,7,District-East Siang,Urban,Age Not Stated,0,0,0,0,0,0,0,0,0
+C4920,12,8,District-Upper Siang,Rural,0-4,2,4,6,0,0,2,1,1,0
+C4920,12,8,District-Upper Siang,Rural,5-9,2,8,5,4,1,4,3,1,2
+C4920,12,8,District-Upper Siang,Rural,10-19,10,19,14,11,4,10,4,1,3
+C4920,12,8,District-Upper Siang,Rural,20-29,7,7,10,0,3,7,3,4,2
+C4920,12,8,District-Upper Siang,Rural,30-39,4,13,9,3,3,4,1,0,4
+C4920,12,8,District-Upper Siang,Rural,40-49,3,11,6,2,0,6,5,3,1
+C4920,12,8,District-Upper Siang,Rural,50-59,8,9,10,0,1,10,4,2,3
+C4920,12,8,District-Upper Siang,Rural,60-69,10,26,18,2,3,6,7,1,5
+C4920,12,8,District-Upper Siang,Rural,70-79,6,22,16,0,1,4,2,2,0
+C4920,12,8,District-Upper Siang,Rural,80-89,1,6,9,1,0,5,3,1,0
+C4920,12,8,District-Upper Siang,Rural,90+,0,0,0,0,0,0,0,0,0
+C4920,12,8,District-Upper Siang,Rural,Age Not Stated,0,0,1,1,0,0,0,0,0
+C4920,12,8,District-Upper Siang,Urban,0-4,0,0,1,0,0,1,0,0,0
+C4920,12,8,District-Upper Siang,Urban,5-9,4,0,4,0,1,1,2,0,0
+C4920,12,8,District-Upper Siang,Urban,10-19,2,6,2,1,0,2,1,3,1
+C4920,12,8,District-Upper Siang,Urban,20-29,3,3,2,0,2,1,1,0,3
+C4920,12,8,District-Upper Siang,Urban,30-39,3,0,2,0,1,1,1,0,1
+C4920,12,8,District-Upper Siang,Urban,40-49,2,1,0,0,1,1,2,1,1
+C4920,12,8,District-Upper Siang,Urban,50-59,1,1,0,1,0,2,0,0,0
+C4920,12,8,District-Upper Siang,Urban,60-69,0,1,2,0,0,0,0,0,0
+C4920,12,8,District-Upper Siang,Urban,70-79,0,0,0,0,0,0,0,0,0
+C4920,12,8,District-Upper Siang,Urban,80-89,0,0,0,0,0,0,0,0,0
+C4920,12,8,District-Upper Siang,Urban,90+,0,0,0,0,0,0,0,0,0
+C4920,12,8,District-Upper Siang,Urban,Age Not Stated,0,0,0,0,0,0,0,0,0
+C4920,12,9,District-Changlang,Rural,0-4,21,15,28,1,0,6,3,0,4
+C4920,12,9,District-Changlang,Rural,5-9,18,21,24,7,7,8,9,7,9
+C4920,12,9,District-Changlang,Rural,10-19,38,47,62,21,16,18,16,20,17
+C4920,12,9,District-Changlang,Rural,20-29,26,38,61,19,14,14,9,19,13
+C4920,12,9,District-Changlang,Rural,30-39,24,39,41,17,20,24,9,21,22
+C4920,12,9,District-Changlang,Rural,40-49,22,35,37,15,8,19,16,11,12
+C4920,12,9,District-Changlang,Rural,50-59,24,31,32,8,5,23,9,8,5
+C4920,12,9,District-Changlang,Rural,60-69,24,34,32,4,2,21,9,7,4
+C4920,12,9,District-Changlang,Rural,70-79,26,28,34,5,2,9,18,2,2
+C4920,12,9,District-Changlang,Rural,80-89,11,15,13,1,0,6,8,0,1
+C4920,12,9,District-Changlang,Rural,90+,4,2,1,0,0,1,0,0,0
+C4920,12,9,District-Changlang,Rural,Age Not Stated,0,1,1,0,0,0,0,0,0
+C4920,12,9,District-Changlang,Urban,0-4,0,0,1,0,0,0,0,0,0
+C4920,12,9,District-Changlang,Urban,5-9,2,1,0,2,1,2,1,1,1
+C4920,12,9,District-Changlang,Urban,10-19,2,4,5,2,2,3,1,2,2
+C4920,12,9,District-Changlang,Urban,20-29,5,4,9,0,1,1,3,2,1
+C4920,12,9,District-Changlang,Urban,30-39,2,5,4,5,0,3,3,2,1
+C4920,12,9,District-Changlang,Urban,40-49,3,5,4,3,0,4,0,0,1
+C4920,12,9,District-Changlang,Urban,50-59,3,3,2,0,0,5,0,0,0
+C4920,12,9,District-Changlang,Urban,60-69,0,0,0,0,0,3,0,0,0
+C4920,12,9,District-Changlang,Urban,70-79,0,2,1,0,0,0,0,0,0
+C4920,12,9,District-Changlang,Urban,80-89,0,2,0,0,0,0,0,0,0
+C4920,12,9,District-Changlang,Urban,90+,0,0,0,0,0,0,0,0,0
+C4920,12,9,District-Changlang,Urban,Age Not Stated,0,0,1,0,0,0,0,0,0
+C4920,12,10,District-Tirap,Rural,0-4,18,5,8,2,1,2,2,6,3
+C4920,12,10,District-Tirap,Rural,5-9,13,10,13,4,3,9,2,10,4
+C4920,12,10,District-Tirap,Rural,10-19,39,21,19,19,7,12,14,13,24
+C4920,12,10,District-Tirap,Rural,20-29,26,25,12,10,6,17,10,20,8
+C4920,12,10,District-Tirap,Rural,30-39,18,22,18,7,11,16,7,13,11
+C4920,12,10,District-Tirap,Rural,40-49,18,22,13,6,5,10,9,12,16
+C4920,12,10,District-Tirap,Rural,50-59,13,25,18,5,1,16,5,14,4
+C4920,12,10,District-Tirap,Rural,60-69,20,22,29,3,0,22,13,4,4
+C4920,12,10,District-Tirap,Rural,70-79,17,22,21,0,2,28,24,0,2
+C4920,12,10,District-Tirap,Rural,80-89,12,16,12,2,0,10,3,1,1
+C4920,12,10,District-Tirap,Rural,90+,4,9,3,0,0,2,1,2,0
+C4920,12,10,District-Tirap,Rural,Age Not Stated,0,0,0,0,0,0,0,0,0
+C4920,12,10,District-Tirap,Urban,0-4,0,2,5,0,0,0,1,0,0
+C4920,12,10,District-Tirap,Urban,5-9,0,8,4,2,0,2,1,1,0
+C4920,12,10,District-Tirap,Urban,10-19,6,16,18,3,1,4,2,3,1
+C4920,12,10,District-Tirap,Urban,20-29,2,14,10,1,1,4,1,2,1
+C4920,12,10,District-Tirap,Urban,30-39,3,11,9,0,1,1,3,2,0
+C4920,12,10,District-Tirap,Urban,40-49,7,9,6,2,1,3,2,1,0
+C4920,12,10,District-Tirap,Urban,50-59,4,5,3,0,0,4,2,0,0
+C4920,12,10,District-Tirap,Urban,60-69,1,1,1,0,0,1,0,0,1
+C4920,12,10,District-Tirap,Urban,70-79,0,2,0,0,0,0,0,0,0
+C4920,12,10,District-Tirap,Urban,80-89,0,0,0,0,0,1,0,0,0
+C4920,12,10,District-Tirap,Urban,90+,0,0,0,0,0,0,0,0,0
+C4920,12,10,District-Tirap,Urban,Age Not Stated,0,0,0,0,0,0,0,0,0
+C4920,12,11,District-Lower Subansiri,Rural,0-4,6,14,14,0,1,0,0,3,0
+C4920,12,11,District-Lower Subansiri,Rural,5-9,8,19,28,3,4,5,1,6,4
+C4920,12,11,District-Lower Subansiri,Rural,10-19,23,49,45,7,7,15,16,16,9
+C4920,12,11,District-Lower Subansiri,Rural,20-29,12,32,30,9,10,15,8,13,9
+C4920,12,11,District-Lower Subansiri,Rural,30-39,11,19,17,6,5,7,6,6,7
+C4920,12,11,District-Lower Subansiri,Rural,40-49,20,30,25,4,6,17,4,6,5
+C4920,12,11,District-Lower Subansiri,Rural,50-59,13,15,12,5,1,8,2,3,3
+C4920,12,11,District-Lower Subansiri,Rural,60-69,9,11,17,3,1,9,5,1,3
+C4920,12,11,District-Lower Subansiri,Rural,70-79,13,6,3,0,0,3,6,0,2
+C4920,12,11,District-Lower Subansiri,Rural,80-89,1,2,0,0,0,2,2,0,0
+C4920,12,11,District-Lower Subansiri,Rural,90+,0,0,0,0,0,0,0,0,0
+C4920,12,11,District-Lower Subansiri,Rural,Age Not Stated,0,0,0,0,0,0,0,0,0
+C4920,12,11,District-Lower Subansiri,Urban,0-4,1,1,0,0,0,0,1,0,0
+C4920,12,11,District-Lower Subansiri,Urban,5-9,0,5,2,0,1,2,0,0,0
+C4920,12,11,District-Lower Subansiri,Urban,10-19,1,3,2,0,0,2,0,2,0
+C4920,12,11,District-Lower Subansiri,Urban,20-29,3,2,0,0,2,1,0,0,2
+C4920,12,11,District-Lower Subansiri,Urban,30-39,3,5,3,1,0,1,0,0,1
+C4920,12,11,District-Lower Subansiri,Urban,40-49,3,3,4,0,0,2,1,1,0
+C4920,12,11,District-Lower Subansiri,Urban,50-59,0,1,2,1,1,3,0,0,0
+C4920,12,11,District-Lower Subansiri,Urban,60-69,0,0,1,0,0,0,0,0,0
+C4920,12,11,District-Lower Subansiri,Urban,70-79,1,0,0,0,0,0,0,0,0
+C4920,12,11,District-Lower Subansiri,Urban,80-89,0,0,0,0,0,0,0,0,0
+C4920,12,11,District-Lower Subansiri,Urban,90+,0,0,1,0,0,0,0,0,0
+C4920,12,11,District-Lower Subansiri,Urban,Age Not Stated,0,0,0,0,0,0,0,0,0
+C4920,12,12,District-Kurung Kumey,Rural,0-4,10,30,42,1,1,1,2,3,4
+C4920,12,12,District-Kurung Kumey,Rural,5-9,20,33,40,11,8,8,6,8,5
+C4920,12,12,District-Kurung Kumey,Rural,10-19,34,149,109,23,22,19,27,15,12
+C4920,12,12,District-Kurung Kumey,Rural,20-29,16,56,65,10,12,21,8,6,8
+C4920,12,12,District-Kurung Kumey,Rural,30-39,21,52,68,10,6,15,8,3,7
+C4920,12,12,District-Kurung Kumey,Rural,40-49,26,61,59,9,6,18,12,6,11
+C4920,12,12,District-Kurung Kumey,Rural,50-59,24,41,44,8,5,21,13,4,2
+C4920,12,12,District-Kurung Kumey,Rural,60-69,21,33,25,2,2,16,22,5,4
+C4920,12,12,District-Kurung Kumey,Rural,70-79,2,3,6,1,0,8,5,0,2
+C4920,12,12,District-Kurung Kumey,Rural,80-89,0,0,2,0,0,0,1,1,0
+C4920,12,12,District-Kurung Kumey,Rural,90+,0,1,6,0,0,0,1,0,0
+C4920,12,12,District-Kurung Kumey,Rural,Age Not Stated,1,1,0,1,0,0,0,1,0
+C4920,12,12,District-Kurung Kumey,Urban,0-4,1,0,0,0,0,1,0,0,0
+C4920,12,12,District-Kurung Kumey,Urban,5-9,0,1,1,0,0,1,0,0,0
+C4920,12,12,District-Kurung Kumey,Urban,10-19,0,0,1,0,0,2,0,0,0
+C4920,12,12,District-Kurung Kumey,Urban,20-29,1,0,1,0,0,0,0,1,0
+C4920,12,12,District-Kurung Kumey,Urban,30-39,2,1,3,0,0,1,0,0,0
+C4920,12,12,District-Kurung Kumey,Urban,40-49,0,2,1,1,0,1,1,0,1
+C4920,12,12,District-Kurung Kumey,Urban,50-59,1,0,1,0,0,0,1,0,1
+C4920,12,12,District-Kurung Kumey,Urban,60-69,0,0,0,0,0,0,0,0,0
+C4920,12,12,District-Kurung Kumey,Urban,70-79,0,0,0,0,0,0,1,0,0
+C4920,12,12,District-Kurung Kumey,Urban,80-89,0,0,0,0,0,0,0,0,0
+C4920,12,12,District-Kurung Kumey,Urban,90+,0,0,0,0,0,0,0,0,0
+C4920,12,12,District-Kurung Kumey,Urban,Age Not Stated,0,0,0,0,0,0,0,0,0
+C4920,12,13,District-Dibang Valley,Rural,0-4,0,0,3,0,0,0,0,1,0
+C4920,12,13,District-Dibang Valley,Rural,5-9,2,0,2,0,0,0,0,1,0
+C4920,12,13,District-Dibang Valley,Rural,10-19,1,1,4,1,1,3,2,0,2
+C4920,12,13,District-Dibang Valley,Rural,20-29,1,2,4,0,1,6,2,0,3
+C4920,12,13,District-Dibang Valley,Rural,30-39,2,1,1,0,1,3,4,0,0
+C4920,12,13,District-Dibang Valley,Rural,40-49,2,2,2,0,0,5,1,0,1
+C4920,12,13,District-Dibang Valley,Rural,50-59,1,2,2,0,0,5,0,0,2
+C4920,12,13,District-Dibang Valley,Rural,60-69,2,8,3,0,1,3,1,0,0
+C4920,12,13,District-Dibang Valley,Rural,70-79,0,1,0,0,0,0,0,2,0
+C4920,12,13,District-Dibang Valley,Rural,80-89,0,0,1,0,0,0,0,0,0
+C4920,12,13,District-Dibang Valley,Rural,90+,0,0,0,0,0,1,0,0,0
+C4920,12,13,District-Dibang Valley,Rural,Age Not Stated,1,0,0,0,0,0,0,0,0
+C4920,12,13,District-Dibang Valley,Urban,0-4,0,3,2,1,0,0,0,0,0
+C4920,12,13,District-Dibang Valley,Urban,5-9,0,1,2,0,0,0,0,0,0
+C4920,12,13,District-Dibang Valley,Urban,10-19,0,5,5,0,0,2,1,1,0
+C4920,12,13,District-Dibang Valley,Urban,20-29,0,4,4,2,0,0,0,0,0
+C4920,12,13,District-Dibang Valley,Urban,30-39,1,4,3,0,1,2,2,0,0
+C4920,12,13,District-Dibang Valley,Urban,40-49,0,3,2,0,0,1,1,0,0
+C4920,12,13,District-Dibang Valley,Urban,50-59,0,2,4,0,0,0,0,0,1
+C4920,12,13,District-Dibang Valley,Urban,60-69,1,0,0,0,0,0,0,0,0
+C4920,12,13,District-Dibang Valley,Urban,70-79,0,0,0,0,1,0,0,0,1
+C4920,12,13,District-Dibang Valley,Urban,80-89,0,0,0,0,0,0,0,0,0
+C4920,12,13,District-Dibang Valley,Urban,90+,0,0,0,0,0,1,0,0,0
+C4920,12,13,District-Dibang Valley,Urban,Age Not Stated,0,0,0,0,0,0,0,0,0
+C4920,12,14,District-Lower Dibang Valley,Rural,0-4,14,8,7,0,0,3,0,2,2
+C4920,12,14,District-Lower Dibang Valley,Rural,5-9,11,15,11,5,4,2,2,5,3
+C4920,12,14,District-Lower Dibang Valley,Rural,10-19,18,30,23,16,6,15,6,9,15
+C4920,12,14,District-Lower Dibang Valley,Rural,20-29,14,25,23,10,10,10,6,8,11
+C4920,12,14,District-Lower Dibang Valley,Rural,30-39,16,21,17,7,4,7,2,3,10
+C4920,12,14,District-Lower Dibang Valley,Rural,40-49,20,20,16,6,3,9,11,8,5
+C4920,12,14,District-Lower Dibang Valley,Rural,50-59,26,21,16,4,1,4,8,1,5
+C4920,12,14,District-Lower Dibang Valley,Rural,60-69,15,19,17,2,1,12,10,4,1
+C4920,12,14,District-Lower Dibang Valley,Rural,70-79,6,12,11,1,1,4,4,2,3
+C4920,12,14,District-Lower Dibang Valley,Rural,80-89,1,5,3,0,0,1,2,1,0
+C4920,12,14,District-Lower Dibang Valley,Rural,90+,1,0,2,0,0,0,3,1,0
+C4920,12,14,District-Lower Dibang Valley,Rural,Age Not Stated,0,0,0,0,0,0,0,0,0
+C4920,12,14,District-Lower Dibang Valley,Urban,0-4,0,3,0,0,0,0,0,0,0
+C4920,12,14,District-Lower Dibang Valley,Urban,5-9,1,0,3,2,0,0,0,1,1
+C4920,12,14,District-Lower Dibang Valley,Urban,10-19,5,7,6,3,0,1,0,1,7
+C4920,12,14,District-Lower Dibang Valley,Urban,20-29,0,5,2,1,0,1,0,4,0
+C4920,12,14,District-Lower Dibang Valley,Urban,30-39,4,3,5,0,1,2,2,1,0
+C4920,12,14,District-Lower Dibang Valley,Urban,40-49,2,7,2,0,1,3,0,0,1
+C4920,12,14,District-Lower Dibang Valley,Urban,50-59,0,3,3,0,0,4,1,0,0
+C4920,12,14,District-Lower Dibang Valley,Urban,60-69,0,0,0,1,0,0,1,0,0
+C4920,12,14,District-Lower Dibang Valley,Urban,70-79,0,0,0,0,0,0,1,1,0
+C4920,12,14,District-Lower Dibang Valley,Urban,80-89,0,0,0,0,0,0,0,0,0
+C4920,12,14,District-Lower Dibang Valley,Urban,90+,0,0,0,0,0,0,0,0,0
+C4920,12,14,District-Lower Dibang Valley,Urban,Age Not Stated,0,0,0,0,0,0,0,0,0
+C4920,12,15,District-Lohit,Rural,0-4,7,16,7,1,1,7,6,6,2
+C4920,12,15,District-Lohit,Rural,5-9,16,8,8,8,5,9,8,8,3
+C4920,12,15,District-Lohit,Rural,10-19,28,30,19,17,15,17,10,13,11
+C4920,12,15,District-Lohit,Rural,20-29,28,40,17,15,9,20,15,25,18
+C4920,12,15,District-Lohit,Rural,30-39,19,37,19,18,17,21,10,26,9
+C4920,12,15,District-Lohit,Rural,40-49,23,34,19,9,9,30,10,15,6
+C4920,12,15,District-Lohit,Rural,50-59,34,22,21,7,5,14,12,6,7
+C4920,12,15,District-Lohit,Rural,60-69,28,27,16,2,5,12,8,2,5
+C4920,12,15,District-Lohit,Rural,70-79,16,21,11,3,1,5,4,3,3
+C4920,12,15,District-Lohit,Rural,80-89,8,8,2,0,0,5,6,0,0
+C4920,12,15,District-Lohit,Rural,90+,1,4,1,0,0,1,4,0,0
+C4920,12,15,District-Lohit,Rural,Age Not Stated,0,0,0,0,0,0,0,0,0
+C4920,12,15,District-Lohit,Urban,0-4,1,1,1,0,0,2,1,0,1
+C4920,12,15,District-Lohit,Urban,5-9,2,3,3,1,1,1,0,0,1
+C4920,12,15,District-Lohit,Urban,10-19,10,7,6,4,3,8,3,2,7
+C4920,12,15,District-Lohit,Urban,20-29,5,4,2,4,5,3,7,5,0
+C4920,12,15,District-Lohit,Urban,30-39,1,4,4,3,3,5,3,4,3
+C4920,12,15,District-Lohit,Urban,40-49,6,9,4,1,2,5,3,3,2
+C4920,12,15,District-Lohit,Urban,50-59,2,7,0,3,1,8,2,1,1
+C4920,12,15,District-Lohit,Urban,60-69,4,5,0,1,0,5,0,1,0
+C4920,12,15,District-Lohit,Urban,70-79,5,2,2,2,0,1,1,0,1
+C4920,12,15,District-Lohit,Urban,80-89,1,2,0,0,0,0,0,0,0
+C4920,12,15,District-Lohit,Urban,90+,1,0,0,0,0,0,0,0,0
+C4920,12,15,District-Lohit,Urban,Age Not Stated,0,0,1,0,0,0,0,0,0
+C4920,12,16,District-Anjaw,Rural,0-4,1,0,3,0,0,0,0,1,0
+C4920,12,16,District-Anjaw,Rural,5-9,2,3,1,0,0,0,2,0,0
+C4920,12,16,District-Anjaw,Rural,10-19,6,8,8,2,0,1,2,1,3
+C4920,12,16,District-Anjaw,Rural,20-29,15,31,8,1,1,2,1,1,1
+C4920,12,16,District-Anjaw,Rural,30-39,8,25,9,0,3,4,3,7,2
+C4920,12,16,District-Anjaw,Rural,40-49,7,12,8,2,0,5,4,3,4
+C4920,12,16,District-Anjaw,Rural,50-59,7,10,5,3,1,4,3,3,2
+C4920,12,16,District-Anjaw,Rural,60-69,11,1,5,2,1,3,1,3,4
+C4920,12,16,District-Anjaw,Rural,70-79,7,0,6,0,0,3,0,1,0
+C4920,12,16,District-Anjaw,Rural,80-89,3,0,3,0,0,0,0,1,1
+C4920,12,16,District-Anjaw,Rural,90+,1,1,1,0,0,0,0,0,1
+C4920,12,16,District-Anjaw,Rural,Age Not Stated,0,0,0,0,0,0,0,0,0
+C4920,12,16,District-Anjaw,Urban,0-4,0,0,0,0,0,0,0,0,0
+C4920,12,16,District-Anjaw,Urban,5-9,0,0,0,0,0,0,0,0,0
+C4920,12,16,District-Anjaw,Urban,10-19,0,0,0,0,0,0,0,0,0
+C4920,12,16,District-Anjaw,Urban,20-29,0,0,0,0,0,0,0,0,0
+C4920,12,16,District-Anjaw,Urban,30-39,0,0,0,0,0,0,0,0,0
+C4920,12,16,District-Anjaw,Urban,40-49,0,0,0,0,0,0,0,0,0
+C4920,12,16,District-Anjaw,Urban,50-59,0,0,0,0,0,0,0,0,0
+C4920,12,16,District-Anjaw,Urban,60-69,0,0,0,0,0,0,0,0,0
+C4920,12,16,District-Anjaw,Urban,70-79,0,0,0,0,0,0,0,0,0
+C4920,12,16,District-Anjaw,Urban,80-89,0,0,0,0,0,0,0,0,0
+C4920,12,16,District-Anjaw,Urban,90+,0,0,0,0,0,0,0,0,0
+C4920,12,16,District-Anjaw,Urban,Age Not Stated,0,0,0,0,0,0,0,0,0
