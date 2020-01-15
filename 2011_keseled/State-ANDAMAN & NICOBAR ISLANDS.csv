@@ -23,54 +23,54 @@ State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
 35,1,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,In seeing,0
 35,1,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,In seeing,0
 35,1,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,In seeing,0
-35,2,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In seeing,3
-35,2,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In seeing,4
-35,2,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In seeing,27
-35,2,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In seeing,27
-35,2,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In seeing,33
-35,2,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In seeing,58
-35,2,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In seeing,42
-35,2,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In seeing,60
-35,2,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In seeing,63
-35,2,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In seeing,16
-35,2,Rural,90+,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In seeing,5
-35,2,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In seeing,0
-35,2,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In seeing,0
-35,2,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In seeing,0
-35,2,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In seeing,0
-35,2,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In seeing,1
-35,2,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In seeing,0
-35,2,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In seeing,0
-35,2,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In seeing,0
-35,2,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In seeing,2
-35,2,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In seeing,0
-35,2,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In seeing,0
-35,2,Urban,90+,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In seeing,0
-35,2,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In seeing,0
-35,3,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In seeing,2
-35,3,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In seeing,3
-35,3,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In seeing,13
-35,3,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In seeing,13
-35,3,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In seeing,15
-35,3,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In seeing,19
-35,3,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In seeing,20
-35,3,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In seeing,14
-35,3,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In seeing,7
-35,3,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In seeing,8
-35,3,Rural,90+,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In seeing,2
-35,3,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In seeing,0
-35,3,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In seeing,2
-35,3,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In seeing,4
-35,3,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In seeing,9
-35,3,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In seeing,16
-35,3,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In seeing,15
-35,3,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In seeing,9
-35,3,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In seeing,13
-35,3,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In seeing,6
-35,3,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In seeing,8
-35,3,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In seeing,2
-35,3,Urban,90+,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In seeing,0
-35,3,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In seeing,0
+35,2,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,3
+35,2,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,4
+35,2,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,27
+35,2,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,27
+35,2,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,33
+35,2,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,58
+35,2,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,42
+35,2,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,60
+35,2,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,63
+35,2,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,16
+35,2,Rural,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,5
+35,2,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,0
+35,2,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,0
+35,2,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,0
+35,2,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,0
+35,2,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,1
+35,2,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,0
+35,2,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,0
+35,2,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,0
+35,2,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,2
+35,2,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,0
+35,2,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,0
+35,2,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,0
+35,2,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,0
+35,3,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,2
+35,3,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,3
+35,3,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,13
+35,3,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,13
+35,3,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,15
+35,3,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,19
+35,3,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,20
+35,3,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,14
+35,3,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,7
+35,3,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,8
+35,3,Rural,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,2
+35,3,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,0
+35,3,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,2
+35,3,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,4
+35,3,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,9
+35,3,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,16
+35,3,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,15
+35,3,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,9
+35,3,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,13
+35,3,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,6
+35,3,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,8
+35,3,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,2
+35,3,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,0
+35,3,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In seeing,0
 35,1,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,In seeing,1
 35,1,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,In seeing,2
 35,1,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,In seeing,2
@@ -95,54 +95,54 @@ State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
 35,1,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,In seeing,0
 35,1,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,In seeing,0
 35,1,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,In seeing,0
-35,2,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In seeing,3
-35,2,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In seeing,2
-35,2,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In seeing,21
-35,2,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In seeing,12
-35,2,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In seeing,26
-35,2,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In seeing,33
-35,2,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In seeing,55
-35,2,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In seeing,59
-35,2,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In seeing,35
-35,2,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In seeing,11
-35,2,Rural,90+,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In seeing,3
-35,2,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In seeing,0
-35,2,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In seeing,0
-35,2,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In seeing,0
-35,2,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In seeing,0
-35,2,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In seeing,1
-35,2,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In seeing,0
-35,2,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In seeing,0
-35,2,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In seeing,1
-35,2,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In seeing,2
-35,2,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In seeing,0
-35,2,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In seeing,0
-35,2,Urban,90+,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In seeing,0
-35,2,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In seeing,0
-35,3,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In seeing,5
-35,3,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In seeing,4
-35,3,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In seeing,8
-35,3,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In seeing,16
-35,3,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In seeing,12
-35,3,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In seeing,15
-35,3,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In seeing,7
-35,3,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In seeing,14
-35,3,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In seeing,8
-35,3,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In seeing,3
-35,3,Rural,90+,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In seeing,0
-35,3,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In seeing,0
-35,3,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In seeing,4
-35,3,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In seeing,5
-35,3,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In seeing,14
-35,3,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In seeing,13
-35,3,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In seeing,14
-35,3,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In seeing,8
-35,3,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In seeing,6
-35,3,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In seeing,4
-35,3,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In seeing,4
-35,3,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In seeing,2
-35,3,Urban,90+,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In seeing,0
-35,3,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In seeing,0
+35,2,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,3
+35,2,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,2
+35,2,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,21
+35,2,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,12
+35,2,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,26
+35,2,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,33
+35,2,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,55
+35,2,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,59
+35,2,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,35
+35,2,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,11
+35,2,Rural,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,3
+35,2,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,0
+35,2,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,0
+35,2,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,0
+35,2,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,0
+35,2,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,1
+35,2,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,0
+35,2,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,0
+35,2,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,1
+35,2,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,2
+35,2,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,0
+35,2,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,0
+35,2,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,0
+35,2,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,0
+35,3,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,5
+35,3,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,4
+35,3,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,8
+35,3,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,16
+35,3,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,12
+35,3,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,15
+35,3,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,7
+35,3,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,14
+35,3,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,8
+35,3,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,3
+35,3,Rural,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,0
+35,3,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,0
+35,3,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,4
+35,3,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,5
+35,3,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,14
+35,3,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,13
+35,3,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,14
+35,3,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,8
+35,3,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,6
+35,3,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,4
+35,3,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,4
+35,3,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,2
+35,3,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,0
+35,3,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In seeing,0
 35,1,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,In Speech,0
 35,1,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,In Speech,3
 35,1,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,In Speech,6
@@ -167,54 +167,54 @@ State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
 35,1,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,In Speech,0
 35,1,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,In Speech,0
 35,1,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,In Speech,0
-35,2,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Speech,5
-35,2,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Speech,11
-35,2,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Speech,29
-35,2,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Speech,31
-35,2,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Speech,7
-35,2,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Speech,9
-35,2,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Speech,5
-35,2,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Speech,6
-35,2,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Speech,3
-35,2,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Speech,0
-35,2,Rural,90+,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Speech,1
-35,2,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Speech,0
-35,2,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Speech,0
-35,2,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Speech,0
-35,2,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Speech,0
-35,2,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Speech,0
-35,2,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Speech,0
-35,2,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Speech,0
-35,2,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Speech,0
-35,2,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Speech,0
-35,2,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Speech,0
-35,2,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Speech,0
-35,2,Urban,90+,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Speech,0
-35,2,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Speech,0
-35,3,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Speech,1
-35,3,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Speech,11
-35,3,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Speech,19
-35,3,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Speech,22
-35,3,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Speech,15
-35,3,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Speech,9
-35,3,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Speech,6
-35,3,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Speech,2
-35,3,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Speech,3
-35,3,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Speech,0
-35,3,Rural,90+,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Speech,1
-35,3,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Speech,0
-35,3,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Speech,2
-35,3,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Speech,10
-35,3,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Speech,21
-35,3,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Speech,25
-35,3,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Speech,18
-35,3,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Speech,10
-35,3,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Speech,6
-35,3,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Speech,5
-35,3,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Speech,2
-35,3,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Speech,1
-35,3,Urban,90+,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Speech,0
-35,3,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Speech,0
+35,2,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,5
+35,2,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,11
+35,2,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,29
+35,2,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,31
+35,2,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,7
+35,2,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,9
+35,2,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,5
+35,2,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,6
+35,2,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,3
+35,2,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,0
+35,2,Rural,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,1
+35,2,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,0
+35,2,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,0
+35,2,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,0
+35,2,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,0
+35,2,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,0
+35,2,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,0
+35,2,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,0
+35,2,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,0
+35,2,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,0
+35,2,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,0
+35,2,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,0
+35,2,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,0
+35,2,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,0
+35,3,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,1
+35,3,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,11
+35,3,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,19
+35,3,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,22
+35,3,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,15
+35,3,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,9
+35,3,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,6
+35,3,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,2
+35,3,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,3
+35,3,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,0
+35,3,Rural,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,1
+35,3,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,0
+35,3,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,2
+35,3,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,10
+35,3,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,21
+35,3,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,25
+35,3,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,18
+35,3,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,10
+35,3,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,6
+35,3,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,5
+35,3,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,2
+35,3,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,1
+35,3,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,0
+35,3,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Speech,0
 35,1,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,In Speech,0
 35,1,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,In Speech,2
 35,1,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,In Speech,9
@@ -239,54 +239,54 @@ State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
 35,1,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,In Speech,0
 35,1,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,In Speech,0
 35,1,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,In Speech,0
-35,2,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Speech,2
-35,2,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Speech,12
-35,2,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Speech,20
-35,2,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Speech,19
-35,2,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Speech,8
-35,2,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Speech,3
-35,2,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Speech,3
-35,2,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Speech,5
-35,2,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Speech,2
-35,2,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Speech,0
-35,2,Rural,90+,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Speech,1
-35,2,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Speech,0
-35,2,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Speech,0
-35,2,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Speech,0
-35,2,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Speech,0
-35,2,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Speech,0
-35,2,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Speech,0
-35,2,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Speech,0
-35,2,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Speech,0
-35,2,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Speech,0
-35,2,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Speech,0
-35,2,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Speech,0
-35,2,Urban,90+,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Speech,0
-35,2,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Speech,0
-35,3,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Speech,2
-35,3,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Speech,3
-35,3,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Speech,15
-35,3,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Speech,9
-35,3,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Speech,9
-35,3,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Speech,6
-35,3,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Speech,3
-35,3,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Speech,3
-35,3,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Speech,2
-35,3,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Speech,0
-35,3,Rural,90+,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Speech,0
-35,3,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Speech,0
-35,3,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Speech,1
-35,3,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Speech,6
-35,3,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Speech,15
-35,3,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Speech,20
-35,3,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Speech,13
-35,3,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Speech,7
-35,3,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Speech,2
-35,3,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Speech,4
-35,3,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Speech,1
-35,3,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Speech,0
-35,3,Urban,90+,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Speech,0
-35,3,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Speech,0
+35,2,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,2
+35,2,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,12
+35,2,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,20
+35,2,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,19
+35,2,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,8
+35,2,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,3
+35,2,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,3
+35,2,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,5
+35,2,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,2
+35,2,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,0
+35,2,Rural,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,1
+35,2,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,0
+35,2,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,0
+35,2,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,0
+35,2,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,0
+35,2,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,0
+35,2,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,0
+35,2,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,0
+35,2,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,0
+35,2,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,0
+35,2,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,0
+35,2,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,0
+35,2,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,0
+35,2,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,0
+35,3,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,2
+35,3,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,3
+35,3,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,15
+35,3,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,9
+35,3,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,9
+35,3,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,6
+35,3,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,3
+35,3,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,3
+35,3,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,2
+35,3,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,0
+35,3,Rural,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,0
+35,3,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,0
+35,3,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,1
+35,3,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,6
+35,3,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,15
+35,3,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,20
+35,3,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,13
+35,3,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,7
+35,3,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,2
+35,3,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,4
+35,3,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,1
+35,3,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,0
+35,3,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,0
+35,3,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Speech,0
 35,1,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,In Hearing,0
 35,1,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,In Hearing,1
 35,1,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,In Hearing,2
@@ -311,54 +311,54 @@ State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
 35,1,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,In Hearing,0
 35,1,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,In Hearing,0
 35,1,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,In Hearing,0
-35,2,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Hearing,4
-35,2,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Hearing,7
-35,2,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Hearing,11
-35,2,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Hearing,16
-35,2,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Hearing,19
-35,2,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Hearing,16
-35,2,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Hearing,27
-35,2,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Hearing,40
-35,2,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Hearing,30
-35,2,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Hearing,14
-35,2,Rural,90+,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Hearing,5
-35,2,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Hearing,0
-35,2,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Hearing,0
-35,2,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Hearing,0
-35,2,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Hearing,0
-35,2,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Hearing,0
-35,2,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Hearing,0
-35,2,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Hearing,0
-35,2,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Hearing,1
-35,2,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Hearing,0
-35,2,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Hearing,2
-35,2,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Hearing,0
-35,2,Urban,90+,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Hearing,0
-35,2,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Hearing,0
-35,3,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Hearing,8
-35,3,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Hearing,12
-35,3,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Hearing,18
-35,3,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Hearing,44
-35,3,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Hearing,34
-35,3,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Hearing,23
-35,3,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Hearing,31
-35,3,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Hearing,26
-35,3,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Hearing,21
-35,3,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Hearing,8
-35,3,Rural,90+,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Hearing,0
-35,3,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Hearing,0
-35,3,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Hearing,5
-35,3,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Hearing,12
-35,3,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Hearing,29
-35,3,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Hearing,33
-35,3,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Hearing,35
-35,3,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Hearing,30
-35,3,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Hearing,28
-35,3,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Hearing,17
-35,3,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Hearing,5
-35,3,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Hearing,3
-35,3,Urban,90+,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Hearing,0
-35,3,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Hearing,0
+35,2,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,4
+35,2,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,7
+35,2,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,11
+35,2,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,16
+35,2,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,19
+35,2,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,16
+35,2,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,27
+35,2,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,40
+35,2,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,30
+35,2,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,14
+35,2,Rural,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,5
+35,2,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,0
+35,2,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,0
+35,2,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,0
+35,2,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,0
+35,2,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,0
+35,2,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,0
+35,2,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,0
+35,2,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,1
+35,2,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,0
+35,2,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,2
+35,2,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,0
+35,2,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,0
+35,2,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,0
+35,3,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,8
+35,3,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,12
+35,3,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,18
+35,3,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,44
+35,3,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,34
+35,3,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,23
+35,3,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,31
+35,3,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,26
+35,3,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,21
+35,3,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,8
+35,3,Rural,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,0
+35,3,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,0
+35,3,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,5
+35,3,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,12
+35,3,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,29
+35,3,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,33
+35,3,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,35
+35,3,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,30
+35,3,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,28
+35,3,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,17
+35,3,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,5
+35,3,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,3
+35,3,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,0
+35,3,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Hearing,0
 35,1,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,In Hearing,0
 35,1,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,In Hearing,0
 35,1,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,In Hearing,3
@@ -383,54 +383,54 @@ State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
 35,1,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,In Hearing,0
 35,1,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,In Hearing,0
 35,1,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,In Hearing,0
-35,2,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Hearing,2
-35,2,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Hearing,4
-35,2,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Hearing,14
-35,2,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Hearing,9
-35,2,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Hearing,13
-35,2,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Hearing,23
-35,2,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Hearing,21
-35,2,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Hearing,34
-35,2,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Hearing,16
-35,2,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Hearing,9
-35,2,Rural,90+,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Hearing,7
-35,2,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Hearing,0
-35,2,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Hearing,0
-35,2,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Hearing,0
-35,2,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Hearing,0
-35,2,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Hearing,0
-35,2,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Hearing,0
-35,2,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Hearing,0
-35,2,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Hearing,0
-35,2,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Hearing,0
-35,2,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Hearing,0
-35,2,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Hearing,0
-35,2,Urban,90+,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Hearing,0
-35,2,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Hearing,0
-35,3,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Hearing,7
-35,3,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Hearing,7
-35,3,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Hearing,28
-35,3,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Hearing,40
-35,3,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Hearing,35
-35,3,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Hearing,17
-35,3,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Hearing,13
-35,3,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Hearing,9
-35,3,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Hearing,7
-35,3,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Hearing,6
-35,3,Rural,90+,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Hearing,3
-35,3,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Hearing,0
-35,3,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Hearing,15
-35,3,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Hearing,11
-35,3,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Hearing,32
-35,3,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Hearing,27
-35,3,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Hearing,38
-35,3,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Hearing,28
-35,3,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Hearing,11
-35,3,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Hearing,13
-35,3,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Hearing,7
-35,3,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Hearing,3
-35,3,Urban,90+,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Hearing,0
-35,3,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Hearing,0
+35,2,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,2
+35,2,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,4
+35,2,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,14
+35,2,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,9
+35,2,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,13
+35,2,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,23
+35,2,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,21
+35,2,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,34
+35,2,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,16
+35,2,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,9
+35,2,Rural,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,7
+35,2,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,0
+35,2,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,0
+35,2,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,0
+35,2,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,0
+35,2,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,0
+35,2,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,0
+35,2,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,0
+35,2,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,0
+35,2,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,0
+35,2,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,0
+35,2,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,0
+35,2,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,0
+35,2,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,0
+35,3,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,7
+35,3,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,7
+35,3,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,28
+35,3,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,40
+35,3,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,35
+35,3,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,17
+35,3,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,13
+35,3,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,9
+35,3,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,7
+35,3,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,6
+35,3,Rural,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,3
+35,3,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,0
+35,3,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,15
+35,3,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,11
+35,3,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,32
+35,3,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,27
+35,3,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,38
+35,3,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,28
+35,3,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,11
+35,3,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,13
+35,3,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,7
+35,3,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,3
+35,3,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,0
+35,3,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Hearing,0
 35,1,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,In Movement,0
 35,1,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,In Movement,6
 35,1,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,In Movement,8
@@ -455,54 +455,54 @@ State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
 35,1,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,In Movement,0
 35,1,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,In Movement,0
 35,1,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,In Movement,0
-35,2,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Movement,11
-35,2,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Movement,17
-35,2,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Movement,35
-35,2,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Movement,59
-35,2,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Movement,69
-35,2,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Movement,56
-35,2,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Movement,48
-35,2,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Movement,52
-35,2,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Movement,47
-35,2,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Movement,10
-35,2,Rural,90+,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Movement,1
-35,2,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Movement,0
-35,2,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Movement,0
-35,2,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Movement,0
-35,2,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Movement,1
-35,2,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Movement,2
-35,2,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Movement,1
-35,2,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Movement,0
-35,2,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Movement,2
-35,2,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Movement,0
-35,2,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Movement,2
-35,2,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Movement,0
-35,2,Urban,90+,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Movement,0
-35,2,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,In Movement,0
-35,3,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Movement,5
-35,3,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Movement,8
-35,3,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Movement,17
-35,3,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Movement,33
-35,3,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Movement,49
-35,3,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Movement,46
-35,3,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Movement,36
-35,3,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Movement,31
-35,3,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Movement,18
-35,3,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Movement,9
-35,3,Rural,90+,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Movement,2
-35,3,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Movement,0
-35,3,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Movement,4
-35,3,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Movement,9
-35,3,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Movement,26
-35,3,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Movement,42
-35,3,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Movement,48
-35,3,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Movement,48
-35,3,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Movement,42
-35,3,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Movement,20
-35,3,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Movement,17
-35,3,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Movement,3
-35,3,Urban,90+,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Movement,0
-35,3,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,In Movement,0
+35,2,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,11
+35,2,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,17
+35,2,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,35
+35,2,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,59
+35,2,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,69
+35,2,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,56
+35,2,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,48
+35,2,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,52
+35,2,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,47
+35,2,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,10
+35,2,Rural,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,1
+35,2,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,0
+35,2,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,0
+35,2,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,0
+35,2,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,1
+35,2,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,2
+35,2,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,1
+35,2,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,0
+35,2,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,2
+35,2,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,0
+35,2,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,2
+35,2,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,0
+35,2,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,0
+35,2,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,0
+35,3,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,5
+35,3,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,8
+35,3,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,17
+35,3,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,33
+35,3,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,49
+35,3,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,46
+35,3,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,36
+35,3,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,31
+35,3,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,18
+35,3,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,9
+35,3,Rural,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,2
+35,3,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,0
+35,3,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,4
+35,3,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,9
+35,3,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,26
+35,3,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,42
+35,3,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,48
+35,3,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,48
+35,3,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,42
+35,3,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,20
+35,3,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,17
+35,3,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,3
+35,3,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,0
+35,3,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,In Movement,0
 35,1,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,In Movement,2
 35,1,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,In Movement,2
 35,1,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,In Movement,2
@@ -527,54 +527,54 @@ State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
 35,1,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,In Movement,0
 35,1,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,In Movement,0
 35,1,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,In Movement,0
-35,2,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Movement,4
-35,2,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Movement,13
-35,2,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Movement,21
-35,2,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Movement,25
-35,2,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Movement,30
-35,2,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Movement,30
-35,2,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Movement,29
-35,2,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Movement,39
-35,2,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Movement,22
-35,2,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Movement,9
-35,2,Rural,90+,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Movement,6
-35,2,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Movement,0
-35,2,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Movement,0
-35,2,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Movement,0
-35,2,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Movement,1
-35,2,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Movement,1
-35,2,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Movement,1
-35,2,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Movement,3
-35,2,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Movement,0
-35,2,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Movement,1
-35,2,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Movement,0
-35,2,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Movement,0
-35,2,Urban,90+,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Movement,0
-35,2,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,In Movement,0
-35,3,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Movement,5
-35,3,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Movement,2
-35,3,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Movement,12
-35,3,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Movement,21
-35,3,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Movement,32
-35,3,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Movement,25
-35,3,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Movement,10
-35,3,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Movement,10
-35,3,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Movement,7
-35,3,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Movement,6
-35,3,Rural,90+,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Movement,2
-35,3,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Movement,1
-35,3,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Movement,3
-35,3,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Movement,5
-35,3,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Movement,15
-35,3,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Movement,33
-35,3,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Movement,20
-35,3,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Movement,19
-35,3,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Movement,14
-35,3,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Movement,5
-35,3,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Movement,4
-35,3,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Movement,3
-35,3,Urban,90+,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Movement,3
-35,3,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,In Movement,0
+35,2,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,4
+35,2,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,13
+35,2,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,21
+35,2,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,25
+35,2,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,30
+35,2,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,30
+35,2,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,29
+35,2,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,39
+35,2,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,22
+35,2,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,9
+35,2,Rural,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,6
+35,2,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,0
+35,2,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,0
+35,2,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,0
+35,2,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,1
+35,2,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,1
+35,2,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,1
+35,2,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,3
+35,2,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,0
+35,2,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,1
+35,2,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,0
+35,2,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,0
+35,2,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,0
+35,2,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,0
+35,3,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,5
+35,3,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,2
+35,3,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,12
+35,3,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,21
+35,3,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,32
+35,3,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,25
+35,3,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,10
+35,3,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,10
+35,3,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,7
+35,3,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,6
+35,3,Rural,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,2
+35,3,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,1
+35,3,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,3
+35,3,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,5
+35,3,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,15
+35,3,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,33
+35,3,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,20
+35,3,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,19
+35,3,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,14
+35,3,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,5
+35,3,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,4
+35,3,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,3
+35,3,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,3
+35,3,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,In Movement,0
 35,1,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,Mental,0
 35,1,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,Mental,0
 35,1,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,Mental,2
@@ -599,54 +599,54 @@ State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
 35,1,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,Mental,0
 35,1,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,Mental,0
 35,1,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Nicobars,Male,Mental,0
-35,2,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,Mental,2
-35,2,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,Mental,6
-35,2,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,Mental,25
-35,2,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,Mental,24
-35,2,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,Mental,18
-35,2,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,Mental,12
-35,2,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,Mental,8
-35,2,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,Mental,4
-35,2,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,Mental,4
-35,2,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,Mental,1
-35,2,Rural,90+,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,Mental,0
-35,2,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,Mental,0
-35,2,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,Mental,0
-35,2,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,Mental,0
-35,2,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,Mental,1
-35,2,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,Mental,2
-35,2,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,Mental,0
-35,2,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,Mental,1
-35,2,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,Mental,1
-35,2,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,Mental,0
-35,2,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,Mental,1
-35,2,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,Mental,0
-35,2,Urban,90+,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,Mental,0
-35,2,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Male,Mental,0
-35,3,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,Mental,4
-35,3,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,Mental,4
-35,3,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,Mental,16
-35,3,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,Mental,26
-35,3,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,Mental,13
-35,3,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,Mental,9
-35,3,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,Mental,5
-35,3,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,Mental,4
-35,3,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,Mental,1
-35,3,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,Mental,0
-35,3,Rural,90+,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,Mental,0
-35,3,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,Mental,0
-35,3,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,Mental,4
-35,3,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,Mental,7
-35,3,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,Mental,22
-35,3,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,Mental,22
-35,3,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,Mental,20
-35,3,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,Mental,15
-35,3,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,Mental,8
-35,3,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,Mental,3
-35,3,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,Mental,1
-35,3,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,Mental,1
-35,3,Urban,90+,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,Mental,0
-35,3,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,South Andaman,Male,Mental,0
+35,2,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,2
+35,2,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,6
+35,2,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,25
+35,2,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,24
+35,2,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,18
+35,2,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,12
+35,2,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,8
+35,2,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,4
+35,2,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,4
+35,2,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,1
+35,2,Rural,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,0
+35,2,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,0
+35,2,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,0
+35,2,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,0
+35,2,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,1
+35,2,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,2
+35,2,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,0
+35,2,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,1
+35,2,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,1
+35,2,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,0
+35,2,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,1
+35,2,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,0
+35,2,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,0
+35,2,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,0
+35,3,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,4
+35,3,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,4
+35,3,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,16
+35,3,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,26
+35,3,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,13
+35,3,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,9
+35,3,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,5
+35,3,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,4
+35,3,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,1
+35,3,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,0
+35,3,Rural,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,0
+35,3,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,0
+35,3,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,4
+35,3,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,7
+35,3,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,22
+35,3,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,22
+35,3,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,20
+35,3,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,15
+35,3,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,8
+35,3,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,3
+35,3,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,1
+35,3,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,1
+35,3,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,0
+35,3,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Male,Mental,0
 35,1,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,Mental,0
 35,1,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,Mental,0
 35,1,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,Mental,8
@@ -671,51 +671,51 @@ State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
 35,1,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,Mental,0
 35,1,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,Mental,0
 35,1,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Nicobars,Female,Mental,0
-35,2,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,Mental,2
-35,2,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,Mental,6
-35,2,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,Mental,15
-35,2,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,Mental,23
-35,2,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,Mental,15
-35,2,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,Mental,15
-35,2,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,Mental,18
-35,2,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,Mental,9
-35,2,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,Mental,4
-35,2,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,Mental,2
-35,2,Rural,90+,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,Mental,0
-35,2,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,Mental,0
-35,2,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,Mental,0
-35,2,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,Mental,0
-35,2,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,Mental,0
-35,2,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,Mental,1
-35,2,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,Mental,0
-35,2,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,Mental,0
-35,2,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,Mental,0
-35,2,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,Mental,0
-35,2,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,Mental,0
-35,2,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,Mental,0
-35,2,Urban,90+,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,Mental,0
-35,2,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,North  & Middle Andaman,Female,Mental,0
-35,3,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,Mental,0
-35,3,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,Mental,4
-35,3,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,Mental,30
-35,3,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,Mental,27
-35,3,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,Mental,11
-35,3,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,Mental,9
-35,3,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,Mental,8
-35,3,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,Mental,2
-35,3,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,Mental,0
-35,3,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,Mental,0
-35,3,Rural,90+,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,Mental,0
-35,3,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,Mental,0
-35,3,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,Mental,1
-35,3,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,Mental,4
-35,3,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,Mental,21
-35,3,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,Mental,27
-35,3,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,Mental,13
-35,3,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,Mental,10
-35,3,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,Mental,11
-35,3,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,Mental,7
-35,3,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,Mental,0
-35,3,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,Mental,1
-35,3,Urban,90+,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,Mental,0
-35,3,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,South Andaman,Female,Mental,0
+35,2,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,2
+35,2,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,6
+35,2,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,15
+35,2,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,23
+35,2,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,15
+35,2,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,15
+35,2,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,18
+35,2,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,9
+35,2,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,4
+35,2,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,2
+35,2,Rural,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,0
+35,2,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,0
+35,2,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,0
+35,2,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,0
+35,2,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,0
+35,2,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,1
+35,2,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,0
+35,2,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,0
+35,2,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,0
+35,2,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,0
+35,2,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,0
+35,2,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,0
+35,2,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,0
+35,2,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,0
+35,3,Rural,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,0
+35,3,Rural,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,4
+35,3,Rural,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,30
+35,3,Rural,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,27
+35,3,Rural,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,11
+35,3,Rural,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,9
+35,3,Rural,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,8
+35,3,Rural,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,2
+35,3,Rural,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,0
+35,3,Rural,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,0
+35,3,Rural,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,0
+35,3,Rural,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,0
+35,3,Urban,0-4,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,1
+35,3,Urban,5-9,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,4
+35,3,Urban,10-19,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,21
+35,3,Urban,20-29,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,27
+35,3,Urban,30-39,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,13
+35,3,Urban,40-49,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,10
+35,3,Urban,50-59,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,11
+35,3,Urban,60-69,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,7
+35,3,Urban,70-79,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,0
+35,3,Urban,80-89,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,1
+35,3,Urban,90+,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,0
+35,3,Urban,Age Not Stated,ANDAMAN & NICOBAR ISLANDS,Andamans,Female,Mental,0
