@@ -10,7 +10,9 @@ the files of 2001 get merged into 2001.csv using merging.ipynb
 the files of 2011 get merged into 2011.csv using merging.ipynb
 
 files 2001.csv & 2011.csv are the final data we insert into the warehouse using Talend
-
+# The video demo 
+<center>
 [![Watch the video](https://i9.ytimg.com/vi/41ObhrmWKLo/mq1.jpg?sqp=CJ7qh_EF&rs=AOn4CLDB_nv6eB-LTs1fpfalytIu39MeGg)](https://www.youtube.com/watch?v=41ObhrmWKLo&feature=youtu.be)
+</center>
 
 
