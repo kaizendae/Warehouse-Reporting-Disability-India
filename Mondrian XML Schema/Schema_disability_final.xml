@@ -1,0 +1,60 @@
+<Schema name="Disability_Schema">
+  <Cube name="Cube" visible="true" cache="true" enabled="true">
+    <Table name="disability_rate" alias="Fact Table">
+    </Table>
+    <Dimension type="StandardDimension" visible="true" foreignKey="id_age" highCardinality="false" name="Age Group">
+      <Hierarchy name="Age Group" visible="true" hasAll="true" primaryKey="id_age">
+        <Table name="age">
+        </Table>
+        <Level name="Age Group" visible="true" table="age" column="age_group" type="String" internalType="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="TimeDimension" visible="true" foreignKey="id_time" highCardinality="false" name="Time">
+      <Hierarchy name="Time" visible="true" hasAll="true" primaryKey="id_time">
+        <Table name="time">
+        </Table>
+        <Level name="Year" visible="true" table="time" column="year" nameColumn="year" type="Date" internalType="int" uniqueMembers="false" levelType="TimeYears" hideMemberIf="Never">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="id_disability_type" highCardinality="false" name="Disability Type">
+      <Hierarchy name="Disability Type" visible="true" hasAll="true" primaryKey="id_disability_type">
+        <Table name="disability_type">
+        </Table>
+        <Level name="Disability Type" visible="true" table="disability_type" column="label" nameColumn="label" type="String" internalType="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="id_gender" highCardinality="false" name="Gender">
+      <Hierarchy name="Gender" visible="true" hasAll="true" primaryKey="id_gender">
+        <Table name="gender">
+        </Table>
+        <Level name="Gender" visible="true" table="gender" column="label" nameColumn="label" type="String" internalType="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="id_area" highCardinality="false" name="Location">
+      <Hierarchy name="Location" visible="true" hasAll="true" primaryKey="id_area" primaryKeyTable="area">
+        <Join leftKey="id_city" rightKey="id_city">
+          <Table name="area">
+          </Table>
+          <Join leftKey="id_state" rightKey="id_state">
+            <Table name="city">
+            </Table>
+            <Table name="state">
+            </Table>
+          </Join>
+        </Join>
+        <Level name="State" visible="true" table="state" column="label" nameColumn="label" type="String" internalType="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+        </Level>
+        <Level name="City" visible="true" table="city" column="label" nameColumn="label" type="String" internalType="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+        </Level>
+        <Level name="Area Type" visible="true" table="area" column="type_area" nameColumn="type_area" type="String" internalType="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Measure name="Rate" column="number_disability" datatype="Numeric" aggregator="sum" visible="true">
+    </Measure>
+  </Cube>
+</Schema>

@@ -1,0 +1,1 @@
+In order to implement multilevel heirarchy in XML Schema it has to be done changing the XML Code, No way to do it in the interface.
