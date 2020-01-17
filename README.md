@@ -18,7 +18,7 @@ Database connection :
 user : root
 password : root
 
-when you import the project in Tatend Studio run job that has name "all_jobs.job" , We’ve creat this global job to help us organize the sequence of execution of our elementary jobs.
+when you import the project in Tatend Studio run job that has name "all_jobs.job" , We’ve created this global job to help us organize the sequence of execution of our elementary jobs.
 
 # The Reporting Demo with Power BI 
 <center>
