@@ -15,7 +15,5 @@ files 2001.csv & 2011.csv are the final data we insert into the warehouse using 
 <center>
   
 [![Watch the video](https://i9.ytimg.com/vi/41ObhrmWKLo/mq1.jpg?sqp=CJ7qh_EF&rs=AOn4CLDB_nv6eB-LTs1fpfalytIu39MeGg)](https://www.youtube.com/watch?v=41ObhrmWKLo&feature=youtu.be)
-  
-[![Alt text](https://i9.ytimg.com/vi/41ObhrmWKLo/mq1.jpg?sqp=CODwh_EF&rs=AOn4CLCL6fAb5hrdEI20r83Sz6zkrbk39Q)](https://www.youtube.com/watch?v=41ObhrmWKLo&feature=youtu.be)
-  
+ 
 </center>
