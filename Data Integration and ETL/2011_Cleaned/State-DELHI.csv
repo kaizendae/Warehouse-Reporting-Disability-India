@@ -1,0 +1,217 @@
+Table Name,State Code,Distt.Code,Area Name,Total/Rural/Urban,Age-group,In seeing - Males,In seeing - Females,In Hearing - Males,In Hearing - Females,In Speech - Males,In Speech - Females,In Movement - Males,In Movement - Females,Mental - Males,Mental - Females
+C4920,7,1,District-North West,Rural,0-4,7,6,12,9,3,0,9,8,7,4
+C4920,7,1,District-North West,Rural,5-9,5,6,13,7,19,11,27,12,15,4
+C4920,7,1,District-North West,Rural,10-19,23,16,52,24,19,14,88,43,54,26
+C4920,7,1,District-North West,Rural,20-29,18,12,32,26,23,11,116,71,44,16
+C4920,7,1,District-North West,Rural,30-39,25,7,30,15,13,5,112,56,40,16
+C4920,7,1,District-North West,Rural,40-49,23,9,17,16,7,6,80,30,28,9
+C4920,7,1,District-North West,Rural,50-59,16,13,9,10,2,1,59,31,25,7
+C4920,7,1,District-North West,Rural,60-69,18,17,13,18,4,4,66,29,7,4
+C4920,7,1,District-North West,Rural,70-79,9,12,7,18,2,1,27,22,5,3
+C4920,7,1,District-North West,Rural,80-89,4,1,7,7,0,0,5,10,1,0
+C4920,7,1,District-North West,Rural,90+,2,2,2,1,0,1,4,3,0,0
+C4920,7,1,District-North West,Rural,Age Not Stated,0,0,0,0,0,0,0,1,0,0
+C4920,7,1,District-North West,Urban,0-4,87,56,137,147,29,20,143,87,69,42
+C4920,7,1,District-North West,Urban,5-9,136,88,195,163,192,150,239,201,232,143
+C4920,7,1,District-North West,Urban,10-19,376,296,490,425,414,270,1019,621,973,596
+C4920,7,1,District-North West,Urban,20-29,406,305,465,362,298,195,1719,779,884,450
+C4920,7,1,District-North West,Urban,30-39,377,224,442,309,214,184,1432,706,531,352
+C4920,7,1,District-North West,Urban,40-49,404,254,375,268,175,115,1212,540,434,267
+C4920,7,1,District-North West,Urban,50-59,404,270,272,219,136,77,962,525,237,151
+C4920,7,1,District-North West,Urban,60-69,458,441,308,318,83,55,1082,776,128,96
+C4920,7,1,District-North West,Urban,70-79,232,248,234,217,53,29,530,572,50,35
+C4920,7,1,District-North West,Urban,80-89,85,91,127,117,8,15,227,304,8,21
+C4920,7,1,District-North West,Urban,90+,16,31,28,23,2,3,43,61,3,3
+C4920,7,1,District-North West,Urban,Age Not Stated,3,1,5,2,3,2,2,2,2,0
+C4920,7,2,District-North,Rural,0-4,0,0,1,0,0,0,0,0,0,0
+C4920,7,2,District-North,Rural,5-9,0,1,0,0,2,0,0,1,1,1
+C4920,7,2,District-North,Rural,10-19,3,0,0,1,0,2,8,1,1,2
+C4920,7,2,District-North,Rural,20-29,2,0,2,1,1,1,7,8,2,3
+C4920,7,2,District-North,Rural,30-39,2,2,0,0,0,0,7,3,5,0
+C4920,7,2,District-North,Rural,40-49,2,0,1,2,1,0,7,2,2,0
+C4920,7,2,District-North,Rural,50-59,4,4,2,0,0,1,3,2,1,0
+C4920,7,2,District-North,Rural,60-69,7,5,3,4,1,0,7,3,1,1
+C4920,7,2,District-North,Rural,70-79,5,10,2,3,0,0,2,4,1,0
+C4920,7,2,District-North,Rural,80-89,0,6,0,0,0,0,3,3,0,0
+C4920,7,2,District-North,Rural,90+,1,2,0,0,0,0,0,0,0,0
+C4920,7,2,District-North,Rural,Age Not Stated,0,0,0,0,0,0,0,0,0,0
+C4920,7,2,District-North,Urban,0-4,22,19,46,36,6,9,29,16,21,14
+C4920,7,2,District-North,Urban,5-9,30,28,50,53,41,38,47,33,58,33
+C4920,7,2,District-North,Urban,10-19,80,71,139,119,90,79,218,96,213,130
+C4920,7,2,District-North,Urban,20-29,115,90,133,95,102,63,373,169,216,109
+C4920,7,2,District-North,Urban,30-39,105,90,132,87,72,49,353,179,163,102
+C4920,7,2,District-North,Urban,40-49,153,83,120,76,42,35,326,144,154,77
+C4920,7,2,District-North,Urban,50-59,128,87,94,72,27,25,298,184,63,39
+C4920,7,2,District-North,Urban,60-69,98,133,82,84,25,16,287,216,52,27
+C4920,7,2,District-North,Urban,70-79,77,88,60,49,7,8,159,171,13,18
+C4920,7,2,District-North,Urban,80-89,21,44,27,50,6,1,68,65,1,6
+C4920,7,2,District-North,Urban,90+,6,10,10,6,1,0,19,23,1,1
+C4920,7,2,District-North,Urban,Age Not Stated,0,0,2,1,0,0,1,0,0,0
+C4920,7,3,District-North East,Rural,0-4,2,1,5,7,0,0,1,0,0,1
+C4920,7,3,District-North East,Rural,5-9,1,1,2,4,6,2,4,1,2,0
+C4920,7,3,District-North East,Rural,10-19,6,2,2,4,2,2,9,1,4,1
+C4920,7,3,District-North East,Rural,20-29,1,2,3,14,3,0,9,8,6,0
+C4920,7,3,District-North East,Rural,30-39,2,1,3,9,1,1,7,1,1,1
+C4920,7,3,District-North East,Rural,40-49,2,1,1,3,0,1,10,1,2,1
+C4920,7,3,District-North East,Rural,50-59,0,1,3,2,1,1,2,1,1,0
+C4920,7,3,District-North East,Rural,60-69,5,1,0,0,3,0,3,4,1,0
+C4920,7,3,District-North East,Rural,70-79,1,0,2,1,0,0,1,2,0,0
+C4920,7,3,District-North East,Rural,80-89,1,0,0,0,0,0,1,1,0,0
+C4920,7,3,District-North East,Rural,90+,0,0,0,0,0,0,2,0,0,0
+C4920,7,3,District-North East,Rural,Age Not Stated,0,0,0,0,0,0,0,0,0,0
+C4920,7,3,District-North East,Urban,0-4,90,83,125,108,23,14,87,74,67,30
+C4920,7,3,District-North East,Urban,5-9,114,93,159,141,153,104,198,135,169,106
+C4920,7,3,District-North East,Urban,10-19,325,266,372,320,350,233,808,543,611,408
+C4920,7,3,District-North East,Urban,20-29,282,210,324,283,232,156,1354,736,527,239
+C4920,7,3,District-North East,Urban,30-39,246,164,270,239,160,134,1136,543,379,189
+C4920,7,3,District-North East,Urban,40-49,254,205,248,158,122,81,879,394,237,112
+C4920,7,3,District-North East,Urban,50-59,273,179,171,127,79,38,627,357,106,70
+C4920,7,3,District-North East,Urban,60-69,329,338,194,188,62,28,713,541,74,59
+C4920,7,3,District-North East,Urban,70-79,173,179,138,129,21,11,302,290,21,15
+C4920,7,3,District-North East,Urban,80-89,53,70,54,67,4,5,86,116,4,9
+C4920,7,3,District-North East,Urban,90+,10,13,15,17,2,0,20,39,4,4
+C4920,7,3,District-North East,Urban,Age Not Stated,0,2,4,1,3,1,3,2,2,2
+C4920,7,4,District-East,Rural,0-4,0,0,0,0,1,0,0,0,0,0
+C4920,7,4,District-East,Rural,5-9,0,1,1,0,0,0,1,0,0,0
+C4920,7,4,District-East,Rural,10-19,1,1,0,0,0,0,0,1,2,0
+C4920,7,4,District-East,Rural,20-29,2,1,0,1,2,0,0,1,0,1
+C4920,7,4,District-East,Rural,30-39,0,0,1,1,2,2,1,0,0,1
+C4920,7,4,District-East,Rural,40-49,0,2,0,0,0,0,1,2,0,0
+C4920,7,4,District-East,Rural,50-59,2,0,1,0,0,0,2,2,0,0
+C4920,7,4,District-East,Rural,60-69,0,1,0,0,0,0,1,1,0,1
+C4920,7,4,District-East,Rural,70-79,0,0,0,0,0,0,0,2,0,0
+C4920,7,4,District-East,Rural,80-89,0,0,0,0,0,0,1,1,0,0
+C4920,7,4,District-East,Rural,90+,0,0,0,0,0,0,0,1,0,0
+C4920,7,4,District-East,Rural,Age Not Stated,0,0,0,0,0,0,0,0,0,0
+C4920,7,4,District-East,Urban,0-4,60,46,84,90,12,18,51,43,31,18
+C4920,7,4,District-East,Urban,5-9,82,62,116,98,93,49,111,90,105,69
+C4920,7,4,District-East,Urban,10-19,233,165,255,260,167,126,398,257,425,246
+C4920,7,4,District-East,Urban,20-29,202,153,267,303,154,109,715,417,395,209
+C4920,7,4,District-East,Urban,30-39,170,124,236,209,119,86,655,328,358,182
+C4920,7,4,District-East,Urban,40-49,223,132,171,178,83,67,579,248,261,123
+C4920,7,4,District-East,Urban,50-59,173,129,159,156,70,38,477,312,116,79
+C4920,7,4,District-East,Urban,60-69,222,207,179,189,51,41,520,497,87,56
+C4920,7,4,District-East,Urban,70-79,104,130,143,141,29,17,370,460,32,26
+C4920,7,4,District-East,Urban,80-89,39,54,91,78,5,4,174,223,12,15
+C4920,7,4,District-East,Urban,90+,8,15,18,22,2,1,18,39,0,2
+C4920,7,4,District-East,Urban,Age Not Stated,2,0,6,9,0,0,1,1,0,0
+C4920,7,5,District-New Delhi,Rural,0-4,0,0,0,0,0,0,0,0,0,0
+C4920,7,5,District-New Delhi,Rural,5-9,0,0,0,0,0,0,0,0,0,0
+C4920,7,5,District-New Delhi,Rural,10-19,0,0,0,0,0,0,0,0,0,0
+C4920,7,5,District-New Delhi,Rural,20-29,0,0,0,0,0,0,0,0,0,0
+C4920,7,5,District-New Delhi,Rural,30-39,0,0,0,0,0,0,0,0,0,0
+C4920,7,5,District-New Delhi,Rural,40-49,0,0,0,0,0,0,0,0,0,0
+C4920,7,5,District-New Delhi,Rural,50-59,0,0,0,0,0,0,0,0,0,0
+C4920,7,5,District-New Delhi,Rural,60-69,0,0,0,0,0,0,0,0,0,0
+C4920,7,5,District-New Delhi,Rural,70-79,0,0,0,0,0,0,0,0,0,0
+C4920,7,5,District-New Delhi,Rural,80-89,0,0,0,0,0,0,0,0,0,0
+C4920,7,5,District-New Delhi,Rural,90+,0,0,0,0,0,0,0,0,0,0
+C4920,7,5,District-New Delhi,Rural,Age Not Stated,0,0,0,0,0,0,0,0,0,0
+C4920,7,5,District-New Delhi,Urban,0-4,5,6,5,10,0,2,1,2,2,1
+C4920,7,5,District-New Delhi,Urban,5-9,23,6,5,5,3,5,9,6,9,5
+C4920,7,5,District-New Delhi,Urban,10-19,90,25,31,26,21,14,43,15,24,18
+C4920,7,5,District-New Delhi,Urban,20-29,33,18,35,33,14,13,53,29,41,19
+C4920,7,5,District-New Delhi,Urban,30-39,19,16,34,24,13,5,59,28,14,14
+C4920,7,5,District-New Delhi,Urban,40-49,43,30,143,31,9,11,59,39,12,8
+C4920,7,5,District-New Delhi,Urban,50-59,39,24,55,28,15,7,51,35,11,6
+C4920,7,5,District-New Delhi,Urban,60-69,26,14,6,9,4,2,33,22,4,3
+C4920,7,5,District-New Delhi,Urban,70-79,5,14,6,15,2,2,18,32,1,2
+C4920,7,5,District-New Delhi,Urban,80-89,4,3,4,6,0,1,11,25,0,1
+C4920,7,5,District-New Delhi,Urban,90+,0,0,3,1,0,0,2,4,1,2
+C4920,7,5,District-New Delhi,Urban,Age Not Stated,1,0,6,0,0,0,1,0,0,0
+C4920,7,6,District-Central,Rural,0-4,0,0,0,0,0,0,0,0,0,0
+C4920,7,6,District-Central,Rural,5-9,0,0,0,0,0,0,0,0,0,0
+C4920,7,6,District-Central,Rural,10-19,0,0,0,0,0,0,0,0,0,0
+C4920,7,6,District-Central,Rural,20-29,0,0,0,0,0,0,0,0,0,0
+C4920,7,6,District-Central,Rural,30-39,0,0,0,0,0,0,0,0,0,0
+C4920,7,6,District-Central,Rural,40-49,0,0,0,0,0,0,0,0,0,0
+C4920,7,6,District-Central,Rural,50-59,0,0,0,0,0,0,0,0,0,0
+C4920,7,6,District-Central,Rural,60-69,0,0,0,0,0,0,0,0,0,0
+C4920,7,6,District-Central,Rural,70-79,0,0,0,0,0,0,0,0,0,0
+C4920,7,6,District-Central,Rural,80-89,0,0,0,0,0,0,0,0,0,0
+C4920,7,6,District-Central,Rural,90+,0,0,0,0,0,0,0,0,0,0
+C4920,7,6,District-Central,Rural,Age Not Stated,0,0,0,0,0,0,0,0,0,0
+C4920,7,6,District-Central,Urban,0-4,14,22,46,39,8,5,20,12,20,13
+C4920,7,6,District-Central,Urban,5-9,19,24,42,38,38,21,34,25,43,20
+C4920,7,6,District-Central,Urban,10-19,85,73,97,91,79,44,122,79,154,111
+C4920,7,6,District-Central,Urban,20-29,99,70,136,110,71,42,215,131,163,102
+C4920,7,6,District-Central,Urban,30-39,107,70,112,98,59,42,220,104,134,90
+C4920,7,6,District-Central,Urban,40-49,123,96,95,79,51,25,261,140,105,49
+C4920,7,6,District-Central,Urban,50-59,175,105,106,76,45,20,277,227,75,31
+C4920,7,6,District-Central,Urban,60-69,147,117,91,92,20,10,308,351,40,33
+C4920,7,6,District-Central,Urban,70-79,55,84,70,95,14,10,189,299,12,20
+C4920,7,6,District-Central,Urban,80-89,30,34,34,52,2,2,87,150,3,1
+C4920,7,6,District-Central,Urban,90+,9,6,7,12,1,1,22,36,3,5
+C4920,7,6,District-Central,Urban,Age Not Stated,3,0,2,0,1,0,0,2,0,0
+C4920,7,7,District-West,Rural,0-4,0,0,0,1,0,0,1,0,0,0
+C4920,7,7,District-West,Rural,5-9,2,1,1,0,0,0,0,0,0,0
+C4920,7,7,District-West,Rural,10-19,1,0,0,2,0,0,1,2,4,1
+C4920,7,7,District-West,Rural,20-29,0,5,1,0,0,1,3,0,0,0
+C4920,7,7,District-West,Rural,30-39,2,0,0,0,0,0,2,0,1,1
+C4920,7,7,District-West,Rural,40-49,0,1,0,0,0,0,5,2,1,1
+C4920,7,7,District-West,Rural,50-59,0,1,2,0,0,0,0,0,1,0
+C4920,7,7,District-West,Rural,60-69,2,6,2,0,1,0,0,1,0,0
+C4920,7,7,District-West,Rural,70-79,0,2,1,3,0,0,0,0,0,0
+C4920,7,7,District-West,Rural,80-89,0,2,2,2,0,0,1,1,0,0
+C4920,7,7,District-West,Rural,90+,1,1,0,0,0,0,0,0,0,0
+C4920,7,7,District-West,Rural,Age Not Stated,0,0,0,0,0,0,0,0,0,0
+C4920,7,7,District-West,Urban,0-4,86,76,105,94,15,10,68,61,48,27
+C4920,7,7,District-West,Urban,5-9,141,99,149,105,140,88,173,106,169,90
+C4920,7,7,District-West,Urban,10-19,339,218,393,312,288,192,572,333,601,349
+C4920,7,7,District-West,Urban,20-29,305,215,362,289,274,168,912,494,592,310
+C4920,7,7,District-West,Urban,30-39,265,216,353,277,180,148,902,466,423,226
+C4920,7,7,District-West,Urban,40-49,292,207,327,209,156,97,912,452,372,188
+C4920,7,7,District-West,Urban,50-59,298,213,244,230,147,86,772,546,217,128
+C4920,7,7,District-West,Urban,60-69,369,324,310,266,81,65,954,882,130,81
+C4920,7,7,District-West,Urban,70-79,194,200,251,231,46,38,581,732,40,43
+C4920,7,7,District-West,Urban,80-89,69,74,171,161,18,6,278,349,12,15
+C4920,7,7,District-West,Urban,90+,18,25,28,30,1,4,48,83,3,3
+C4920,7,7,District-West,Urban,Age Not Stated,8,4,12,8,9,4,10,5,2,1
+C4920,7,8,District-South West,Rural,0-4,11,6,3,5,4,1,10,1,1,1
+C4920,7,8,District-South West,Rural,5-9,11,9,9,7,7,12,10,9,8,3
+C4920,7,8,District-South West,Rural,10-19,22,12,21,19,29,12,41,26,38,17
+C4920,7,8,District-South West,Rural,20-29,14,16,13,12,13,9,79,28,40,14
+C4920,7,8,District-South West,Rural,30-39,19,10,15,17,6,8,84,36,26,14
+C4920,7,8,District-South West,Rural,40-49,23,14,21,17,8,7,68,26,18,9
+C4920,7,8,District-South West,Rural,50-59,25,33,12,15,3,2,45,35,4,5
+C4920,7,8,District-South West,Rural,60-69,48,47,22,23,2,0,67,67,7,3
+C4920,7,8,District-South West,Rural,70-79,28,30,21,27,0,2,46,35,3,3
+C4920,7,8,District-South West,Rural,80-89,8,7,21,19,0,2,15,30,0,2
+C4920,7,8,District-South West,Rural,90+,1,4,5,1,0,0,9,5,0,0
+C4920,7,8,District-South West,Rural,Age Not Stated,1,0,0,0,0,0,1,0,0,0
+C4920,7,8,District-South West,Urban,0-4,94,85,138,130,25,21,69,44,45,32
+C4920,7,8,District-South West,Urban,5-9,123,105,165,142,146,78,116,78,138,70
+C4920,7,8,District-South West,Urban,10-19,317,211,413,297,276,201,442,257,463,274
+C4920,7,8,District-South West,Urban,20-29,399,248,628,418,274,189,866,416,466,225
+C4920,7,8,District-South West,Urban,30-39,296,184,644,308,183,143,910,419,302,154
+C4920,7,8,District-South West,Urban,40-49,282,182,507,270,183,109,748,365,240,112
+C4920,7,8,District-South West,Urban,50-59,253,180,281,190,98,63,632,357,116,73
+C4920,7,8,District-South West,Urban,60-69,223,218,199,158,58,47,524,380,57,45
+C4920,7,8,District-South West,Urban,70-79,128,140,144,130,19,17,267,294,15,17
+C4920,7,8,District-South West,Urban,80-89,46,67,87,87,7,6,97,152,11,10
+C4920,7,8,District-South West,Urban,90+,16,13,20,23,2,4,18,34,4,3
+C4920,7,8,District-South West,Urban,Age Not Stated,7,8,29,2,0,2,3,2,2,2
+C4920,7,9,District-South,Rural,0-4,0,2,1,2,1,0,0,0,0,0
+C4920,7,9,District-South,Rural,5-9,1,1,4,2,2,0,3,1,0,0
+C4920,7,9,District-South,Rural,10-19,6,3,9,5,3,1,7,0,2,2
+C4920,7,9,District-South,Rural,20-29,0,1,4,2,3,2,3,4,2,1
+C4920,7,9,District-South,Rural,30-39,1,0,7,2,4,3,2,0,0,0
+C4920,7,9,District-South,Rural,40-49,1,0,4,1,0,2,1,0,2,0
+C4920,7,9,District-South,Rural,50-59,0,0,0,0,1,0,0,0,0,0
+C4920,7,9,District-South,Rural,60-69,0,0,1,1,1,0,0,1,0,0
+C4920,7,9,District-South,Rural,70-79,0,1,1,0,1,0,0,0,0,0
+C4920,7,9,District-South,Rural,80-89,0,0,0,0,1,0,1,3,0,0
+C4920,7,9,District-South,Rural,90+,0,0,0,0,0,0,0,0,0,0
+C4920,7,9,District-South,Rural,Age Not Stated,0,0,0,0,0,0,0,0,0,0
+C4920,7,9,District-South,Urban,0-4,122,102,200,172,31,21,118,62,51,49
+C4920,7,9,District-South,Urban,5-9,221,169,198,175,178,126,157,119,195,113
+C4920,7,9,District-South,Urban,10-19,570,334,503,413,376,285,651,382,603,433
+C4920,7,9,District-South,Urban,20-29,429,282,789,442,344,228,996,500,534,287
+C4920,7,9,District-South,Urban,30-39,393,242,757,320,240,180,883,445,374,205
+C4920,7,9,District-South,Urban,40-49,419,298,481,292,197,118,792,370,299,194
+C4920,7,9,District-South,Urban,50-59,401,283,335,233,125,71,609,413,163,111
+C4920,7,9,District-South,Urban,60-69,366,381,282,258,79,65,647,562,96,73
+C4920,7,9,District-South,Urban,70-79,203,226,212,220,31,31,388,484,44,34
+C4920,7,9,District-South,Urban,80-89,81,107,133,120,15,19,196,308,17,13
+C4920,7,9,District-South,Urban,90+,14,29,29,30,1,4,44,64,9,1
+C4920,7,9,District-South,Urban,Age Not Stated,7,9,23,8,3,0,9,5,7,2

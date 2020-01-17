@@ -1,0 +1,385 @@
+Table Name,State Code,District Code,Tehsil Code,Area Name,Total/ Rural/ Urban,Age-group,Type of disablity - In seeing - Males,Type of disablity - In seeing - Females,Type of disablity - In speech - Males,Type of disablity - In speech - Females,Type of disablity - In hearing - Males,Type of disablity - In hearing - Females,Type of disablity - In movement - Males,Type of disablity - In movement - Females,Type of disablity - Mental - Males,Type of disablity - Mental - Females
+C4920,22,1,0,District - Koriya *  01,Rural,0-4,185,180,10,10,6,3,56,52,15,8
+C4920,22,1,0,District - Koriya *  01,Rural,5-9,194,175,52,49,19,17,106,68,37,21
+C4920,22,1,0,District - Koriya *  01,Rural,10-19,275,249,91,82,45,32,282,164,100,82
+C4920,22,1,0,District - Koriya *  01,Rural,20-29,228,177,72,49,28,11,176,90,94,68
+C4920,22,1,0,District - Koriya *  01,Rural,30-39,227,172,48,30,23,9,162,95,85,77
+C4920,22,1,0,District - Koriya *  01,Rural,40-49,209,134,28,20,36,22,172,81,59,34
+C4920,22,1,0,District - Koriya *  01,Rural,50-59,155,127,13,12,35,22,157,98,39,21
+C4920,22,1,0,District - Koriya *  01,Rural,60-69,135,169,9,8,52,45,147,148,10,26
+C4920,22,1,0,District - Koriya *  01,Rural,70-79,90,124,3,3,43,33,109,96,13,5
+C4920,22,1,0,District - Koriya *  01,Rural,80-89,43,34,2,1,16,17,36,61,1,5
+C4920,22,1,0,District - Koriya *  01,Rural,90+,18,13,1,0,8,6,16,23,0,1
+C4920,22,1,0,District - Koriya *  01,Rural,Age not stated,10,6,0,0,0,0,2,0,0,0
+C4920,22,1,0,District - Koriya *  01,Urban,0-4,38,40,5,1,1,0,23,10,6,6
+C4920,22,1,0,District - Koriya *  01,Urban,5-9,64,38,23,6,1,0,38,34,8,21
+C4920,22,1,0,District - Koriya *  01,Urban,10-19,142,95,30,38,13,10,170,109,55,42
+C4920,22,1,0,District - Koriya *  01,Urban,20-29,81,64,25,20,5,4,102,52,43,26
+C4920,22,1,0,District - Koriya *  01,Urban,30-39,84,59,15,8,5,8,67,36,44,21
+C4920,22,1,0,District - Koriya *  01,Urban,40-49,86,76,11,3,9,7,75,22,25,11
+C4920,22,1,0,District - Koriya *  01,Urban,50-59,64,25,6,4,9,10,59,19,10,4
+C4920,22,1,0,District - Koriya *  01,Urban,60-69,46,44,1,2,8,12,34,16,1,4
+C4920,22,1,0,District - Koriya *  01,Urban,70-79,24,14,0,2,5,4,18,17,5,2
+C4920,22,1,0,District - Koriya *  01,Urban,80-89,5,6,0,0,4,1,2,3,0,1
+C4920,22,1,0,District - Koriya *  01,Urban,90+,1,4,1,0,0,1,4,4,0,0
+C4920,22,1,0,District - Koriya *  01,Urban,Age not stated,0,0,0,0,0,0,0,0,1,1
+C4920,22,2,0,District - Surguja  02,Rural,0-4,871,823,29,29,24,17,274,210,77,54
+C4920,22,2,0,District - Surguja  02,Rural,5-9,912,849,287,244,81,48,478,330,153,104
+C4920,22,2,0,District - Surguja  02,Rural,10-19,1378,1151,442,356,162,122,1379,916,415,346
+C4920,22,2,0,District - Surguja  02,Rural,20-29,868,781,272,227,99,56,781,440,353,323
+C4920,22,2,0,District - Surguja  02,Rural,30-39,885,692,231,193,129,86,705,434,400,285
+C4920,22,2,0,District - Surguja  02,Rural,40-49,765,527,138,111,147,99,646,405,238,175
+C4920,22,2,0,District - Surguja  02,Rural,50-59,658,511,93,64,198,136,628,444,135,107
+C4920,22,2,0,District - Surguja  02,Rural,60-69,712,664,49,55,298,199,639,527,79,69
+C4920,22,2,0,District - Surguja  02,Rural,70-79,490,418,21,27,176,141,406,411,36,31
+C4920,22,2,0,District - Surguja  02,Rural,80-89,216,166,10,5,87,45,182,154,8,9
+C4920,22,2,0,District - Surguja  02,Rural,90+,65,48,2,1,22,7,53,52,1,5
+C4920,22,2,0,District - Surguja  02,Rural,Age not stated,41,13,3,1,7,2,13,2,4,1
+C4920,22,2,0,District - Surguja  02,Urban,0-4,65,55,0,1,2,2,13,12,4,5
+C4920,22,2,0,District - Surguja  02,Urban,5-9,73,49,14,18,4,0,38,21,13,9
+C4920,22,2,0,District - Surguja  02,Urban,10-19,163,136,37,16,7,5,128,86,44,31
+C4920,22,2,0,District - Surguja  02,Urban,20-29,118,107,13,5,10,1,90,47,44,23
+C4920,22,2,0,District - Surguja  02,Urban,30-39,102,99,7,16,10,6,54,29,24,12
+C4920,22,2,0,District - Surguja  02,Urban,40-49,101,62,10,6,5,6,58,12,23,6
+C4920,22,2,0,District - Surguja  02,Urban,50-59,53,53,3,2,6,3,38,11,6,2
+C4920,22,2,0,District - Surguja  02,Urban,60-69,35,41,4,2,10,8,33,18,2,5
+C4920,22,2,0,District - Surguja  02,Urban,70-79,14,12,0,0,3,9,17,11,0,1
+C4920,22,2,0,District - Surguja  02,Urban,80-89,7,5,2,0,2,2,4,6,2,0
+C4920,22,2,0,District - Surguja  02,Urban,90+,2,2,0,0,0,1,1,2,0,0
+C4920,22,2,0,District - Surguja  02,Urban,Age not stated,1,0,0,1,0,0,0,0,1,0
+C4920,22,3,0,District - Jashpur *  03,Rural,0-4,146,123,7,11,2,8,64,36,14,15
+C4920,22,3,0,District - Jashpur *  03,Rural,5-9,192,150,88,85,29,15,146,89,32,37
+C4920,22,3,0,District - Jashpur *  03,Rural,10-19,323,252,153,130,61,43,424,267,129,107
+C4920,22,3,0,District - Jashpur *  03,Rural,20-29,219,167,81,99,40,28,253,148,152,130
+C4920,22,3,0,District - Jashpur *  03,Rural,30-39,293,205,69,68,46,42,268,145,122,132
+C4920,22,3,0,District - Jashpur *  03,Rural,40-49,246,177,50,55,67,40,275,145,75,71
+C4920,22,3,0,District - Jashpur *  03,Rural,50-59,229,205,37,24,90,53,239,167,40,37
+C4920,22,3,0,District - Jashpur *  03,Rural,60-69,235,201,17,22,106,98,242,228,22,40
+C4920,22,3,0,District - Jashpur *  03,Rural,70-79,178,135,10,11,67,61,203,205,13,12
+C4920,22,3,0,District - Jashpur *  03,Rural,80-89,56,38,3,1,37,18,86,97,4,10
+C4920,22,3,0,District - Jashpur *  03,Rural,90+,9,7,1,0,4,1,25,32,4,1
+C4920,22,3,0,District - Jashpur *  03,Rural,Age not stated,5,0,1,0,0,0,1,0,0,0
+C4920,22,3,0,District - Jashpur *  03,Urban,0-4,10,6,0,0,1,1,6,1,2,1
+C4920,22,3,0,District - Jashpur *  03,Urban,5-9,14,9,9,2,0,0,3,5,4,3
+C4920,22,3,0,District - Jashpur *  03,Urban,10-19,28,32,8,2,7,0,34,16,9,7
+C4920,22,3,0,District - Jashpur *  03,Urban,20-29,16,19,6,0,3,1,24,13,9,7
+C4920,22,3,0,District - Jashpur *  03,Urban,30-39,13,8,3,1,0,2,16,11,5,8
+C4920,22,3,0,District - Jashpur *  03,Urban,40-49,16,14,1,3,2,2,24,5,5,5
+C4920,22,3,0,District - Jashpur *  03,Urban,50-59,9,5,0,1,1,1,16,4,0,2
+C4920,22,3,0,District - Jashpur *  03,Urban,60-69,10,4,1,2,5,7,13,6,0,3
+C4920,22,3,0,District - Jashpur *  03,Urban,70-79,5,5,0,1,6,2,3,1,2,1
+C4920,22,3,0,District - Jashpur *  03,Urban,80-89,3,1,0,0,0,0,4,1,0,0
+C4920,22,3,0,District - Jashpur *  03,Urban,90+,2,1,0,0,0,0,2,1,0,0
+C4920,22,3,0,District - Jashpur *  03,Urban,Age not stated,0,0,0,0,0,0,0,0,0,0
+C4920,22,4,0,District - Raigarh  04,Rural,0-4,168,156,25,14,18,12,203,122,32,28
+C4920,22,4,0,District - Raigarh  04,Rural,5-9,197,187,169,143,51,41,333,246,96,76
+C4920,22,4,0,District - Raigarh  04,Rural,10-19,405,326,292,198,154,102,1087,753,291,233
+C4920,22,4,0,District - Raigarh  04,Rural,20-29,274,192,149,113,102,59,774,406,252,217
+C4920,22,4,0,District - Raigarh  04,Rural,30-39,321,202,128,113,133,98,703,357,256,237
+C4920,22,4,0,District - Raigarh  04,Rural,40-49,316,204,90,79,115,83,570,307,181,161
+C4920,22,4,0,District - Raigarh  04,Rural,50-59,288,241,39,52,149,147,477,356,83,99
+C4920,22,4,0,District - Raigarh  04,Rural,60-69,411,452,35,29,225,214,592,503,59,73
+C4920,22,4,0,District - Raigarh  04,Rural,70-79,281,292,26,22,166,160,352,390,30,43
+C4920,22,4,0,District - Raigarh  04,Rural,80-89,105,121,10,2,57,45,158,204,16,17
+C4920,22,4,0,District - Raigarh  04,Rural,90+,44,39,2,2,11,12,41,48,2,5
+C4920,22,4,0,District - Raigarh  04,Rural,Age not stated,5,3,0,2,1,1,3,1,1,2
+C4920,22,4,0,District - Raigarh  04,Urban,0-4,14,17,9,1,0,3,24,14,5,1
+C4920,22,4,0,District - Raigarh  04,Urban,5-9,22,21,20,17,8,3,51,27,16,13
+C4920,22,4,0,District - Raigarh  04,Urban,10-19,61,55,38,29,8,9,156,85,58,39
+C4920,22,4,0,District - Raigarh  04,Urban,20-29,41,33,20,17,11,6,118,77,55,26
+C4920,22,4,0,District - Raigarh  04,Urban,30-39,45,33,13,13,13,7,121,57,45,22
+C4920,22,4,0,District - Raigarh  04,Urban,40-49,46,34,9,3,16,7,129,64,28,15
+C4920,22,4,0,District - Raigarh  04,Urban,50-59,48,15,7,4,13,11,119,63,20,13
+C4920,22,4,0,District - Raigarh  04,Urban,60-69,29,51,6,5,14,21,82,79,9,14
+C4920,22,4,0,District - Raigarh  04,Urban,70-79,37,25,4,3,11,13,55,55,1,8
+C4920,22,4,0,District - Raigarh  04,Urban,80-89,9,13,0,1,7,8,16,20,1,0
+C4920,22,4,0,District - Raigarh  04,Urban,90+,2,3,0,1,0,0,3,5,0,0
+C4920,22,4,0,District - Raigarh  04,Urban,Age not stated,1,0,0,0,0,0,1,1,0,1
+C4920,22,5,0,District - Korba *  05,Rural,0-4,151,145,5,7,8,1,115,71,20,10
+C4920,22,5,0,District - Korba *  05,Rural,5-9,232,173,96,82,24,19,208,135,84,34
+C4920,22,5,0,District - Korba *  05,Rural,10-19,405,308,175,133,81,49,605,466,143,127
+C4920,22,5,0,District - Korba *  05,Rural,20-29,209,181,104,64,53,26,339,200,128,111
+C4920,22,5,0,District - Korba *  05,Rural,30-39,234,186,95,52,47,48,269,161,120,115
+C4920,22,5,0,District - Korba *  05,Rural,40-49,209,182,50,28,53,38,264,142,81,72
+C4920,22,5,0,District - Korba *  05,Rural,50-59,212,188,36,30,95,64,229,138,53,28
+C4920,22,5,0,District - Korba *  05,Rural,60-69,232,283,12,22,93,90,232,202,17,19
+C4920,22,5,0,District - Korba *  05,Rural,70-79,122,169,7,14,76,88,120,151,6,12
+C4920,22,5,0,District - Korba *  05,Rural,80-89,57,80,5,1,28,18,51,75,4,7
+C4920,22,5,0,District - Korba *  05,Rural,90+,16,32,1,1,9,11,26,31,1,1
+C4920,22,5,0,District - Korba *  05,Rural,Age not stated,12,15,1,1,2,1,8,1,0,1
+C4920,22,5,0,District - Korba *  05,Urban,0-4,106,119,3,5,6,1,38,43,15,11
+C4920,22,5,0,District - Korba *  05,Urban,5-9,146,132,42,38,5,9,97,57,35,42
+C4920,22,5,0,District - Korba *  05,Urban,10-19,284,239,69,67,22,18,314,200,132,89
+C4920,22,5,0,District - Korba *  05,Urban,20-29,213,171,43,23,19,8,213,93,87,46
+C4920,22,5,0,District - Korba *  05,Urban,30-39,267,181,15,20,12,15,132,56,53,38
+C4920,22,5,0,District - Korba *  05,Urban,40-49,211,125,16,12,17,10,105,45,35,29
+C4920,22,5,0,District - Korba *  05,Urban,50-59,126,78,15,5,13,10,91,42,16,11
+C4920,22,5,0,District - Korba *  05,Urban,60-69,46,71,1,5,7,20,55,42,8,1
+C4920,22,5,0,District - Korba *  05,Urban,70-79,26,38,3,2,2,9,28,27,3,3
+C4920,22,5,0,District - Korba *  05,Urban,80-89,9,8,1,1,6,5,12,16,2,0
+C4920,22,5,0,District - Korba *  05,Urban,90+,5,3,0,1,0,1,4,4,0,1
+C4920,22,5,0,District - Korba *  05,Urban,Age not stated,2,0,0,0,0,0,0,0,0,0
+C4920,22,6,0,District - Janjgir - Champa*  06,Rural,0-4,208,196,25,17,14,4,197,149,28,21
+C4920,22,6,0,District - Janjgir - Champa*  06,Rural,5-9,229,228,148,107,53,45,509,329,92,75
+C4920,22,6,0,District - Janjgir - Champa*  06,Rural,10-19,542,442,244,228,166,96,1750,1219,326,223
+C4920,22,6,0,District - Janjgir - Champa*  06,Rural,20-29,331,256,156,95,93,45,907,456,232,206
+C4920,22,6,0,District - Janjgir - Champa*  06,Rural,30-39,327,223,106,77,72,64,544,304,228,195
+C4920,22,6,0,District - Janjgir - Champa*  06,Rural,40-49,317,253,55,60,84,88,458,263,135,140
+C4920,22,6,0,District - Janjgir - Champa*  06,Rural,50-59,376,311,49,31,107,122,541,317,68,87
+C4920,22,6,0,District - Janjgir - Champa*  06,Rural,60-69,478,526,44,35,167,195,546,498,61,48
+C4920,22,6,0,District - Janjgir - Champa*  06,Rural,70-79,281,407,14,22,109,146,392,380,23,29
+C4920,22,6,0,District - Janjgir - Champa*  06,Rural,80-89,142,124,7,4,50,45,124,160,5,9
+C4920,22,6,0,District - Janjgir - Champa*  06,Rural,90+,30,31,2,1,14,14,35,53,4,1
+C4920,22,6,0,District - Janjgir - Champa*  06,Rural,Age not stated,5,9,1,0,1,0,8,2,1,0
+C4920,22,6,0,District - Janjgir - Champa*  06,Urban,0-4,26,25,1,2,0,0,11,6,5,3
+C4920,22,6,0,District - Janjgir - Champa*  06,Urban,5-9,21,26,14,15,4,1,47,13,11,9
+C4920,22,6,0,District - Janjgir - Champa*  06,Urban,10-19,54,40,30,21,13,10,149,114,28,18
+C4920,22,6,0,District - Janjgir - Champa*  06,Urban,20-29,59,41,17,12,5,7,106,65,28,18
+C4920,22,6,0,District - Janjgir - Champa*  06,Urban,30-39,54,24,16,9,13,2,71,42,23,17
+C4920,22,6,0,District - Janjgir - Champa*  06,Urban,40-49,38,32,9,7,6,4,75,61,22,15
+C4920,22,6,0,District - Janjgir - Champa*  06,Urban,50-59,37,40,14,2,12,10,100,84,12,8
+C4920,22,6,0,District - Janjgir - Champa*  06,Urban,60-69,45,52,3,3,15,22,103,129,7,8
+C4920,22,6,0,District - Janjgir - Champa*  06,Urban,70-79,32,25,2,1,17,14,56,68,6,3
+C4920,22,6,0,District - Janjgir - Champa*  06,Urban,80-89,9,8,0,0,4,2,16,11,3,1
+C4920,22,6,0,District - Janjgir - Champa*  06,Urban,90+,2,5,0,0,0,2,1,2,0,0
+C4920,22,6,0,District - Janjgir - Champa*  06,Urban,Age not stated,1,0,0,0,0,0,1,0,0,0
+C4920,22,7,0,District - Bilaspur  07,Rural,0-4,401,407,32,39,23,23,343,255,62,53
+C4920,22,7,0,District - Bilaspur  07,Rural,5-9,517,436,254,193,108,75,843,540,156,124
+C4920,22,7,0,District - Bilaspur  07,Rural,10-19,1003,752,420,358,257,167,2395,1789,424,330
+C4920,22,7,0,District - Bilaspur  07,Rural,20-29,645,516,219,180,156,77,1308,675,330,289
+C4920,22,7,0,District - Bilaspur  07,Rural,30-39,639,431,173,131,149,87,833,432,349,256
+C4920,22,7,0,District - Bilaspur  07,Rural,40-49,587,416,114,74,143,114,715,374,194,141
+C4920,22,7,0,District - Bilaspur  07,Rural,50-59,581,528,76,61,128,140,655,383,98,92
+C4920,22,7,0,District - Bilaspur  07,Rural,60-69,643,761,57,66,170,232,645,545,56,78
+C4920,22,7,0,District - Bilaspur  07,Rural,70-79,442,550,31,24,161,157,425,415,27,32
+C4920,22,7,0,District - Bilaspur  07,Rural,80-89,141,180,11,10,51,58,126,158,15,11
+C4920,22,7,0,District - Bilaspur  07,Rural,90+,40,38,2,5,9,13,36,61,3,4
+C4920,22,7,0,District - Bilaspur  07,Rural,Age not stated,19,12,5,2,5,2,11,7,6,2
+C4920,22,7,0,District - Bilaspur  07,Urban,0-4,126,108,7,7,5,6,78,59,25,14
+C4920,22,7,0,District - Bilaspur  07,Urban,5-9,138,144,44,46,21,7,127,90,49,47
+C4920,22,7,0,District - Bilaspur  07,Urban,10-19,329,273,108,88,58,32,417,290,129,122
+C4920,22,7,0,District - Bilaspur  07,Urban,20-29,303,240,50,56,38,21,390,203,170,91
+C4920,22,7,0,District - Bilaspur  07,Urban,30-39,296,175,39,49,19,17,243,131,111,70
+C4920,22,7,0,District - Bilaspur  07,Urban,40-49,269,153,32,33,18,17,209,93,90,60
+C4920,22,7,0,District - Bilaspur  07,Urban,50-59,172,108,22,10,23,22,161,81,41,28
+C4920,22,7,0,District - Bilaspur  07,Urban,60-69,159,123,12,10,33,36,144,103,21,19
+C4920,22,7,0,District - Bilaspur  07,Urban,70-79,82,55,7,2,31,29,73,77,9,8
+C4920,22,7,0,District - Bilaspur  07,Urban,80-89,26,24,0,1,6,9,27,20,4,1
+C4920,22,7,0,District - Bilaspur  07,Urban,90+,3,5,0,0,1,5,6,9,0,0
+C4920,22,7,0,District - Bilaspur  07,Urban,Age not stated,5,5,1,1,1,0,2,0,1,2
+C4920,22,8,0,District - Kawardha *  08,Rural,0-4,134,94,13,9,5,6,83,79,18,11
+C4920,22,8,0,District - Kawardha *  08,Rural,5-9,165,159,83,62,42,21,353,237,62,38
+C4920,22,8,0,District - Kawardha *  08,Rural,10-19,293,219,124,93,83,49,885,644,134,97
+C4920,22,8,0,District - Kawardha *  08,Rural,20-29,222,175,71,42,41,25,458,279,123,88
+C4920,22,8,0,District - Kawardha *  08,Rural,30-39,241,184,60,47,64,32,336,191,108,85
+C4920,22,8,0,District - Kawardha *  08,Rural,40-49,206,140,32,40,57,43,272,163,66,39
+C4920,22,8,0,District - Kawardha *  08,Rural,50-59,218,208,24,13,61,55,220,158,28,30
+C4920,22,8,0,District - Kawardha *  08,Rural,60-69,261,300,10,22,80,82,252,195,14,20
+C4920,22,8,0,District - Kawardha *  08,Rural,70-79,166,246,4,12,63,62,141,170,14,11
+C4920,22,8,0,District - Kawardha *  08,Rural,80-89,59,96,4,0,34,23,57,62,5,5
+C4920,22,8,0,District - Kawardha *  08,Rural,90+,16,26,1,2,8,10,8,33,1,1
+C4920,22,8,0,District - Kawardha *  08,Rural,Age not stated,6,2,1,1,1,0,2,1,0,0
+C4920,22,8,0,District - Kawardha *  08,Urban,0-4,9,4,0,0,0,0,2,6,2,0
+C4920,22,8,0,District - Kawardha *  08,Urban,5-9,8,13,5,0,2,0,20,10,1,4
+C4920,22,8,0,District - Kawardha *  08,Urban,10-19,18,20,11,6,2,2,74,46,20,8
+C4920,22,8,0,District - Kawardha *  08,Urban,20-29,20,8,12,5,1,2,33,23,12,14
+C4920,22,8,0,District - Kawardha *  08,Urban,30-39,25,7,3,4,3,2,29,10,12,2
+C4920,22,8,0,District - Kawardha *  08,Urban,40-49,12,7,3,2,1,0,18,4,7,6
+C4920,22,8,0,District - Kawardha *  08,Urban,50-59,10,7,2,0,3,1,21,10,3,2
+C4920,22,8,0,District - Kawardha *  08,Urban,60-69,8,12,0,1,5,1,20,9,2,1
+C4920,22,8,0,District - Kawardha *  08,Urban,70-79,3,5,1,0,1,3,7,5,0,0
+C4920,22,8,0,District - Kawardha *  08,Urban,80-89,3,1,0,0,1,2,3,2,0,0
+C4920,22,8,0,District - Kawardha *  08,Urban,90+,1,1,0,0,0,0,1,4,0,0
+C4920,22,8,0,District - Kawardha *  08,Urban,Age not stated,0,0,0,0,0,0,0,0,0,0
+C4920,22,9,0,District - Rajnandgaon  09,Rural,0-4,324,286,23,12,15,19,191,127,31,32
+C4920,22,9,0,District - Rajnandgaon  09,Rural,5-9,374,321,149,104,60,49,344,265,116,84
+C4920,22,9,0,District - Rajnandgaon  09,Rural,10-19,749,651,232,196,157,133,1163,908,346,263
+C4920,22,9,0,District - Rajnandgaon  09,Rural,20-29,519,469,126,102,90,57,777,457,269,235
+C4920,22,9,0,District - Rajnandgaon  09,Rural,30-39,551,392,107,88,104,96,592,339,213,208
+C4920,22,9,0,District - Rajnandgaon  09,Rural,40-49,482,386,74,47,128,109,478,287,135,117
+C4920,22,9,0,District - Rajnandgaon  09,Rural,50-59,514,443,52,39,196,156,521,320,78,85
+C4920,22,9,0,District - Rajnandgaon  09,Rural,60-69,497,713,35,46,241,247,506,443,37,72
+C4920,22,9,0,District - Rajnandgaon  09,Rural,70-79,317,437,12,10,163,155,280,270,23,24
+C4920,22,9,0,District - Rajnandgaon  09,Rural,80-89,96,122,7,4,42,55,79,113,8,9
+C4920,22,9,0,District - Rajnandgaon  09,Rural,90+,27,35,0,0,15,14,18,39,1,4
+C4920,22,9,0,District - Rajnandgaon  09,Rural,Age not stated,24,18,2,1,3,0,8,4,1,1
+C4920,22,9,0,District - Rajnandgaon  09,Urban,0-4,65,44,5,3,5,3,40,11,12,11
+C4920,22,9,0,District - Rajnandgaon  09,Urban,5-9,66,49,28,19,7,6,53,40,21,21
+C4920,22,9,0,District - Rajnandgaon  09,Urban,10-19,162,152,49,34,20,16,198,187,67,60
+C4920,22,9,0,District - Rajnandgaon  09,Urban,20-29,121,107,25,26,18,4,191,114,78,55
+C4920,22,9,0,District - Rajnandgaon  09,Urban,30-39,148,100,26,14,12,8,139,69,59,39
+C4920,22,9,0,District - Rajnandgaon  09,Urban,40-49,122,65,21,11,11,7,155,60,39,24
+C4920,22,9,0,District - Rajnandgaon  09,Urban,50-59,105,73,11,8,21,25,110,58,23,17
+C4920,22,9,0,District - Rajnandgaon  09,Urban,60-69,82,107,8,9,14,23,89,71,12,12
+C4920,22,9,0,District - Rajnandgaon  09,Urban,70-79,48,60,2,3,28,19,49,47,3,2
+C4920,22,9,0,District - Rajnandgaon  09,Urban,80-89,12,16,2,3,8,12,17,17,1,3
+C4920,22,9,0,District - Rajnandgaon  09,Urban,90+,0,3,0,0,1,1,3,8,2,1
+C4920,22,9,0,District - Rajnandgaon  09,Urban,Age not stated,4,4,1,0,0,0,0,0,0,1
+C4920,22,10,0,District - Durg  10,Rural,0-4,582,481,15,24,23,15,272,192,65,47
+C4920,22,10,0,District - Durg  10,Rural,5-9,601,517,206,186,101,78,611,433,172,147
+C4920,22,10,0,District - Durg  10,Rural,10-19,1240,1037,438,382,277,180,2432,1886,537,448
+C4920,22,10,0,District - Durg  10,Rural,20-29,848,751,214,219,176,127,1520,934,436,391
+C4920,22,10,0,District - Durg  10,Rural,30-39,904,672,197,172,179,160,1096,687,408,420
+C4920,22,10,0,District - Durg  10,Rural,40-49,842,617,111,92,208,184,888,497,250,230
+C4920,22,10,0,District - Durg  10,Rural,50-59,820,749,78,72,253,241,881,609,128,136
+C4920,22,10,0,District - Durg  10,Rural,60-69,1036,1318,90,84,369,427,1016,911,101,109
+C4920,22,10,0,District - Durg  10,Rural,70-79,664,898,31,21,315,317,536,610,38,51
+C4920,22,10,0,District - Durg  10,Rural,80-89,220,279,10,8,99,105,188,252,15,18
+C4920,22,10,0,District - Durg  10,Rural,90+,32,68,2,3,22,26,48,80,4,7
+C4920,22,10,0,District - Durg  10,Rural,Age not stated,10,15,1,0,4,1,7,3,3,0
+C4920,22,10,0,District - Durg  10,Urban,0-4,381,319,19,15,9,10,112,82,51,35
+C4920,22,10,0,District - Durg  10,Urban,5-9,447,371,101,94,21,27,265,170,109,99
+C4920,22,10,0,District - Durg  10,Urban,10-19,972,830,244,207,89,70,1075,739,399,259
+C4920,22,10,0,District - Durg  10,Urban,20-29,980,728,155,97,63,47,909,471,365,234
+C4920,22,10,0,District - Durg  10,Urban,30-39,856,620,109,81,54,53,592,286,275,223
+C4920,22,10,0,District - Durg  10,Urban,40-49,712,485,49,43,45,51,502,208,154,115
+C4920,22,10,0,District - Durg  10,Urban,50-59,482,389,39,31,53,50,388,193,57,68
+C4920,22,10,0,District - Durg  10,Urban,60-69,377,319,34,16,63,67,326,214,44,35
+C4920,22,10,0,District - Durg  10,Urban,70-79,128,155,6,8,49,47,172,126,16,16
+C4920,22,10,0,District - Durg  10,Urban,80-89,40,44,0,2,23,24,43,39,4,8
+C4920,22,10,0,District - Durg  10,Urban,90+,15,18,0,3,6,9,14,15,1,3
+C4920,22,10,0,District - Durg  10,Urban,Age not stated,4,3,1,0,0,1,3,4,2,2
+C4920,22,11,0,District - Raipur  11,Rural,0-4,1170,1021,47,44,32,18,404,271,99,81
+C4920,22,11,0,District - Raipur  11,Rural,5-9,1195,1058,337,259,147,112,804,568,256,164
+C4920,22,11,0,District - Raipur  11,Rural,10-19,2227,1927,527,486,392,258,2667,1961,611,505
+C4920,22,11,0,District - Raipur  11,Rural,20-29,1507,1484,296,234,203,131,1583,916,507,419
+C4920,22,11,0,District - Raipur  11,Rural,30-39,1565,1423,237,177,221,188,1051,667,507,414
+C4920,22,11,0,District - Raipur  11,Rural,40-49,1338,1200,162,126,269,214,981,558,320,265
+C4920,22,11,0,District - Raipur  11,Rural,50-59,1179,1166,123,78,315,323,915,595,153,142
+C4920,22,11,0,District - Raipur  11,Rural,60-69,1359,1748,89,70,404,588,899,912,104,120
+C4920,22,11,0,District - Raipur  11,Rural,70-79,753,1064,38,31,397,378,562,661,61,54
+C4920,22,11,0,District - Raipur  11,Rural,80-89,283,343,6,11,117,154,202,295,13,21
+C4920,22,11,0,District - Raipur  11,Rural,90+,70,79,1,3,47,30,74,99,2,10
+C4920,22,11,0,District - Raipur  11,Rural,Age not stated,32,26,2,3,3,6,13,8,5,2
+C4920,22,11,0,District - Raipur  11,Urban,0-4,235,239,12,9,10,8,96,63,32,39
+C4920,22,11,0,District - Raipur  11,Urban,5-9,267,279,105,83,16,22,184,138,105,66
+C4920,22,11,0,District - Raipur  11,Urban,10-19,545,554,206,137,79,45,729,530,269,210
+C4920,22,11,0,District - Raipur  11,Urban,20-29,515,503,99,96,44,37,592,335,245,200
+C4920,22,11,0,District - Raipur  11,Urban,30-39,512,414,90,55,38,54,435,214,237,146
+C4920,22,11,0,District - Raipur  11,Urban,40-49,442,318,67,28,34,51,401,180,137,109
+C4920,22,11,0,District - Raipur  11,Urban,50-59,285,239,30,21,43,44,340,188,86,49
+C4920,22,11,0,District - Raipur  11,Urban,60-69,219,271,23,20,57,59,300,202,35,37
+C4920,22,11,0,District - Raipur  11,Urban,70-79,103,114,15,11,41,54,145,126,20,15
+C4920,22,11,0,District - Raipur  11,Urban,80-89,32,31,4,5,31,22,38,45,4,8
+C4920,22,11,0,District - Raipur  11,Urban,90+,8,8,2,3,7,6,8,17,0,4
+C4920,22,11,0,District - Raipur  11,Urban,Age not stated,11,11,3,1,2,0,5,4,3,3
+C4920,22,12,0,District - Mahasamund *  12,Rural,0-4,171,215,13,12,6,2,97,78,22,14
+C4920,22,12,0,District - Mahasamund *  12,Rural,5-9,202,205,113,98,26,24,209,132,67,49
+C4920,22,12,0,District - Mahasamund *  12,Rural,10-19,372,339,191,143,69,51,679,505,193,141
+C4920,22,12,0,District - Mahasamund *  12,Rural,20-29,258,236,114,72,63,38,419,271,172,173
+C4920,22,12,0,District - Mahasamund *  12,Rural,30-39,281,200,84,73,52,51,343,236,147,161
+C4920,22,12,0,District - Mahasamund *  12,Rural,40-49,260,186,51,33,71,43,285,171,89,117
+C4920,22,12,0,District - Mahasamund *  12,Rural,50-59,265,216,28,42,93,105,272,175,51,60
+C4920,22,12,0,District - Mahasamund *  12,Rural,60-69,321,379,23,25,132,156,263,286,32,54
+C4920,22,12,0,District - Mahasamund *  12,Rural,70-79,217,284,14,7,89,133,180,239,13,26
+C4920,22,12,0,District - Mahasamund *  12,Rural,80-89,68,95,3,5,25,43,71,86,5,6
+C4920,22,12,0,District - Mahasamund *  12,Rural,90+,11,27,0,2,10,9,20,32,4,1
+C4920,22,12,0,District - Mahasamund *  12,Rural,Age not stated,3,3,1,0,1,0,5,1,1,0
+C4920,22,12,0,District - Mahasamund *  12,Urban,0-4,11,16,1,0,0,0,7,4,5,1
+C4920,22,12,0,District - Mahasamund *  12,Urban,5-9,19,13,10,9,1,2,20,13,9,6
+C4920,22,12,0,District - Mahasamund *  12,Urban,10-19,34,29,23,19,4,8,66,57,31,14
+C4920,22,12,0,District - Mahasamund *  12,Urban,20-29,28,22,6,12,5,4,65,29,25,27
+C4920,22,12,0,District - Mahasamund *  12,Urban,30-39,28,17,4,7,7,1,50,14,29,20
+C4920,22,12,0,District - Mahasamund *  12,Urban,40-49,25,17,7,7,4,6,48,18,18,18
+C4920,22,12,0,District - Mahasamund *  12,Urban,50-59,21,16,4,4,6,8,28,30,9,14
+C4920,22,12,0,District - Mahasamund *  12,Urban,60-69,29,43,3,0,6,13,48,24,3,3
+C4920,22,12,0,District - Mahasamund *  12,Urban,70-79,16,24,1,3,3,6,15,18,1,2
+C4920,22,12,0,District - Mahasamund *  12,Urban,80-89,3,10,0,1,3,2,4,4,1,0
+C4920,22,12,0,District - Mahasamund *  12,Urban,90+,0,4,0,0,3,0,2,5,0,2
+C4920,22,12,0,District - Mahasamund *  12,Urban,Age not stated,0,0,0,0,0,0,0,0,0,0
+C4920,22,13,0,District - Dhamtari *  13,Rural,0-4,245,229,6,7,10,5,103,78,15,23
+C4920,22,13,0,District - Dhamtari *  13,Rural,5-9,272,227,79,58,35,29,164,116,75,49
+C4920,22,13,0,District - Dhamtari *  13,Rural,10-19,559,497,136,135,103,65,613,505,186,153
+C4920,22,13,0,District - Dhamtari *  13,Rural,20-29,381,303,82,74,56,41,438,342,150,108
+C4920,22,13,0,District - Dhamtari *  13,Rural,30-39,352,344,78,60,61,46,354,194,150,128
+C4920,22,13,0,District - Dhamtari *  13,Rural,40-49,269,221,40,35,70,43,320,152,100,64
+C4920,22,13,0,District - Dhamtari *  13,Rural,50-59,263,246,36,21,86,67,255,167,53,43
+C4920,22,13,0,District - Dhamtari *  13,Rural,60-69,283,365,13,16,113,124,279,267,33,34
+C4920,22,13,0,District - Dhamtari *  13,Rural,70-79,170,226,11,10,84,100,154,175,9,19
+C4920,22,13,0,District - Dhamtari *  13,Rural,80-89,60,74,2,2,29,30,44,66,2,5
+C4920,22,13,0,District - Dhamtari *  13,Rural,90+,15,19,1,0,10,8,17,28,1,3
+C4920,22,13,0,District - Dhamtari *  13,Rural,Age not stated,10,2,0,0,0,0,4,1,0,2
+C4920,22,13,0,District - Dhamtari *  13,Urban,0-4,37,26,0,2,0,0,10,11,7,4
+C4920,22,13,0,District - Dhamtari *  13,Urban,5-9,38,25,16,9,1,0,28,13,11,5
+C4920,22,13,0,District - Dhamtari *  13,Urban,10-19,47,52,17,13,4,8,71,71,31,29
+C4920,22,13,0,District - Dhamtari *  13,Urban,20-29,36,41,13,11,6,6,73,46,25,29
+C4920,22,13,0,District - Dhamtari *  13,Urban,30-39,49,36,8,11,7,7,52,33,27,19
+C4920,22,13,0,District - Dhamtari *  13,Urban,40-49,32,30,5,4,3,5,47,22,24,18
+C4920,22,13,0,District - Dhamtari *  13,Urban,50-59,30,21,6,2,5,4,42,21,8,11
+C4920,22,13,0,District - Dhamtari *  13,Urban,60-69,27,36,6,2,9,10,41,28,3,9
+C4920,22,13,0,District - Dhamtari *  13,Urban,70-79,14,11,2,2,5,10,17,20,2,3
+C4920,22,13,0,District - Dhamtari *  13,Urban,80-89,3,4,1,0,3,4,4,7,0,1
+C4920,22,13,0,District - Dhamtari *  13,Urban,90+,0,1,0,0,2,1,0,6,0,0
+C4920,22,13,0,District - Dhamtari *  13,Urban,Age not stated,1,0,0,0,0,0,0,1,1,0
+C4920,22,14,0,District - Kanker *  14,Rural,0-4,175,164,6,13,8,7,106,67,29,27
+C4920,22,14,0,District - Kanker *  14,Rural,5-9,203,195,98,63,46,41,173,100,77,55
+C4920,22,14,0,District - Kanker *  14,Rural,10-19,416,369,149,141,136,77,402,305,214,188
+C4920,22,14,0,District - Kanker *  14,Rural,20-29,299,263,91,62,57,48,311,222,158,149
+C4920,22,14,0,District - Kanker *  14,Rural,30-39,330,309,62,60,72,61,258,173,153,149
+C4920,22,14,0,District - Kanker *  14,Rural,40-49,371,321,41,37,89,74,318,172,124,99
+C4920,22,14,0,District - Kanker *  14,Rural,50-59,329,358,30,30,113,105,265,216,66,57
+C4920,22,14,0,District - Kanker *  14,Rural,60-69,358,428,23,29,130,169,277,273,30,45
+C4920,22,14,0,District - Kanker *  14,Rural,70-79,290,305,7,11,77,81,160,239,14,16
+C4920,22,14,0,District - Kanker *  14,Rural,80-89,76,120,5,3,41,27,84,111,6,11
+C4920,22,14,0,District - Kanker *  14,Rural,90+,21,38,1,0,15,13,24,43,2,3
+C4920,22,14,0,District - Kanker *  14,Rural,Age not stated,1,6,2,1,2,1,5,4,0,0
+C4920,22,14,0,District - Kanker *  14,Urban,0-4,10,12,0,0,0,0,3,1,2,0
+C4920,22,14,0,District - Kanker *  14,Urban,5-9,20,13,2,4,0,1,8,6,4,1
+C4920,22,14,0,District - Kanker *  14,Urban,10-19,38,31,6,5,4,2,20,10,4,7
+C4920,22,14,0,District - Kanker *  14,Urban,20-29,44,16,4,1,3,2,19,27,10,10
+C4920,22,14,0,District - Kanker *  14,Urban,30-39,24,20,2,1,3,2,16,8,7,6
+C4920,22,14,0,District - Kanker *  14,Urban,40-49,24,18,3,0,3,3,18,8,4,5
+C4920,22,14,0,District - Kanker *  14,Urban,50-59,13,20,0,0,2,1,17,6,3,2
+C4920,22,14,0,District - Kanker *  14,Urban,60-69,11,15,0,0,1,7,7,8,1,1
+C4920,22,14,0,District - Kanker *  14,Urban,70-79,4,7,0,1,2,2,5,7,0,0
+C4920,22,14,0,District - Kanker *  14,Urban,80-89,3,2,0,0,1,1,1,2,0,0
+C4920,22,14,0,District - Kanker *  14,Urban,90+,0,0,0,0,0,0,0,0,0,0
+C4920,22,14,0,District - Kanker *  14,Urban,Age not stated,0,0,0,0,0,0,0,1,0,0
+C4920,22,15,0,District - Bastar  15,Rural,0-4,369,297,25,13,19,31,176,141,44,30
+C4920,22,15,0,District - Bastar  15,Rural,5-9,398,328,169,131,88,72,261,206,107,68
+C4920,22,15,0,District - Bastar  15,Rural,10-19,690,586,278,259,170,97,686,465,253,223
+C4920,22,15,0,District - Bastar  15,Rural,20-29,514,458,129,123,80,44,422,329,207,189
+C4920,22,15,0,District - Bastar  15,Rural,30-39,544,447,120,90,106,76,451,271,195,149
+C4920,22,15,0,District - Bastar  15,Rural,40-49,513,397,87,55,142,84,419,283,129,109
+C4920,22,15,0,District - Bastar  15,Rural,50-59,390,345,41,44,150,132,406,262,76,63
+C4920,22,15,0,District - Bastar  15,Rural,60-69,419,411,37,40,205,208,398,415,39,56
+C4920,22,15,0,District - Bastar  15,Rural,70-79,226,232,16,16,115,96,222,285,22,27
+C4920,22,15,0,District - Bastar  15,Rural,80-89,77,85,2,2,34,32,79,112,7,5
+C4920,22,15,0,District - Bastar  15,Rural,90+,21,25,0,2,10,8,29,34,1,7
+C4920,22,15,0,District - Bastar  15,Rural,Age not stated,2,3,1,1,0,0,4,1,0,1
+C4920,22,15,0,District - Bastar  15,Urban,0-4,34,16,3,3,1,0,8,11,5,6
+C4920,22,15,0,District - Bastar  15,Urban,5-9,31,39,14,8,6,8,19,13,14,15
+C4920,22,15,0,District - Bastar  15,Urban,10-19,74,58,27,20,31,9,87,55,34,26
+C4920,22,15,0,District - Bastar  15,Urban,20-29,70,59,23,8,6,4,73,30,26,24
+C4920,22,15,0,District - Bastar  15,Urban,30-39,74,55,5,13,4,4,46,27,32,20
+C4920,22,15,0,District - Bastar  15,Urban,40-49,61,41,5,7,5,1,45,22,15,15
+C4920,22,15,0,District - Bastar  15,Urban,50-59,57,38,8,4,5,4,46,27,13,6
+C4920,22,15,0,District - Bastar  15,Urban,60-69,38,40,2,6,5,8,40,19,7,5
+C4920,22,15,0,District - Bastar  15,Urban,70-79,22,15,1,2,5,6,18,16,1,1
+C4920,22,15,0,District - Bastar  15,Urban,80-89,6,7,0,0,0,1,3,6,0,0
+C4920,22,15,0,District - Bastar  15,Urban,90+,0,1,0,0,0,0,1,1,1,0
+C4920,22,15,0,District - Bastar  15,Urban,Age not stated,1,0,0,0,0,1,0,0,0,0
+C4920,22,16,0,District - Dantewada*  16,Rural,0-4,182,199,12,7,11,8,78,62,13,15
+C4920,22,16,0,District - Dantewada*  16,Rural,5-9,256,235,93,82,39,28,176,120,34,40
+C4920,22,16,0,District - Dantewada*  16,Rural,10-19,367,326,170,119,104,42,367,225,97,92
+C4920,22,16,0,District - Dantewada*  16,Rural,20-29,291,286,97,92,56,31,218,128,75,55
+C4920,22,16,0,District - Dantewada*  16,Rural,30-39,337,256,64,48,64,34,234,120,60,61
+C4920,22,16,0,District - Dantewada*  16,Rural,40-49,291,223,54,38,77,35,208,130,49,32
+C4920,22,16,0,District - Dantewada*  16,Rural,50-59,253,250,21,28,96,89,165,136,26,34
+C4920,22,16,0,District - Dantewada*  16,Rural,60-69,196,353,15,15,82,97,142,207,17,30
+C4920,22,16,0,District - Dantewada*  16,Rural,70-79,94,138,7,6,25,34,46,107,9,15
+C4920,22,16,0,District - Dantewada*  16,Rural,80-89,22,21,0,0,8,4,24,33,6,5
+C4920,22,16,0,District - Dantewada*  16,Rural,90+,2,5,2,1,1,1,7,11,2,1
+C4920,22,16,0,District - Dantewada*  16,Rural,Age not stated,7,14,5,1,1,1,7,1,0,4
+C4920,22,16,0,District - Dantewada*  16,Urban,0-4,24,31,0,4,1,0,4,1,3,3
+C4920,22,16,0,District - Dantewada*  16,Urban,5-9,28,24,3,1,1,0,12,7,8,2
+C4920,22,16,0,District - Dantewada*  16,Urban,10-19,74,61,14,12,4,5,31,30,14,14
+C4920,22,16,0,District - Dantewada*  16,Urban,20-29,83,51,11,4,1,0,27,15,11,10
+C4920,22,16,0,District - Dantewada*  16,Urban,30-39,103,48,2,5,1,0,23,10,10,9
+C4920,22,16,0,District - Dantewada*  16,Urban,40-49,73,50,3,2,1,2,27,13,7,5
+C4920,22,16,0,District - Dantewada*  16,Urban,50-59,80,17,3,0,1,1,24,14,7,4
+C4920,22,16,0,District - Dantewada*  16,Urban,60-69,20,13,0,2,1,5,14,9,1,4
+C4920,22,16,0,District - Dantewada*  16,Urban,70-79,6,5,0,2,1,3,2,4,0,0
+C4920,22,16,0,District - Dantewada*  16,Urban,80-89,2,4,0,1,1,1,1,2,0,0
+C4920,22,16,0,District - Dantewada*  16,Urban,90+,2,0,0,0,0,0,0,2,0,0
+C4920,22,16,0,District - Dantewada*  16,Urban,Age not stated,1,0,0,0,0,1,0,0,0,0

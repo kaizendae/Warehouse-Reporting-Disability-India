@@ -1,0 +1,25 @@
+Table Name,State Code,District Code,Tehsil Code,Area Name,Total/ Rural/ Urban,Age-group,Type of disablity - In seeing - Males,Type of disablity - In seeing - Females,Type of disablity - In speech - Males,Type of disablity - In speech - Females,Type of disablity - In hearing - Males,Type of disablity - In hearing - Females,Type of disablity - In movement - Males,Type of disablity - In movement - Females,Type of disablity - Mental - Males,Type of disablity - Mental - Females
+C4920,26,1,0,District - Dadra & Nagar Haveli  01,Rural,0-4,91,114,1,4,3,4,16,15,3,4
+C4920,26,1,0,District - Dadra & Nagar Haveli  01,Rural,5-9,96,75,17,16,14,11,40,16,8,7
+C4920,26,1,0,District - Dadra & Nagar Haveli  01,Rural,10-19,160,146,39,28,27,12,80,53,29,31
+C4920,26,1,0,District - Dadra & Nagar Haveli  01,Rural,20-29,223,125,22,24,13,11,60,45,22,20
+C4920,26,1,0,District - Dadra & Nagar Haveli  01,Rural,30-39,157,83,20,11,13,10,43,32,31,15
+C4920,26,1,0,District - Dadra & Nagar Haveli  01,Rural,40-49,118,62,16,9,19,14,45,35,12,7
+C4920,26,1,0,District - Dadra & Nagar Haveli  01,Rural,50-59,87,65,6,5,17,17,34,18,10,9
+C4920,26,1,0,District - Dadra & Nagar Haveli  01,Rural,60-69,75,79,4,3,31,37,39,33,8,4
+C4920,26,1,0,District - Dadra & Nagar Haveli  01,Rural,70-79,37,42,1,3,14,23,16,15,0,2
+C4920,26,1,0,District - Dadra & Nagar Haveli  01,Rural,80-89,7,11,0,0,9,5,6,6,0,0
+C4920,26,1,0,District - Dadra & Nagar Haveli  01,Rural,90+,3,4,0,0,1,3,0,2,0,0
+C4920,26,1,0,District - Dadra & Nagar Haveli  01,Rural,Age not stated,0,0,0,0,0,1,0,0,0,0
+C4920,26,1,0,District - Dadra & Nagar Haveli  01,Urban,0-4,25,30,2,0,1,0,1,6,2,1
+C4920,26,1,0,District - Dadra & Nagar Haveli  01,Urban,5-9,31,27,2,2,1,0,6,4,1,1
+C4920,26,1,0,District - Dadra & Nagar Haveli  01,Urban,10-19,34,30,8,9,1,2,22,9,7,5
+C4920,26,1,0,District - Dadra & Nagar Haveli  01,Urban,20-29,90,49,15,5,2,2,19,5,6,5
+C4920,26,1,0,District - Dadra & Nagar Haveli  01,Urban,30-39,51,25,8,5,4,0,18,9,8,2
+C4920,26,1,0,District - Dadra & Nagar Haveli  01,Urban,40-49,38,12,2,3,1,0,12,6,5,4
+C4920,26,1,0,District - Dadra & Nagar Haveli  01,Urban,50-59,14,5,2,0,0,1,12,2,4,1
+C4920,26,1,0,District - Dadra & Nagar Haveli  01,Urban,60-69,9,2,0,2,3,4,6,3,1,0
+C4920,26,1,0,District - Dadra & Nagar Haveli  01,Urban,70-79,3,5,1,0,2,3,2,3,0,0
+C4920,26,1,0,District - Dadra & Nagar Haveli  01,Urban,80-89,4,1,0,0,0,1,0,0,0,0
+C4920,26,1,0,District - Dadra & Nagar Haveli  01,Urban,90+,0,1,0,0,0,0,0,1,0,0
+C4920,26,1,0,District - Dadra & Nagar Haveli  01,Urban,Age not stated,0,0,0,0,0,0,0,0,0,0

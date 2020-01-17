@@ -1,0 +1,1921 @@
+State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
+15,1,Rural,0-4, MIZORAM,Mamit ,Male,In seeing,10
+15,1,Rural,5-9, MIZORAM,Mamit ,Male,In seeing,14
+15,1,Rural,10-19, MIZORAM,Mamit ,Male,In seeing,26
+15,1,Rural,20-29, MIZORAM,Mamit ,Male,In seeing,23
+15,1,Rural,30-39, MIZORAM,Mamit ,Male,In seeing,13
+15,1,Rural,40-49, MIZORAM,Mamit ,Male,In seeing,12
+15,1,Rural,50-59, MIZORAM,Mamit ,Male,In seeing,6
+15,1,Rural,60-69, MIZORAM,Mamit ,Male,In seeing,9
+15,1,Rural,70-79, MIZORAM,Mamit ,Male,In seeing,7
+15,1,Rural,80-89, MIZORAM,Mamit ,Male,In seeing,1
+15,1,Rural,90+, MIZORAM,Mamit ,Male,In seeing,0
+15,1,Rural,Age not stated, MIZORAM,Mamit ,Male,In seeing,0
+15,1,Urban,0-4, MIZORAM,Mamit ,Male,In seeing,4
+15,1,Urban,5-9, MIZORAM,Mamit ,Male,In seeing,3
+15,1,Urban,10-19, MIZORAM,Mamit ,Male,In seeing,6
+15,1,Urban,20-29, MIZORAM,Mamit ,Male,In seeing,5
+15,1,Urban,30-39, MIZORAM,Mamit ,Male,In seeing,7
+15,1,Urban,40-49, MIZORAM,Mamit ,Male,In seeing,8
+15,1,Urban,50-59, MIZORAM,Mamit ,Male,In seeing,3
+15,1,Urban,60-69, MIZORAM,Mamit ,Male,In seeing,1
+15,1,Urban,70-79, MIZORAM,Mamit ,Male,In seeing,0
+15,1,Urban,80-89, MIZORAM,Mamit ,Male,In seeing,2
+15,1,Urban,90+, MIZORAM,Mamit ,Male,In seeing,0
+15,1,Urban,Age not stated, MIZORAM,Mamit ,Male,In seeing,0
+15,2,Rural,0-4, MIZORAM,Kolasib ,Male,In seeing,15
+15,2,Rural,5-9, MIZORAM,Kolasib ,Male,In seeing,11
+15,2,Rural,10-19, MIZORAM,Kolasib ,Male,In seeing,20
+15,2,Rural,20-29, MIZORAM,Kolasib ,Male,In seeing,30
+15,2,Rural,30-39, MIZORAM,Kolasib ,Male,In seeing,13
+15,2,Rural,40-49, MIZORAM,Kolasib ,Male,In seeing,17
+15,2,Rural,50-59, MIZORAM,Kolasib ,Male,In seeing,8
+15,2,Rural,60-69, MIZORAM,Kolasib ,Male,In seeing,6
+15,2,Rural,70-79, MIZORAM,Kolasib ,Male,In seeing,6
+15,2,Rural,80-89, MIZORAM,Kolasib ,Male,In seeing,1
+15,2,Rural,90+, MIZORAM,Kolasib ,Male,In seeing,1
+15,2,Rural,Age not stated, MIZORAM,Kolasib ,Male,In seeing,0
+15,2,Urban,0-4, MIZORAM,Kolasib ,Male,In seeing,13
+15,2,Urban,5-9, MIZORAM,Kolasib ,Male,In seeing,11
+15,2,Urban,10-19, MIZORAM,Kolasib ,Male,In seeing,47
+15,2,Urban,20-29, MIZORAM,Kolasib ,Male,In seeing,41
+15,2,Urban,30-39, MIZORAM,Kolasib ,Male,In seeing,24
+15,2,Urban,40-49, MIZORAM,Kolasib ,Male,In seeing,24
+15,2,Urban,50-59, MIZORAM,Kolasib ,Male,In seeing,12
+15,2,Urban,60-69, MIZORAM,Kolasib ,Male,In seeing,11
+15,2,Urban,70-79, MIZORAM,Kolasib ,Male,In seeing,7
+15,2,Urban,80-89, MIZORAM,Kolasib ,Male,In seeing,1
+15,2,Urban,90+, MIZORAM,Kolasib ,Male,In seeing,2
+15,2,Urban,Age not stated, MIZORAM,Kolasib ,Male,In seeing,2
+15,3,Rural,0-4, MIZORAM,Aizawl ,Male,In seeing,30
+15,3,Rural,5-9, MIZORAM,Aizawl ,Male,In seeing,35
+15,3,Rural,10-19, MIZORAM,Aizawl ,Male,In seeing,76
+15,3,Rural,20-29, MIZORAM,Aizawl ,Male,In seeing,70
+15,3,Rural,30-39, MIZORAM,Aizawl ,Male,In seeing,69
+15,3,Rural,40-49, MIZORAM,Aizawl ,Male,In seeing,53
+15,3,Rural,50-59, MIZORAM,Aizawl ,Male,In seeing,43
+15,3,Rural,60-69, MIZORAM,Aizawl ,Male,In seeing,25
+15,3,Rural,70-79, MIZORAM,Aizawl ,Male,In seeing,16
+15,3,Rural,80-89, MIZORAM,Aizawl ,Male,In seeing,6
+15,3,Rural,90+, MIZORAM,Aizawl ,Male,In seeing,1
+15,3,Rural,Age not stated, MIZORAM,Aizawl ,Male,In seeing,1
+15,3,Urban,0-4, MIZORAM,Aizawl ,Male,In seeing,56
+15,3,Urban,5-9, MIZORAM,Aizawl ,Male,In seeing,58
+15,3,Urban,10-19, MIZORAM,Aizawl ,Male,In seeing,149
+15,3,Urban,20-29, MIZORAM,Aizawl ,Male,In seeing,144
+15,3,Urban,30-39, MIZORAM,Aizawl ,Male,In seeing,107
+15,3,Urban,40-49, MIZORAM,Aizawl ,Male,In seeing,88
+15,3,Urban,50-59, MIZORAM,Aizawl ,Male,In seeing,47
+15,3,Urban,60-69, MIZORAM,Aizawl ,Male,In seeing,35
+15,3,Urban,70-79, MIZORAM,Aizawl ,Male,In seeing,18
+15,3,Urban,80-89, MIZORAM,Aizawl ,Male,In seeing,3
+15,3,Urban,90+, MIZORAM,Aizawl ,Male,In seeing,3
+15,3,Urban,Age not stated, MIZORAM,Aizawl ,Male,In seeing,0
+15,4,Rural,0-4, MIZORAM,Champhai ,Male,In seeing,18
+15,4,Rural,5-9, MIZORAM,Champhai ,Male,In seeing,18
+15,4,Rural,10-19, MIZORAM,Champhai ,Male,In seeing,52
+15,4,Rural,20-29, MIZORAM,Champhai ,Male,In seeing,46
+15,4,Rural,30-39, MIZORAM,Champhai ,Male,In seeing,26
+15,4,Rural,40-49, MIZORAM,Champhai ,Male,In seeing,36
+15,4,Rural,50-59, MIZORAM,Champhai ,Male,In seeing,24
+15,4,Rural,60-69, MIZORAM,Champhai ,Male,In seeing,20
+15,4,Rural,70-79, MIZORAM,Champhai ,Male,In seeing,8
+15,4,Rural,80-89, MIZORAM,Champhai ,Male,In seeing,10
+15,4,Rural,90+, MIZORAM,Champhai ,Male,In seeing,0
+15,4,Rural,Age not stated, MIZORAM,Champhai ,Male,In seeing,1
+15,4,Urban,0-4, MIZORAM,Champhai ,Male,In seeing,6
+15,4,Urban,5-9, MIZORAM,Champhai ,Male,In seeing,7
+15,4,Urban,10-19, MIZORAM,Champhai ,Male,In seeing,36
+15,4,Urban,20-29, MIZORAM,Champhai ,Male,In seeing,28
+15,4,Urban,30-39, MIZORAM,Champhai ,Male,In seeing,55
+15,4,Urban,40-49, MIZORAM,Champhai ,Male,In seeing,21
+15,4,Urban,50-59, MIZORAM,Champhai ,Male,In seeing,8
+15,4,Urban,60-69, MIZORAM,Champhai ,Male,In seeing,3
+15,4,Urban,70-79, MIZORAM,Champhai ,Male,In seeing,2
+15,4,Urban,80-89, MIZORAM,Champhai ,Male,In seeing,0
+15,4,Urban,90+, MIZORAM,Champhai ,Male,In seeing,0
+15,4,Urban,Age not stated, MIZORAM,Champhai ,Male,In seeing,0
+15,5,Rural,0-4, MIZORAM,Serchhip ,Male,In seeing,15
+15,5,Rural,5-9, MIZORAM,Serchhip ,Male,In seeing,16
+15,5,Rural,10-19, MIZORAM,Serchhip ,Male,In seeing,26
+15,5,Rural,20-29, MIZORAM,Serchhip ,Male,In seeing,31
+15,5,Rural,30-39, MIZORAM,Serchhip ,Male,In seeing,14
+15,5,Rural,40-49, MIZORAM,Serchhip ,Male,In seeing,17
+15,5,Rural,50-59, MIZORAM,Serchhip ,Male,In seeing,6
+15,5,Rural,60-69, MIZORAM,Serchhip ,Male,In seeing,11
+15,5,Rural,70-79, MIZORAM,Serchhip ,Male,In seeing,9
+15,5,Rural,80-89, MIZORAM,Serchhip ,Male,In seeing,5
+15,5,Rural,90+, MIZORAM,Serchhip ,Male,In seeing,0
+15,5,Rural,Age not stated, MIZORAM,Serchhip ,Male,In seeing,0
+15,5,Urban,0-4, MIZORAM,Serchhip ,Male,In seeing,4
+15,5,Urban,5-9, MIZORAM,Serchhip ,Male,In seeing,9
+15,5,Urban,10-19, MIZORAM,Serchhip ,Male,In seeing,12
+15,5,Urban,20-29, MIZORAM,Serchhip ,Male,In seeing,16
+15,5,Urban,30-39, MIZORAM,Serchhip ,Male,In seeing,15
+15,5,Urban,40-49, MIZORAM,Serchhip ,Male,In seeing,19
+15,5,Urban,50-59, MIZORAM,Serchhip ,Male,In seeing,10
+15,5,Urban,60-69, MIZORAM,Serchhip ,Male,In seeing,4
+15,5,Urban,70-79, MIZORAM,Serchhip ,Male,In seeing,3
+15,5,Urban,80-89, MIZORAM,Serchhip ,Male,In seeing,0
+15,5,Urban,90+, MIZORAM,Serchhip ,Male,In seeing,0
+15,5,Urban,Age not stated, MIZORAM,Serchhip ,Male,In seeing,0
+15,6,Rural,0-4, MIZORAM,Lunglei ,Male,In seeing,53
+15,6,Rural,5-9, MIZORAM,Lunglei ,Male,In seeing,38
+15,6,Rural,10-19, MIZORAM,Lunglei ,Male,In seeing,82
+15,6,Rural,20-29, MIZORAM,Lunglei ,Male,In seeing,71
+15,6,Rural,30-39, MIZORAM,Lunglei ,Male,In seeing,48
+15,6,Rural,40-49, MIZORAM,Lunglei ,Male,In seeing,37
+15,6,Rural,50-59, MIZORAM,Lunglei ,Male,In seeing,31
+15,6,Rural,60-69, MIZORAM,Lunglei ,Male,In seeing,27
+15,6,Rural,70-79, MIZORAM,Lunglei ,Male,In seeing,20
+15,6,Rural,80-89, MIZORAM,Lunglei ,Male,In seeing,5
+15,6,Rural,90+, MIZORAM,Lunglei ,Male,In seeing,1
+15,6,Rural,Age not stated, MIZORAM,Lunglei ,Male,In seeing,0
+15,6,Urban,0-4, MIZORAM,Lunglei ,Male,In seeing,10
+15,6,Urban,5-9, MIZORAM,Lunglei ,Male,In seeing,19
+15,6,Urban,10-19, MIZORAM,Lunglei ,Male,In seeing,32
+15,6,Urban,20-29, MIZORAM,Lunglei ,Male,In seeing,22
+15,6,Urban,30-39, MIZORAM,Lunglei ,Male,In seeing,28
+15,6,Urban,40-49, MIZORAM,Lunglei ,Male,In seeing,16
+15,6,Urban,50-59, MIZORAM,Lunglei ,Male,In seeing,12
+15,6,Urban,60-69, MIZORAM,Lunglei ,Male,In seeing,7
+15,6,Urban,70-79, MIZORAM,Lunglei ,Male,In seeing,4
+15,6,Urban,80-89, MIZORAM,Lunglei ,Male,In seeing,1
+15,6,Urban,90+, MIZORAM,Lunglei ,Male,In seeing,0
+15,6,Urban,Age not stated, MIZORAM,Lunglei ,Male,In seeing,0
+15,7,Rural,0-4, MIZORAM,Lawngtlai ,Male,In seeing,46
+15,7,Rural,5-9, MIZORAM,Lawngtlai ,Male,In seeing,53
+15,7,Rural,10-19, MIZORAM,Lawngtlai ,Male,In seeing,86
+15,7,Rural,20-29, MIZORAM,Lawngtlai ,Male,In seeing,99
+15,7,Rural,30-39, MIZORAM,Lawngtlai ,Male,In seeing,74
+15,7,Rural,40-49, MIZORAM,Lawngtlai ,Male,In seeing,62
+15,7,Rural,50-59, MIZORAM,Lawngtlai ,Male,In seeing,38
+15,7,Rural,60-69, MIZORAM,Lawngtlai ,Male,In seeing,19
+15,7,Rural,70-79, MIZORAM,Lawngtlai ,Male,In seeing,9
+15,7,Rural,80-89, MIZORAM,Lawngtlai ,Male,In seeing,5
+15,7,Rural,90+, MIZORAM,Lawngtlai ,Male,In seeing,0
+15,7,Rural,Age not stated, MIZORAM,Lawngtlai ,Male,In seeing,2
+15,7,Urban,0-4, MIZORAM,Lawngtlai ,Male,In seeing,0
+15,7,Urban,5-9, MIZORAM,Lawngtlai ,Male,In seeing,0
+15,7,Urban,10-19, MIZORAM,Lawngtlai ,Male,In seeing,0
+15,7,Urban,20-29, MIZORAM,Lawngtlai ,Male,In seeing,0
+15,7,Urban,30-39, MIZORAM,Lawngtlai ,Male,In seeing,0
+15,7,Urban,40-49, MIZORAM,Lawngtlai ,Male,In seeing,0
+15,7,Urban,50-59, MIZORAM,Lawngtlai ,Male,In seeing,0
+15,7,Urban,60-69, MIZORAM,Lawngtlai ,Male,In seeing,0
+15,7,Urban,70-79, MIZORAM,Lawngtlai ,Male,In seeing,0
+15,7,Urban,80-89, MIZORAM,Lawngtlai ,Male,In seeing,0
+15,7,Urban,90+, MIZORAM,Lawngtlai ,Male,In seeing,0
+15,7,Urban,Age not stated, MIZORAM,Lawngtlai ,Male,In seeing,0
+15,8,Rural,0-4, MIZORAM,Saiha ,Male,In seeing,8
+15,8,Rural,5-9, MIZORAM,Saiha ,Male,In seeing,11
+15,8,Rural,10-19, MIZORAM,Saiha ,Male,In seeing,25
+15,8,Rural,20-29, MIZORAM,Saiha ,Male,In seeing,16
+15,8,Rural,30-39, MIZORAM,Saiha ,Male,In seeing,16
+15,8,Rural,40-49, MIZORAM,Saiha ,Male,In seeing,6
+15,8,Rural,50-59, MIZORAM,Saiha ,Male,In seeing,8
+15,8,Rural,60-69, MIZORAM,Saiha ,Male,In seeing,4
+15,8,Rural,70-79, MIZORAM,Saiha ,Male,In seeing,3
+15,8,Rural,80-89, MIZORAM,Saiha ,Male,In seeing,3
+15,8,Rural,90+, MIZORAM,Saiha ,Male,In seeing,0
+15,8,Rural,Age not stated, MIZORAM,Saiha ,Male,In seeing,0
+15,8,Urban,0-4, MIZORAM,Saiha ,Male,In seeing,4
+15,8,Urban,5-9, MIZORAM,Saiha ,Male,In seeing,3
+15,8,Urban,10-19, MIZORAM,Saiha ,Male,In seeing,12
+15,8,Urban,20-29, MIZORAM,Saiha ,Male,In seeing,12
+15,8,Urban,30-39, MIZORAM,Saiha ,Male,In seeing,14
+15,8,Urban,40-49, MIZORAM,Saiha ,Male,In seeing,7
+15,8,Urban,50-59, MIZORAM,Saiha ,Male,In seeing,7
+15,8,Urban,60-69, MIZORAM,Saiha ,Male,In seeing,5
+15,8,Urban,70-79, MIZORAM,Saiha ,Male,In seeing,1
+15,8,Urban,80-89, MIZORAM,Saiha ,Male,In seeing,1
+15,8,Urban,90+, MIZORAM,Saiha ,Male,In seeing,0
+15,8,Urban,Age not stated, MIZORAM,Saiha ,Male,In seeing,0
+15,1,Rural,0-4, MIZORAM,Mamit ,Female,In seeing,13
+15,1,Rural,5-9, MIZORAM,Mamit ,Female,In seeing,5
+15,1,Rural,10-19, MIZORAM,Mamit ,Female,In seeing,18
+15,1,Rural,20-29, MIZORAM,Mamit ,Female,In seeing,12
+15,1,Rural,30-39, MIZORAM,Mamit ,Female,In seeing,9
+15,1,Rural,40-49, MIZORAM,Mamit ,Female,In seeing,10
+15,1,Rural,50-59, MIZORAM,Mamit ,Female,In seeing,6
+15,1,Rural,60-69, MIZORAM,Mamit ,Female,In seeing,9
+15,1,Rural,70-79, MIZORAM,Mamit ,Female,In seeing,8
+15,1,Rural,80-89, MIZORAM,Mamit ,Female,In seeing,5
+15,1,Rural,90+, MIZORAM,Mamit ,Female,In seeing,1
+15,1,Rural,Age not stated, MIZORAM,Mamit ,Female,In seeing,0
+15,1,Urban,0-4, MIZORAM,Mamit ,Female,In seeing,4
+15,1,Urban,5-9, MIZORAM,Mamit ,Female,In seeing,0
+15,1,Urban,10-19, MIZORAM,Mamit ,Female,In seeing,5
+15,1,Urban,20-29, MIZORAM,Mamit ,Female,In seeing,2
+15,1,Urban,30-39, MIZORAM,Mamit ,Female,In seeing,2
+15,1,Urban,40-49, MIZORAM,Mamit ,Female,In seeing,2
+15,1,Urban,50-59, MIZORAM,Mamit ,Female,In seeing,3
+15,1,Urban,60-69, MIZORAM,Mamit ,Female,In seeing,3
+15,1,Urban,70-79, MIZORAM,Mamit ,Female,In seeing,3
+15,1,Urban,80-89, MIZORAM,Mamit ,Female,In seeing,1
+15,1,Urban,90+, MIZORAM,Mamit ,Female,In seeing,0
+15,1,Urban,Age not stated, MIZORAM,Mamit ,Female,In seeing,0
+15,2,Rural,0-4, MIZORAM,Kolasib ,Female,In seeing,6
+15,2,Rural,5-9, MIZORAM,Kolasib ,Female,In seeing,7
+15,2,Rural,10-19, MIZORAM,Kolasib ,Female,In seeing,18
+15,2,Rural,20-29, MIZORAM,Kolasib ,Female,In seeing,14
+15,2,Rural,30-39, MIZORAM,Kolasib ,Female,In seeing,12
+15,2,Rural,40-49, MIZORAM,Kolasib ,Female,In seeing,9
+15,2,Rural,50-59, MIZORAM,Kolasib ,Female,In seeing,9
+15,2,Rural,60-69, MIZORAM,Kolasib ,Female,In seeing,9
+15,2,Rural,70-79, MIZORAM,Kolasib ,Female,In seeing,4
+15,2,Rural,80-89, MIZORAM,Kolasib ,Female,In seeing,5
+15,2,Rural,90+, MIZORAM,Kolasib ,Female,In seeing,0
+15,2,Rural,Age not stated, MIZORAM,Kolasib ,Female,In seeing,0
+15,2,Urban,0-4, MIZORAM,Kolasib ,Female,In seeing,13
+15,2,Urban,5-9, MIZORAM,Kolasib ,Female,In seeing,22
+15,2,Urban,10-19, MIZORAM,Kolasib ,Female,In seeing,23
+15,2,Urban,20-29, MIZORAM,Kolasib ,Female,In seeing,20
+15,2,Urban,30-39, MIZORAM,Kolasib ,Female,In seeing,16
+15,2,Urban,40-49, MIZORAM,Kolasib ,Female,In seeing,13
+15,2,Urban,50-59, MIZORAM,Kolasib ,Female,In seeing,10
+15,2,Urban,60-69, MIZORAM,Kolasib ,Female,In seeing,9
+15,2,Urban,70-79, MIZORAM,Kolasib ,Female,In seeing,5
+15,2,Urban,80-89, MIZORAM,Kolasib ,Female,In seeing,7
+15,2,Urban,90+, MIZORAM,Kolasib ,Female,In seeing,0
+15,2,Urban,Age not stated, MIZORAM,Kolasib ,Female,In seeing,1
+15,3,Rural,0-4, MIZORAM,Aizawl ,Female,In seeing,35
+15,3,Rural,5-9, MIZORAM,Aizawl ,Female,In seeing,29
+15,3,Rural,10-19, MIZORAM,Aizawl ,Female,In seeing,81
+15,3,Rural,20-29, MIZORAM,Aizawl ,Female,In seeing,57
+15,3,Rural,30-39, MIZORAM,Aizawl ,Female,In seeing,34
+15,3,Rural,40-49, MIZORAM,Aizawl ,Female,In seeing,27
+15,3,Rural,50-59, MIZORAM,Aizawl ,Female,In seeing,19
+15,3,Rural,60-69, MIZORAM,Aizawl ,Female,In seeing,16
+15,3,Rural,70-79, MIZORAM,Aizawl ,Female,In seeing,18
+15,3,Rural,80-89, MIZORAM,Aizawl ,Female,In seeing,3
+15,3,Rural,90+, MIZORAM,Aizawl ,Female,In seeing,1
+15,3,Rural,Age not stated, MIZORAM,Aizawl ,Female,In seeing,0
+15,3,Urban,0-4, MIZORAM,Aizawl ,Female,In seeing,44
+15,3,Urban,5-9, MIZORAM,Aizawl ,Female,In seeing,50
+15,3,Urban,10-19, MIZORAM,Aizawl ,Female,In seeing,155
+15,3,Urban,20-29, MIZORAM,Aizawl ,Female,In seeing,91
+15,3,Urban,30-39, MIZORAM,Aizawl ,Female,In seeing,65
+15,3,Urban,40-49, MIZORAM,Aizawl ,Female,In seeing,56
+15,3,Urban,50-59, MIZORAM,Aizawl ,Female,In seeing,36
+15,3,Urban,60-69, MIZORAM,Aizawl ,Female,In seeing,26
+15,3,Urban,70-79, MIZORAM,Aizawl ,Female,In seeing,19
+15,3,Urban,80-89, MIZORAM,Aizawl ,Female,In seeing,9
+15,3,Urban,90+, MIZORAM,Aizawl ,Female,In seeing,4
+15,3,Urban,Age not stated, MIZORAM,Aizawl ,Female,In seeing,1
+15,4,Rural,0-4, MIZORAM,Champhai ,Female,In seeing,18
+15,4,Rural,5-9, MIZORAM,Champhai ,Female,In seeing,26
+15,4,Rural,10-19, MIZORAM,Champhai ,Female,In seeing,53
+15,4,Rural,20-29, MIZORAM,Champhai ,Female,In seeing,21
+15,4,Rural,30-39, MIZORAM,Champhai ,Female,In seeing,30
+15,4,Rural,40-49, MIZORAM,Champhai ,Female,In seeing,31
+15,4,Rural,50-59, MIZORAM,Champhai ,Female,In seeing,16
+15,4,Rural,60-69, MIZORAM,Champhai ,Female,In seeing,16
+15,4,Rural,70-79, MIZORAM,Champhai ,Female,In seeing,7
+15,4,Rural,80-89, MIZORAM,Champhai ,Female,In seeing,4
+15,4,Rural,90+, MIZORAM,Champhai ,Female,In seeing,1
+15,4,Rural,Age not stated, MIZORAM,Champhai ,Female,In seeing,0
+15,4,Urban,0-4, MIZORAM,Champhai ,Female,In seeing,8
+15,4,Urban,5-9, MIZORAM,Champhai ,Female,In seeing,11
+15,4,Urban,10-19, MIZORAM,Champhai ,Female,In seeing,24
+15,4,Urban,20-29, MIZORAM,Champhai ,Female,In seeing,13
+15,4,Urban,30-39, MIZORAM,Champhai ,Female,In seeing,13
+15,4,Urban,40-49, MIZORAM,Champhai ,Female,In seeing,4
+15,4,Urban,50-59, MIZORAM,Champhai ,Female,In seeing,9
+15,4,Urban,60-69, MIZORAM,Champhai ,Female,In seeing,3
+15,4,Urban,70-79, MIZORAM,Champhai ,Female,In seeing,5
+15,4,Urban,80-89, MIZORAM,Champhai ,Female,In seeing,2
+15,4,Urban,90+, MIZORAM,Champhai ,Female,In seeing,0
+15,4,Urban,Age not stated, MIZORAM,Champhai ,Female,In seeing,0
+15,5,Rural,0-4, MIZORAM,Serchhip ,Female,In seeing,11
+15,5,Rural,5-9, MIZORAM,Serchhip ,Female,In seeing,12
+15,5,Rural,10-19, MIZORAM,Serchhip ,Female,In seeing,13
+15,5,Rural,20-29, MIZORAM,Serchhip ,Female,In seeing,20
+15,5,Rural,30-39, MIZORAM,Serchhip ,Female,In seeing,4
+15,5,Rural,40-49, MIZORAM,Serchhip ,Female,In seeing,10
+15,5,Rural,50-59, MIZORAM,Serchhip ,Female,In seeing,13
+15,5,Rural,60-69, MIZORAM,Serchhip ,Female,In seeing,7
+15,5,Rural,70-79, MIZORAM,Serchhip ,Female,In seeing,6
+15,5,Rural,80-89, MIZORAM,Serchhip ,Female,In seeing,4
+15,5,Rural,90+, MIZORAM,Serchhip ,Female,In seeing,0
+15,5,Rural,Age not stated, MIZORAM,Serchhip ,Female,In seeing,0
+15,5,Urban,0-4, MIZORAM,Serchhip ,Female,In seeing,9
+15,5,Urban,5-9, MIZORAM,Serchhip ,Female,In seeing,9
+15,5,Urban,10-19, MIZORAM,Serchhip ,Female,In seeing,19
+15,5,Urban,20-29, MIZORAM,Serchhip ,Female,In seeing,14
+15,5,Urban,30-39, MIZORAM,Serchhip ,Female,In seeing,6
+15,5,Urban,40-49, MIZORAM,Serchhip ,Female,In seeing,4
+15,5,Urban,50-59, MIZORAM,Serchhip ,Female,In seeing,6
+15,5,Urban,60-69, MIZORAM,Serchhip ,Female,In seeing,4
+15,5,Urban,70-79, MIZORAM,Serchhip ,Female,In seeing,1
+15,5,Urban,80-89, MIZORAM,Serchhip ,Female,In seeing,2
+15,5,Urban,90+, MIZORAM,Serchhip ,Female,In seeing,0
+15,5,Urban,Age not stated, MIZORAM,Serchhip ,Female,In seeing,0
+15,6,Rural,0-4, MIZORAM,Lunglei ,Female,In seeing,38
+15,6,Rural,5-9, MIZORAM,Lunglei ,Female,In seeing,32
+15,6,Rural,10-19, MIZORAM,Lunglei ,Female,In seeing,73
+15,6,Rural,20-29, MIZORAM,Lunglei ,Female,In seeing,49
+15,6,Rural,30-39, MIZORAM,Lunglei ,Female,In seeing,37
+15,6,Rural,40-49, MIZORAM,Lunglei ,Female,In seeing,23
+15,6,Rural,50-59, MIZORAM,Lunglei ,Female,In seeing,22
+15,6,Rural,60-69, MIZORAM,Lunglei ,Female,In seeing,20
+15,6,Rural,70-79, MIZORAM,Lunglei ,Female,In seeing,16
+15,6,Rural,80-89, MIZORAM,Lunglei ,Female,In seeing,7
+15,6,Rural,90+, MIZORAM,Lunglei ,Female,In seeing,3
+15,6,Rural,Age not stated, MIZORAM,Lunglei ,Female,In seeing,0
+15,6,Urban,0-4, MIZORAM,Lunglei ,Female,In seeing,10
+15,6,Urban,5-9, MIZORAM,Lunglei ,Female,In seeing,17
+15,6,Urban,10-19, MIZORAM,Lunglei ,Female,In seeing,39
+15,6,Urban,20-29, MIZORAM,Lunglei ,Female,In seeing,22
+15,6,Urban,30-39, MIZORAM,Lunglei ,Female,In seeing,15
+15,6,Urban,40-49, MIZORAM,Lunglei ,Female,In seeing,13
+15,6,Urban,50-59, MIZORAM,Lunglei ,Female,In seeing,10
+15,6,Urban,60-69, MIZORAM,Lunglei ,Female,In seeing,6
+15,6,Urban,70-79, MIZORAM,Lunglei ,Female,In seeing,6
+15,6,Urban,80-89, MIZORAM,Lunglei ,Female,In seeing,2
+15,6,Urban,90+, MIZORAM,Lunglei ,Female,In seeing,2
+15,6,Urban,Age not stated, MIZORAM,Lunglei ,Female,In seeing,0
+15,7,Rural,0-4, MIZORAM,Lawngtlai ,Female,In seeing,63
+15,7,Rural,5-9, MIZORAM,Lawngtlai ,Female,In seeing,49
+15,7,Rural,10-19, MIZORAM,Lawngtlai ,Female,In seeing,91
+15,7,Rural,20-29, MIZORAM,Lawngtlai ,Female,In seeing,74
+15,7,Rural,30-39, MIZORAM,Lawngtlai ,Female,In seeing,57
+15,7,Rural,40-49, MIZORAM,Lawngtlai ,Female,In seeing,40
+15,7,Rural,50-59, MIZORAM,Lawngtlai ,Female,In seeing,24
+15,7,Rural,60-69, MIZORAM,Lawngtlai ,Female,In seeing,17
+15,7,Rural,70-79, MIZORAM,Lawngtlai ,Female,In seeing,12
+15,7,Rural,80-89, MIZORAM,Lawngtlai ,Female,In seeing,2
+15,7,Rural,90+, MIZORAM,Lawngtlai ,Female,In seeing,2
+15,7,Rural,Age not stated, MIZORAM,Lawngtlai ,Female,In seeing,1
+15,7,Urban,0-4, MIZORAM,Lawngtlai ,Female,In seeing,0
+15,7,Urban,5-9, MIZORAM,Lawngtlai ,Female,In seeing,0
+15,7,Urban,10-19, MIZORAM,Lawngtlai ,Female,In seeing,0
+15,7,Urban,20-29, MIZORAM,Lawngtlai ,Female,In seeing,0
+15,7,Urban,30-39, MIZORAM,Lawngtlai ,Female,In seeing,0
+15,7,Urban,40-49, MIZORAM,Lawngtlai ,Female,In seeing,0
+15,7,Urban,50-59, MIZORAM,Lawngtlai ,Female,In seeing,0
+15,7,Urban,60-69, MIZORAM,Lawngtlai ,Female,In seeing,0
+15,7,Urban,70-79, MIZORAM,Lawngtlai ,Female,In seeing,0
+15,7,Urban,80-89, MIZORAM,Lawngtlai ,Female,In seeing,0
+15,7,Urban,90+, MIZORAM,Lawngtlai ,Female,In seeing,0
+15,7,Urban,Age not stated, MIZORAM,Lawngtlai ,Female,In seeing,0
+15,8,Rural,0-4, MIZORAM,Saiha ,Female,In seeing,11
+15,8,Rural,5-9, MIZORAM,Saiha ,Female,In seeing,10
+15,8,Rural,10-19, MIZORAM,Saiha ,Female,In seeing,24
+15,8,Rural,20-29, MIZORAM,Saiha ,Female,In seeing,8
+15,8,Rural,30-39, MIZORAM,Saiha ,Female,In seeing,8
+15,8,Rural,40-49, MIZORAM,Saiha ,Female,In seeing,8
+15,8,Rural,50-59, MIZORAM,Saiha ,Female,In seeing,5
+15,8,Rural,60-69, MIZORAM,Saiha ,Female,In seeing,8
+15,8,Rural,70-79, MIZORAM,Saiha ,Female,In seeing,11
+15,8,Rural,80-89, MIZORAM,Saiha ,Female,In seeing,3
+15,8,Rural,90+, MIZORAM,Saiha ,Female,In seeing,1
+15,8,Rural,Age not stated, MIZORAM,Saiha ,Female,In seeing,0
+15,8,Urban,0-4, MIZORAM,Saiha ,Female,In seeing,4
+15,8,Urban,5-9, MIZORAM,Saiha ,Female,In seeing,7
+15,8,Urban,10-19, MIZORAM,Saiha ,Female,In seeing,9
+15,8,Urban,20-29, MIZORAM,Saiha ,Female,In seeing,6
+15,8,Urban,30-39, MIZORAM,Saiha ,Female,In seeing,3
+15,8,Urban,40-49, MIZORAM,Saiha ,Female,In seeing,7
+15,8,Urban,50-59, MIZORAM,Saiha ,Female,In seeing,0
+15,8,Urban,60-69, MIZORAM,Saiha ,Female,In seeing,4
+15,8,Urban,70-79, MIZORAM,Saiha ,Female,In seeing,1
+15,8,Urban,80-89, MIZORAM,Saiha ,Female,In seeing,1
+15,8,Urban,90+, MIZORAM,Saiha ,Female,In seeing,0
+15,8,Urban,Age not stated, MIZORAM,Saiha ,Female,In seeing,0
+15,1,Rural,0-4, MIZORAM,Mamit ,Male,In speech,0
+15,1,Rural,5-9, MIZORAM,Mamit ,Male,In speech,10
+15,1,Rural,10-19, MIZORAM,Mamit ,Male,In speech,18
+15,1,Rural,20-29, MIZORAM,Mamit ,Male,In speech,15
+15,1,Rural,30-39, MIZORAM,Mamit ,Male,In speech,6
+15,1,Rural,40-49, MIZORAM,Mamit ,Male,In speech,10
+15,1,Rural,50-59, MIZORAM,Mamit ,Male,In speech,1
+15,1,Rural,60-69, MIZORAM,Mamit ,Male,In speech,1
+15,1,Rural,70-79, MIZORAM,Mamit ,Male,In speech,1
+15,1,Rural,80-89, MIZORAM,Mamit ,Male,In speech,0
+15,1,Rural,90+, MIZORAM,Mamit ,Male,In speech,1
+15,1,Rural,Age not stated, MIZORAM,Mamit ,Male,In speech,0
+15,1,Urban,0-4, MIZORAM,Mamit ,Male,In speech,0
+15,1,Urban,5-9, MIZORAM,Mamit ,Male,In speech,0
+15,1,Urban,10-19, MIZORAM,Mamit ,Male,In speech,1
+15,1,Urban,20-29, MIZORAM,Mamit ,Male,In speech,1
+15,1,Urban,30-39, MIZORAM,Mamit ,Male,In speech,1
+15,1,Urban,40-49, MIZORAM,Mamit ,Male,In speech,2
+15,1,Urban,50-59, MIZORAM,Mamit ,Male,In speech,1
+15,1,Urban,60-69, MIZORAM,Mamit ,Male,In speech,0
+15,1,Urban,70-79, MIZORAM,Mamit ,Male,In speech,0
+15,1,Urban,80-89, MIZORAM,Mamit ,Male,In speech,0
+15,1,Urban,90+, MIZORAM,Mamit ,Male,In speech,0
+15,1,Urban,Age not stated, MIZORAM,Mamit ,Male,In speech,0
+15,2,Rural,0-4, MIZORAM,Kolasib ,Male,In speech,0
+15,2,Rural,5-9, MIZORAM,Kolasib ,Male,In speech,4
+15,2,Rural,10-19, MIZORAM,Kolasib ,Male,In speech,5
+15,2,Rural,20-29, MIZORAM,Kolasib ,Male,In speech,8
+15,2,Rural,30-39, MIZORAM,Kolasib ,Male,In speech,5
+15,2,Rural,40-49, MIZORAM,Kolasib ,Male,In speech,5
+15,2,Rural,50-59, MIZORAM,Kolasib ,Male,In speech,4
+15,2,Rural,60-69, MIZORAM,Kolasib ,Male,In speech,4
+15,2,Rural,70-79, MIZORAM,Kolasib ,Male,In speech,0
+15,2,Rural,80-89, MIZORAM,Kolasib ,Male,In speech,0
+15,2,Rural,90+, MIZORAM,Kolasib ,Male,In speech,0
+15,2,Rural,Age not stated, MIZORAM,Kolasib ,Male,In speech,0
+15,2,Urban,0-4, MIZORAM,Kolasib ,Male,In speech,1
+15,2,Urban,5-9, MIZORAM,Kolasib ,Male,In speech,6
+15,2,Urban,10-19, MIZORAM,Kolasib ,Male,In speech,2
+15,2,Urban,20-29, MIZORAM,Kolasib ,Male,In speech,4
+15,2,Urban,30-39, MIZORAM,Kolasib ,Male,In speech,5
+15,2,Urban,40-49, MIZORAM,Kolasib ,Male,In speech,10
+15,2,Urban,50-59, MIZORAM,Kolasib ,Male,In speech,4
+15,2,Urban,60-69, MIZORAM,Kolasib ,Male,In speech,0
+15,2,Urban,70-79, MIZORAM,Kolasib ,Male,In speech,0
+15,2,Urban,80-89, MIZORAM,Kolasib ,Male,In speech,0
+15,2,Urban,90+, MIZORAM,Kolasib ,Male,In speech,0
+15,2,Urban,Age not stated, MIZORAM,Kolasib ,Male,In speech,0
+15,3,Rural,0-4, MIZORAM,Aizawl ,Male,In speech,2
+15,3,Rural,5-9, MIZORAM,Aizawl ,Male,In speech,15
+15,3,Rural,10-19, MIZORAM,Aizawl ,Male,In speech,15
+15,3,Rural,20-29, MIZORAM,Aizawl ,Male,In speech,23
+15,3,Rural,30-39, MIZORAM,Aizawl ,Male,In speech,26
+15,3,Rural,40-49, MIZORAM,Aizawl ,Male,In speech,30
+15,3,Rural,50-59, MIZORAM,Aizawl ,Male,In speech,13
+15,3,Rural,60-69, MIZORAM,Aizawl ,Male,In speech,10
+15,3,Rural,70-79, MIZORAM,Aizawl ,Male,In speech,7
+15,3,Rural,80-89, MIZORAM,Aizawl ,Male,In speech,0
+15,3,Rural,90+, MIZORAM,Aizawl ,Male,In speech,0
+15,3,Rural,Age not stated, MIZORAM,Aizawl ,Male,In speech,0
+15,3,Urban,0-4, MIZORAM,Aizawl ,Male,In speech,4
+15,3,Urban,5-9, MIZORAM,Aizawl ,Male,In speech,27
+15,3,Urban,10-19, MIZORAM,Aizawl ,Male,In speech,46
+15,3,Urban,20-29, MIZORAM,Aizawl ,Male,In speech,30
+15,3,Urban,30-39, MIZORAM,Aizawl ,Male,In speech,42
+15,3,Urban,40-49, MIZORAM,Aizawl ,Male,In speech,26
+15,3,Urban,50-59, MIZORAM,Aizawl ,Male,In speech,24
+15,3,Urban,60-69, MIZORAM,Aizawl ,Male,In speech,8
+15,3,Urban,70-79, MIZORAM,Aizawl ,Male,In speech,6
+15,3,Urban,80-89, MIZORAM,Aizawl ,Male,In speech,1
+15,3,Urban,90+, MIZORAM,Aizawl ,Male,In speech,0
+15,3,Urban,Age not stated, MIZORAM,Aizawl ,Male,In speech,0
+15,4,Rural,0-4, MIZORAM,Champhai ,Male,In speech,0
+15,4,Rural,5-9, MIZORAM,Champhai ,Male,In speech,7
+15,4,Rural,10-19, MIZORAM,Champhai ,Male,In speech,21
+15,4,Rural,20-29, MIZORAM,Champhai ,Male,In speech,22
+15,4,Rural,30-39, MIZORAM,Champhai ,Male,In speech,25
+15,4,Rural,40-49, MIZORAM,Champhai ,Male,In speech,35
+15,4,Rural,50-59, MIZORAM,Champhai ,Male,In speech,16
+15,4,Rural,60-69, MIZORAM,Champhai ,Male,In speech,4
+15,4,Rural,70-79, MIZORAM,Champhai ,Male,In speech,6
+15,4,Rural,80-89, MIZORAM,Champhai ,Male,In speech,1
+15,4,Rural,90+, MIZORAM,Champhai ,Male,In speech,0
+15,4,Rural,Age not stated, MIZORAM,Champhai ,Male,In speech,0
+15,4,Urban,0-4, MIZORAM,Champhai ,Male,In speech,1
+15,4,Urban,5-9, MIZORAM,Champhai ,Male,In speech,4
+15,4,Urban,10-19, MIZORAM,Champhai ,Male,In speech,11
+15,4,Urban,20-29, MIZORAM,Champhai ,Male,In speech,12
+15,4,Urban,30-39, MIZORAM,Champhai ,Male,In speech,15
+15,4,Urban,40-49, MIZORAM,Champhai ,Male,In speech,12
+15,4,Urban,50-59, MIZORAM,Champhai ,Male,In speech,3
+15,4,Urban,60-69, MIZORAM,Champhai ,Male,In speech,4
+15,4,Urban,70-79, MIZORAM,Champhai ,Male,In speech,1
+15,4,Urban,80-89, MIZORAM,Champhai ,Male,In speech,2
+15,4,Urban,90+, MIZORAM,Champhai ,Male,In speech,0
+15,4,Urban,Age not stated, MIZORAM,Champhai ,Male,In speech,0
+15,5,Rural,0-4, MIZORAM,Serchhip ,Male,In speech,0
+15,5,Rural,5-9, MIZORAM,Serchhip ,Male,In speech,3
+15,5,Rural,10-19, MIZORAM,Serchhip ,Male,In speech,12
+15,5,Rural,20-29, MIZORAM,Serchhip ,Male,In speech,6
+15,5,Rural,30-39, MIZORAM,Serchhip ,Male,In speech,10
+15,5,Rural,40-49, MIZORAM,Serchhip ,Male,In speech,8
+15,5,Rural,50-59, MIZORAM,Serchhip ,Male,In speech,4
+15,5,Rural,60-69, MIZORAM,Serchhip ,Male,In speech,5
+15,5,Rural,70-79, MIZORAM,Serchhip ,Male,In speech,1
+15,5,Rural,80-89, MIZORAM,Serchhip ,Male,In speech,1
+15,5,Rural,90+, MIZORAM,Serchhip ,Male,In speech,0
+15,5,Rural,Age not stated, MIZORAM,Serchhip ,Male,In speech,0
+15,5,Urban,0-4, MIZORAM,Serchhip ,Male,In speech,0
+15,5,Urban,5-9, MIZORAM,Serchhip ,Male,In speech,1
+15,5,Urban,10-19, MIZORAM,Serchhip ,Male,In speech,9
+15,5,Urban,20-29, MIZORAM,Serchhip ,Male,In speech,8
+15,5,Urban,30-39, MIZORAM,Serchhip ,Male,In speech,8
+15,5,Urban,40-49, MIZORAM,Serchhip ,Male,In speech,9
+15,5,Urban,50-59, MIZORAM,Serchhip ,Male,In speech,4
+15,5,Urban,60-69, MIZORAM,Serchhip ,Male,In speech,1
+15,5,Urban,70-79, MIZORAM,Serchhip ,Male,In speech,1
+15,5,Urban,80-89, MIZORAM,Serchhip ,Male,In speech,0
+15,5,Urban,90+, MIZORAM,Serchhip ,Male,In speech,0
+15,5,Urban,Age not stated, MIZORAM,Serchhip ,Male,In speech,0
+15,6,Rural,0-4, MIZORAM,Lunglei ,Male,In speech,4
+15,6,Rural,5-9, MIZORAM,Lunglei ,Male,In speech,15
+15,6,Rural,10-19, MIZORAM,Lunglei ,Male,In speech,24
+15,6,Rural,20-29, MIZORAM,Lunglei ,Male,In speech,19
+15,6,Rural,30-39, MIZORAM,Lunglei ,Male,In speech,21
+15,6,Rural,40-49, MIZORAM,Lunglei ,Male,In speech,16
+15,6,Rural,50-59, MIZORAM,Lunglei ,Male,In speech,12
+15,6,Rural,60-69, MIZORAM,Lunglei ,Male,In speech,4
+15,6,Rural,70-79, MIZORAM,Lunglei ,Male,In speech,4
+15,6,Rural,80-89, MIZORAM,Lunglei ,Male,In speech,0
+15,6,Rural,90+, MIZORAM,Lunglei ,Male,In speech,0
+15,6,Rural,Age not stated, MIZORAM,Lunglei ,Male,In speech,0
+15,6,Urban,0-4, MIZORAM,Lunglei ,Male,In speech,1
+15,6,Urban,5-9, MIZORAM,Lunglei ,Male,In speech,5
+15,6,Urban,10-19, MIZORAM,Lunglei ,Male,In speech,6
+15,6,Urban,20-29, MIZORAM,Lunglei ,Male,In speech,9
+15,6,Urban,30-39, MIZORAM,Lunglei ,Male,In speech,6
+15,6,Urban,40-49, MIZORAM,Lunglei ,Male,In speech,8
+15,6,Urban,50-59, MIZORAM,Lunglei ,Male,In speech,9
+15,6,Urban,60-69, MIZORAM,Lunglei ,Male,In speech,5
+15,6,Urban,70-79, MIZORAM,Lunglei ,Male,In speech,2
+15,6,Urban,80-89, MIZORAM,Lunglei ,Male,In speech,0
+15,6,Urban,90+, MIZORAM,Lunglei ,Male,In speech,0
+15,6,Urban,Age not stated, MIZORAM,Lunglei ,Male,In speech,0
+15,7,Rural,0-4, MIZORAM,Lawngtlai ,Male,In speech,1
+15,7,Rural,5-9, MIZORAM,Lawngtlai ,Male,In speech,7
+15,7,Rural,10-19, MIZORAM,Lawngtlai ,Male,In speech,11
+15,7,Rural,20-29, MIZORAM,Lawngtlai ,Male,In speech,9
+15,7,Rural,30-39, MIZORAM,Lawngtlai ,Male,In speech,12
+15,7,Rural,40-49, MIZORAM,Lawngtlai ,Male,In speech,3
+15,7,Rural,50-59, MIZORAM,Lawngtlai ,Male,In speech,8
+15,7,Rural,60-69, MIZORAM,Lawngtlai ,Male,In speech,1
+15,7,Rural,70-79, MIZORAM,Lawngtlai ,Male,In speech,0
+15,7,Rural,80-89, MIZORAM,Lawngtlai ,Male,In speech,0
+15,7,Rural,90+, MIZORAM,Lawngtlai ,Male,In speech,0
+15,7,Rural,Age not stated, MIZORAM,Lawngtlai ,Male,In speech,0
+15,7,Urban,0-4, MIZORAM,Lawngtlai ,Male,In speech,0
+15,7,Urban,5-9, MIZORAM,Lawngtlai ,Male,In speech,0
+15,7,Urban,10-19, MIZORAM,Lawngtlai ,Male,In speech,0
+15,7,Urban,20-29, MIZORAM,Lawngtlai ,Male,In speech,0
+15,7,Urban,30-39, MIZORAM,Lawngtlai ,Male,In speech,0
+15,7,Urban,40-49, MIZORAM,Lawngtlai ,Male,In speech,0
+15,7,Urban,50-59, MIZORAM,Lawngtlai ,Male,In speech,0
+15,7,Urban,60-69, MIZORAM,Lawngtlai ,Male,In speech,0
+15,7,Urban,70-79, MIZORAM,Lawngtlai ,Male,In speech,0
+15,7,Urban,80-89, MIZORAM,Lawngtlai ,Male,In speech,0
+15,7,Urban,90+, MIZORAM,Lawngtlai ,Male,In speech,0
+15,7,Urban,Age not stated, MIZORAM,Lawngtlai ,Male,In speech,0
+15,8,Rural,0-4, MIZORAM,Saiha ,Male,In speech,1
+15,8,Rural,5-9, MIZORAM,Saiha ,Male,In speech,7
+15,8,Rural,10-19, MIZORAM,Saiha ,Male,In speech,13
+15,8,Rural,20-29, MIZORAM,Saiha ,Male,In speech,11
+15,8,Rural,30-39, MIZORAM,Saiha ,Male,In speech,9
+15,8,Rural,40-49, MIZORAM,Saiha ,Male,In speech,7
+15,8,Rural,50-59, MIZORAM,Saiha ,Male,In speech,2
+15,8,Rural,60-69, MIZORAM,Saiha ,Male,In speech,2
+15,8,Rural,70-79, MIZORAM,Saiha ,Male,In speech,1
+15,8,Rural,80-89, MIZORAM,Saiha ,Male,In speech,0
+15,8,Rural,90+, MIZORAM,Saiha ,Male,In speech,0
+15,8,Rural,Age not stated, MIZORAM,Saiha ,Male,In speech,0
+15,8,Urban,0-4, MIZORAM,Saiha ,Male,In speech,0
+15,8,Urban,5-9, MIZORAM,Saiha ,Male,In speech,3
+15,8,Urban,10-19, MIZORAM,Saiha ,Male,In speech,4
+15,8,Urban,20-29, MIZORAM,Saiha ,Male,In speech,4
+15,8,Urban,30-39, MIZORAM,Saiha ,Male,In speech,8
+15,8,Urban,40-49, MIZORAM,Saiha ,Male,In speech,1
+15,8,Urban,50-59, MIZORAM,Saiha ,Male,In speech,5
+15,8,Urban,60-69, MIZORAM,Saiha ,Male,In speech,0
+15,8,Urban,70-79, MIZORAM,Saiha ,Male,In speech,0
+15,8,Urban,80-89, MIZORAM,Saiha ,Male,In speech,0
+15,8,Urban,90+, MIZORAM,Saiha ,Male,In speech,0
+15,8,Urban,Age not stated, MIZORAM,Saiha ,Male,In speech,0
+15,1,Rural,0-4, MIZORAM,Mamit ,Female,In speech,0
+15,1,Rural,5-9, MIZORAM,Mamit ,Female,In speech,7
+15,1,Rural,10-19, MIZORAM,Mamit ,Female,In speech,16
+15,1,Rural,20-29, MIZORAM,Mamit ,Female,In speech,8
+15,1,Rural,30-39, MIZORAM,Mamit ,Female,In speech,1
+15,1,Rural,40-49, MIZORAM,Mamit ,Female,In speech,2
+15,1,Rural,50-59, MIZORAM,Mamit ,Female,In speech,3
+15,1,Rural,60-69, MIZORAM,Mamit ,Female,In speech,2
+15,1,Rural,70-79, MIZORAM,Mamit ,Female,In speech,1
+15,1,Rural,80-89, MIZORAM,Mamit ,Female,In speech,0
+15,1,Rural,90+, MIZORAM,Mamit ,Female,In speech,0
+15,1,Rural,Age not stated, MIZORAM,Mamit ,Female,In speech,0
+15,1,Urban,0-4, MIZORAM,Mamit ,Female,In speech,0
+15,1,Urban,5-9, MIZORAM,Mamit ,Female,In speech,0
+15,1,Urban,10-19, MIZORAM,Mamit ,Female,In speech,1
+15,1,Urban,20-29, MIZORAM,Mamit ,Female,In speech,1
+15,1,Urban,30-39, MIZORAM,Mamit ,Female,In speech,2
+15,1,Urban,40-49, MIZORAM,Mamit ,Female,In speech,2
+15,1,Urban,50-59, MIZORAM,Mamit ,Female,In speech,3
+15,1,Urban,60-69, MIZORAM,Mamit ,Female,In speech,2
+15,1,Urban,70-79, MIZORAM,Mamit ,Female,In speech,0
+15,1,Urban,80-89, MIZORAM,Mamit ,Female,In speech,0
+15,1,Urban,90+, MIZORAM,Mamit ,Female,In speech,0
+15,1,Urban,Age not stated, MIZORAM,Mamit ,Female,In speech,0
+15,2,Rural,0-4, MIZORAM,Kolasib ,Female,In speech,1
+15,2,Rural,5-9, MIZORAM,Kolasib ,Female,In speech,5
+15,2,Rural,10-19, MIZORAM,Kolasib ,Female,In speech,10
+15,2,Rural,20-29, MIZORAM,Kolasib ,Female,In speech,6
+15,2,Rural,30-39, MIZORAM,Kolasib ,Female,In speech,5
+15,2,Rural,40-49, MIZORAM,Kolasib ,Female,In speech,5
+15,2,Rural,50-59, MIZORAM,Kolasib ,Female,In speech,4
+15,2,Rural,60-69, MIZORAM,Kolasib ,Female,In speech,2
+15,2,Rural,70-79, MIZORAM,Kolasib ,Female,In speech,0
+15,2,Rural,80-89, MIZORAM,Kolasib ,Female,In speech,0
+15,2,Rural,90+, MIZORAM,Kolasib ,Female,In speech,0
+15,2,Rural,Age not stated, MIZORAM,Kolasib ,Female,In speech,0
+15,2,Urban,0-4, MIZORAM,Kolasib ,Female,In speech,1
+15,2,Urban,5-9, MIZORAM,Kolasib ,Female,In speech,5
+15,2,Urban,10-19, MIZORAM,Kolasib ,Female,In speech,8
+15,2,Urban,20-29, MIZORAM,Kolasib ,Female,In speech,4
+15,2,Urban,30-39, MIZORAM,Kolasib ,Female,In speech,2
+15,2,Urban,40-49, MIZORAM,Kolasib ,Female,In speech,6
+15,2,Urban,50-59, MIZORAM,Kolasib ,Female,In speech,1
+15,2,Urban,60-69, MIZORAM,Kolasib ,Female,In speech,0
+15,2,Urban,70-79, MIZORAM,Kolasib ,Female,In speech,0
+15,2,Urban,80-89, MIZORAM,Kolasib ,Female,In speech,1
+15,2,Urban,90+, MIZORAM,Kolasib ,Female,In speech,0
+15,2,Urban,Age not stated, MIZORAM,Kolasib ,Female,In speech,0
+15,3,Rural,0-4, MIZORAM,Aizawl ,Female,In speech,2
+15,3,Rural,5-9, MIZORAM,Aizawl ,Female,In speech,5
+15,3,Rural,10-19, MIZORAM,Aizawl ,Female,In speech,15
+15,3,Rural,20-29, MIZORAM,Aizawl ,Female,In speech,21
+15,3,Rural,30-39, MIZORAM,Aizawl ,Female,In speech,18
+15,3,Rural,40-49, MIZORAM,Aizawl ,Female,In speech,23
+15,3,Rural,50-59, MIZORAM,Aizawl ,Female,In speech,16
+15,3,Rural,60-69, MIZORAM,Aizawl ,Female,In speech,8
+15,3,Rural,70-79, MIZORAM,Aizawl ,Female,In speech,4
+15,3,Rural,80-89, MIZORAM,Aizawl ,Female,In speech,2
+15,3,Rural,90+, MIZORAM,Aizawl ,Female,In speech,0
+15,3,Rural,Age not stated, MIZORAM,Aizawl ,Female,In speech,0
+15,3,Urban,0-4, MIZORAM,Aizawl ,Female,In speech,2
+15,3,Urban,5-9, MIZORAM,Aizawl ,Female,In speech,16
+15,3,Urban,10-19, MIZORAM,Aizawl ,Female,In speech,41
+15,3,Urban,20-29, MIZORAM,Aizawl ,Female,In speech,22
+15,3,Urban,30-39, MIZORAM,Aizawl ,Female,In speech,33
+15,3,Urban,40-49, MIZORAM,Aizawl ,Female,In speech,27
+15,3,Urban,50-59, MIZORAM,Aizawl ,Female,In speech,14
+15,3,Urban,60-69, MIZORAM,Aizawl ,Female,In speech,9
+15,3,Urban,70-79, MIZORAM,Aizawl ,Female,In speech,10
+15,3,Urban,80-89, MIZORAM,Aizawl ,Female,In speech,4
+15,3,Urban,90+, MIZORAM,Aizawl ,Female,In speech,0
+15,3,Urban,Age not stated, MIZORAM,Aizawl ,Female,In speech,0
+15,4,Rural,0-4, MIZORAM,Champhai ,Female,In speech,4
+15,4,Rural,5-9, MIZORAM,Champhai ,Female,In speech,7
+15,4,Rural,10-19, MIZORAM,Champhai ,Female,In speech,28
+15,4,Rural,20-29, MIZORAM,Champhai ,Female,In speech,27
+15,4,Rural,30-39, MIZORAM,Champhai ,Female,In speech,21
+15,4,Rural,40-49, MIZORAM,Champhai ,Female,In speech,35
+15,4,Rural,50-59, MIZORAM,Champhai ,Female,In speech,16
+15,4,Rural,60-69, MIZORAM,Champhai ,Female,In speech,11
+15,4,Rural,70-79, MIZORAM,Champhai ,Female,In speech,4
+15,4,Rural,80-89, MIZORAM,Champhai ,Female,In speech,0
+15,4,Rural,90+, MIZORAM,Champhai ,Female,In speech,1
+15,4,Rural,Age not stated, MIZORAM,Champhai ,Female,In speech,0
+15,4,Urban,0-4, MIZORAM,Champhai ,Female,In speech,1
+15,4,Urban,5-9, MIZORAM,Champhai ,Female,In speech,1
+15,4,Urban,10-19, MIZORAM,Champhai ,Female,In speech,11
+15,4,Urban,20-29, MIZORAM,Champhai ,Female,In speech,12
+15,4,Urban,30-39, MIZORAM,Champhai ,Female,In speech,12
+15,4,Urban,40-49, MIZORAM,Champhai ,Female,In speech,6
+15,4,Urban,50-59, MIZORAM,Champhai ,Female,In speech,3
+15,4,Urban,60-69, MIZORAM,Champhai ,Female,In speech,2
+15,4,Urban,70-79, MIZORAM,Champhai ,Female,In speech,0
+15,4,Urban,80-89, MIZORAM,Champhai ,Female,In speech,2
+15,4,Urban,90+, MIZORAM,Champhai ,Female,In speech,0
+15,4,Urban,Age not stated, MIZORAM,Champhai ,Female,In speech,0
+15,5,Rural,0-4, MIZORAM,Serchhip ,Female,In speech,1
+15,5,Rural,5-9, MIZORAM,Serchhip ,Female,In speech,4
+15,5,Rural,10-19, MIZORAM,Serchhip ,Female,In speech,6
+15,5,Rural,20-29, MIZORAM,Serchhip ,Female,In speech,5
+15,5,Rural,30-39, MIZORAM,Serchhip ,Female,In speech,8
+15,5,Rural,40-49, MIZORAM,Serchhip ,Female,In speech,6
+15,5,Rural,50-59, MIZORAM,Serchhip ,Female,In speech,2
+15,5,Rural,60-69, MIZORAM,Serchhip ,Female,In speech,1
+15,5,Rural,70-79, MIZORAM,Serchhip ,Female,In speech,3
+15,5,Rural,80-89, MIZORAM,Serchhip ,Female,In speech,0
+15,5,Rural,90+, MIZORAM,Serchhip ,Female,In speech,0
+15,5,Rural,Age not stated, MIZORAM,Serchhip ,Female,In speech,0
+15,5,Urban,0-4, MIZORAM,Serchhip ,Female,In speech,0
+15,5,Urban,5-9, MIZORAM,Serchhip ,Female,In speech,2
+15,5,Urban,10-19, MIZORAM,Serchhip ,Female,In speech,4
+15,5,Urban,20-29, MIZORAM,Serchhip ,Female,In speech,6
+15,5,Urban,30-39, MIZORAM,Serchhip ,Female,In speech,8
+15,5,Urban,40-49, MIZORAM,Serchhip ,Female,In speech,5
+15,5,Urban,50-59, MIZORAM,Serchhip ,Female,In speech,2
+15,5,Urban,60-69, MIZORAM,Serchhip ,Female,In speech,0
+15,5,Urban,70-79, MIZORAM,Serchhip ,Female,In speech,2
+15,5,Urban,80-89, MIZORAM,Serchhip ,Female,In speech,0
+15,5,Urban,90+, MIZORAM,Serchhip ,Female,In speech,0
+15,5,Urban,Age not stated, MIZORAM,Serchhip ,Female,In speech,0
+15,6,Rural,0-4, MIZORAM,Lunglei ,Female,In speech,2
+15,6,Rural,5-9, MIZORAM,Lunglei ,Female,In speech,9
+15,6,Rural,10-19, MIZORAM,Lunglei ,Female,In speech,17
+15,6,Rural,20-29, MIZORAM,Lunglei ,Female,In speech,14
+15,6,Rural,30-39, MIZORAM,Lunglei ,Female,In speech,20
+15,6,Rural,40-49, MIZORAM,Lunglei ,Female,In speech,12
+15,6,Rural,50-59, MIZORAM,Lunglei ,Female,In speech,9
+15,6,Rural,60-69, MIZORAM,Lunglei ,Female,In speech,8
+15,6,Rural,70-79, MIZORAM,Lunglei ,Female,In speech,3
+15,6,Rural,80-89, MIZORAM,Lunglei ,Female,In speech,0
+15,6,Rural,90+, MIZORAM,Lunglei ,Female,In speech,0
+15,6,Rural,Age not stated, MIZORAM,Lunglei ,Female,In speech,0
+15,6,Urban,0-4, MIZORAM,Lunglei ,Female,In speech,0
+15,6,Urban,5-9, MIZORAM,Lunglei ,Female,In speech,7
+15,6,Urban,10-19, MIZORAM,Lunglei ,Female,In speech,10
+15,6,Urban,20-29, MIZORAM,Lunglei ,Female,In speech,8
+15,6,Urban,30-39, MIZORAM,Lunglei ,Female,In speech,8
+15,6,Urban,40-49, MIZORAM,Lunglei ,Female,In speech,9
+15,6,Urban,50-59, MIZORAM,Lunglei ,Female,In speech,3
+15,6,Urban,60-69, MIZORAM,Lunglei ,Female,In speech,2
+15,6,Urban,70-79, MIZORAM,Lunglei ,Female,In speech,1
+15,6,Urban,80-89, MIZORAM,Lunglei ,Female,In speech,0
+15,6,Urban,90+, MIZORAM,Lunglei ,Female,In speech,0
+15,6,Urban,Age not stated, MIZORAM,Lunglei ,Female,In speech,0
+15,7,Rural,0-4, MIZORAM,Lawngtlai ,Female,In speech,1
+15,7,Rural,5-9, MIZORAM,Lawngtlai ,Female,In speech,10
+15,7,Rural,10-19, MIZORAM,Lawngtlai ,Female,In speech,18
+15,7,Rural,20-29, MIZORAM,Lawngtlai ,Female,In speech,10
+15,7,Rural,30-39, MIZORAM,Lawngtlai ,Female,In speech,5
+15,7,Rural,40-49, MIZORAM,Lawngtlai ,Female,In speech,4
+15,7,Rural,50-59, MIZORAM,Lawngtlai ,Female,In speech,4
+15,7,Rural,60-69, MIZORAM,Lawngtlai ,Female,In speech,2
+15,7,Rural,70-79, MIZORAM,Lawngtlai ,Female,In speech,0
+15,7,Rural,80-89, MIZORAM,Lawngtlai ,Female,In speech,1
+15,7,Rural,90+, MIZORAM,Lawngtlai ,Female,In speech,0
+15,7,Rural,Age not stated, MIZORAM,Lawngtlai ,Female,In speech,0
+15,7,Urban,0-4, MIZORAM,Lawngtlai ,Female,In speech,0
+15,7,Urban,5-9, MIZORAM,Lawngtlai ,Female,In speech,0
+15,7,Urban,10-19, MIZORAM,Lawngtlai ,Female,In speech,0
+15,7,Urban,20-29, MIZORAM,Lawngtlai ,Female,In speech,0
+15,7,Urban,30-39, MIZORAM,Lawngtlai ,Female,In speech,0
+15,7,Urban,40-49, MIZORAM,Lawngtlai ,Female,In speech,0
+15,7,Urban,50-59, MIZORAM,Lawngtlai ,Female,In speech,0
+15,7,Urban,60-69, MIZORAM,Lawngtlai ,Female,In speech,0
+15,7,Urban,70-79, MIZORAM,Lawngtlai ,Female,In speech,0
+15,7,Urban,80-89, MIZORAM,Lawngtlai ,Female,In speech,0
+15,7,Urban,90+, MIZORAM,Lawngtlai ,Female,In speech,0
+15,7,Urban,Age not stated, MIZORAM,Lawngtlai ,Female,In speech,0
+15,8,Rural,0-4, MIZORAM,Saiha ,Female,In speech,2
+15,8,Rural,5-9, MIZORAM,Saiha ,Female,In speech,1
+15,8,Rural,10-19, MIZORAM,Saiha ,Female,In speech,8
+15,8,Rural,20-29, MIZORAM,Saiha ,Female,In speech,5
+15,8,Rural,30-39, MIZORAM,Saiha ,Female,In speech,8
+15,8,Rural,40-49, MIZORAM,Saiha ,Female,In speech,5
+15,8,Rural,50-59, MIZORAM,Saiha ,Female,In speech,3
+15,8,Rural,60-69, MIZORAM,Saiha ,Female,In speech,1
+15,8,Rural,70-79, MIZORAM,Saiha ,Female,In speech,2
+15,8,Rural,80-89, MIZORAM,Saiha ,Female,In speech,0
+15,8,Rural,90+, MIZORAM,Saiha ,Female,In speech,1
+15,8,Rural,Age not stated, MIZORAM,Saiha ,Female,In speech,0
+15,8,Urban,0-4, MIZORAM,Saiha ,Female,In speech,0
+15,8,Urban,5-9, MIZORAM,Saiha ,Female,In speech,1
+15,8,Urban,10-19, MIZORAM,Saiha ,Female,In speech,0
+15,8,Urban,20-29, MIZORAM,Saiha ,Female,In speech,5
+15,8,Urban,30-39, MIZORAM,Saiha ,Female,In speech,3
+15,8,Urban,40-49, MIZORAM,Saiha ,Female,In speech,0
+15,8,Urban,50-59, MIZORAM,Saiha ,Female,In speech,1
+15,8,Urban,60-69, MIZORAM,Saiha ,Female,In speech,1
+15,8,Urban,70-79, MIZORAM,Saiha ,Female,In speech,0
+15,8,Urban,80-89, MIZORAM,Saiha ,Female,In speech,0
+15,8,Urban,90+, MIZORAM,Saiha ,Female,In speech,0
+15,8,Urban,Age not stated, MIZORAM,Saiha ,Female,In speech,0
+15,1,Rural,0-4, MIZORAM,Mamit ,Male,In hearing,1
+15,1,Rural,5-9, MIZORAM,Mamit ,Male,In hearing,1
+15,1,Rural,10-19, MIZORAM,Mamit ,Male,In hearing,9
+15,1,Rural,20-29, MIZORAM,Mamit ,Male,In hearing,14
+15,1,Rural,30-39, MIZORAM,Mamit ,Male,In hearing,11
+15,1,Rural,40-49, MIZORAM,Mamit ,Male,In hearing,15
+15,1,Rural,50-59, MIZORAM,Mamit ,Male,In hearing,13
+15,1,Rural,60-69, MIZORAM,Mamit ,Male,In hearing,16
+15,1,Rural,70-79, MIZORAM,Mamit ,Male,In hearing,8
+15,1,Rural,80-89, MIZORAM,Mamit ,Male,In hearing,3
+15,1,Rural,90+, MIZORAM,Mamit ,Male,In hearing,0
+15,1,Rural,Age not stated, MIZORAM,Mamit ,Male,In hearing,0
+15,1,Urban,0-4, MIZORAM,Mamit ,Male,In hearing,0
+15,1,Urban,5-9, MIZORAM,Mamit ,Male,In hearing,1
+15,1,Urban,10-19, MIZORAM,Mamit ,Male,In hearing,2
+15,1,Urban,20-29, MIZORAM,Mamit ,Male,In hearing,1
+15,1,Urban,30-39, MIZORAM,Mamit ,Male,In hearing,2
+15,1,Urban,40-49, MIZORAM,Mamit ,Male,In hearing,4
+15,1,Urban,50-59, MIZORAM,Mamit ,Male,In hearing,1
+15,1,Urban,60-69, MIZORAM,Mamit ,Male,In hearing,5
+15,1,Urban,70-79, MIZORAM,Mamit ,Male,In hearing,4
+15,1,Urban,80-89, MIZORAM,Mamit ,Male,In hearing,1
+15,1,Urban,90+, MIZORAM,Mamit ,Male,In hearing,1
+15,1,Urban,Age not stated, MIZORAM,Mamit ,Male,In hearing,0
+15,2,Rural,0-4, MIZORAM,Kolasib ,Male,In hearing,0
+15,2,Rural,5-9, MIZORAM,Kolasib ,Male,In hearing,4
+15,2,Rural,10-19, MIZORAM,Kolasib ,Male,In hearing,5
+15,2,Rural,20-29, MIZORAM,Kolasib ,Male,In hearing,7
+15,2,Rural,30-39, MIZORAM,Kolasib ,Male,In hearing,6
+15,2,Rural,40-49, MIZORAM,Kolasib ,Male,In hearing,8
+15,2,Rural,50-59, MIZORAM,Kolasib ,Male,In hearing,6
+15,2,Rural,60-69, MIZORAM,Kolasib ,Male,In hearing,10
+15,2,Rural,70-79, MIZORAM,Kolasib ,Male,In hearing,7
+15,2,Rural,80-89, MIZORAM,Kolasib ,Male,In hearing,6
+15,2,Rural,90+, MIZORAM,Kolasib ,Male,In hearing,0
+15,2,Rural,Age not stated, MIZORAM,Kolasib ,Male,In hearing,0
+15,2,Urban,0-4, MIZORAM,Kolasib ,Male,In hearing,0
+15,2,Urban,5-9, MIZORAM,Kolasib ,Male,In hearing,2
+15,2,Urban,10-19, MIZORAM,Kolasib ,Male,In hearing,8
+15,2,Urban,20-29, MIZORAM,Kolasib ,Male,In hearing,4
+15,2,Urban,30-39, MIZORAM,Kolasib ,Male,In hearing,5
+15,2,Urban,40-49, MIZORAM,Kolasib ,Male,In hearing,3
+15,2,Urban,50-59, MIZORAM,Kolasib ,Male,In hearing,6
+15,2,Urban,60-69, MIZORAM,Kolasib ,Male,In hearing,9
+15,2,Urban,70-79, MIZORAM,Kolasib ,Male,In hearing,1
+15,2,Urban,80-89, MIZORAM,Kolasib ,Male,In hearing,3
+15,2,Urban,90+, MIZORAM,Kolasib ,Male,In hearing,0
+15,2,Urban,Age not stated, MIZORAM,Kolasib ,Male,In hearing,0
+15,3,Rural,0-4, MIZORAM,Aizawl ,Male,In hearing,2
+15,3,Rural,5-9, MIZORAM,Aizawl ,Male,In hearing,1
+15,3,Rural,10-19, MIZORAM,Aizawl ,Male,In hearing,6
+15,3,Rural,20-29, MIZORAM,Aizawl ,Male,In hearing,15
+15,3,Rural,30-39, MIZORAM,Aizawl ,Male,In hearing,14
+15,3,Rural,40-49, MIZORAM,Aizawl ,Male,In hearing,20
+15,3,Rural,50-59, MIZORAM,Aizawl ,Male,In hearing,27
+15,3,Rural,60-69, MIZORAM,Aizawl ,Male,In hearing,18
+15,3,Rural,70-79, MIZORAM,Aizawl ,Male,In hearing,24
+15,3,Rural,80-89, MIZORAM,Aizawl ,Male,In hearing,7
+15,3,Rural,90+, MIZORAM,Aizawl ,Male,In hearing,3
+15,3,Rural,Age not stated, MIZORAM,Aizawl ,Male,In hearing,0
+15,3,Urban,0-4, MIZORAM,Aizawl ,Male,In hearing,3
+15,3,Urban,5-9, MIZORAM,Aizawl ,Male,In hearing,3
+15,3,Urban,10-19, MIZORAM,Aizawl ,Male,In hearing,34
+15,3,Urban,20-29, MIZORAM,Aizawl ,Male,In hearing,28
+15,3,Urban,30-39, MIZORAM,Aizawl ,Male,In hearing,42
+15,3,Urban,40-49, MIZORAM,Aizawl ,Male,In hearing,34
+15,3,Urban,50-59, MIZORAM,Aizawl ,Male,In hearing,26
+15,3,Urban,60-69, MIZORAM,Aizawl ,Male,In hearing,22
+15,3,Urban,70-79, MIZORAM,Aizawl ,Male,In hearing,38
+15,3,Urban,80-89, MIZORAM,Aizawl ,Male,In hearing,10
+15,3,Urban,90+, MIZORAM,Aizawl ,Male,In hearing,1
+15,3,Urban,Age not stated, MIZORAM,Aizawl ,Male,In hearing,0
+15,4,Rural,0-4, MIZORAM,Champhai ,Male,In hearing,4
+15,4,Rural,5-9, MIZORAM,Champhai ,Male,In hearing,6
+15,4,Rural,10-19, MIZORAM,Champhai ,Male,In hearing,29
+15,4,Rural,20-29, MIZORAM,Champhai ,Male,In hearing,15
+15,4,Rural,30-39, MIZORAM,Champhai ,Male,In hearing,29
+15,4,Rural,40-49, MIZORAM,Champhai ,Male,In hearing,28
+15,4,Rural,50-59, MIZORAM,Champhai ,Male,In hearing,23
+15,4,Rural,60-69, MIZORAM,Champhai ,Male,In hearing,17
+15,4,Rural,70-79, MIZORAM,Champhai ,Male,In hearing,12
+15,4,Rural,80-89, MIZORAM,Champhai ,Male,In hearing,13
+15,4,Rural,90+, MIZORAM,Champhai ,Male,In hearing,2
+15,4,Rural,Age not stated, MIZORAM,Champhai ,Male,In hearing,0
+15,4,Urban,0-4, MIZORAM,Champhai ,Male,In hearing,1
+15,4,Urban,5-9, MIZORAM,Champhai ,Male,In hearing,2
+15,4,Urban,10-19, MIZORAM,Champhai ,Male,In hearing,5
+15,4,Urban,20-29, MIZORAM,Champhai ,Male,In hearing,4
+15,4,Urban,30-39, MIZORAM,Champhai ,Male,In hearing,13
+15,4,Urban,40-49, MIZORAM,Champhai ,Male,In hearing,11
+15,4,Urban,50-59, MIZORAM,Champhai ,Male,In hearing,6
+15,4,Urban,60-69, MIZORAM,Champhai ,Male,In hearing,13
+15,4,Urban,70-79, MIZORAM,Champhai ,Male,In hearing,9
+15,4,Urban,80-89, MIZORAM,Champhai ,Male,In hearing,3
+15,4,Urban,90+, MIZORAM,Champhai ,Male,In hearing,1
+15,4,Urban,Age not stated, MIZORAM,Champhai ,Male,In hearing,0
+15,5,Rural,0-4, MIZORAM,Serchhip ,Male,In hearing,1
+15,5,Rural,5-9, MIZORAM,Serchhip ,Male,In hearing,0
+15,5,Rural,10-19, MIZORAM,Serchhip ,Male,In hearing,10
+15,5,Rural,20-29, MIZORAM,Serchhip ,Male,In hearing,6
+15,5,Rural,30-39, MIZORAM,Serchhip ,Male,In hearing,7
+15,5,Rural,40-49, MIZORAM,Serchhip ,Male,In hearing,7
+15,5,Rural,50-59, MIZORAM,Serchhip ,Male,In hearing,12
+15,5,Rural,60-69, MIZORAM,Serchhip ,Male,In hearing,11
+15,5,Rural,70-79, MIZORAM,Serchhip ,Male,In hearing,6
+15,5,Rural,80-89, MIZORAM,Serchhip ,Male,In hearing,1
+15,5,Rural,90+, MIZORAM,Serchhip ,Male,In hearing,1
+15,5,Rural,Age not stated, MIZORAM,Serchhip ,Male,In hearing,0
+15,5,Urban,0-4, MIZORAM,Serchhip ,Male,In hearing,0
+15,5,Urban,5-9, MIZORAM,Serchhip ,Male,In hearing,0
+15,5,Urban,10-19, MIZORAM,Serchhip ,Male,In hearing,1
+15,5,Urban,20-29, MIZORAM,Serchhip ,Male,In hearing,6
+15,5,Urban,30-39, MIZORAM,Serchhip ,Male,In hearing,4
+15,5,Urban,40-49, MIZORAM,Serchhip ,Male,In hearing,3
+15,5,Urban,50-59, MIZORAM,Serchhip ,Male,In hearing,6
+15,5,Urban,60-69, MIZORAM,Serchhip ,Male,In hearing,6
+15,5,Urban,70-79, MIZORAM,Serchhip ,Male,In hearing,1
+15,5,Urban,80-89, MIZORAM,Serchhip ,Male,In hearing,3
+15,5,Urban,90+, MIZORAM,Serchhip ,Male,In hearing,1
+15,5,Urban,Age not stated, MIZORAM,Serchhip ,Male,In hearing,0
+15,6,Rural,0-4, MIZORAM,Lunglei ,Male,In hearing,0
+15,6,Rural,5-9, MIZORAM,Lunglei ,Male,In hearing,4
+15,6,Rural,10-19, MIZORAM,Lunglei ,Male,In hearing,12
+15,6,Rural,20-29, MIZORAM,Lunglei ,Male,In hearing,9
+15,6,Rural,30-39, MIZORAM,Lunglei ,Male,In hearing,15
+15,6,Rural,40-49, MIZORAM,Lunglei ,Male,In hearing,19
+15,6,Rural,50-59, MIZORAM,Lunglei ,Male,In hearing,17
+15,6,Rural,60-69, MIZORAM,Lunglei ,Male,In hearing,15
+15,6,Rural,70-79, MIZORAM,Lunglei ,Male,In hearing,21
+15,6,Rural,80-89, MIZORAM,Lunglei ,Male,In hearing,17
+15,6,Rural,90+, MIZORAM,Lunglei ,Male,In hearing,4
+15,6,Rural,Age not stated, MIZORAM,Lunglei ,Male,In hearing,0
+15,6,Urban,0-4, MIZORAM,Lunglei ,Male,In hearing,3
+15,6,Urban,5-9, MIZORAM,Lunglei ,Male,In hearing,0
+15,6,Urban,10-19, MIZORAM,Lunglei ,Male,In hearing,6
+15,6,Urban,20-29, MIZORAM,Lunglei ,Male,In hearing,7
+15,6,Urban,30-39, MIZORAM,Lunglei ,Male,In hearing,10
+15,6,Urban,40-49, MIZORAM,Lunglei ,Male,In hearing,10
+15,6,Urban,50-59, MIZORAM,Lunglei ,Male,In hearing,11
+15,6,Urban,60-69, MIZORAM,Lunglei ,Male,In hearing,4
+15,6,Urban,70-79, MIZORAM,Lunglei ,Male,In hearing,9
+15,6,Urban,80-89, MIZORAM,Lunglei ,Male,In hearing,3
+15,6,Urban,90+, MIZORAM,Lunglei ,Male,In hearing,1
+15,6,Urban,Age not stated, MIZORAM,Lunglei ,Male,In hearing,0
+15,7,Rural,0-4, MIZORAM,Lawngtlai ,Male,In hearing,1
+15,7,Rural,5-9, MIZORAM,Lawngtlai ,Male,In hearing,1
+15,7,Rural,10-19, MIZORAM,Lawngtlai ,Male,In hearing,5
+15,7,Rural,20-29, MIZORAM,Lawngtlai ,Male,In hearing,8
+15,7,Rural,30-39, MIZORAM,Lawngtlai ,Male,In hearing,8
+15,7,Rural,40-49, MIZORAM,Lawngtlai ,Male,In hearing,7
+15,7,Rural,50-59, MIZORAM,Lawngtlai ,Male,In hearing,6
+15,7,Rural,60-69, MIZORAM,Lawngtlai ,Male,In hearing,11
+15,7,Rural,70-79, MIZORAM,Lawngtlai ,Male,In hearing,12
+15,7,Rural,80-89, MIZORAM,Lawngtlai ,Male,In hearing,4
+15,7,Rural,90+, MIZORAM,Lawngtlai ,Male,In hearing,1
+15,7,Rural,Age not stated, MIZORAM,Lawngtlai ,Male,In hearing,0
+15,7,Urban,0-4, MIZORAM,Lawngtlai ,Male,In hearing,0
+15,7,Urban,5-9, MIZORAM,Lawngtlai ,Male,In hearing,0
+15,7,Urban,10-19, MIZORAM,Lawngtlai ,Male,In hearing,0
+15,7,Urban,20-29, MIZORAM,Lawngtlai ,Male,In hearing,0
+15,7,Urban,30-39, MIZORAM,Lawngtlai ,Male,In hearing,0
+15,7,Urban,40-49, MIZORAM,Lawngtlai ,Male,In hearing,0
+15,7,Urban,50-59, MIZORAM,Lawngtlai ,Male,In hearing,0
+15,7,Urban,60-69, MIZORAM,Lawngtlai ,Male,In hearing,0
+15,7,Urban,70-79, MIZORAM,Lawngtlai ,Male,In hearing,0
+15,7,Urban,80-89, MIZORAM,Lawngtlai ,Male,In hearing,0
+15,7,Urban,90+, MIZORAM,Lawngtlai ,Male,In hearing,0
+15,7,Urban,Age not stated, MIZORAM,Lawngtlai ,Male,In hearing,0
+15,8,Rural,0-4, MIZORAM,Saiha ,Male,In hearing,1
+15,8,Rural,5-9, MIZORAM,Saiha ,Male,In hearing,4
+15,8,Rural,10-19, MIZORAM,Saiha ,Male,In hearing,16
+15,8,Rural,20-29, MIZORAM,Saiha ,Male,In hearing,7
+15,8,Rural,30-39, MIZORAM,Saiha ,Male,In hearing,11
+15,8,Rural,40-49, MIZORAM,Saiha ,Male,In hearing,11
+15,8,Rural,50-59, MIZORAM,Saiha ,Male,In hearing,10
+15,8,Rural,60-69, MIZORAM,Saiha ,Male,In hearing,14
+15,8,Rural,70-79, MIZORAM,Saiha ,Male,In hearing,13
+15,8,Rural,80-89, MIZORAM,Saiha ,Male,In hearing,10
+15,8,Rural,90+, MIZORAM,Saiha ,Male,In hearing,2
+15,8,Rural,Age not stated, MIZORAM,Saiha ,Male,In hearing,1
+15,8,Urban,0-4, MIZORAM,Saiha ,Male,In hearing,0
+15,8,Urban,5-9, MIZORAM,Saiha ,Male,In hearing,1
+15,8,Urban,10-19, MIZORAM,Saiha ,Male,In hearing,2
+15,8,Urban,20-29, MIZORAM,Saiha ,Male,In hearing,7
+15,8,Urban,30-39, MIZORAM,Saiha ,Male,In hearing,3
+15,8,Urban,40-49, MIZORAM,Saiha ,Male,In hearing,1
+15,8,Urban,50-59, MIZORAM,Saiha ,Male,In hearing,1
+15,8,Urban,60-69, MIZORAM,Saiha ,Male,In hearing,1
+15,8,Urban,70-79, MIZORAM,Saiha ,Male,In hearing,0
+15,8,Urban,80-89, MIZORAM,Saiha ,Male,In hearing,1
+15,8,Urban,90+, MIZORAM,Saiha ,Male,In hearing,0
+15,8,Urban,Age not stated, MIZORAM,Saiha ,Male,In hearing,0
+15,1,Rural,0-4, MIZORAM,Mamit ,Female,In hearing,0
+15,1,Rural,5-9, MIZORAM,Mamit ,Female,In hearing,5
+15,1,Rural,10-19, MIZORAM,Mamit ,Female,In hearing,17
+15,1,Rural,20-29, MIZORAM,Mamit ,Female,In hearing,3
+15,1,Rural,30-39, MIZORAM,Mamit ,Female,In hearing,4
+15,1,Rural,40-49, MIZORAM,Mamit ,Female,In hearing,9
+15,1,Rural,50-59, MIZORAM,Mamit ,Female,In hearing,7
+15,1,Rural,60-69, MIZORAM,Mamit ,Female,In hearing,5
+15,1,Rural,70-79, MIZORAM,Mamit ,Female,In hearing,7
+15,1,Rural,80-89, MIZORAM,Mamit ,Female,In hearing,1
+15,1,Rural,90+, MIZORAM,Mamit ,Female,In hearing,2
+15,1,Rural,Age not stated, MIZORAM,Mamit ,Female,In hearing,0
+15,1,Urban,0-4, MIZORAM,Mamit ,Female,In hearing,0
+15,1,Urban,5-9, MIZORAM,Mamit ,Female,In hearing,1
+15,1,Urban,10-19, MIZORAM,Mamit ,Female,In hearing,2
+15,1,Urban,20-29, MIZORAM,Mamit ,Female,In hearing,0
+15,1,Urban,30-39, MIZORAM,Mamit ,Female,In hearing,0
+15,1,Urban,40-49, MIZORAM,Mamit ,Female,In hearing,0
+15,1,Urban,50-59, MIZORAM,Mamit ,Female,In hearing,3
+15,1,Urban,60-69, MIZORAM,Mamit ,Female,In hearing,4
+15,1,Urban,70-79, MIZORAM,Mamit ,Female,In hearing,2
+15,1,Urban,80-89, MIZORAM,Mamit ,Female,In hearing,1
+15,1,Urban,90+, MIZORAM,Mamit ,Female,In hearing,0
+15,1,Urban,Age not stated, MIZORAM,Mamit ,Female,In hearing,0
+15,2,Rural,0-4, MIZORAM,Kolasib ,Female,In hearing,0
+15,2,Rural,5-9, MIZORAM,Kolasib ,Female,In hearing,2
+15,2,Rural,10-19, MIZORAM,Kolasib ,Female,In hearing,7
+15,2,Rural,20-29, MIZORAM,Kolasib ,Female,In hearing,4
+15,2,Rural,30-39, MIZORAM,Kolasib ,Female,In hearing,6
+15,2,Rural,40-49, MIZORAM,Kolasib ,Female,In hearing,3
+15,2,Rural,50-59, MIZORAM,Kolasib ,Female,In hearing,6
+15,2,Rural,60-69, MIZORAM,Kolasib ,Female,In hearing,11
+15,2,Rural,70-79, MIZORAM,Kolasib ,Female,In hearing,5
+15,2,Rural,80-89, MIZORAM,Kolasib ,Female,In hearing,3
+15,2,Rural,90+, MIZORAM,Kolasib ,Female,In hearing,1
+15,2,Rural,Age not stated, MIZORAM,Kolasib ,Female,In hearing,0
+15,2,Urban,0-4, MIZORAM,Kolasib ,Female,In hearing,0
+15,2,Urban,5-9, MIZORAM,Kolasib ,Female,In hearing,4
+15,2,Urban,10-19, MIZORAM,Kolasib ,Female,In hearing,8
+15,2,Urban,20-29, MIZORAM,Kolasib ,Female,In hearing,0
+15,2,Urban,30-39, MIZORAM,Kolasib ,Female,In hearing,6
+15,2,Urban,40-49, MIZORAM,Kolasib ,Female,In hearing,6
+15,2,Urban,50-59, MIZORAM,Kolasib ,Female,In hearing,4
+15,2,Urban,60-69, MIZORAM,Kolasib ,Female,In hearing,6
+15,2,Urban,70-79, MIZORAM,Kolasib ,Female,In hearing,2
+15,2,Urban,80-89, MIZORAM,Kolasib ,Female,In hearing,3
+15,2,Urban,90+, MIZORAM,Kolasib ,Female,In hearing,0
+15,2,Urban,Age not stated, MIZORAM,Kolasib ,Female,In hearing,0
+15,3,Rural,0-4, MIZORAM,Aizawl ,Female,In hearing,0
+15,3,Rural,5-9, MIZORAM,Aizawl ,Female,In hearing,1
+15,3,Rural,10-19, MIZORAM,Aizawl ,Female,In hearing,13
+15,3,Rural,20-29, MIZORAM,Aizawl ,Female,In hearing,18
+15,3,Rural,30-39, MIZORAM,Aizawl ,Female,In hearing,16
+15,3,Rural,40-49, MIZORAM,Aizawl ,Female,In hearing,13
+15,3,Rural,50-59, MIZORAM,Aizawl ,Female,In hearing,17
+15,3,Rural,60-69, MIZORAM,Aizawl ,Female,In hearing,12
+15,3,Rural,70-79, MIZORAM,Aizawl ,Female,In hearing,17
+15,3,Rural,80-89, MIZORAM,Aizawl ,Female,In hearing,8
+15,3,Rural,90+, MIZORAM,Aizawl ,Female,In hearing,3
+15,3,Rural,Age not stated, MIZORAM,Aizawl ,Female,In hearing,0
+15,3,Urban,0-4, MIZORAM,Aizawl ,Female,In hearing,2
+15,3,Urban,5-9, MIZORAM,Aizawl ,Female,In hearing,4
+15,3,Urban,10-19, MIZORAM,Aizawl ,Female,In hearing,20
+15,3,Urban,20-29, MIZORAM,Aizawl ,Female,In hearing,25
+15,3,Urban,30-39, MIZORAM,Aizawl ,Female,In hearing,24
+15,3,Urban,40-49, MIZORAM,Aizawl ,Female,In hearing,40
+15,3,Urban,50-59, MIZORAM,Aizawl ,Female,In hearing,22
+15,3,Urban,60-69, MIZORAM,Aizawl ,Female,In hearing,22
+15,3,Urban,70-79, MIZORAM,Aizawl ,Female,In hearing,21
+15,3,Urban,80-89, MIZORAM,Aizawl ,Female,In hearing,19
+15,3,Urban,90+, MIZORAM,Aizawl ,Female,In hearing,0
+15,3,Urban,Age not stated, MIZORAM,Aizawl ,Female,In hearing,0
+15,4,Rural,0-4, MIZORAM,Champhai ,Female,In hearing,0
+15,4,Rural,5-9, MIZORAM,Champhai ,Female,In hearing,2
+15,4,Rural,10-19, MIZORAM,Champhai ,Female,In hearing,19
+15,4,Rural,20-29, MIZORAM,Champhai ,Female,In hearing,10
+15,4,Rural,30-39, MIZORAM,Champhai ,Female,In hearing,20
+15,4,Rural,40-49, MIZORAM,Champhai ,Female,In hearing,21
+15,4,Rural,50-59, MIZORAM,Champhai ,Female,In hearing,15
+15,4,Rural,60-69, MIZORAM,Champhai ,Female,In hearing,19
+15,4,Rural,70-79, MIZORAM,Champhai ,Female,In hearing,11
+15,4,Rural,80-89, MIZORAM,Champhai ,Female,In hearing,6
+15,4,Rural,90+, MIZORAM,Champhai ,Female,In hearing,0
+15,4,Rural,Age not stated, MIZORAM,Champhai ,Female,In hearing,0
+15,4,Urban,0-4, MIZORAM,Champhai ,Female,In hearing,0
+15,4,Urban,5-9, MIZORAM,Champhai ,Female,In hearing,0
+15,4,Urban,10-19, MIZORAM,Champhai ,Female,In hearing,4
+15,4,Urban,20-29, MIZORAM,Champhai ,Female,In hearing,4
+15,4,Urban,30-39, MIZORAM,Champhai ,Female,In hearing,11
+15,4,Urban,40-49, MIZORAM,Champhai ,Female,In hearing,6
+15,4,Urban,50-59, MIZORAM,Champhai ,Female,In hearing,14
+15,4,Urban,60-69, MIZORAM,Champhai ,Female,In hearing,2
+15,4,Urban,70-79, MIZORAM,Champhai ,Female,In hearing,3
+15,4,Urban,80-89, MIZORAM,Champhai ,Female,In hearing,0
+15,4,Urban,90+, MIZORAM,Champhai ,Female,In hearing,1
+15,4,Urban,Age not stated, MIZORAM,Champhai ,Female,In hearing,0
+15,5,Rural,0-4, MIZORAM,Serchhip ,Female,In hearing,1
+15,5,Rural,5-9, MIZORAM,Serchhip ,Female,In hearing,1
+15,5,Rural,10-19, MIZORAM,Serchhip ,Female,In hearing,8
+15,5,Rural,20-29, MIZORAM,Serchhip ,Female,In hearing,3
+15,5,Rural,30-39, MIZORAM,Serchhip ,Female,In hearing,11
+15,5,Rural,40-49, MIZORAM,Serchhip ,Female,In hearing,6
+15,5,Rural,50-59, MIZORAM,Serchhip ,Female,In hearing,10
+15,5,Rural,60-69, MIZORAM,Serchhip ,Female,In hearing,17
+15,5,Rural,70-79, MIZORAM,Serchhip ,Female,In hearing,8
+15,5,Rural,80-89, MIZORAM,Serchhip ,Female,In hearing,0
+15,5,Rural,90+, MIZORAM,Serchhip ,Female,In hearing,0
+15,5,Rural,Age not stated, MIZORAM,Serchhip ,Female,In hearing,0
+15,5,Urban,0-4, MIZORAM,Serchhip ,Female,In hearing,0
+15,5,Urban,5-9, MIZORAM,Serchhip ,Female,In hearing,0
+15,5,Urban,10-19, MIZORAM,Serchhip ,Female,In hearing,1
+15,5,Urban,20-29, MIZORAM,Serchhip ,Female,In hearing,5
+15,5,Urban,30-39, MIZORAM,Serchhip ,Female,In hearing,7
+15,5,Urban,40-49, MIZORAM,Serchhip ,Female,In hearing,6
+15,5,Urban,50-59, MIZORAM,Serchhip ,Female,In hearing,6
+15,5,Urban,60-69, MIZORAM,Serchhip ,Female,In hearing,1
+15,5,Urban,70-79, MIZORAM,Serchhip ,Female,In hearing,1
+15,5,Urban,80-89, MIZORAM,Serchhip ,Female,In hearing,1
+15,5,Urban,90+, MIZORAM,Serchhip ,Female,In hearing,0
+15,5,Urban,Age not stated, MIZORAM,Serchhip ,Female,In hearing,1
+15,6,Rural,0-4, MIZORAM,Lunglei ,Female,In hearing,1
+15,6,Rural,5-9, MIZORAM,Lunglei ,Female,In hearing,3
+15,6,Rural,10-19, MIZORAM,Lunglei ,Female,In hearing,12
+15,6,Rural,20-29, MIZORAM,Lunglei ,Female,In hearing,11
+15,6,Rural,30-39, MIZORAM,Lunglei ,Female,In hearing,12
+15,6,Rural,40-49, MIZORAM,Lunglei ,Female,In hearing,19
+15,6,Rural,50-59, MIZORAM,Lunglei ,Female,In hearing,20
+15,6,Rural,60-69, MIZORAM,Lunglei ,Female,In hearing,15
+15,6,Rural,70-79, MIZORAM,Lunglei ,Female,In hearing,16
+15,6,Rural,80-89, MIZORAM,Lunglei ,Female,In hearing,10
+15,6,Rural,90+, MIZORAM,Lunglei ,Female,In hearing,2
+15,6,Rural,Age not stated, MIZORAM,Lunglei ,Female,In hearing,1
+15,6,Urban,0-4, MIZORAM,Lunglei ,Female,In hearing,1
+15,6,Urban,5-9, MIZORAM,Lunglei ,Female,In hearing,2
+15,6,Urban,10-19, MIZORAM,Lunglei ,Female,In hearing,7
+15,6,Urban,20-29, MIZORAM,Lunglei ,Female,In hearing,12
+15,6,Urban,30-39, MIZORAM,Lunglei ,Female,In hearing,5
+15,6,Urban,40-49, MIZORAM,Lunglei ,Female,In hearing,11
+15,6,Urban,50-59, MIZORAM,Lunglei ,Female,In hearing,7
+15,6,Urban,60-69, MIZORAM,Lunglei ,Female,In hearing,9
+15,6,Urban,70-79, MIZORAM,Lunglei ,Female,In hearing,5
+15,6,Urban,80-89, MIZORAM,Lunglei ,Female,In hearing,0
+15,6,Urban,90+, MIZORAM,Lunglei ,Female,In hearing,1
+15,6,Urban,Age not stated, MIZORAM,Lunglei ,Female,In hearing,0
+15,7,Rural,0-4, MIZORAM,Lawngtlai ,Female,In hearing,3
+15,7,Rural,5-9, MIZORAM,Lawngtlai ,Female,In hearing,4
+15,7,Rural,10-19, MIZORAM,Lawngtlai ,Female,In hearing,6
+15,7,Rural,20-29, MIZORAM,Lawngtlai ,Female,In hearing,6
+15,7,Rural,30-39, MIZORAM,Lawngtlai ,Female,In hearing,5
+15,7,Rural,40-49, MIZORAM,Lawngtlai ,Female,In hearing,11
+15,7,Rural,50-59, MIZORAM,Lawngtlai ,Female,In hearing,9
+15,7,Rural,60-69, MIZORAM,Lawngtlai ,Female,In hearing,9
+15,7,Rural,70-79, MIZORAM,Lawngtlai ,Female,In hearing,7
+15,7,Rural,80-89, MIZORAM,Lawngtlai ,Female,In hearing,7
+15,7,Rural,90+, MIZORAM,Lawngtlai ,Female,In hearing,0
+15,7,Rural,Age not stated, MIZORAM,Lawngtlai ,Female,In hearing,0
+15,7,Urban,0-4, MIZORAM,Lawngtlai ,Female,In hearing,0
+15,7,Urban,5-9, MIZORAM,Lawngtlai ,Female,In hearing,0
+15,7,Urban,10-19, MIZORAM,Lawngtlai ,Female,In hearing,0
+15,7,Urban,20-29, MIZORAM,Lawngtlai ,Female,In hearing,0
+15,7,Urban,30-39, MIZORAM,Lawngtlai ,Female,In hearing,0
+15,7,Urban,40-49, MIZORAM,Lawngtlai ,Female,In hearing,0
+15,7,Urban,50-59, MIZORAM,Lawngtlai ,Female,In hearing,0
+15,7,Urban,60-69, MIZORAM,Lawngtlai ,Female,In hearing,0
+15,7,Urban,70-79, MIZORAM,Lawngtlai ,Female,In hearing,0
+15,7,Urban,80-89, MIZORAM,Lawngtlai ,Female,In hearing,0
+15,7,Urban,90+, MIZORAM,Lawngtlai ,Female,In hearing,0
+15,7,Urban,Age not stated, MIZORAM,Lawngtlai ,Female,In hearing,0
+15,8,Rural,0-4, MIZORAM,Saiha ,Female,In hearing,3
+15,8,Rural,5-9, MIZORAM,Saiha ,Female,In hearing,4
+15,8,Rural,10-19, MIZORAM,Saiha ,Female,In hearing,13
+15,8,Rural,20-29, MIZORAM,Saiha ,Female,In hearing,11
+15,8,Rural,30-39, MIZORAM,Saiha ,Female,In hearing,12
+15,8,Rural,40-49, MIZORAM,Saiha ,Female,In hearing,16
+15,8,Rural,50-59, MIZORAM,Saiha ,Female,In hearing,6
+15,8,Rural,60-69, MIZORAM,Saiha ,Female,In hearing,20
+15,8,Rural,70-79, MIZORAM,Saiha ,Female,In hearing,8
+15,8,Rural,80-89, MIZORAM,Saiha ,Female,In hearing,9
+15,8,Rural,90+, MIZORAM,Saiha ,Female,In hearing,2
+15,8,Rural,Age not stated, MIZORAM,Saiha ,Female,In hearing,0
+15,8,Urban,0-4, MIZORAM,Saiha ,Female,In hearing,0
+15,8,Urban,5-9, MIZORAM,Saiha ,Female,In hearing,0
+15,8,Urban,10-19, MIZORAM,Saiha ,Female,In hearing,5
+15,8,Urban,20-29, MIZORAM,Saiha ,Female,In hearing,1
+15,8,Urban,30-39, MIZORAM,Saiha ,Female,In hearing,4
+15,8,Urban,40-49, MIZORAM,Saiha ,Female,In hearing,0
+15,8,Urban,50-59, MIZORAM,Saiha ,Female,In hearing,2
+15,8,Urban,60-69, MIZORAM,Saiha ,Female,In hearing,2
+15,8,Urban,70-79, MIZORAM,Saiha ,Female,In hearing,2
+15,8,Urban,80-89, MIZORAM,Saiha ,Female,In hearing,5
+15,8,Urban,90+, MIZORAM,Saiha ,Female,In hearing,0
+15,8,Urban,Age not stated, MIZORAM,Saiha ,Female,In hearing,0
+15,1,Rural,0-4, MIZORAM,Mamit ,Male,In movement,7
+15,1,Rural,5-9, MIZORAM,Mamit ,Male,In movement,14
+15,1,Rural,10-19, MIZORAM,Mamit ,Male,In movement,19
+15,1,Rural,20-29, MIZORAM,Mamit ,Male,In movement,22
+15,1,Rural,30-39, MIZORAM,Mamit ,Male,In movement,14
+15,1,Rural,40-49, MIZORAM,Mamit ,Male,In movement,12
+15,1,Rural,50-59, MIZORAM,Mamit ,Male,In movement,10
+15,1,Rural,60-69, MIZORAM,Mamit ,Male,In movement,17
+15,1,Rural,70-79, MIZORAM,Mamit ,Male,In movement,7
+15,1,Rural,80-89, MIZORAM,Mamit ,Male,In movement,1
+15,1,Rural,90+, MIZORAM,Mamit ,Male,In movement,0
+15,1,Rural,Age not stated, MIZORAM,Mamit ,Male,In movement,0
+15,1,Urban,0-4, MIZORAM,Mamit ,Male,In movement,1
+15,1,Urban,5-9, MIZORAM,Mamit ,Male,In movement,0
+15,1,Urban,10-19, MIZORAM,Mamit ,Male,In movement,5
+15,1,Urban,20-29, MIZORAM,Mamit ,Male,In movement,5
+15,1,Urban,30-39, MIZORAM,Mamit ,Male,In movement,4
+15,1,Urban,40-49, MIZORAM,Mamit ,Male,In movement,5
+15,1,Urban,50-59, MIZORAM,Mamit ,Male,In movement,1
+15,1,Urban,60-69, MIZORAM,Mamit ,Male,In movement,5
+15,1,Urban,70-79, MIZORAM,Mamit ,Male,In movement,2
+15,1,Urban,80-89, MIZORAM,Mamit ,Male,In movement,1
+15,1,Urban,90+, MIZORAM,Mamit ,Male,In movement,0
+15,1,Urban,Age not stated, MIZORAM,Mamit ,Male,In movement,0
+15,2,Rural,0-4, MIZORAM,Kolasib ,Male,In movement,3
+15,2,Rural,5-9, MIZORAM,Kolasib ,Male,In movement,5
+15,2,Rural,10-19, MIZORAM,Kolasib ,Male,In movement,16
+15,2,Rural,20-29, MIZORAM,Kolasib ,Male,In movement,5
+15,2,Rural,30-39, MIZORAM,Kolasib ,Male,In movement,4
+15,2,Rural,40-49, MIZORAM,Kolasib ,Male,In movement,8
+15,2,Rural,50-59, MIZORAM,Kolasib ,Male,In movement,4
+15,2,Rural,60-69, MIZORAM,Kolasib ,Male,In movement,1
+15,2,Rural,70-79, MIZORAM,Kolasib ,Male,In movement,2
+15,2,Rural,80-89, MIZORAM,Kolasib ,Male,In movement,1
+15,2,Rural,90+, MIZORAM,Kolasib ,Male,In movement,0
+15,2,Rural,Age not stated, MIZORAM,Kolasib ,Male,In movement,0
+15,2,Urban,0-4, MIZORAM,Kolasib ,Male,In movement,5
+15,2,Urban,5-9, MIZORAM,Kolasib ,Male,In movement,4
+15,2,Urban,10-19, MIZORAM,Kolasib ,Male,In movement,15
+15,2,Urban,20-29, MIZORAM,Kolasib ,Male,In movement,8
+15,2,Urban,30-39, MIZORAM,Kolasib ,Male,In movement,8
+15,2,Urban,40-49, MIZORAM,Kolasib ,Male,In movement,8
+15,2,Urban,50-59, MIZORAM,Kolasib ,Male,In movement,7
+15,2,Urban,60-69, MIZORAM,Kolasib ,Male,In movement,5
+15,2,Urban,70-79, MIZORAM,Kolasib ,Male,In movement,7
+15,2,Urban,80-89, MIZORAM,Kolasib ,Male,In movement,2
+15,2,Urban,90+, MIZORAM,Kolasib ,Male,In movement,0
+15,2,Urban,Age not stated, MIZORAM,Kolasib ,Male,In movement,0
+15,3,Rural,0-4, MIZORAM,Aizawl ,Male,In movement,4
+15,3,Rural,5-9, MIZORAM,Aizawl ,Male,In movement,11
+15,3,Rural,10-19, MIZORAM,Aizawl ,Male,In movement,22
+15,3,Rural,20-29, MIZORAM,Aizawl ,Male,In movement,34
+15,3,Rural,30-39, MIZORAM,Aizawl ,Male,In movement,26
+15,3,Rural,40-49, MIZORAM,Aizawl ,Male,In movement,16
+15,3,Rural,50-59, MIZORAM,Aizawl ,Male,In movement,16
+15,3,Rural,60-69, MIZORAM,Aizawl ,Male,In movement,17
+15,3,Rural,70-79, MIZORAM,Aizawl ,Male,In movement,9
+15,3,Rural,80-89, MIZORAM,Aizawl ,Male,In movement,1
+15,3,Rural,90+, MIZORAM,Aizawl ,Male,In movement,0
+15,3,Rural,Age not stated, MIZORAM,Aizawl ,Male,In movement,0
+15,3,Urban,0-4, MIZORAM,Aizawl ,Male,In movement,11
+15,3,Urban,5-9, MIZORAM,Aizawl ,Male,In movement,27
+15,3,Urban,10-19, MIZORAM,Aizawl ,Male,In movement,43
+15,3,Urban,20-29, MIZORAM,Aizawl ,Male,In movement,62
+15,3,Urban,30-39, MIZORAM,Aizawl ,Male,In movement,35
+15,3,Urban,40-49, MIZORAM,Aizawl ,Male,In movement,50
+15,3,Urban,50-59, MIZORAM,Aizawl ,Male,In movement,36
+15,3,Urban,60-69, MIZORAM,Aizawl ,Male,In movement,17
+15,3,Urban,70-79, MIZORAM,Aizawl ,Male,In movement,11
+15,3,Urban,80-89, MIZORAM,Aizawl ,Male,In movement,5
+15,3,Urban,90+, MIZORAM,Aizawl ,Male,In movement,1
+15,3,Urban,Age not stated, MIZORAM,Aizawl ,Male,In movement,0
+15,4,Rural,0-4, MIZORAM,Champhai ,Male,In movement,5
+15,4,Rural,5-9, MIZORAM,Champhai ,Male,In movement,7
+15,4,Rural,10-19, MIZORAM,Champhai ,Male,In movement,35
+15,4,Rural,20-29, MIZORAM,Champhai ,Male,In movement,19
+15,4,Rural,30-39, MIZORAM,Champhai ,Male,In movement,18
+15,4,Rural,40-49, MIZORAM,Champhai ,Male,In movement,31
+15,4,Rural,50-59, MIZORAM,Champhai ,Male,In movement,21
+15,4,Rural,60-69, MIZORAM,Champhai ,Male,In movement,12
+15,4,Rural,70-79, MIZORAM,Champhai ,Male,In movement,8
+15,4,Rural,80-89, MIZORAM,Champhai ,Male,In movement,0
+15,4,Rural,90+, MIZORAM,Champhai ,Male,In movement,0
+15,4,Rural,Age not stated, MIZORAM,Champhai ,Male,In movement,1
+15,4,Urban,0-4, MIZORAM,Champhai ,Male,In movement,1
+15,4,Urban,5-9, MIZORAM,Champhai ,Male,In movement,5
+15,4,Urban,10-19, MIZORAM,Champhai ,Male,In movement,13
+15,4,Urban,20-29, MIZORAM,Champhai ,Male,In movement,7
+15,4,Urban,30-39, MIZORAM,Champhai ,Male,In movement,6
+15,4,Urban,40-49, MIZORAM,Champhai ,Male,In movement,9
+15,4,Urban,50-59, MIZORAM,Champhai ,Male,In movement,3
+15,4,Urban,60-69, MIZORAM,Champhai ,Male,In movement,6
+15,4,Urban,70-79, MIZORAM,Champhai ,Male,In movement,1
+15,4,Urban,80-89, MIZORAM,Champhai ,Male,In movement,1
+15,4,Urban,90+, MIZORAM,Champhai ,Male,In movement,0
+15,4,Urban,Age not stated, MIZORAM,Champhai ,Male,In movement,0
+15,5,Rural,0-4, MIZORAM,Serchhip ,Male,In movement,2
+15,5,Rural,5-9, MIZORAM,Serchhip ,Male,In movement,6
+15,5,Rural,10-19, MIZORAM,Serchhip ,Male,In movement,10
+15,5,Rural,20-29, MIZORAM,Serchhip ,Male,In movement,8
+15,5,Rural,30-39, MIZORAM,Serchhip ,Male,In movement,7
+15,5,Rural,40-49, MIZORAM,Serchhip ,Male,In movement,9
+15,5,Rural,50-59, MIZORAM,Serchhip ,Male,In movement,7
+15,5,Rural,60-69, MIZORAM,Serchhip ,Male,In movement,7
+15,5,Rural,70-79, MIZORAM,Serchhip ,Male,In movement,3
+15,5,Rural,80-89, MIZORAM,Serchhip ,Male,In movement,2
+15,5,Rural,90+, MIZORAM,Serchhip ,Male,In movement,0
+15,5,Rural,Age not stated, MIZORAM,Serchhip ,Male,In movement,0
+15,5,Urban,0-4, MIZORAM,Serchhip ,Male,In movement,2
+15,5,Urban,5-9, MIZORAM,Serchhip ,Male,In movement,1
+15,5,Urban,10-19, MIZORAM,Serchhip ,Male,In movement,6
+15,5,Urban,20-29, MIZORAM,Serchhip ,Male,In movement,9
+15,5,Urban,30-39, MIZORAM,Serchhip ,Male,In movement,5
+15,5,Urban,40-49, MIZORAM,Serchhip ,Male,In movement,7
+15,5,Urban,50-59, MIZORAM,Serchhip ,Male,In movement,4
+15,5,Urban,60-69, MIZORAM,Serchhip ,Male,In movement,1
+15,5,Urban,70-79, MIZORAM,Serchhip ,Male,In movement,4
+15,5,Urban,80-89, MIZORAM,Serchhip ,Male,In movement,1
+15,5,Urban,90+, MIZORAM,Serchhip ,Male,In movement,0
+15,5,Urban,Age not stated, MIZORAM,Serchhip ,Male,In movement,0
+15,6,Rural,0-4, MIZORAM,Lunglei ,Male,In movement,10
+15,6,Rural,5-9, MIZORAM,Lunglei ,Male,In movement,5
+15,6,Rural,10-19, MIZORAM,Lunglei ,Male,In movement,20
+15,6,Rural,20-29, MIZORAM,Lunglei ,Male,In movement,18
+15,6,Rural,30-39, MIZORAM,Lunglei ,Male,In movement,14
+15,6,Rural,40-49, MIZORAM,Lunglei ,Male,In movement,14
+15,6,Rural,50-59, MIZORAM,Lunglei ,Male,In movement,10
+15,6,Rural,60-69, MIZORAM,Lunglei ,Male,In movement,16
+15,6,Rural,70-79, MIZORAM,Lunglei ,Male,In movement,18
+15,6,Rural,80-89, MIZORAM,Lunglei ,Male,In movement,3
+15,6,Rural,90+, MIZORAM,Lunglei ,Male,In movement,0
+15,6,Rural,Age not stated, MIZORAM,Lunglei ,Male,In movement,0
+15,6,Urban,0-4, MIZORAM,Lunglei ,Male,In movement,3
+15,6,Urban,5-9, MIZORAM,Lunglei ,Male,In movement,3
+15,6,Urban,10-19, MIZORAM,Lunglei ,Male,In movement,12
+15,6,Urban,20-29, MIZORAM,Lunglei ,Male,In movement,10
+15,6,Urban,30-39, MIZORAM,Lunglei ,Male,In movement,8
+15,6,Urban,40-49, MIZORAM,Lunglei ,Male,In movement,4
+15,6,Urban,50-59, MIZORAM,Lunglei ,Male,In movement,6
+15,6,Urban,60-69, MIZORAM,Lunglei ,Male,In movement,8
+15,6,Urban,70-79, MIZORAM,Lunglei ,Male,In movement,3
+15,6,Urban,80-89, MIZORAM,Lunglei ,Male,In movement,3
+15,6,Urban,90+, MIZORAM,Lunglei ,Male,In movement,0
+15,6,Urban,Age not stated, MIZORAM,Lunglei ,Male,In movement,0
+15,7,Rural,0-4, MIZORAM,Lawngtlai ,Male,In movement,5
+15,7,Rural,5-9, MIZORAM,Lawngtlai ,Male,In movement,7
+15,7,Rural,10-19, MIZORAM,Lawngtlai ,Male,In movement,26
+15,7,Rural,20-29, MIZORAM,Lawngtlai ,Male,In movement,18
+15,7,Rural,30-39, MIZORAM,Lawngtlai ,Male,In movement,12
+15,7,Rural,40-49, MIZORAM,Lawngtlai ,Male,In movement,12
+15,7,Rural,50-59, MIZORAM,Lawngtlai ,Male,In movement,14
+15,7,Rural,60-69, MIZORAM,Lawngtlai ,Male,In movement,10
+15,7,Rural,70-79, MIZORAM,Lawngtlai ,Male,In movement,4
+15,7,Rural,80-89, MIZORAM,Lawngtlai ,Male,In movement,2
+15,7,Rural,90+, MIZORAM,Lawngtlai ,Male,In movement,0
+15,7,Rural,Age not stated, MIZORAM,Lawngtlai ,Male,In movement,1
+15,7,Urban,0-4, MIZORAM,Lawngtlai ,Male,In movement,0
+15,7,Urban,5-9, MIZORAM,Lawngtlai ,Male,In movement,0
+15,7,Urban,10-19, MIZORAM,Lawngtlai ,Male,In movement,0
+15,7,Urban,20-29, MIZORAM,Lawngtlai ,Male,In movement,0
+15,7,Urban,30-39, MIZORAM,Lawngtlai ,Male,In movement,0
+15,7,Urban,40-49, MIZORAM,Lawngtlai ,Male,In movement,0
+15,7,Urban,50-59, MIZORAM,Lawngtlai ,Male,In movement,0
+15,7,Urban,60-69, MIZORAM,Lawngtlai ,Male,In movement,0
+15,7,Urban,70-79, MIZORAM,Lawngtlai ,Male,In movement,0
+15,7,Urban,80-89, MIZORAM,Lawngtlai ,Male,In movement,0
+15,7,Urban,90+, MIZORAM,Lawngtlai ,Male,In movement,0
+15,7,Urban,Age not stated, MIZORAM,Lawngtlai ,Male,In movement,0
+15,8,Rural,0-4, MIZORAM,Saiha ,Male,In movement,2
+15,8,Rural,5-9, MIZORAM,Saiha ,Male,In movement,3
+15,8,Rural,10-19, MIZORAM,Saiha ,Male,In movement,15
+15,8,Rural,20-29, MIZORAM,Saiha ,Male,In movement,12
+15,8,Rural,30-39, MIZORAM,Saiha ,Male,In movement,16
+15,8,Rural,40-49, MIZORAM,Saiha ,Male,In movement,9
+15,8,Rural,50-59, MIZORAM,Saiha ,Male,In movement,2
+15,8,Rural,60-69, MIZORAM,Saiha ,Male,In movement,1
+15,8,Rural,70-79, MIZORAM,Saiha ,Male,In movement,5
+15,8,Rural,80-89, MIZORAM,Saiha ,Male,In movement,0
+15,8,Rural,90+, MIZORAM,Saiha ,Male,In movement,0
+15,8,Rural,Age not stated, MIZORAM,Saiha ,Male,In movement,0
+15,8,Urban,0-4, MIZORAM,Saiha ,Male,In movement,1
+15,8,Urban,5-9, MIZORAM,Saiha ,Male,In movement,0
+15,8,Urban,10-19, MIZORAM,Saiha ,Male,In movement,6
+15,8,Urban,20-29, MIZORAM,Saiha ,Male,In movement,5
+15,8,Urban,30-39, MIZORAM,Saiha ,Male,In movement,2
+15,8,Urban,40-49, MIZORAM,Saiha ,Male,In movement,3
+15,8,Urban,50-59, MIZORAM,Saiha ,Male,In movement,2
+15,8,Urban,60-69, MIZORAM,Saiha ,Male,In movement,1
+15,8,Urban,70-79, MIZORAM,Saiha ,Male,In movement,0
+15,8,Urban,80-89, MIZORAM,Saiha ,Male,In movement,0
+15,8,Urban,90+, MIZORAM,Saiha ,Male,In movement,0
+15,8,Urban,Age not stated, MIZORAM,Saiha ,Male,In movement,0
+15,1,Rural,0-4, MIZORAM,Mamit ,Female,In movement,5
+15,1,Rural,5-9, MIZORAM,Mamit ,Female,In movement,12
+15,1,Rural,10-19, MIZORAM,Mamit ,Female,In movement,17
+15,1,Rural,20-29, MIZORAM,Mamit ,Female,In movement,20
+15,1,Rural,30-39, MIZORAM,Mamit ,Female,In movement,9
+15,1,Rural,40-49, MIZORAM,Mamit ,Female,In movement,5
+15,1,Rural,50-59, MIZORAM,Mamit ,Female,In movement,5
+15,1,Rural,60-69, MIZORAM,Mamit ,Female,In movement,14
+15,1,Rural,70-79, MIZORAM,Mamit ,Female,In movement,4
+15,1,Rural,80-89, MIZORAM,Mamit ,Female,In movement,5
+15,1,Rural,90+, MIZORAM,Mamit ,Female,In movement,1
+15,1,Rural,Age not stated, MIZORAM,Mamit ,Female,In movement,0
+15,1,Urban,0-4, MIZORAM,Mamit ,Female,In movement,3
+15,1,Urban,5-9, MIZORAM,Mamit ,Female,In movement,2
+15,1,Urban,10-19, MIZORAM,Mamit ,Female,In movement,4
+15,1,Urban,20-29, MIZORAM,Mamit ,Female,In movement,5
+15,1,Urban,30-39, MIZORAM,Mamit ,Female,In movement,4
+15,1,Urban,40-49, MIZORAM,Mamit ,Female,In movement,5
+15,1,Urban,50-59, MIZORAM,Mamit ,Female,In movement,0
+15,1,Urban,60-69, MIZORAM,Mamit ,Female,In movement,1
+15,1,Urban,70-79, MIZORAM,Mamit ,Female,In movement,3
+15,1,Urban,80-89, MIZORAM,Mamit ,Female,In movement,4
+15,1,Urban,90+, MIZORAM,Mamit ,Female,In movement,1
+15,1,Urban,Age not stated, MIZORAM,Mamit ,Female,In movement,0
+15,2,Rural,0-4, MIZORAM,Kolasib ,Female,In movement,2
+15,2,Rural,5-9, MIZORAM,Kolasib ,Female,In movement,5
+15,2,Rural,10-19, MIZORAM,Kolasib ,Female,In movement,4
+15,2,Rural,20-29, MIZORAM,Kolasib ,Female,In movement,9
+15,2,Rural,30-39, MIZORAM,Kolasib ,Female,In movement,5
+15,2,Rural,40-49, MIZORAM,Kolasib ,Female,In movement,8
+15,2,Rural,50-59, MIZORAM,Kolasib ,Female,In movement,2
+15,2,Rural,60-69, MIZORAM,Kolasib ,Female,In movement,2
+15,2,Rural,70-79, MIZORAM,Kolasib ,Female,In movement,1
+15,2,Rural,80-89, MIZORAM,Kolasib ,Female,In movement,0
+15,2,Rural,90+, MIZORAM,Kolasib ,Female,In movement,1
+15,2,Rural,Age not stated, MIZORAM,Kolasib ,Female,In movement,0
+15,2,Urban,0-4, MIZORAM,Kolasib ,Female,In movement,2
+15,2,Urban,5-9, MIZORAM,Kolasib ,Female,In movement,3
+15,2,Urban,10-19, MIZORAM,Kolasib ,Female,In movement,5
+15,2,Urban,20-29, MIZORAM,Kolasib ,Female,In movement,10
+15,2,Urban,30-39, MIZORAM,Kolasib ,Female,In movement,4
+15,2,Urban,40-49, MIZORAM,Kolasib ,Female,In movement,4
+15,2,Urban,50-59, MIZORAM,Kolasib ,Female,In movement,2
+15,2,Urban,60-69, MIZORAM,Kolasib ,Female,In movement,1
+15,2,Urban,70-79, MIZORAM,Kolasib ,Female,In movement,0
+15,2,Urban,80-89, MIZORAM,Kolasib ,Female,In movement,0
+15,2,Urban,90+, MIZORAM,Kolasib ,Female,In movement,0
+15,2,Urban,Age not stated, MIZORAM,Kolasib ,Female,In movement,0
+15,3,Rural,0-4, MIZORAM,Aizawl ,Female,In movement,5
+15,3,Rural,5-9, MIZORAM,Aizawl ,Female,In movement,10
+15,3,Rural,10-19, MIZORAM,Aizawl ,Female,In movement,22
+15,3,Rural,20-29, MIZORAM,Aizawl ,Female,In movement,22
+15,3,Rural,30-39, MIZORAM,Aizawl ,Female,In movement,21
+15,3,Rural,40-49, MIZORAM,Aizawl ,Female,In movement,12
+15,3,Rural,50-59, MIZORAM,Aizawl ,Female,In movement,15
+15,3,Rural,60-69, MIZORAM,Aizawl ,Female,In movement,10
+15,3,Rural,70-79, MIZORAM,Aizawl ,Female,In movement,5
+15,3,Rural,80-89, MIZORAM,Aizawl ,Female,In movement,3
+15,3,Rural,90+, MIZORAM,Aizawl ,Female,In movement,0
+15,3,Rural,Age not stated, MIZORAM,Aizawl ,Female,In movement,0
+15,3,Urban,0-4, MIZORAM,Aizawl ,Female,In movement,5
+15,3,Urban,5-9, MIZORAM,Aizawl ,Female,In movement,21
+15,3,Urban,10-19, MIZORAM,Aizawl ,Female,In movement,28
+15,3,Urban,20-29, MIZORAM,Aizawl ,Female,In movement,37
+15,3,Urban,30-39, MIZORAM,Aizawl ,Female,In movement,22
+15,3,Urban,40-49, MIZORAM,Aizawl ,Female,In movement,17
+15,3,Urban,50-59, MIZORAM,Aizawl ,Female,In movement,19
+15,3,Urban,60-69, MIZORAM,Aizawl ,Female,In movement,23
+15,3,Urban,70-79, MIZORAM,Aizawl ,Female,In movement,6
+15,3,Urban,80-89, MIZORAM,Aizawl ,Female,In movement,1
+15,3,Urban,90+, MIZORAM,Aizawl ,Female,In movement,1
+15,3,Urban,Age not stated, MIZORAM,Aizawl ,Female,In movement,0
+15,4,Rural,0-4, MIZORAM,Champhai ,Female,In movement,3
+15,4,Rural,5-9, MIZORAM,Champhai ,Female,In movement,6
+15,4,Rural,10-19, MIZORAM,Champhai ,Female,In movement,14
+15,4,Rural,20-29, MIZORAM,Champhai ,Female,In movement,15
+15,4,Rural,30-39, MIZORAM,Champhai ,Female,In movement,21
+15,4,Rural,40-49, MIZORAM,Champhai ,Female,In movement,16
+15,4,Rural,50-59, MIZORAM,Champhai ,Female,In movement,17
+15,4,Rural,60-69, MIZORAM,Champhai ,Female,In movement,15
+15,4,Rural,70-79, MIZORAM,Champhai ,Female,In movement,5
+15,4,Rural,80-89, MIZORAM,Champhai ,Female,In movement,4
+15,4,Rural,90+, MIZORAM,Champhai ,Female,In movement,1
+15,4,Rural,Age not stated, MIZORAM,Champhai ,Female,In movement,0
+15,4,Urban,0-4, MIZORAM,Champhai ,Female,In movement,3
+15,4,Urban,5-9, MIZORAM,Champhai ,Female,In movement,2
+15,4,Urban,10-19, MIZORAM,Champhai ,Female,In movement,14
+15,4,Urban,20-29, MIZORAM,Champhai ,Female,In movement,9
+15,4,Urban,30-39, MIZORAM,Champhai ,Female,In movement,6
+15,4,Urban,40-49, MIZORAM,Champhai ,Female,In movement,5
+15,4,Urban,50-59, MIZORAM,Champhai ,Female,In movement,6
+15,4,Urban,60-69, MIZORAM,Champhai ,Female,In movement,4
+15,4,Urban,70-79, MIZORAM,Champhai ,Female,In movement,1
+15,4,Urban,80-89, MIZORAM,Champhai ,Female,In movement,0
+15,4,Urban,90+, MIZORAM,Champhai ,Female,In movement,0
+15,4,Urban,Age not stated, MIZORAM,Champhai ,Female,In movement,1
+15,5,Rural,0-4, MIZORAM,Serchhip ,Female,In movement,2
+15,5,Rural,5-9, MIZORAM,Serchhip ,Female,In movement,1
+15,5,Rural,10-19, MIZORAM,Serchhip ,Female,In movement,4
+15,5,Rural,20-29, MIZORAM,Serchhip ,Female,In movement,9
+15,5,Rural,30-39, MIZORAM,Serchhip ,Female,In movement,7
+15,5,Rural,40-49, MIZORAM,Serchhip ,Female,In movement,8
+15,5,Rural,50-59, MIZORAM,Serchhip ,Female,In movement,6
+15,5,Rural,60-69, MIZORAM,Serchhip ,Female,In movement,5
+15,5,Rural,70-79, MIZORAM,Serchhip ,Female,In movement,7
+15,5,Rural,80-89, MIZORAM,Serchhip ,Female,In movement,0
+15,5,Rural,90+, MIZORAM,Serchhip ,Female,In movement,1
+15,5,Rural,Age not stated, MIZORAM,Serchhip ,Female,In movement,0
+15,5,Urban,0-4, MIZORAM,Serchhip ,Female,In movement,0
+15,5,Urban,5-9, MIZORAM,Serchhip ,Female,In movement,2
+15,5,Urban,10-19, MIZORAM,Serchhip ,Female,In movement,6
+15,5,Urban,20-29, MIZORAM,Serchhip ,Female,In movement,4
+15,5,Urban,30-39, MIZORAM,Serchhip ,Female,In movement,3
+15,5,Urban,40-49, MIZORAM,Serchhip ,Female,In movement,8
+15,5,Urban,50-59, MIZORAM,Serchhip ,Female,In movement,3
+15,5,Urban,60-69, MIZORAM,Serchhip ,Female,In movement,2
+15,5,Urban,70-79, MIZORAM,Serchhip ,Female,In movement,2
+15,5,Urban,80-89, MIZORAM,Serchhip ,Female,In movement,0
+15,5,Urban,90+, MIZORAM,Serchhip ,Female,In movement,0
+15,5,Urban,Age not stated, MIZORAM,Serchhip ,Female,In movement,0
+15,6,Rural,0-4, MIZORAM,Lunglei ,Female,In movement,5
+15,6,Rural,5-9, MIZORAM,Lunglei ,Female,In movement,5
+15,6,Rural,10-19, MIZORAM,Lunglei ,Female,In movement,19
+15,6,Rural,20-29, MIZORAM,Lunglei ,Female,In movement,16
+15,6,Rural,30-39, MIZORAM,Lunglei ,Female,In movement,12
+15,6,Rural,40-49, MIZORAM,Lunglei ,Female,In movement,12
+15,6,Rural,50-59, MIZORAM,Lunglei ,Female,In movement,15
+15,6,Rural,60-69, MIZORAM,Lunglei ,Female,In movement,15
+15,6,Rural,70-79, MIZORAM,Lunglei ,Female,In movement,14
+15,6,Rural,80-89, MIZORAM,Lunglei ,Female,In movement,4
+15,6,Rural,90+, MIZORAM,Lunglei ,Female,In movement,3
+15,6,Rural,Age not stated, MIZORAM,Lunglei ,Female,In movement,0
+15,6,Urban,0-4, MIZORAM,Lunglei ,Female,In movement,3
+15,6,Urban,5-9, MIZORAM,Lunglei ,Female,In movement,4
+15,6,Urban,10-19, MIZORAM,Lunglei ,Female,In movement,8
+15,6,Urban,20-29, MIZORAM,Lunglei ,Female,In movement,9
+15,6,Urban,30-39, MIZORAM,Lunglei ,Female,In movement,4
+15,6,Urban,40-49, MIZORAM,Lunglei ,Female,In movement,7
+15,6,Urban,50-59, MIZORAM,Lunglei ,Female,In movement,6
+15,6,Urban,60-69, MIZORAM,Lunglei ,Female,In movement,11
+15,6,Urban,70-79, MIZORAM,Lunglei ,Female,In movement,7
+15,6,Urban,80-89, MIZORAM,Lunglei ,Female,In movement,2
+15,6,Urban,90+, MIZORAM,Lunglei ,Female,In movement,0
+15,6,Urban,Age not stated, MIZORAM,Lunglei ,Female,In movement,0
+15,7,Rural,0-4, MIZORAM,Lawngtlai ,Female,In movement,2
+15,7,Rural,5-9, MIZORAM,Lawngtlai ,Female,In movement,3
+15,7,Rural,10-19, MIZORAM,Lawngtlai ,Female,In movement,14
+15,7,Rural,20-29, MIZORAM,Lawngtlai ,Female,In movement,17
+15,7,Rural,30-39, MIZORAM,Lawngtlai ,Female,In movement,8
+15,7,Rural,40-49, MIZORAM,Lawngtlai ,Female,In movement,3
+15,7,Rural,50-59, MIZORAM,Lawngtlai ,Female,In movement,3
+15,7,Rural,60-69, MIZORAM,Lawngtlai ,Female,In movement,4
+15,7,Rural,70-79, MIZORAM,Lawngtlai ,Female,In movement,1
+15,7,Rural,80-89, MIZORAM,Lawngtlai ,Female,In movement,2
+15,7,Rural,90+, MIZORAM,Lawngtlai ,Female,In movement,1
+15,7,Rural,Age not stated, MIZORAM,Lawngtlai ,Female,In movement,0
+15,7,Urban,0-4, MIZORAM,Lawngtlai ,Female,In movement,0
+15,7,Urban,5-9, MIZORAM,Lawngtlai ,Female,In movement,0
+15,7,Urban,10-19, MIZORAM,Lawngtlai ,Female,In movement,0
+15,7,Urban,20-29, MIZORAM,Lawngtlai ,Female,In movement,0
+15,7,Urban,30-39, MIZORAM,Lawngtlai ,Female,In movement,0
+15,7,Urban,40-49, MIZORAM,Lawngtlai ,Female,In movement,0
+15,7,Urban,50-59, MIZORAM,Lawngtlai ,Female,In movement,0
+15,7,Urban,60-69, MIZORAM,Lawngtlai ,Female,In movement,0
+15,7,Urban,70-79, MIZORAM,Lawngtlai ,Female,In movement,0
+15,7,Urban,80-89, MIZORAM,Lawngtlai ,Female,In movement,0
+15,7,Urban,90+, MIZORAM,Lawngtlai ,Female,In movement,0
+15,7,Urban,Age not stated, MIZORAM,Lawngtlai ,Female,In movement,0
+15,8,Rural,0-4, MIZORAM,Saiha ,Female,In movement,2
+15,8,Rural,5-9, MIZORAM,Saiha ,Female,In movement,4
+15,8,Rural,10-19, MIZORAM,Saiha ,Female,In movement,10
+15,8,Rural,20-29, MIZORAM,Saiha ,Female,In movement,10
+15,8,Rural,30-39, MIZORAM,Saiha ,Female,In movement,9
+15,8,Rural,40-49, MIZORAM,Saiha ,Female,In movement,12
+15,8,Rural,50-59, MIZORAM,Saiha ,Female,In movement,3
+15,8,Rural,60-69, MIZORAM,Saiha ,Female,In movement,8
+15,8,Rural,70-79, MIZORAM,Saiha ,Female,In movement,3
+15,8,Rural,80-89, MIZORAM,Saiha ,Female,In movement,0
+15,8,Rural,90+, MIZORAM,Saiha ,Female,In movement,1
+15,8,Rural,Age not stated, MIZORAM,Saiha ,Female,In movement,0
+15,8,Urban,0-4, MIZORAM,Saiha ,Female,In movement,0
+15,8,Urban,5-9, MIZORAM,Saiha ,Female,In movement,0
+15,8,Urban,10-19, MIZORAM,Saiha ,Female,In movement,2
+15,8,Urban,20-29, MIZORAM,Saiha ,Female,In movement,1
+15,8,Urban,30-39, MIZORAM,Saiha ,Female,In movement,0
+15,8,Urban,40-49, MIZORAM,Saiha ,Female,In movement,1
+15,8,Urban,50-59, MIZORAM,Saiha ,Female,In movement,0
+15,8,Urban,60-69, MIZORAM,Saiha ,Female,In movement,0
+15,8,Urban,70-79, MIZORAM,Saiha ,Female,In movement,1
+15,8,Urban,80-89, MIZORAM,Saiha ,Female,In movement,0
+15,8,Urban,90+, MIZORAM,Saiha ,Female,In movement,0
+15,8,Urban,Age not stated, MIZORAM,Saiha ,Female,In movement,0
+15,1,Rural,0-4, MIZORAM,Mamit ,Male,Mental,0
+15,1,Rural,5-9, MIZORAM,Mamit ,Male,Mental,5
+15,1,Rural,10-19, MIZORAM,Mamit ,Male,Mental,24
+15,1,Rural,20-29, MIZORAM,Mamit ,Male,Mental,28
+15,1,Rural,30-39, MIZORAM,Mamit ,Male,Mental,15
+15,1,Rural,40-49, MIZORAM,Mamit ,Male,Mental,12
+15,1,Rural,50-59, MIZORAM,Mamit ,Male,Mental,11
+15,1,Rural,60-69, MIZORAM,Mamit ,Male,Mental,1
+15,1,Rural,70-79, MIZORAM,Mamit ,Male,Mental,4
+15,1,Rural,80-89, MIZORAM,Mamit ,Male,Mental,0
+15,1,Rural,90+, MIZORAM,Mamit ,Male,Mental,0
+15,1,Rural,Age not stated, MIZORAM,Mamit ,Male,Mental,0
+15,1,Urban,0-4, MIZORAM,Mamit ,Male,Mental,0
+15,1,Urban,5-9, MIZORAM,Mamit ,Male,Mental,0
+15,1,Urban,10-19, MIZORAM,Mamit ,Male,Mental,1
+15,1,Urban,20-29, MIZORAM,Mamit ,Male,Mental,5
+15,1,Urban,30-39, MIZORAM,Mamit ,Male,Mental,3
+15,1,Urban,40-49, MIZORAM,Mamit ,Male,Mental,2
+15,1,Urban,50-59, MIZORAM,Mamit ,Male,Mental,2
+15,1,Urban,60-69, MIZORAM,Mamit ,Male,Mental,0
+15,1,Urban,70-79, MIZORAM,Mamit ,Male,Mental,0
+15,1,Urban,80-89, MIZORAM,Mamit ,Male,Mental,0
+15,1,Urban,90+, MIZORAM,Mamit ,Male,Mental,0
+15,1,Urban,Age not stated, MIZORAM,Mamit ,Male,Mental,0
+15,2,Rural,0-4, MIZORAM,Kolasib ,Male,Mental,2
+15,2,Rural,5-9, MIZORAM,Kolasib ,Male,Mental,2
+15,2,Rural,10-19, MIZORAM,Kolasib ,Male,Mental,12
+15,2,Rural,20-29, MIZORAM,Kolasib ,Male,Mental,10
+15,2,Rural,30-39, MIZORAM,Kolasib ,Male,Mental,11
+15,2,Rural,40-49, MIZORAM,Kolasib ,Male,Mental,6
+15,2,Rural,50-59, MIZORAM,Kolasib ,Male,Mental,3
+15,2,Rural,60-69, MIZORAM,Kolasib ,Male,Mental,2
+15,2,Rural,70-79, MIZORAM,Kolasib ,Male,Mental,0
+15,2,Rural,80-89, MIZORAM,Kolasib ,Male,Mental,0
+15,2,Rural,90+, MIZORAM,Kolasib ,Male,Mental,0
+15,2,Rural,Age not stated, MIZORAM,Kolasib ,Male,Mental,0
+15,2,Urban,0-4, MIZORAM,Kolasib ,Male,Mental,2
+15,2,Urban,5-9, MIZORAM,Kolasib ,Male,Mental,2
+15,2,Urban,10-19, MIZORAM,Kolasib ,Male,Mental,8
+15,2,Urban,20-29, MIZORAM,Kolasib ,Male,Mental,7
+15,2,Urban,30-39, MIZORAM,Kolasib ,Male,Mental,16
+15,2,Urban,40-49, MIZORAM,Kolasib ,Male,Mental,13
+15,2,Urban,50-59, MIZORAM,Kolasib ,Male,Mental,5
+15,2,Urban,60-69, MIZORAM,Kolasib ,Male,Mental,2
+15,2,Urban,70-79, MIZORAM,Kolasib ,Male,Mental,2
+15,2,Urban,80-89, MIZORAM,Kolasib ,Male,Mental,0
+15,2,Urban,90+, MIZORAM,Kolasib ,Male,Mental,0
+15,2,Urban,Age not stated, MIZORAM,Kolasib ,Male,Mental,1
+15,3,Rural,0-4, MIZORAM,Aizawl ,Male,Mental,1
+15,3,Rural,5-9, MIZORAM,Aizawl ,Male,Mental,4
+15,3,Rural,10-19, MIZORAM,Aizawl ,Male,Mental,41
+15,3,Rural,20-29, MIZORAM,Aizawl ,Male,Mental,43
+15,3,Rural,30-39, MIZORAM,Aizawl ,Male,Mental,32
+15,3,Rural,40-49, MIZORAM,Aizawl ,Male,Mental,23
+15,3,Rural,50-59, MIZORAM,Aizawl ,Male,Mental,13
+15,3,Rural,60-69, MIZORAM,Aizawl ,Male,Mental,11
+15,3,Rural,70-79, MIZORAM,Aizawl ,Male,Mental,5
+15,3,Rural,80-89, MIZORAM,Aizawl ,Male,Mental,0
+15,3,Rural,90+, MIZORAM,Aizawl ,Male,Mental,0
+15,3,Rural,Age not stated, MIZORAM,Aizawl ,Male,Mental,1
+15,3,Urban,0-4, MIZORAM,Aizawl ,Male,Mental,9
+15,3,Urban,5-9, MIZORAM,Aizawl ,Male,Mental,20
+15,3,Urban,10-19, MIZORAM,Aizawl ,Male,Mental,58
+15,3,Urban,20-29, MIZORAM,Aizawl ,Male,Mental,91
+15,3,Urban,30-39, MIZORAM,Aizawl ,Male,Mental,73
+15,3,Urban,40-49, MIZORAM,Aizawl ,Male,Mental,43
+15,3,Urban,50-59, MIZORAM,Aizawl ,Male,Mental,22
+15,3,Urban,60-69, MIZORAM,Aizawl ,Male,Mental,20
+15,3,Urban,70-79, MIZORAM,Aizawl ,Male,Mental,6
+15,3,Urban,80-89, MIZORAM,Aizawl ,Male,Mental,3
+15,3,Urban,90+, MIZORAM,Aizawl ,Male,Mental,2
+15,3,Urban,Age not stated, MIZORAM,Aizawl ,Male,Mental,0
+15,4,Rural,0-4, MIZORAM,Champhai ,Male,Mental,1
+15,4,Rural,5-9, MIZORAM,Champhai ,Male,Mental,9
+15,4,Rural,10-19, MIZORAM,Champhai ,Male,Mental,31
+15,4,Rural,20-29, MIZORAM,Champhai ,Male,Mental,23
+15,4,Rural,30-39, MIZORAM,Champhai ,Male,Mental,21
+15,4,Rural,40-49, MIZORAM,Champhai ,Male,Mental,15
+15,4,Rural,50-59, MIZORAM,Champhai ,Male,Mental,12
+15,4,Rural,60-69, MIZORAM,Champhai ,Male,Mental,12
+15,4,Rural,70-79, MIZORAM,Champhai ,Male,Mental,2
+15,4,Rural,80-89, MIZORAM,Champhai ,Male,Mental,0
+15,4,Rural,90+, MIZORAM,Champhai ,Male,Mental,1
+15,4,Rural,Age not stated, MIZORAM,Champhai ,Male,Mental,0
+15,4,Urban,0-4, MIZORAM,Champhai ,Male,Mental,1
+15,4,Urban,5-9, MIZORAM,Champhai ,Male,Mental,2
+15,4,Urban,10-19, MIZORAM,Champhai ,Male,Mental,19
+15,4,Urban,20-29, MIZORAM,Champhai ,Male,Mental,18
+15,4,Urban,30-39, MIZORAM,Champhai ,Male,Mental,11
+15,4,Urban,40-49, MIZORAM,Champhai ,Male,Mental,8
+15,4,Urban,50-59, MIZORAM,Champhai ,Male,Mental,5
+15,4,Urban,60-69, MIZORAM,Champhai ,Male,Mental,0
+15,4,Urban,70-79, MIZORAM,Champhai ,Male,Mental,0
+15,4,Urban,80-89, MIZORAM,Champhai ,Male,Mental,0
+15,4,Urban,90+, MIZORAM,Champhai ,Male,Mental,0
+15,4,Urban,Age not stated, MIZORAM,Champhai ,Male,Mental,0
+15,5,Rural,0-4, MIZORAM,Serchhip ,Male,Mental,0
+15,5,Rural,5-9, MIZORAM,Serchhip ,Male,Mental,3
+15,5,Rural,10-19, MIZORAM,Serchhip ,Male,Mental,17
+15,5,Rural,20-29, MIZORAM,Serchhip ,Male,Mental,16
+15,5,Rural,30-39, MIZORAM,Serchhip ,Male,Mental,9
+15,5,Rural,40-49, MIZORAM,Serchhip ,Male,Mental,7
+15,5,Rural,50-59, MIZORAM,Serchhip ,Male,Mental,8
+15,5,Rural,60-69, MIZORAM,Serchhip ,Male,Mental,5
+15,5,Rural,70-79, MIZORAM,Serchhip ,Male,Mental,3
+15,5,Rural,80-89, MIZORAM,Serchhip ,Male,Mental,1
+15,5,Rural,90+, MIZORAM,Serchhip ,Male,Mental,0
+15,5,Rural,Age not stated, MIZORAM,Serchhip ,Male,Mental,0
+15,5,Urban,0-4, MIZORAM,Serchhip ,Male,Mental,0
+15,5,Urban,5-9, MIZORAM,Serchhip ,Male,Mental,1
+15,5,Urban,10-19, MIZORAM,Serchhip ,Male,Mental,8
+15,5,Urban,20-29, MIZORAM,Serchhip ,Male,Mental,10
+15,5,Urban,30-39, MIZORAM,Serchhip ,Male,Mental,5
+15,5,Urban,40-49, MIZORAM,Serchhip ,Male,Mental,5
+15,5,Urban,50-59, MIZORAM,Serchhip ,Male,Mental,5
+15,5,Urban,60-69, MIZORAM,Serchhip ,Male,Mental,1
+15,5,Urban,70-79, MIZORAM,Serchhip ,Male,Mental,0
+15,5,Urban,80-89, MIZORAM,Serchhip ,Male,Mental,0
+15,5,Urban,90+, MIZORAM,Serchhip ,Male,Mental,0
+15,5,Urban,Age not stated, MIZORAM,Serchhip ,Male,Mental,0
+15,6,Rural,0-4, MIZORAM,Lunglei ,Male,Mental,0
+15,6,Rural,5-9, MIZORAM,Lunglei ,Male,Mental,4
+15,6,Rural,10-19, MIZORAM,Lunglei ,Male,Mental,27
+15,6,Rural,20-29, MIZORAM,Lunglei ,Male,Mental,35
+15,6,Rural,30-39, MIZORAM,Lunglei ,Male,Mental,21
+15,6,Rural,40-49, MIZORAM,Lunglei ,Male,Mental,25
+15,6,Rural,50-59, MIZORAM,Lunglei ,Male,Mental,12
+15,6,Rural,60-69, MIZORAM,Lunglei ,Male,Mental,9
+15,6,Rural,70-79, MIZORAM,Lunglei ,Male,Mental,2
+15,6,Rural,80-89, MIZORAM,Lunglei ,Male,Mental,0
+15,6,Rural,90+, MIZORAM,Lunglei ,Male,Mental,0
+15,6,Rural,Age not stated, MIZORAM,Lunglei ,Male,Mental,0
+15,6,Urban,0-4, MIZORAM,Lunglei ,Male,Mental,2
+15,6,Urban,5-9, MIZORAM,Lunglei ,Male,Mental,0
+15,6,Urban,10-19, MIZORAM,Lunglei ,Male,Mental,24
+15,6,Urban,20-29, MIZORAM,Lunglei ,Male,Mental,16
+15,6,Urban,30-39, MIZORAM,Lunglei ,Male,Mental,24
+15,6,Urban,40-49, MIZORAM,Lunglei ,Male,Mental,17
+15,6,Urban,50-59, MIZORAM,Lunglei ,Male,Mental,10
+15,6,Urban,60-69, MIZORAM,Lunglei ,Male,Mental,5
+15,6,Urban,70-79, MIZORAM,Lunglei ,Male,Mental,2
+15,6,Urban,80-89, MIZORAM,Lunglei ,Male,Mental,0
+15,6,Urban,90+, MIZORAM,Lunglei ,Male,Mental,0
+15,6,Urban,Age not stated, MIZORAM,Lunglei ,Male,Mental,1
+15,7,Rural,0-4, MIZORAM,Lawngtlai ,Male,Mental,4
+15,7,Rural,5-9, MIZORAM,Lawngtlai ,Male,Mental,8
+15,7,Rural,10-19, MIZORAM,Lawngtlai ,Male,Mental,32
+15,7,Rural,20-29, MIZORAM,Lawngtlai ,Male,Mental,27
+15,7,Rural,30-39, MIZORAM,Lawngtlai ,Male,Mental,14
+15,7,Rural,40-49, MIZORAM,Lawngtlai ,Male,Mental,10
+15,7,Rural,50-59, MIZORAM,Lawngtlai ,Male,Mental,13
+15,7,Rural,60-69, MIZORAM,Lawngtlai ,Male,Mental,2
+15,7,Rural,70-79, MIZORAM,Lawngtlai ,Male,Mental,0
+15,7,Rural,80-89, MIZORAM,Lawngtlai ,Male,Mental,0
+15,7,Rural,90+, MIZORAM,Lawngtlai ,Male,Mental,0
+15,7,Rural,Age not stated, MIZORAM,Lawngtlai ,Male,Mental,0
+15,7,Urban,0-4, MIZORAM,Lawngtlai ,Male,Mental,0
+15,7,Urban,5-9, MIZORAM,Lawngtlai ,Male,Mental,0
+15,7,Urban,10-19, MIZORAM,Lawngtlai ,Male,Mental,0
+15,7,Urban,20-29, MIZORAM,Lawngtlai ,Male,Mental,0
+15,7,Urban,30-39, MIZORAM,Lawngtlai ,Male,Mental,0
+15,7,Urban,40-49, MIZORAM,Lawngtlai ,Male,Mental,0
+15,7,Urban,50-59, MIZORAM,Lawngtlai ,Male,Mental,0
+15,7,Urban,60-69, MIZORAM,Lawngtlai ,Male,Mental,0
+15,7,Urban,70-79, MIZORAM,Lawngtlai ,Male,Mental,0
+15,7,Urban,80-89, MIZORAM,Lawngtlai ,Male,Mental,0
+15,7,Urban,90+, MIZORAM,Lawngtlai ,Male,Mental,0
+15,7,Urban,Age not stated, MIZORAM,Lawngtlai ,Male,Mental,0
+15,8,Rural,0-4, MIZORAM,Saiha ,Male,Mental,0
+15,8,Rural,5-9, MIZORAM,Saiha ,Male,Mental,6
+15,8,Rural,10-19, MIZORAM,Saiha ,Male,Mental,12
+15,8,Rural,20-29, MIZORAM,Saiha ,Male,Mental,13
+15,8,Rural,30-39, MIZORAM,Saiha ,Male,Mental,14
+15,8,Rural,40-49, MIZORAM,Saiha ,Male,Mental,2
+15,8,Rural,50-59, MIZORAM,Saiha ,Male,Mental,3
+15,8,Rural,60-69, MIZORAM,Saiha ,Male,Mental,0
+15,8,Rural,70-79, MIZORAM,Saiha ,Male,Mental,1
+15,8,Rural,80-89, MIZORAM,Saiha ,Male,Mental,0
+15,8,Rural,90+, MIZORAM,Saiha ,Male,Mental,1
+15,8,Rural,Age not stated, MIZORAM,Saiha ,Male,Mental,0
+15,8,Urban,0-4, MIZORAM,Saiha ,Male,Mental,0
+15,8,Urban,5-9, MIZORAM,Saiha ,Male,Mental,0
+15,8,Urban,10-19, MIZORAM,Saiha ,Male,Mental,4
+15,8,Urban,20-29, MIZORAM,Saiha ,Male,Mental,4
+15,8,Urban,30-39, MIZORAM,Saiha ,Male,Mental,2
+15,8,Urban,40-49, MIZORAM,Saiha ,Male,Mental,2
+15,8,Urban,50-59, MIZORAM,Saiha ,Male,Mental,0
+15,8,Urban,60-69, MIZORAM,Saiha ,Male,Mental,1
+15,8,Urban,70-79, MIZORAM,Saiha ,Male,Mental,1
+15,8,Urban,80-89, MIZORAM,Saiha ,Male,Mental,0
+15,8,Urban,90+, MIZORAM,Saiha ,Male,Mental,0
+15,8,Urban,Age not stated, MIZORAM,Saiha ,Male,Mental,0
+15,1,Rural,0-4, MIZORAM,Mamit ,Female,Mental,1
+15,1,Rural,5-9, MIZORAM,Mamit ,Female,Mental,3
+15,1,Rural,10-19, MIZORAM,Mamit ,Female,Mental,13
+15,1,Rural,20-29, MIZORAM,Mamit ,Female,Mental,14
+15,1,Rural,30-39, MIZORAM,Mamit ,Female,Mental,16
+15,1,Rural,40-49, MIZORAM,Mamit ,Female,Mental,19
+15,1,Rural,50-59, MIZORAM,Mamit ,Female,Mental,7
+15,1,Rural,60-69, MIZORAM,Mamit ,Female,Mental,5
+15,1,Rural,70-79, MIZORAM,Mamit ,Female,Mental,1
+15,1,Rural,80-89, MIZORAM,Mamit ,Female,Mental,0
+15,1,Rural,90+, MIZORAM,Mamit ,Female,Mental,0
+15,1,Rural,Age not stated, MIZORAM,Mamit ,Female,Mental,0
+15,1,Urban,0-4, MIZORAM,Mamit ,Female,Mental,0
+15,1,Urban,5-9, MIZORAM,Mamit ,Female,Mental,2
+15,1,Urban,10-19, MIZORAM,Mamit ,Female,Mental,5
+15,1,Urban,20-29, MIZORAM,Mamit ,Female,Mental,5
+15,1,Urban,30-39, MIZORAM,Mamit ,Female,Mental,1
+15,1,Urban,40-49, MIZORAM,Mamit ,Female,Mental,5
+15,1,Urban,50-59, MIZORAM,Mamit ,Female,Mental,0
+15,1,Urban,60-69, MIZORAM,Mamit ,Female,Mental,1
+15,1,Urban,70-79, MIZORAM,Mamit ,Female,Mental,0
+15,1,Urban,80-89, MIZORAM,Mamit ,Female,Mental,0
+15,1,Urban,90+, MIZORAM,Mamit ,Female,Mental,0
+15,1,Urban,Age not stated, MIZORAM,Mamit ,Female,Mental,1
+15,2,Rural,0-4, MIZORAM,Kolasib ,Female,Mental,0
+15,2,Rural,5-9, MIZORAM,Kolasib ,Female,Mental,2
+15,2,Rural,10-19, MIZORAM,Kolasib ,Female,Mental,13
+15,2,Rural,20-29, MIZORAM,Kolasib ,Female,Mental,7
+15,2,Rural,30-39, MIZORAM,Kolasib ,Female,Mental,10
+15,2,Rural,40-49, MIZORAM,Kolasib ,Female,Mental,9
+15,2,Rural,50-59, MIZORAM,Kolasib ,Female,Mental,5
+15,2,Rural,60-69, MIZORAM,Kolasib ,Female,Mental,0
+15,2,Rural,70-79, MIZORAM,Kolasib ,Female,Mental,1
+15,2,Rural,80-89, MIZORAM,Kolasib ,Female,Mental,0
+15,2,Rural,90+, MIZORAM,Kolasib ,Female,Mental,0
+15,2,Rural,Age not stated, MIZORAM,Kolasib ,Female,Mental,0
+15,2,Urban,0-4, MIZORAM,Kolasib ,Female,Mental,0
+15,2,Urban,5-9, MIZORAM,Kolasib ,Female,Mental,1
+15,2,Urban,10-19, MIZORAM,Kolasib ,Female,Mental,13
+15,2,Urban,20-29, MIZORAM,Kolasib ,Female,Mental,9
+15,2,Urban,30-39, MIZORAM,Kolasib ,Female,Mental,14
+15,2,Urban,40-49, MIZORAM,Kolasib ,Female,Mental,4
+15,2,Urban,50-59, MIZORAM,Kolasib ,Female,Mental,8
+15,2,Urban,60-69, MIZORAM,Kolasib ,Female,Mental,2
+15,2,Urban,70-79, MIZORAM,Kolasib ,Female,Mental,0
+15,2,Urban,80-89, MIZORAM,Kolasib ,Female,Mental,1
+15,2,Urban,90+, MIZORAM,Kolasib ,Female,Mental,0
+15,2,Urban,Age not stated, MIZORAM,Kolasib ,Female,Mental,0
+15,3,Rural,0-4, MIZORAM,Aizawl ,Female,Mental,2
+15,3,Rural,5-9, MIZORAM,Aizawl ,Female,Mental,6
+15,3,Rural,10-19, MIZORAM,Aizawl ,Female,Mental,38
+15,3,Rural,20-29, MIZORAM,Aizawl ,Female,Mental,35
+15,3,Rural,30-39, MIZORAM,Aizawl ,Female,Mental,28
+15,3,Rural,40-49, MIZORAM,Aizawl ,Female,Mental,20
+15,3,Rural,50-59, MIZORAM,Aizawl ,Female,Mental,19
+15,3,Rural,60-69, MIZORAM,Aizawl ,Female,Mental,15
+15,3,Rural,70-79, MIZORAM,Aizawl ,Female,Mental,2
+15,3,Rural,80-89, MIZORAM,Aizawl ,Female,Mental,3
+15,3,Rural,90+, MIZORAM,Aizawl ,Female,Mental,0
+15,3,Rural,Age not stated, MIZORAM,Aizawl ,Female,Mental,1
+15,3,Urban,0-4, MIZORAM,Aizawl ,Female,Mental,6
+15,3,Urban,5-9, MIZORAM,Aizawl ,Female,Mental,12
+15,3,Urban,10-19, MIZORAM,Aizawl ,Female,Mental,60
+15,3,Urban,20-29, MIZORAM,Aizawl ,Female,Mental,61
+15,3,Urban,30-39, MIZORAM,Aizawl ,Female,Mental,47
+15,3,Urban,40-49, MIZORAM,Aizawl ,Female,Mental,64
+15,3,Urban,50-59, MIZORAM,Aizawl ,Female,Mental,35
+15,3,Urban,60-69, MIZORAM,Aizawl ,Female,Mental,23
+15,3,Urban,70-79, MIZORAM,Aizawl ,Female,Mental,11
+15,3,Urban,80-89, MIZORAM,Aizawl ,Female,Mental,1
+15,3,Urban,90+, MIZORAM,Aizawl ,Female,Mental,0
+15,3,Urban,Age not stated, MIZORAM,Aizawl ,Female,Mental,0
+15,4,Rural,0-4, MIZORAM,Champhai ,Female,Mental,2
+15,4,Rural,5-9, MIZORAM,Champhai ,Female,Mental,2
+15,4,Rural,10-19, MIZORAM,Champhai ,Female,Mental,24
+15,4,Rural,20-29, MIZORAM,Champhai ,Female,Mental,25
+15,4,Rural,30-39, MIZORAM,Champhai ,Female,Mental,28
+15,4,Rural,40-49, MIZORAM,Champhai ,Female,Mental,31
+15,4,Rural,50-59, MIZORAM,Champhai ,Female,Mental,14
+15,4,Rural,60-69, MIZORAM,Champhai ,Female,Mental,12
+15,4,Rural,70-79, MIZORAM,Champhai ,Female,Mental,5
+15,4,Rural,80-89, MIZORAM,Champhai ,Female,Mental,1
+15,4,Rural,90+, MIZORAM,Champhai ,Female,Mental,0
+15,4,Rural,Age not stated, MIZORAM,Champhai ,Female,Mental,0
+15,4,Urban,0-4, MIZORAM,Champhai ,Female,Mental,2
+15,4,Urban,5-9, MIZORAM,Champhai ,Female,Mental,1
+15,4,Urban,10-19, MIZORAM,Champhai ,Female,Mental,16
+15,4,Urban,20-29, MIZORAM,Champhai ,Female,Mental,7
+15,4,Urban,30-39, MIZORAM,Champhai ,Female,Mental,8
+15,4,Urban,40-49, MIZORAM,Champhai ,Female,Mental,7
+15,4,Urban,50-59, MIZORAM,Champhai ,Female,Mental,6
+15,4,Urban,60-69, MIZORAM,Champhai ,Female,Mental,5
+15,4,Urban,70-79, MIZORAM,Champhai ,Female,Mental,2
+15,4,Urban,80-89, MIZORAM,Champhai ,Female,Mental,0
+15,4,Urban,90+, MIZORAM,Champhai ,Female,Mental,1
+15,4,Urban,Age not stated, MIZORAM,Champhai ,Female,Mental,0
+15,5,Rural,0-4, MIZORAM,Serchhip ,Female,Mental,0
+15,5,Rural,5-9, MIZORAM,Serchhip ,Female,Mental,4
+15,5,Rural,10-19, MIZORAM,Serchhip ,Female,Mental,7
+15,5,Rural,20-29, MIZORAM,Serchhip ,Female,Mental,13
+15,5,Rural,30-39, MIZORAM,Serchhip ,Female,Mental,16
+15,5,Rural,40-49, MIZORAM,Serchhip ,Female,Mental,20
+15,5,Rural,50-59, MIZORAM,Serchhip ,Female,Mental,13
+15,5,Rural,60-69, MIZORAM,Serchhip ,Female,Mental,3
+15,5,Rural,70-79, MIZORAM,Serchhip ,Female,Mental,5
+15,5,Rural,80-89, MIZORAM,Serchhip ,Female,Mental,1
+15,5,Rural,90+, MIZORAM,Serchhip ,Female,Mental,0
+15,5,Rural,Age not stated, MIZORAM,Serchhip ,Female,Mental,0
+15,5,Urban,0-4, MIZORAM,Serchhip ,Female,Mental,0
+15,5,Urban,5-9, MIZORAM,Serchhip ,Female,Mental,3
+15,5,Urban,10-19, MIZORAM,Serchhip ,Female,Mental,9
+15,5,Urban,20-29, MIZORAM,Serchhip ,Female,Mental,6
+15,5,Urban,30-39, MIZORAM,Serchhip ,Female,Mental,10
+15,5,Urban,40-49, MIZORAM,Serchhip ,Female,Mental,4
+15,5,Urban,50-59, MIZORAM,Serchhip ,Female,Mental,7
+15,5,Urban,60-69, MIZORAM,Serchhip ,Female,Mental,3
+15,5,Urban,70-79, MIZORAM,Serchhip ,Female,Mental,0
+15,5,Urban,80-89, MIZORAM,Serchhip ,Female,Mental,0
+15,5,Urban,90+, MIZORAM,Serchhip ,Female,Mental,0
+15,5,Urban,Age not stated, MIZORAM,Serchhip ,Female,Mental,0
+15,6,Rural,0-4, MIZORAM,Lunglei ,Female,Mental,1
+15,6,Rural,5-9, MIZORAM,Lunglei ,Female,Mental,4
+15,6,Rural,10-19, MIZORAM,Lunglei ,Female,Mental,38
+15,6,Rural,20-29, MIZORAM,Lunglei ,Female,Mental,39
+15,6,Rural,30-39, MIZORAM,Lunglei ,Female,Mental,23
+15,6,Rural,40-49, MIZORAM,Lunglei ,Female,Mental,18
+15,6,Rural,50-59, MIZORAM,Lunglei ,Female,Mental,9
+15,6,Rural,60-69, MIZORAM,Lunglei ,Female,Mental,15
+15,6,Rural,70-79, MIZORAM,Lunglei ,Female,Mental,3
+15,6,Rural,80-89, MIZORAM,Lunglei ,Female,Mental,1
+15,6,Rural,90+, MIZORAM,Lunglei ,Female,Mental,0
+15,6,Rural,Age not stated, MIZORAM,Lunglei ,Female,Mental,0
+15,6,Urban,0-4, MIZORAM,Lunglei ,Female,Mental,1
+15,6,Urban,5-9, MIZORAM,Lunglei ,Female,Mental,4
+15,6,Urban,10-19, MIZORAM,Lunglei ,Female,Mental,8
+15,6,Urban,20-29, MIZORAM,Lunglei ,Female,Mental,8
+15,6,Urban,30-39, MIZORAM,Lunglei ,Female,Mental,9
+15,6,Urban,40-49, MIZORAM,Lunglei ,Female,Mental,8
+15,6,Urban,50-59, MIZORAM,Lunglei ,Female,Mental,11
+15,6,Urban,60-69, MIZORAM,Lunglei ,Female,Mental,8
+15,6,Urban,70-79, MIZORAM,Lunglei ,Female,Mental,2
+15,6,Urban,80-89, MIZORAM,Lunglei ,Female,Mental,1
+15,6,Urban,90+, MIZORAM,Lunglei ,Female,Mental,0
+15,6,Urban,Age not stated, MIZORAM,Lunglei ,Female,Mental,0
+15,7,Rural,0-4, MIZORAM,Lawngtlai ,Female,Mental,7
+15,7,Rural,5-9, MIZORAM,Lawngtlai ,Female,Mental,8
+15,7,Rural,10-19, MIZORAM,Lawngtlai ,Female,Mental,19
+15,7,Rural,20-29, MIZORAM,Lawngtlai ,Female,Mental,19
+15,7,Rural,30-39, MIZORAM,Lawngtlai ,Female,Mental,15
+15,7,Rural,40-49, MIZORAM,Lawngtlai ,Female,Mental,14
+15,7,Rural,50-59, MIZORAM,Lawngtlai ,Female,Mental,1
+15,7,Rural,60-69, MIZORAM,Lawngtlai ,Female,Mental,5
+15,7,Rural,70-79, MIZORAM,Lawngtlai ,Female,Mental,0
+15,7,Rural,80-89, MIZORAM,Lawngtlai ,Female,Mental,0
+15,7,Rural,90+, MIZORAM,Lawngtlai ,Female,Mental,0
+15,7,Rural,Age not stated, MIZORAM,Lawngtlai ,Female,Mental,0
+15,7,Urban,0-4, MIZORAM,Lawngtlai ,Female,Mental,0
+15,7,Urban,5-9, MIZORAM,Lawngtlai ,Female,Mental,0
+15,7,Urban,10-19, MIZORAM,Lawngtlai ,Female,Mental,0
+15,7,Urban,20-29, MIZORAM,Lawngtlai ,Female,Mental,0
+15,7,Urban,30-39, MIZORAM,Lawngtlai ,Female,Mental,0
+15,7,Urban,40-49, MIZORAM,Lawngtlai ,Female,Mental,0
+15,7,Urban,50-59, MIZORAM,Lawngtlai ,Female,Mental,0
+15,7,Urban,60-69, MIZORAM,Lawngtlai ,Female,Mental,0
+15,7,Urban,70-79, MIZORAM,Lawngtlai ,Female,Mental,0
+15,7,Urban,80-89, MIZORAM,Lawngtlai ,Female,Mental,0
+15,7,Urban,90+, MIZORAM,Lawngtlai ,Female,Mental,0
+15,7,Urban,Age not stated, MIZORAM,Lawngtlai ,Female,Mental,0
+15,8,Rural,0-4, MIZORAM,Saiha ,Female,Mental,3
+15,8,Rural,5-9, MIZORAM,Saiha ,Female,Mental,3
+15,8,Rural,10-19, MIZORAM,Saiha ,Female,Mental,9
+15,8,Rural,20-29, MIZORAM,Saiha ,Female,Mental,15
+15,8,Rural,30-39, MIZORAM,Saiha ,Female,Mental,13
+15,8,Rural,40-49, MIZORAM,Saiha ,Female,Mental,15
+15,8,Rural,50-59, MIZORAM,Saiha ,Female,Mental,10
+15,8,Rural,60-69, MIZORAM,Saiha ,Female,Mental,7
+15,8,Rural,70-79, MIZORAM,Saiha ,Female,Mental,4
+15,8,Rural,80-89, MIZORAM,Saiha ,Female,Mental,1
+15,8,Rural,90+, MIZORAM,Saiha ,Female,Mental,0
+15,8,Rural,Age not stated, MIZORAM,Saiha ,Female,Mental,0
+15,8,Urban,0-4, MIZORAM,Saiha ,Female,Mental,1
+15,8,Urban,5-9, MIZORAM,Saiha ,Female,Mental,0
+15,8,Urban,10-19, MIZORAM,Saiha ,Female,Mental,5
+15,8,Urban,20-29, MIZORAM,Saiha ,Female,Mental,4
+15,8,Urban,30-39, MIZORAM,Saiha ,Female,Mental,2
+15,8,Urban,40-49, MIZORAM,Saiha ,Female,Mental,3
+15,8,Urban,50-59, MIZORAM,Saiha ,Female,Mental,0
+15,8,Urban,60-69, MIZORAM,Saiha ,Female,Mental,0
+15,8,Urban,70-79, MIZORAM,Saiha ,Female,Mental,0
+15,8,Urban,80-89, MIZORAM,Saiha ,Female,Mental,0
+15,8,Urban,90+, MIZORAM,Saiha ,Female,Mental,0
+15,8,Urban,Age not stated, MIZORAM,Saiha ,Female,Mental,0

@@ -1,0 +1,1681 @@
+State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
+17,1,Rural,0-4,MEGHALAYA,West Garo Hills,Male,In seeing,40
+17,1,Rural,5-9,MEGHALAYA,West Garo Hills,Male,In seeing,55
+17,1,Rural,10-19,MEGHALAYA,West Garo Hills,Male,In seeing,118
+17,1,Rural,20-29,MEGHALAYA,West Garo Hills,Male,In seeing,87
+17,1,Rural,30-39,MEGHALAYA,West Garo Hills,Male,In seeing,64
+17,1,Rural,40-49,MEGHALAYA,West Garo Hills,Male,In seeing,107
+17,1,Rural,50-59,MEGHALAYA,West Garo Hills,Male,In seeing,154
+17,1,Rural,60-69,MEGHALAYA,West Garo Hills,Male,In seeing,121
+17,1,Rural,70-79,MEGHALAYA,West Garo Hills,Male,In seeing,61
+17,1,Rural,80-89,MEGHALAYA,West Garo Hills,Male,In seeing,22
+17,1,Rural,90+,MEGHALAYA,West Garo Hills,Male,In seeing,10
+17,1,Rural,Age Not Stated,MEGHALAYA,West Garo Hills,Male,In seeing,1
+17,1,Urban,0-4,MEGHALAYA,West Garo Hills,Male,In seeing,1
+17,1,Urban,5-9,MEGHALAYA,West Garo Hills,Male,In seeing,3
+17,1,Urban,10-19,MEGHALAYA,West Garo Hills,Male,In seeing,8
+17,1,Urban,20-29,MEGHALAYA,West Garo Hills,Male,In seeing,9
+17,1,Urban,30-39,MEGHALAYA,West Garo Hills,Male,In seeing,7
+17,1,Urban,40-49,MEGHALAYA,West Garo Hills,Male,In seeing,12
+17,1,Urban,50-59,MEGHALAYA,West Garo Hills,Male,In seeing,9
+17,1,Urban,60-69,MEGHALAYA,West Garo Hills,Male,In seeing,11
+17,1,Urban,70-79,MEGHALAYA,West Garo Hills,Male,In seeing,6
+17,1,Urban,80-89,MEGHALAYA,West Garo Hills,Male,In seeing,3
+17,1,Urban,90+,MEGHALAYA,West Garo Hills,Male,In seeing,1
+17,1,Urban,Age Not Stated,MEGHALAYA,West Garo Hills,Male,In seeing,0
+17,2,Rural,0-4,MEGHALAYA,East Garo Hills,Male,In seeing,13
+17,2,Rural,5-9,MEGHALAYA,East Garo Hills,Male,In seeing,22
+17,2,Rural,10-19,MEGHALAYA,East Garo Hills,Male,In seeing,40
+17,2,Rural,20-29,MEGHALAYA,East Garo Hills,Male,In seeing,35
+17,2,Rural,30-39,MEGHALAYA,East Garo Hills,Male,In seeing,33
+17,2,Rural,40-49,MEGHALAYA,East Garo Hills,Male,In seeing,32
+17,2,Rural,50-59,MEGHALAYA,East Garo Hills,Male,In seeing,35
+17,2,Rural,60-69,MEGHALAYA,East Garo Hills,Male,In seeing,26
+17,2,Rural,70-79,MEGHALAYA,East Garo Hills,Male,In seeing,12
+17,2,Rural,80-89,MEGHALAYA,East Garo Hills,Male,In seeing,2
+17,2,Rural,90+,MEGHALAYA,East Garo Hills,Male,In seeing,1
+17,2,Rural,Age Not Stated,MEGHALAYA,East Garo Hills,Male,In seeing,4
+17,2,Urban,0-4,MEGHALAYA,East Garo Hills,Male,In seeing,5
+17,2,Urban,5-9,MEGHALAYA,East Garo Hills,Male,In seeing,2
+17,2,Urban,10-19,MEGHALAYA,East Garo Hills,Male,In seeing,1
+17,2,Urban,20-29,MEGHALAYA,East Garo Hills,Male,In seeing,8
+17,2,Urban,30-39,MEGHALAYA,East Garo Hills,Male,In seeing,5
+17,2,Urban,40-49,MEGHALAYA,East Garo Hills,Male,In seeing,6
+17,2,Urban,50-59,MEGHALAYA,East Garo Hills,Male,In seeing,3
+17,2,Urban,60-69,MEGHALAYA,East Garo Hills,Male,In seeing,4
+17,2,Urban,70-79,MEGHALAYA,East Garo Hills,Male,In seeing,1
+17,2,Urban,80-89,MEGHALAYA,East Garo Hills,Male,In seeing,0
+17,2,Urban,90+,MEGHALAYA,East Garo Hills,Male,In seeing,0
+17,2,Urban,Age Not Stated,MEGHALAYA,East Garo Hills,Male,In seeing,0
+17,3,Rural,0-4,MEGHALAYA,South Garo Hills,Male,In seeing,7
+17,3,Rural,5-9,MEGHALAYA,South Garo Hills,Male,In seeing,19
+17,3,Rural,10-19,MEGHALAYA,South Garo Hills,Male,In seeing,23
+17,3,Rural,20-29,MEGHALAYA,South Garo Hills,Male,In seeing,21
+17,3,Rural,30-39,MEGHALAYA,South Garo Hills,Male,In seeing,12
+17,3,Rural,40-49,MEGHALAYA,South Garo Hills,Male,In seeing,24
+17,3,Rural,50-59,MEGHALAYA,South Garo Hills,Male,In seeing,27
+17,3,Rural,60-69,MEGHALAYA,South Garo Hills,Male,In seeing,26
+17,3,Rural,70-79,MEGHALAYA,South Garo Hills,Male,In seeing,12
+17,3,Rural,80-89,MEGHALAYA,South Garo Hills,Male,In seeing,4
+17,3,Rural,90+,MEGHALAYA,South Garo Hills,Male,In seeing,2
+17,3,Rural,Age Not Stated,MEGHALAYA,South Garo Hills,Male,In seeing,0
+17,3,Urban,0-4,MEGHALAYA,South Garo Hills,Male,In seeing,0
+17,3,Urban,5-9,MEGHALAYA,South Garo Hills,Male,In seeing,1
+17,3,Urban,10-19,MEGHALAYA,South Garo Hills,Male,In seeing,5
+17,3,Urban,20-29,MEGHALAYA,South Garo Hills,Male,In seeing,3
+17,3,Urban,30-39,MEGHALAYA,South Garo Hills,Male,In seeing,2
+17,3,Urban,40-49,MEGHALAYA,South Garo Hills,Male,In seeing,0
+17,3,Urban,50-59,MEGHALAYA,South Garo Hills,Male,In seeing,3
+17,3,Urban,60-69,MEGHALAYA,South Garo Hills,Male,In seeing,0
+17,3,Urban,70-79,MEGHALAYA,South Garo Hills,Male,In seeing,2
+17,3,Urban,80-89,MEGHALAYA,South Garo Hills,Male,In seeing,0
+17,3,Urban,90+,MEGHALAYA,South Garo Hills,Male,In seeing,0
+17,3,Urban,Age Not Stated,MEGHALAYA,South Garo Hills,Male,In seeing,0
+17,4,Rural,0-4,MEGHALAYA,West Khasi Hills,Male,In seeing,39
+17,4,Rural,5-9,MEGHALAYA,West Khasi Hills,Male,In seeing,35
+17,4,Rural,10-19,MEGHALAYA,West Khasi Hills,Male,In seeing,97
+17,4,Rural,20-29,MEGHALAYA,West Khasi Hills,Male,In seeing,54
+17,4,Rural,30-39,MEGHALAYA,West Khasi Hills,Male,In seeing,32
+17,4,Rural,40-49,MEGHALAYA,West Khasi Hills,Male,In seeing,59
+17,4,Rural,50-59,MEGHALAYA,West Khasi Hills,Male,In seeing,46
+17,4,Rural,60-69,MEGHALAYA,West Khasi Hills,Male,In seeing,31
+17,4,Rural,70-79,MEGHALAYA,West Khasi Hills,Male,In seeing,22
+17,4,Rural,80-89,MEGHALAYA,West Khasi Hills,Male,In seeing,11
+17,4,Rural,90+,MEGHALAYA,West Khasi Hills,Male,In seeing,3
+17,4,Rural,Age Not Stated,MEGHALAYA,West Khasi Hills,Male,In seeing,0
+17,4,Urban,0-4,MEGHALAYA,West Khasi Hills,Male,In seeing,3
+17,4,Urban,5-9,MEGHALAYA,West Khasi Hills,Male,In seeing,2
+17,4,Urban,10-19,MEGHALAYA,West Khasi Hills,Male,In seeing,7
+17,4,Urban,20-29,MEGHALAYA,West Khasi Hills,Male,In seeing,5
+17,4,Urban,30-39,MEGHALAYA,West Khasi Hills,Male,In seeing,5
+17,4,Urban,40-49,MEGHALAYA,West Khasi Hills,Male,In seeing,2
+17,4,Urban,50-59,MEGHALAYA,West Khasi Hills,Male,In seeing,1
+17,4,Urban,60-69,MEGHALAYA,West Khasi Hills,Male,In seeing,3
+17,4,Urban,70-79,MEGHALAYA,West Khasi Hills,Male,In seeing,2
+17,4,Urban,80-89,MEGHALAYA,West Khasi Hills,Male,In seeing,0
+17,4,Urban,90+,MEGHALAYA,West Khasi Hills,Male,In seeing,0
+17,4,Urban,Age Not Stated,MEGHALAYA,West Khasi Hills,Male,In seeing,0
+17,5,Rural,0-4,MEGHALAYA,Ribhoi,Male,In seeing,18
+17,5,Rural,5-9,MEGHALAYA,Ribhoi,Male,In seeing,31
+17,5,Rural,10-19,MEGHALAYA,Ribhoi,Male,In seeing,58
+17,5,Rural,20-29,MEGHALAYA,Ribhoi,Male,In seeing,35
+17,5,Rural,30-39,MEGHALAYA,Ribhoi,Male,In seeing,16
+17,5,Rural,40-49,MEGHALAYA,Ribhoi,Male,In seeing,31
+17,5,Rural,50-59,MEGHALAYA,Ribhoi,Male,In seeing,15
+17,5,Rural,60-69,MEGHALAYA,Ribhoi,Male,In seeing,28
+17,5,Rural,70-79,MEGHALAYA,Ribhoi,Male,In seeing,18
+17,5,Rural,80-89,MEGHALAYA,Ribhoi,Male,In seeing,6
+17,5,Rural,90+,MEGHALAYA,Ribhoi,Male,In seeing,2
+17,5,Rural,Age Not Stated,MEGHALAYA,Ribhoi,Male,In seeing,0
+17,5,Urban,0-4,MEGHALAYA,Ribhoi,Male,In seeing,0
+17,5,Urban,5-9,MEGHALAYA,Ribhoi,Male,In seeing,0
+17,5,Urban,10-19,MEGHALAYA,Ribhoi,Male,In seeing,2
+17,5,Urban,20-29,MEGHALAYA,Ribhoi,Male,In seeing,5
+17,5,Urban,30-39,MEGHALAYA,Ribhoi,Male,In seeing,2
+17,5,Urban,40-49,MEGHALAYA,Ribhoi,Male,In seeing,11
+17,5,Urban,50-59,MEGHALAYA,Ribhoi,Male,In seeing,13
+17,5,Urban,60-69,MEGHALAYA,Ribhoi,Male,In seeing,4
+17,5,Urban,70-79,MEGHALAYA,Ribhoi,Male,In seeing,2
+17,5,Urban,80-89,MEGHALAYA,Ribhoi,Male,In seeing,0
+17,5,Urban,90+,MEGHALAYA,Ribhoi,Male,In seeing,0
+17,5,Urban,Age Not Stated,MEGHALAYA,Ribhoi,Male,In seeing,1
+17,6,Rural,0-4,MEGHALAYA,East Khasi Hills,Male,In seeing,57
+17,6,Rural,5-9,MEGHALAYA,East Khasi Hills,Male,In seeing,101
+17,6,Rural,10-19,MEGHALAYA,East Khasi Hills,Male,In seeing,144
+17,6,Rural,20-29,MEGHALAYA,East Khasi Hills,Male,In seeing,79
+17,6,Rural,30-39,MEGHALAYA,East Khasi Hills,Male,In seeing,69
+17,6,Rural,40-49,MEGHALAYA,East Khasi Hills,Male,In seeing,76
+17,6,Rural,50-59,MEGHALAYA,East Khasi Hills,Male,In seeing,58
+17,6,Rural,60-69,MEGHALAYA,East Khasi Hills,Male,In seeing,53
+17,6,Rural,70-79,MEGHALAYA,East Khasi Hills,Male,In seeing,34
+17,6,Rural,80-89,MEGHALAYA,East Khasi Hills,Male,In seeing,15
+17,6,Rural,90+,MEGHALAYA,East Khasi Hills,Male,In seeing,4
+17,6,Rural,Age Not Stated,MEGHALAYA,East Khasi Hills,Male,In seeing,2
+17,6,Urban,0-4,MEGHALAYA,East Khasi Hills,Male,In seeing,8
+17,6,Urban,5-9,MEGHALAYA,East Khasi Hills,Male,In seeing,20
+17,6,Urban,10-19,MEGHALAYA,East Khasi Hills,Male,In seeing,70
+17,6,Urban,20-29,MEGHALAYA,East Khasi Hills,Male,In seeing,49
+17,6,Urban,30-39,MEGHALAYA,East Khasi Hills,Male,In seeing,28
+17,6,Urban,40-49,MEGHALAYA,East Khasi Hills,Male,In seeing,19
+17,6,Urban,50-59,MEGHALAYA,East Khasi Hills,Male,In seeing,31
+17,6,Urban,60-69,MEGHALAYA,East Khasi Hills,Male,In seeing,22
+17,6,Urban,70-79,MEGHALAYA,East Khasi Hills,Male,In seeing,10
+17,6,Urban,80-89,MEGHALAYA,East Khasi Hills,Male,In seeing,2
+17,6,Urban,90+,MEGHALAYA,East Khasi Hills,Male,In seeing,0
+17,6,Urban,Age Not Stated,MEGHALAYA,East Khasi Hills,Male,In seeing,0
+17,7,Rural,0-4,MEGHALAYA,Jaintia Hills,Male,In seeing,44
+17,7,Rural,5-9,MEGHALAYA,Jaintia Hills,Male,In seeing,57
+17,7,Rural,10-19,MEGHALAYA,Jaintia Hills,Male,In seeing,95
+17,7,Rural,20-29,MEGHALAYA,Jaintia Hills,Male,In seeing,56
+17,7,Rural,30-39,MEGHALAYA,Jaintia Hills,Male,In seeing,32
+17,7,Rural,40-49,MEGHALAYA,Jaintia Hills,Male,In seeing,36
+17,7,Rural,50-59,MEGHALAYA,Jaintia Hills,Male,In seeing,28
+17,7,Rural,60-69,MEGHALAYA,Jaintia Hills,Male,In seeing,12
+17,7,Rural,70-79,MEGHALAYA,Jaintia Hills,Male,In seeing,9
+17,7,Rural,80-89,MEGHALAYA,Jaintia Hills,Male,In seeing,5
+17,7,Rural,90+,MEGHALAYA,Jaintia Hills,Male,In seeing,1
+17,7,Rural,Age Not Stated,MEGHALAYA,Jaintia Hills,Male,In seeing,0
+17,7,Urban,0-4,MEGHALAYA,Jaintia Hills,Male,In seeing,1
+17,7,Urban,5-9,MEGHALAYA,Jaintia Hills,Male,In seeing,0
+17,7,Urban,10-19,MEGHALAYA,Jaintia Hills,Male,In seeing,3
+17,7,Urban,20-29,MEGHALAYA,Jaintia Hills,Male,In seeing,1
+17,7,Urban,30-39,MEGHALAYA,Jaintia Hills,Male,In seeing,7
+17,7,Urban,40-49,MEGHALAYA,Jaintia Hills,Male,In seeing,2
+17,7,Urban,50-59,MEGHALAYA,Jaintia Hills,Male,In seeing,3
+17,7,Urban,60-69,MEGHALAYA,Jaintia Hills,Male,In seeing,1
+17,7,Urban,70-79,MEGHALAYA,Jaintia Hills,Male,In seeing,0
+17,7,Urban,80-89,MEGHALAYA,Jaintia Hills,Male,In seeing,0
+17,7,Urban,90+,MEGHALAYA,Jaintia Hills,Male,In seeing,0
+17,7,Urban,Age Not Stated,MEGHALAYA,Jaintia Hills,Male,In seeing,0
+17,1,Rural,0-4,MEGHALAYA,West Garo Hills,Female,In seeing,41
+17,1,Rural,5-9,MEGHALAYA,West Garo Hills,Female,In seeing,50
+17,1,Rural,10-19,MEGHALAYA,West Garo Hills,Female,In seeing,111
+17,1,Rural,20-29,MEGHALAYA,West Garo Hills,Female,In seeing,86
+17,1,Rural,30-39,MEGHALAYA,West Garo Hills,Female,In seeing,79
+17,1,Rural,40-49,MEGHALAYA,West Garo Hills,Female,In seeing,110
+17,1,Rural,50-59,MEGHALAYA,West Garo Hills,Female,In seeing,163
+17,1,Rural,60-69,MEGHALAYA,West Garo Hills,Female,In seeing,162
+17,1,Rural,70-79,MEGHALAYA,West Garo Hills,Female,In seeing,72
+17,1,Rural,80-89,MEGHALAYA,West Garo Hills,Female,In seeing,30
+17,1,Rural,90+,MEGHALAYA,West Garo Hills,Female,In seeing,5
+17,1,Rural,Age Not Stated,MEGHALAYA,West Garo Hills,Female,In seeing,0
+17,1,Urban,0-4,MEGHALAYA,West Garo Hills,Female,In seeing,2
+17,1,Urban,5-9,MEGHALAYA,West Garo Hills,Female,In seeing,0
+17,1,Urban,10-19,MEGHALAYA,West Garo Hills,Female,In seeing,9
+17,1,Urban,20-29,MEGHALAYA,West Garo Hills,Female,In seeing,4
+17,1,Urban,30-39,MEGHALAYA,West Garo Hills,Female,In seeing,5
+17,1,Urban,40-49,MEGHALAYA,West Garo Hills,Female,In seeing,7
+17,1,Urban,50-59,MEGHALAYA,West Garo Hills,Female,In seeing,6
+17,1,Urban,60-69,MEGHALAYA,West Garo Hills,Female,In seeing,2
+17,1,Urban,70-79,MEGHALAYA,West Garo Hills,Female,In seeing,3
+17,1,Urban,80-89,MEGHALAYA,West Garo Hills,Female,In seeing,0
+17,1,Urban,90+,MEGHALAYA,West Garo Hills,Female,In seeing,1
+17,1,Urban,Age Not Stated,MEGHALAYA,West Garo Hills,Female,In seeing,0
+17,2,Rural,0-4,MEGHALAYA,East Garo Hills,Female,In seeing,12
+17,2,Rural,5-9,MEGHALAYA,East Garo Hills,Female,In seeing,12
+17,2,Rural,10-19,MEGHALAYA,East Garo Hills,Female,In seeing,36
+17,2,Rural,20-29,MEGHALAYA,East Garo Hills,Female,In seeing,37
+17,2,Rural,30-39,MEGHALAYA,East Garo Hills,Female,In seeing,29
+17,2,Rural,40-49,MEGHALAYA,East Garo Hills,Female,In seeing,28
+17,2,Rural,50-59,MEGHALAYA,East Garo Hills,Female,In seeing,26
+17,2,Rural,60-69,MEGHALAYA,East Garo Hills,Female,In seeing,28
+17,2,Rural,70-79,MEGHALAYA,East Garo Hills,Female,In seeing,27
+17,2,Rural,80-89,MEGHALAYA,East Garo Hills,Female,In seeing,4
+17,2,Rural,90+,MEGHALAYA,East Garo Hills,Female,In seeing,1
+17,2,Rural,Age Not Stated,MEGHALAYA,East Garo Hills,Female,In seeing,2
+17,2,Urban,0-4,MEGHALAYA,East Garo Hills,Female,In seeing,5
+17,2,Urban,5-9,MEGHALAYA,East Garo Hills,Female,In seeing,7
+17,2,Urban,10-19,MEGHALAYA,East Garo Hills,Female,In seeing,8
+17,2,Urban,20-29,MEGHALAYA,East Garo Hills,Female,In seeing,5
+17,2,Urban,30-39,MEGHALAYA,East Garo Hills,Female,In seeing,4
+17,2,Urban,40-49,MEGHALAYA,East Garo Hills,Female,In seeing,1
+17,2,Urban,50-59,MEGHALAYA,East Garo Hills,Female,In seeing,2
+17,2,Urban,60-69,MEGHALAYA,East Garo Hills,Female,In seeing,1
+17,2,Urban,70-79,MEGHALAYA,East Garo Hills,Female,In seeing,2
+17,2,Urban,80-89,MEGHALAYA,East Garo Hills,Female,In seeing,1
+17,2,Urban,90+,MEGHALAYA,East Garo Hills,Female,In seeing,0
+17,2,Urban,Age Not Stated,MEGHALAYA,East Garo Hills,Female,In seeing,0
+17,3,Rural,0-4,MEGHALAYA,South Garo Hills,Female,In seeing,10
+17,3,Rural,5-9,MEGHALAYA,South Garo Hills,Female,In seeing,8
+17,3,Rural,10-19,MEGHALAYA,South Garo Hills,Female,In seeing,23
+17,3,Rural,20-29,MEGHALAYA,South Garo Hills,Female,In seeing,20
+17,3,Rural,30-39,MEGHALAYA,South Garo Hills,Female,In seeing,12
+17,3,Rural,40-49,MEGHALAYA,South Garo Hills,Female,In seeing,21
+17,3,Rural,50-59,MEGHALAYA,South Garo Hills,Female,In seeing,29
+17,3,Rural,60-69,MEGHALAYA,South Garo Hills,Female,In seeing,36
+17,3,Rural,70-79,MEGHALAYA,South Garo Hills,Female,In seeing,13
+17,3,Rural,80-89,MEGHALAYA,South Garo Hills,Female,In seeing,2
+17,3,Rural,90+,MEGHALAYA,South Garo Hills,Female,In seeing,1
+17,3,Rural,Age Not Stated,MEGHALAYA,South Garo Hills,Female,In seeing,0
+17,3,Urban,0-4,MEGHALAYA,South Garo Hills,Female,In seeing,1
+17,3,Urban,5-9,MEGHALAYA,South Garo Hills,Female,In seeing,0
+17,3,Urban,10-19,MEGHALAYA,South Garo Hills,Female,In seeing,1
+17,3,Urban,20-29,MEGHALAYA,South Garo Hills,Female,In seeing,2
+17,3,Urban,30-39,MEGHALAYA,South Garo Hills,Female,In seeing,2
+17,3,Urban,40-49,MEGHALAYA,South Garo Hills,Female,In seeing,1
+17,3,Urban,50-59,MEGHALAYA,South Garo Hills,Female,In seeing,1
+17,3,Urban,60-69,MEGHALAYA,South Garo Hills,Female,In seeing,0
+17,3,Urban,70-79,MEGHALAYA,South Garo Hills,Female,In seeing,0
+17,3,Urban,80-89,MEGHALAYA,South Garo Hills,Female,In seeing,0
+17,3,Urban,90+,MEGHALAYA,South Garo Hills,Female,In seeing,0
+17,3,Urban,Age Not Stated,MEGHALAYA,South Garo Hills,Female,In seeing,0
+17,4,Rural,0-4,MEGHALAYA,West Khasi Hills,Female,In seeing,29
+17,4,Rural,5-9,MEGHALAYA,West Khasi Hills,Female,In seeing,45
+17,4,Rural,10-19,MEGHALAYA,West Khasi Hills,Female,In seeing,89
+17,4,Rural,20-29,MEGHALAYA,West Khasi Hills,Female,In seeing,43
+17,4,Rural,30-39,MEGHALAYA,West Khasi Hills,Female,In seeing,27
+17,4,Rural,40-49,MEGHALAYA,West Khasi Hills,Female,In seeing,46
+17,4,Rural,50-59,MEGHALAYA,West Khasi Hills,Female,In seeing,43
+17,4,Rural,60-69,MEGHALAYA,West Khasi Hills,Female,In seeing,32
+17,4,Rural,70-79,MEGHALAYA,West Khasi Hills,Female,In seeing,31
+17,4,Rural,80-89,MEGHALAYA,West Khasi Hills,Female,In seeing,15
+17,4,Rural,90+,MEGHALAYA,West Khasi Hills,Female,In seeing,4
+17,4,Rural,Age Not Stated,MEGHALAYA,West Khasi Hills,Female,In seeing,0
+17,4,Urban,0-4,MEGHALAYA,West Khasi Hills,Female,In seeing,3
+17,4,Urban,5-9,MEGHALAYA,West Khasi Hills,Female,In seeing,2
+17,4,Urban,10-19,MEGHALAYA,West Khasi Hills,Female,In seeing,7
+17,4,Urban,20-29,MEGHALAYA,West Khasi Hills,Female,In seeing,3
+17,4,Urban,30-39,MEGHALAYA,West Khasi Hills,Female,In seeing,4
+17,4,Urban,40-49,MEGHALAYA,West Khasi Hills,Female,In seeing,4
+17,4,Urban,50-59,MEGHALAYA,West Khasi Hills,Female,In seeing,1
+17,4,Urban,60-69,MEGHALAYA,West Khasi Hills,Female,In seeing,2
+17,4,Urban,70-79,MEGHALAYA,West Khasi Hills,Female,In seeing,1
+17,4,Urban,80-89,MEGHALAYA,West Khasi Hills,Female,In seeing,0
+17,4,Urban,90+,MEGHALAYA,West Khasi Hills,Female,In seeing,0
+17,4,Urban,Age Not Stated,MEGHALAYA,West Khasi Hills,Female,In seeing,0
+17,5,Rural,0-4,MEGHALAYA,Ribhoi,Female,In seeing,12
+17,5,Rural,5-9,MEGHALAYA,Ribhoi,Female,In seeing,24
+17,5,Rural,10-19,MEGHALAYA,Ribhoi,Female,In seeing,49
+17,5,Rural,20-29,MEGHALAYA,Ribhoi,Female,In seeing,22
+17,5,Rural,30-39,MEGHALAYA,Ribhoi,Female,In seeing,21
+17,5,Rural,40-49,MEGHALAYA,Ribhoi,Female,In seeing,15
+17,5,Rural,50-59,MEGHALAYA,Ribhoi,Female,In seeing,16
+17,5,Rural,60-69,MEGHALAYA,Ribhoi,Female,In seeing,18
+17,5,Rural,70-79,MEGHALAYA,Ribhoi,Female,In seeing,7
+17,5,Rural,80-89,MEGHALAYA,Ribhoi,Female,In seeing,3
+17,5,Rural,90+,MEGHALAYA,Ribhoi,Female,In seeing,3
+17,5,Rural,Age Not Stated,MEGHALAYA,Ribhoi,Female,In seeing,1
+17,5,Urban,0-4,MEGHALAYA,Ribhoi,Female,In seeing,2
+17,5,Urban,5-9,MEGHALAYA,Ribhoi,Female,In seeing,2
+17,5,Urban,10-19,MEGHALAYA,Ribhoi,Female,In seeing,3
+17,5,Urban,20-29,MEGHALAYA,Ribhoi,Female,In seeing,7
+17,5,Urban,30-39,MEGHALAYA,Ribhoi,Female,In seeing,5
+17,5,Urban,40-49,MEGHALAYA,Ribhoi,Female,In seeing,7
+17,5,Urban,50-59,MEGHALAYA,Ribhoi,Female,In seeing,3
+17,5,Urban,60-69,MEGHALAYA,Ribhoi,Female,In seeing,4
+17,5,Urban,70-79,MEGHALAYA,Ribhoi,Female,In seeing,3
+17,5,Urban,80-89,MEGHALAYA,Ribhoi,Female,In seeing,0
+17,5,Urban,90+,MEGHALAYA,Ribhoi,Female,In seeing,0
+17,5,Urban,Age Not Stated,MEGHALAYA,Ribhoi,Female,In seeing,0
+17,6,Rural,0-4,MEGHALAYA,East Khasi Hills,Female,In seeing,66
+17,6,Rural,5-9,MEGHALAYA,East Khasi Hills,Female,In seeing,77
+17,6,Rural,10-19,MEGHALAYA,East Khasi Hills,Female,In seeing,142
+17,6,Rural,20-29,MEGHALAYA,East Khasi Hills,Female,In seeing,89
+17,6,Rural,30-39,MEGHALAYA,East Khasi Hills,Female,In seeing,74
+17,6,Rural,40-49,MEGHALAYA,East Khasi Hills,Female,In seeing,78
+17,6,Rural,50-59,MEGHALAYA,East Khasi Hills,Female,In seeing,73
+17,6,Rural,60-69,MEGHALAYA,East Khasi Hills,Female,In seeing,73
+17,6,Rural,70-79,MEGHALAYA,East Khasi Hills,Female,In seeing,43
+17,6,Rural,80-89,MEGHALAYA,East Khasi Hills,Female,In seeing,28
+17,6,Rural,90+,MEGHALAYA,East Khasi Hills,Female,In seeing,13
+17,6,Rural,Age Not Stated,MEGHALAYA,East Khasi Hills,Female,In seeing,0
+17,6,Urban,0-4,MEGHALAYA,East Khasi Hills,Female,In seeing,9
+17,6,Urban,5-9,MEGHALAYA,East Khasi Hills,Female,In seeing,18
+17,6,Urban,10-19,MEGHALAYA,East Khasi Hills,Female,In seeing,59
+17,6,Urban,20-29,MEGHALAYA,East Khasi Hills,Female,In seeing,33
+17,6,Urban,30-39,MEGHALAYA,East Khasi Hills,Female,In seeing,30
+17,6,Urban,40-49,MEGHALAYA,East Khasi Hills,Female,In seeing,38
+17,6,Urban,50-59,MEGHALAYA,East Khasi Hills,Female,In seeing,21
+17,6,Urban,60-69,MEGHALAYA,East Khasi Hills,Female,In seeing,27
+17,6,Urban,70-79,MEGHALAYA,East Khasi Hills,Female,In seeing,23
+17,6,Urban,80-89,MEGHALAYA,East Khasi Hills,Female,In seeing,7
+17,6,Urban,90+,MEGHALAYA,East Khasi Hills,Female,In seeing,1
+17,6,Urban,Age Not Stated,MEGHALAYA,East Khasi Hills,Female,In seeing,1
+17,7,Rural,0-4,MEGHALAYA,Jaintia Hills,Female,In seeing,45
+17,7,Rural,5-9,MEGHALAYA,Jaintia Hills,Female,In seeing,46
+17,7,Rural,10-19,MEGHALAYA,Jaintia Hills,Female,In seeing,84
+17,7,Rural,20-29,MEGHALAYA,Jaintia Hills,Female,In seeing,53
+17,7,Rural,30-39,MEGHALAYA,Jaintia Hills,Female,In seeing,33
+17,7,Rural,40-49,MEGHALAYA,Jaintia Hills,Female,In seeing,37
+17,7,Rural,50-59,MEGHALAYA,Jaintia Hills,Female,In seeing,20
+17,7,Rural,60-69,MEGHALAYA,Jaintia Hills,Female,In seeing,32
+17,7,Rural,70-79,MEGHALAYA,Jaintia Hills,Female,In seeing,10
+17,7,Rural,80-89,MEGHALAYA,Jaintia Hills,Female,In seeing,2
+17,7,Rural,90+,MEGHALAYA,Jaintia Hills,Female,In seeing,2
+17,7,Rural,Age Not Stated,MEGHALAYA,Jaintia Hills,Female,In seeing,2
+17,7,Urban,0-4,MEGHALAYA,Jaintia Hills,Female,In seeing,1
+17,7,Urban,5-9,MEGHALAYA,Jaintia Hills,Female,In seeing,3
+17,7,Urban,10-19,MEGHALAYA,Jaintia Hills,Female,In seeing,5
+17,7,Urban,20-29,MEGHALAYA,Jaintia Hills,Female,In seeing,2
+17,7,Urban,30-39,MEGHALAYA,Jaintia Hills,Female,In seeing,3
+17,7,Urban,40-49,MEGHALAYA,Jaintia Hills,Female,In seeing,8
+17,7,Urban,50-59,MEGHALAYA,Jaintia Hills,Female,In seeing,2
+17,7,Urban,60-69,MEGHALAYA,Jaintia Hills,Female,In seeing,2
+17,7,Urban,70-79,MEGHALAYA,Jaintia Hills,Female,In seeing,1
+17,7,Urban,80-89,MEGHALAYA,Jaintia Hills,Female,In seeing,3
+17,7,Urban,90+,MEGHALAYA,Jaintia Hills,Female,In seeing,0
+17,7,Urban,Age Not Stated,MEGHALAYA,Jaintia Hills,Female,In seeing,0
+17,1,Rural,0-4,MEGHALAYA,West Garo Hills,Male,In Speech,9
+17,1,Rural,5-9,MEGHALAYA,West Garo Hills,Male,In Speech,35
+17,1,Rural,10-19,MEGHALAYA,West Garo Hills,Male,In Speech,76
+17,1,Rural,20-29,MEGHALAYA,West Garo Hills,Male,In Speech,59
+17,1,Rural,30-39,MEGHALAYA,West Garo Hills,Male,In Speech,53
+17,1,Rural,40-49,MEGHALAYA,West Garo Hills,Male,In Speech,41
+17,1,Rural,50-59,MEGHALAYA,West Garo Hills,Male,In Speech,17
+17,1,Rural,60-69,MEGHALAYA,West Garo Hills,Male,In Speech,9
+17,1,Rural,70-79,MEGHALAYA,West Garo Hills,Male,In Speech,4
+17,1,Rural,80-89,MEGHALAYA,West Garo Hills,Male,In Speech,0
+17,1,Rural,90+,MEGHALAYA,West Garo Hills,Male,In Speech,1
+17,1,Rural,Age Not Stated,MEGHALAYA,West Garo Hills,Male,In Speech,1
+17,1,Urban,0-4,MEGHALAYA,West Garo Hills,Male,In Speech,1
+17,1,Urban,5-9,MEGHALAYA,West Garo Hills,Male,In Speech,2
+17,1,Urban,10-19,MEGHALAYA,West Garo Hills,Male,In Speech,9
+17,1,Urban,20-29,MEGHALAYA,West Garo Hills,Male,In Speech,4
+17,1,Urban,30-39,MEGHALAYA,West Garo Hills,Male,In Speech,4
+17,1,Urban,40-49,MEGHALAYA,West Garo Hills,Male,In Speech,1
+17,1,Urban,50-59,MEGHALAYA,West Garo Hills,Male,In Speech,3
+17,1,Urban,60-69,MEGHALAYA,West Garo Hills,Male,In Speech,3
+17,1,Urban,70-79,MEGHALAYA,West Garo Hills,Male,In Speech,0
+17,1,Urban,80-89,MEGHALAYA,West Garo Hills,Male,In Speech,0
+17,1,Urban,90+,MEGHALAYA,West Garo Hills,Male,In Speech,0
+17,1,Urban,Age Not Stated,MEGHALAYA,West Garo Hills,Male,In Speech,0
+17,2,Rural,0-4,MEGHALAYA,East Garo Hills,Male,In Speech,1
+17,2,Rural,5-9,MEGHALAYA,East Garo Hills,Male,In Speech,14
+17,2,Rural,10-19,MEGHALAYA,East Garo Hills,Male,In Speech,33
+17,2,Rural,20-29,MEGHALAYA,East Garo Hills,Male,In Speech,25
+17,2,Rural,30-39,MEGHALAYA,East Garo Hills,Male,In Speech,19
+17,2,Rural,40-49,MEGHALAYA,East Garo Hills,Male,In Speech,18
+17,2,Rural,50-59,MEGHALAYA,East Garo Hills,Male,In Speech,8
+17,2,Rural,60-69,MEGHALAYA,East Garo Hills,Male,In Speech,5
+17,2,Rural,70-79,MEGHALAYA,East Garo Hills,Male,In Speech,1
+17,2,Rural,80-89,MEGHALAYA,East Garo Hills,Male,In Speech,0
+17,2,Rural,90+,MEGHALAYA,East Garo Hills,Male,In Speech,1
+17,2,Rural,Age Not Stated,MEGHALAYA,East Garo Hills,Male,In Speech,0
+17,2,Urban,0-4,MEGHALAYA,East Garo Hills,Male,In Speech,0
+17,2,Urban,5-9,MEGHALAYA,East Garo Hills,Male,In Speech,5
+17,2,Urban,10-19,MEGHALAYA,East Garo Hills,Male,In Speech,5
+17,2,Urban,20-29,MEGHALAYA,East Garo Hills,Male,In Speech,5
+17,2,Urban,30-39,MEGHALAYA,East Garo Hills,Male,In Speech,1
+17,2,Urban,40-49,MEGHALAYA,East Garo Hills,Male,In Speech,1
+17,2,Urban,50-59,MEGHALAYA,East Garo Hills,Male,In Speech,0
+17,2,Urban,60-69,MEGHALAYA,East Garo Hills,Male,In Speech,1
+17,2,Urban,70-79,MEGHALAYA,East Garo Hills,Male,In Speech,0
+17,2,Urban,80-89,MEGHALAYA,East Garo Hills,Male,In Speech,0
+17,2,Urban,90+,MEGHALAYA,East Garo Hills,Male,In Speech,0
+17,2,Urban,Age Not Stated,MEGHALAYA,East Garo Hills,Male,In Speech,0
+17,3,Rural,0-4,MEGHALAYA,South Garo Hills,Male,In Speech,3
+17,3,Rural,5-9,MEGHALAYA,South Garo Hills,Male,In Speech,12
+17,3,Rural,10-19,MEGHALAYA,South Garo Hills,Male,In Speech,25
+17,3,Rural,20-29,MEGHALAYA,South Garo Hills,Male,In Speech,12
+17,3,Rural,30-39,MEGHALAYA,South Garo Hills,Male,In Speech,9
+17,3,Rural,40-49,MEGHALAYA,South Garo Hills,Male,In Speech,10
+17,3,Rural,50-59,MEGHALAYA,South Garo Hills,Male,In Speech,3
+17,3,Rural,60-69,MEGHALAYA,South Garo Hills,Male,In Speech,2
+17,3,Rural,70-79,MEGHALAYA,South Garo Hills,Male,In Speech,2
+17,3,Rural,80-89,MEGHALAYA,South Garo Hills,Male,In Speech,0
+17,3,Rural,90+,MEGHALAYA,South Garo Hills,Male,In Speech,0
+17,3,Rural,Age Not Stated,MEGHALAYA,South Garo Hills,Male,In Speech,0
+17,3,Urban,0-4,MEGHALAYA,South Garo Hills,Male,In Speech,0
+17,3,Urban,5-9,MEGHALAYA,South Garo Hills,Male,In Speech,1
+17,3,Urban,10-19,MEGHALAYA,South Garo Hills,Male,In Speech,2
+17,3,Urban,20-29,MEGHALAYA,South Garo Hills,Male,In Speech,1
+17,3,Urban,30-39,MEGHALAYA,South Garo Hills,Male,In Speech,0
+17,3,Urban,40-49,MEGHALAYA,South Garo Hills,Male,In Speech,1
+17,3,Urban,50-59,MEGHALAYA,South Garo Hills,Male,In Speech,0
+17,3,Urban,60-69,MEGHALAYA,South Garo Hills,Male,In Speech,0
+17,3,Urban,70-79,MEGHALAYA,South Garo Hills,Male,In Speech,1
+17,3,Urban,80-89,MEGHALAYA,South Garo Hills,Male,In Speech,0
+17,3,Urban,90+,MEGHALAYA,South Garo Hills,Male,In Speech,0
+17,3,Urban,Age Not Stated,MEGHALAYA,South Garo Hills,Male,In Speech,0
+17,4,Rural,0-4,MEGHALAYA,West Khasi Hills,Male,In Speech,4
+17,4,Rural,5-9,MEGHALAYA,West Khasi Hills,Male,In Speech,30
+17,4,Rural,10-19,MEGHALAYA,West Khasi Hills,Male,In Speech,58
+17,4,Rural,20-29,MEGHALAYA,West Khasi Hills,Male,In Speech,35
+17,4,Rural,30-39,MEGHALAYA,West Khasi Hills,Male,In Speech,26
+17,4,Rural,40-49,MEGHALAYA,West Khasi Hills,Male,In Speech,18
+17,4,Rural,50-59,MEGHALAYA,West Khasi Hills,Male,In Speech,10
+17,4,Rural,60-69,MEGHALAYA,West Khasi Hills,Male,In Speech,8
+17,4,Rural,70-79,MEGHALAYA,West Khasi Hills,Male,In Speech,2
+17,4,Rural,80-89,MEGHALAYA,West Khasi Hills,Male,In Speech,0
+17,4,Rural,90+,MEGHALAYA,West Khasi Hills,Male,In Speech,0
+17,4,Rural,Age Not Stated,MEGHALAYA,West Khasi Hills,Male,In Speech,0
+17,4,Urban,0-4,MEGHALAYA,West Khasi Hills,Male,In Speech,1
+17,4,Urban,5-9,MEGHALAYA,West Khasi Hills,Male,In Speech,8
+17,4,Urban,10-19,MEGHALAYA,West Khasi Hills,Male,In Speech,4
+17,4,Urban,20-29,MEGHALAYA,West Khasi Hills,Male,In Speech,3
+17,4,Urban,30-39,MEGHALAYA,West Khasi Hills,Male,In Speech,1
+17,4,Urban,40-49,MEGHALAYA,West Khasi Hills,Male,In Speech,1
+17,4,Urban,50-59,MEGHALAYA,West Khasi Hills,Male,In Speech,0
+17,4,Urban,60-69,MEGHALAYA,West Khasi Hills,Male,In Speech,0
+17,4,Urban,70-79,MEGHALAYA,West Khasi Hills,Male,In Speech,0
+17,4,Urban,80-89,MEGHALAYA,West Khasi Hills,Male,In Speech,0
+17,4,Urban,90+,MEGHALAYA,West Khasi Hills,Male,In Speech,0
+17,4,Urban,Age Not Stated,MEGHALAYA,West Khasi Hills,Male,In Speech,0
+17,5,Rural,0-4,MEGHALAYA,Ribhoi,Male,In Speech,3
+17,5,Rural,5-9,MEGHALAYA,Ribhoi,Male,In Speech,16
+17,5,Rural,10-19,MEGHALAYA,Ribhoi,Male,In Speech,42
+17,5,Rural,20-29,MEGHALAYA,Ribhoi,Male,In Speech,34
+17,5,Rural,30-39,MEGHALAYA,Ribhoi,Male,In Speech,26
+17,5,Rural,40-49,MEGHALAYA,Ribhoi,Male,In Speech,20
+17,5,Rural,50-59,MEGHALAYA,Ribhoi,Male,In Speech,6
+17,5,Rural,60-69,MEGHALAYA,Ribhoi,Male,In Speech,6
+17,5,Rural,70-79,MEGHALAYA,Ribhoi,Male,In Speech,0
+17,5,Rural,80-89,MEGHALAYA,Ribhoi,Male,In Speech,0
+17,5,Rural,90+,MEGHALAYA,Ribhoi,Male,In Speech,0
+17,5,Rural,Age Not Stated,MEGHALAYA,Ribhoi,Male,In Speech,0
+17,5,Urban,0-4,MEGHALAYA,Ribhoi,Male,In Speech,0
+17,5,Urban,5-9,MEGHALAYA,Ribhoi,Male,In Speech,0
+17,5,Urban,10-19,MEGHALAYA,Ribhoi,Male,In Speech,5
+17,5,Urban,20-29,MEGHALAYA,Ribhoi,Male,In Speech,0
+17,5,Urban,30-39,MEGHALAYA,Ribhoi,Male,In Speech,3
+17,5,Urban,40-49,MEGHALAYA,Ribhoi,Male,In Speech,0
+17,5,Urban,50-59,MEGHALAYA,Ribhoi,Male,In Speech,0
+17,5,Urban,60-69,MEGHALAYA,Ribhoi,Male,In Speech,0
+17,5,Urban,70-79,MEGHALAYA,Ribhoi,Male,In Speech,0
+17,5,Urban,80-89,MEGHALAYA,Ribhoi,Male,In Speech,0
+17,5,Urban,90+,MEGHALAYA,Ribhoi,Male,In Speech,0
+17,5,Urban,Age Not Stated,MEGHALAYA,Ribhoi,Male,In Speech,0
+17,6,Rural,0-4,MEGHALAYA,East Khasi Hills,Male,In Speech,2
+17,6,Rural,5-9,MEGHALAYA,East Khasi Hills,Male,In Speech,46
+17,6,Rural,10-19,MEGHALAYA,East Khasi Hills,Male,In Speech,68
+17,6,Rural,20-29,MEGHALAYA,East Khasi Hills,Male,In Speech,37
+17,6,Rural,30-39,MEGHALAYA,East Khasi Hills,Male,In Speech,22
+17,6,Rural,40-49,MEGHALAYA,East Khasi Hills,Male,In Speech,13
+17,6,Rural,50-59,MEGHALAYA,East Khasi Hills,Male,In Speech,15
+17,6,Rural,60-69,MEGHALAYA,East Khasi Hills,Male,In Speech,2
+17,6,Rural,70-79,MEGHALAYA,East Khasi Hills,Male,In Speech,5
+17,6,Rural,80-89,MEGHALAYA,East Khasi Hills,Male,In Speech,1
+17,6,Rural,90+,MEGHALAYA,East Khasi Hills,Male,In Speech,1
+17,6,Rural,Age Not Stated,MEGHALAYA,East Khasi Hills,Male,In Speech,0
+17,6,Urban,0-4,MEGHALAYA,East Khasi Hills,Male,In Speech,2
+17,6,Urban,5-9,MEGHALAYA,East Khasi Hills,Male,In Speech,10
+17,6,Urban,10-19,MEGHALAYA,East Khasi Hills,Male,In Speech,27
+17,6,Urban,20-29,MEGHALAYA,East Khasi Hills,Male,In Speech,15
+17,6,Urban,30-39,MEGHALAYA,East Khasi Hills,Male,In Speech,16
+17,6,Urban,40-49,MEGHALAYA,East Khasi Hills,Male,In Speech,15
+17,6,Urban,50-59,MEGHALAYA,East Khasi Hills,Male,In Speech,8
+17,6,Urban,60-69,MEGHALAYA,East Khasi Hills,Male,In Speech,5
+17,6,Urban,70-79,MEGHALAYA,East Khasi Hills,Male,In Speech,1
+17,6,Urban,80-89,MEGHALAYA,East Khasi Hills,Male,In Speech,0
+17,6,Urban,90+,MEGHALAYA,East Khasi Hills,Male,In Speech,0
+17,6,Urban,Age Not Stated,MEGHALAYA,East Khasi Hills,Male,In Speech,0
+17,7,Rural,0-4,MEGHALAYA,Jaintia Hills,Male,In Speech,8
+17,7,Rural,5-9,MEGHALAYA,Jaintia Hills,Male,In Speech,35
+17,7,Rural,10-19,MEGHALAYA,Jaintia Hills,Male,In Speech,48
+17,7,Rural,20-29,MEGHALAYA,Jaintia Hills,Male,In Speech,28
+17,7,Rural,30-39,MEGHALAYA,Jaintia Hills,Male,In Speech,20
+17,7,Rural,40-49,MEGHALAYA,Jaintia Hills,Male,In Speech,14
+17,7,Rural,50-59,MEGHALAYA,Jaintia Hills,Male,In Speech,2
+17,7,Rural,60-69,MEGHALAYA,Jaintia Hills,Male,In Speech,7
+17,7,Rural,70-79,MEGHALAYA,Jaintia Hills,Male,In Speech,1
+17,7,Rural,80-89,MEGHALAYA,Jaintia Hills,Male,In Speech,1
+17,7,Rural,90+,MEGHALAYA,Jaintia Hills,Male,In Speech,0
+17,7,Rural,Age Not Stated,MEGHALAYA,Jaintia Hills,Male,In Speech,0
+17,7,Urban,0-4,MEGHALAYA,Jaintia Hills,Male,In Speech,0
+17,7,Urban,5-9,MEGHALAYA,Jaintia Hills,Male,In Speech,1
+17,7,Urban,10-19,MEGHALAYA,Jaintia Hills,Male,In Speech,3
+17,7,Urban,20-29,MEGHALAYA,Jaintia Hills,Male,In Speech,1
+17,7,Urban,30-39,MEGHALAYA,Jaintia Hills,Male,In Speech,2
+17,7,Urban,40-49,MEGHALAYA,Jaintia Hills,Male,In Speech,1
+17,7,Urban,50-59,MEGHALAYA,Jaintia Hills,Male,In Speech,0
+17,7,Urban,60-69,MEGHALAYA,Jaintia Hills,Male,In Speech,0
+17,7,Urban,70-79,MEGHALAYA,Jaintia Hills,Male,In Speech,0
+17,7,Urban,80-89,MEGHALAYA,Jaintia Hills,Male,In Speech,0
+17,7,Urban,90+,MEGHALAYA,Jaintia Hills,Male,In Speech,0
+17,7,Urban,Age Not Stated,MEGHALAYA,Jaintia Hills,Male,In Speech,0
+17,1,Rural,0-4,MEGHALAYA,West Garo Hills,Female,In Speech,8
+17,1,Rural,5-9,MEGHALAYA,West Garo Hills,Female,In Speech,17
+17,1,Rural,10-19,MEGHALAYA,West Garo Hills,Female,In Speech,65
+17,1,Rural,20-29,MEGHALAYA,West Garo Hills,Female,In Speech,56
+17,1,Rural,30-39,MEGHALAYA,West Garo Hills,Female,In Speech,50
+17,1,Rural,40-49,MEGHALAYA,West Garo Hills,Female,In Speech,33
+17,1,Rural,50-59,MEGHALAYA,West Garo Hills,Female,In Speech,14
+17,1,Rural,60-69,MEGHALAYA,West Garo Hills,Female,In Speech,9
+17,1,Rural,70-79,MEGHALAYA,West Garo Hills,Female,In Speech,10
+17,1,Rural,80-89,MEGHALAYA,West Garo Hills,Female,In Speech,1
+17,1,Rural,90+,MEGHALAYA,West Garo Hills,Female,In Speech,2
+17,1,Rural,Age Not Stated,MEGHALAYA,West Garo Hills,Female,In Speech,2
+17,1,Urban,0-4,MEGHALAYA,West Garo Hills,Female,In Speech,0
+17,1,Urban,5-9,MEGHALAYA,West Garo Hills,Female,In Speech,0
+17,1,Urban,10-19,MEGHALAYA,West Garo Hills,Female,In Speech,12
+17,1,Urban,20-29,MEGHALAYA,West Garo Hills,Female,In Speech,7
+17,1,Urban,30-39,MEGHALAYA,West Garo Hills,Female,In Speech,3
+17,1,Urban,40-49,MEGHALAYA,West Garo Hills,Female,In Speech,7
+17,1,Urban,50-59,MEGHALAYA,West Garo Hills,Female,In Speech,2
+17,1,Urban,60-69,MEGHALAYA,West Garo Hills,Female,In Speech,0
+17,1,Urban,70-79,MEGHALAYA,West Garo Hills,Female,In Speech,0
+17,1,Urban,80-89,MEGHALAYA,West Garo Hills,Female,In Speech,0
+17,1,Urban,90+,MEGHALAYA,West Garo Hills,Female,In Speech,0
+17,1,Urban,Age Not Stated,MEGHALAYA,West Garo Hills,Female,In Speech,0
+17,2,Rural,0-4,MEGHALAYA,East Garo Hills,Female,In Speech,0
+17,2,Rural,5-9,MEGHALAYA,East Garo Hills,Female,In Speech,25
+17,2,Rural,10-19,MEGHALAYA,East Garo Hills,Female,In Speech,35
+17,2,Rural,20-29,MEGHALAYA,East Garo Hills,Female,In Speech,25
+17,2,Rural,30-39,MEGHALAYA,East Garo Hills,Female,In Speech,20
+17,2,Rural,40-49,MEGHALAYA,East Garo Hills,Female,In Speech,9
+17,2,Rural,50-59,MEGHALAYA,East Garo Hills,Female,In Speech,6
+17,2,Rural,60-69,MEGHALAYA,East Garo Hills,Female,In Speech,3
+17,2,Rural,70-79,MEGHALAYA,East Garo Hills,Female,In Speech,1
+17,2,Rural,80-89,MEGHALAYA,East Garo Hills,Female,In Speech,0
+17,2,Rural,90+,MEGHALAYA,East Garo Hills,Female,In Speech,1
+17,2,Rural,Age Not Stated,MEGHALAYA,East Garo Hills,Female,In Speech,0
+17,2,Urban,0-4,MEGHALAYA,East Garo Hills,Female,In Speech,0
+17,2,Urban,5-9,MEGHALAYA,East Garo Hills,Female,In Speech,4
+17,2,Urban,10-19,MEGHALAYA,East Garo Hills,Female,In Speech,5
+17,2,Urban,20-29,MEGHALAYA,East Garo Hills,Female,In Speech,2
+17,2,Urban,30-39,MEGHALAYA,East Garo Hills,Female,In Speech,2
+17,2,Urban,40-49,MEGHALAYA,East Garo Hills,Female,In Speech,4
+17,2,Urban,50-59,MEGHALAYA,East Garo Hills,Female,In Speech,0
+17,2,Urban,60-69,MEGHALAYA,East Garo Hills,Female,In Speech,0
+17,2,Urban,70-79,MEGHALAYA,East Garo Hills,Female,In Speech,0
+17,2,Urban,80-89,MEGHALAYA,East Garo Hills,Female,In Speech,1
+17,2,Urban,90+,MEGHALAYA,East Garo Hills,Female,In Speech,0
+17,2,Urban,Age Not Stated,MEGHALAYA,East Garo Hills,Female,In Speech,0
+17,3,Rural,0-4,MEGHALAYA,South Garo Hills,Female,In Speech,2
+17,3,Rural,5-9,MEGHALAYA,South Garo Hills,Female,In Speech,9
+17,3,Rural,10-19,MEGHALAYA,South Garo Hills,Female,In Speech,15
+17,3,Rural,20-29,MEGHALAYA,South Garo Hills,Female,In Speech,18
+17,3,Rural,30-39,MEGHALAYA,South Garo Hills,Female,In Speech,12
+17,3,Rural,40-49,MEGHALAYA,South Garo Hills,Female,In Speech,7
+17,3,Rural,50-59,MEGHALAYA,South Garo Hills,Female,In Speech,6
+17,3,Rural,60-69,MEGHALAYA,South Garo Hills,Female,In Speech,1
+17,3,Rural,70-79,MEGHALAYA,South Garo Hills,Female,In Speech,2
+17,3,Rural,80-89,MEGHALAYA,South Garo Hills,Female,In Speech,0
+17,3,Rural,90+,MEGHALAYA,South Garo Hills,Female,In Speech,0
+17,3,Rural,Age Not Stated,MEGHALAYA,South Garo Hills,Female,In Speech,0
+17,3,Urban,0-4,MEGHALAYA,South Garo Hills,Female,In Speech,1
+17,3,Urban,5-9,MEGHALAYA,South Garo Hills,Female,In Speech,2
+17,3,Urban,10-19,MEGHALAYA,South Garo Hills,Female,In Speech,0
+17,3,Urban,20-29,MEGHALAYA,South Garo Hills,Female,In Speech,0
+17,3,Urban,30-39,MEGHALAYA,South Garo Hills,Female,In Speech,1
+17,3,Urban,40-49,MEGHALAYA,South Garo Hills,Female,In Speech,0
+17,3,Urban,50-59,MEGHALAYA,South Garo Hills,Female,In Speech,1
+17,3,Urban,60-69,MEGHALAYA,South Garo Hills,Female,In Speech,0
+17,3,Urban,70-79,MEGHALAYA,South Garo Hills,Female,In Speech,0
+17,3,Urban,80-89,MEGHALAYA,South Garo Hills,Female,In Speech,0
+17,3,Urban,90+,MEGHALAYA,South Garo Hills,Female,In Speech,0
+17,3,Urban,Age Not Stated,MEGHALAYA,South Garo Hills,Female,In Speech,0
+17,4,Rural,0-4,MEGHALAYA,West Khasi Hills,Female,In Speech,4
+17,4,Rural,5-9,MEGHALAYA,West Khasi Hills,Female,In Speech,31
+17,4,Rural,10-19,MEGHALAYA,West Khasi Hills,Female,In Speech,41
+17,4,Rural,20-29,MEGHALAYA,West Khasi Hills,Female,In Speech,18
+17,4,Rural,30-39,MEGHALAYA,West Khasi Hills,Female,In Speech,12
+17,4,Rural,40-49,MEGHALAYA,West Khasi Hills,Female,In Speech,10
+17,4,Rural,50-59,MEGHALAYA,West Khasi Hills,Female,In Speech,5
+17,4,Rural,60-69,MEGHALAYA,West Khasi Hills,Female,In Speech,4
+17,4,Rural,70-79,MEGHALAYA,West Khasi Hills,Female,In Speech,0
+17,4,Rural,80-89,MEGHALAYA,West Khasi Hills,Female,In Speech,0
+17,4,Rural,90+,MEGHALAYA,West Khasi Hills,Female,In Speech,0
+17,4,Rural,Age Not Stated,MEGHALAYA,West Khasi Hills,Female,In Speech,0
+17,4,Urban,0-4,MEGHALAYA,West Khasi Hills,Female,In Speech,2
+17,4,Urban,5-9,MEGHALAYA,West Khasi Hills,Female,In Speech,5
+17,4,Urban,10-19,MEGHALAYA,West Khasi Hills,Female,In Speech,8
+17,4,Urban,20-29,MEGHALAYA,West Khasi Hills,Female,In Speech,4
+17,4,Urban,30-39,MEGHALAYA,West Khasi Hills,Female,In Speech,3
+17,4,Urban,40-49,MEGHALAYA,West Khasi Hills,Female,In Speech,3
+17,4,Urban,50-59,MEGHALAYA,West Khasi Hills,Female,In Speech,0
+17,4,Urban,60-69,MEGHALAYA,West Khasi Hills,Female,In Speech,0
+17,4,Urban,70-79,MEGHALAYA,West Khasi Hills,Female,In Speech,0
+17,4,Urban,80-89,MEGHALAYA,West Khasi Hills,Female,In Speech,0
+17,4,Urban,90+,MEGHALAYA,West Khasi Hills,Female,In Speech,0
+17,4,Urban,Age Not Stated,MEGHALAYA,West Khasi Hills,Female,In Speech,0
+17,5,Rural,0-4,MEGHALAYA,Ribhoi,Female,In Speech,2
+17,5,Rural,5-9,MEGHALAYA,Ribhoi,Female,In Speech,22
+17,5,Rural,10-19,MEGHALAYA,Ribhoi,Female,In Speech,20
+17,5,Rural,20-29,MEGHALAYA,Ribhoi,Female,In Speech,32
+17,5,Rural,30-39,MEGHALAYA,Ribhoi,Female,In Speech,19
+17,5,Rural,40-49,MEGHALAYA,Ribhoi,Female,In Speech,19
+17,5,Rural,50-59,MEGHALAYA,Ribhoi,Female,In Speech,6
+17,5,Rural,60-69,MEGHALAYA,Ribhoi,Female,In Speech,6
+17,5,Rural,70-79,MEGHALAYA,Ribhoi,Female,In Speech,1
+17,5,Rural,80-89,MEGHALAYA,Ribhoi,Female,In Speech,3
+17,5,Rural,90+,MEGHALAYA,Ribhoi,Female,In Speech,0
+17,5,Rural,Age Not Stated,MEGHALAYA,Ribhoi,Female,In Speech,0
+17,5,Urban,0-4,MEGHALAYA,Ribhoi,Female,In Speech,0
+17,5,Urban,5-9,MEGHALAYA,Ribhoi,Female,In Speech,2
+17,5,Urban,10-19,MEGHALAYA,Ribhoi,Female,In Speech,1
+17,5,Urban,20-29,MEGHALAYA,Ribhoi,Female,In Speech,2
+17,5,Urban,30-39,MEGHALAYA,Ribhoi,Female,In Speech,2
+17,5,Urban,40-49,MEGHALAYA,Ribhoi,Female,In Speech,1
+17,5,Urban,50-59,MEGHALAYA,Ribhoi,Female,In Speech,0
+17,5,Urban,60-69,MEGHALAYA,Ribhoi,Female,In Speech,1
+17,5,Urban,70-79,MEGHALAYA,Ribhoi,Female,In Speech,0
+17,5,Urban,80-89,MEGHALAYA,Ribhoi,Female,In Speech,0
+17,5,Urban,90+,MEGHALAYA,Ribhoi,Female,In Speech,0
+17,5,Urban,Age Not Stated,MEGHALAYA,Ribhoi,Female,In Speech,0
+17,6,Rural,0-4,MEGHALAYA,East Khasi Hills,Female,In Speech,8
+17,6,Rural,5-9,MEGHALAYA,East Khasi Hills,Female,In Speech,43
+17,6,Rural,10-19,MEGHALAYA,East Khasi Hills,Female,In Speech,61
+17,6,Rural,20-29,MEGHALAYA,East Khasi Hills,Female,In Speech,38
+17,6,Rural,30-39,MEGHALAYA,East Khasi Hills,Female,In Speech,25
+17,6,Rural,40-49,MEGHALAYA,East Khasi Hills,Female,In Speech,14
+17,6,Rural,50-59,MEGHALAYA,East Khasi Hills,Female,In Speech,9
+17,6,Rural,60-69,MEGHALAYA,East Khasi Hills,Female,In Speech,3
+17,6,Rural,70-79,MEGHALAYA,East Khasi Hills,Female,In Speech,5
+17,6,Rural,80-89,MEGHALAYA,East Khasi Hills,Female,In Speech,1
+17,6,Rural,90+,MEGHALAYA,East Khasi Hills,Female,In Speech,0
+17,6,Rural,Age Not Stated,MEGHALAYA,East Khasi Hills,Female,In Speech,0
+17,6,Urban,0-4,MEGHALAYA,East Khasi Hills,Female,In Speech,3
+17,6,Urban,5-9,MEGHALAYA,East Khasi Hills,Female,In Speech,10
+17,6,Urban,10-19,MEGHALAYA,East Khasi Hills,Female,In Speech,24
+17,6,Urban,20-29,MEGHALAYA,East Khasi Hills,Female,In Speech,20
+17,6,Urban,30-39,MEGHALAYA,East Khasi Hills,Female,In Speech,23
+17,6,Urban,40-49,MEGHALAYA,East Khasi Hills,Female,In Speech,5
+17,6,Urban,50-59,MEGHALAYA,East Khasi Hills,Female,In Speech,9
+17,6,Urban,60-69,MEGHALAYA,East Khasi Hills,Female,In Speech,1
+17,6,Urban,70-79,MEGHALAYA,East Khasi Hills,Female,In Speech,1
+17,6,Urban,80-89,MEGHALAYA,East Khasi Hills,Female,In Speech,0
+17,6,Urban,90+,MEGHALAYA,East Khasi Hills,Female,In Speech,0
+17,6,Urban,Age Not Stated,MEGHALAYA,East Khasi Hills,Female,In Speech,0
+17,7,Rural,0-4,MEGHALAYA,Jaintia Hills,Female,In Speech,8
+17,7,Rural,5-9,MEGHALAYA,Jaintia Hills,Female,In Speech,35
+17,7,Rural,10-19,MEGHALAYA,Jaintia Hills,Female,In Speech,52
+17,7,Rural,20-29,MEGHALAYA,Jaintia Hills,Female,In Speech,31
+17,7,Rural,30-39,MEGHALAYA,Jaintia Hills,Female,In Speech,27
+17,7,Rural,40-49,MEGHALAYA,Jaintia Hills,Female,In Speech,11
+17,7,Rural,50-59,MEGHALAYA,Jaintia Hills,Female,In Speech,7
+17,7,Rural,60-69,MEGHALAYA,Jaintia Hills,Female,In Speech,2
+17,7,Rural,70-79,MEGHALAYA,Jaintia Hills,Female,In Speech,2
+17,7,Rural,80-89,MEGHALAYA,Jaintia Hills,Female,In Speech,0
+17,7,Rural,90+,MEGHALAYA,Jaintia Hills,Female,In Speech,0
+17,7,Rural,Age Not Stated,MEGHALAYA,Jaintia Hills,Female,In Speech,0
+17,7,Urban,0-4,MEGHALAYA,Jaintia Hills,Female,In Speech,0
+17,7,Urban,5-9,MEGHALAYA,Jaintia Hills,Female,In Speech,2
+17,7,Urban,10-19,MEGHALAYA,Jaintia Hills,Female,In Speech,4
+17,7,Urban,20-29,MEGHALAYA,Jaintia Hills,Female,In Speech,1
+17,7,Urban,30-39,MEGHALAYA,Jaintia Hills,Female,In Speech,0
+17,7,Urban,40-49,MEGHALAYA,Jaintia Hills,Female,In Speech,2
+17,7,Urban,50-59,MEGHALAYA,Jaintia Hills,Female,In Speech,1
+17,7,Urban,60-69,MEGHALAYA,Jaintia Hills,Female,In Speech,0
+17,7,Urban,70-79,MEGHALAYA,Jaintia Hills,Female,In Speech,0
+17,7,Urban,80-89,MEGHALAYA,Jaintia Hills,Female,In Speech,0
+17,7,Urban,90+,MEGHALAYA,Jaintia Hills,Female,In Speech,0
+17,7,Urban,Age Not Stated,MEGHALAYA,Jaintia Hills,Female,In Speech,0
+17,1,Rural,0-4,MEGHALAYA,West Garo Hills,Male,In Hearing,92
+17,1,Rural,5-9,MEGHALAYA,West Garo Hills,Male,In Hearing,129
+17,1,Rural,10-19,MEGHALAYA,West Garo Hills,Male,In Hearing,234
+17,1,Rural,20-29,MEGHALAYA,West Garo Hills,Male,In Hearing,188
+17,1,Rural,30-39,MEGHALAYA,West Garo Hills,Male,In Hearing,126
+17,1,Rural,40-49,MEGHALAYA,West Garo Hills,Male,In Hearing,163
+17,1,Rural,50-59,MEGHALAYA,West Garo Hills,Male,In Hearing,166
+17,1,Rural,60-69,MEGHALAYA,West Garo Hills,Male,In Hearing,151
+17,1,Rural,70-79,MEGHALAYA,West Garo Hills,Male,In Hearing,62
+17,1,Rural,80-89,MEGHALAYA,West Garo Hills,Male,In Hearing,22
+17,1,Rural,90+,MEGHALAYA,West Garo Hills,Male,In Hearing,9
+17,1,Rural,Age Not Stated,MEGHALAYA,West Garo Hills,Male,In Hearing,2
+17,1,Urban,0-4,MEGHALAYA,West Garo Hills,Male,In Hearing,5
+17,1,Urban,5-9,MEGHALAYA,West Garo Hills,Male,In Hearing,4
+17,1,Urban,10-19,MEGHALAYA,West Garo Hills,Male,In Hearing,20
+17,1,Urban,20-29,MEGHALAYA,West Garo Hills,Male,In Hearing,15
+17,1,Urban,30-39,MEGHALAYA,West Garo Hills,Male,In Hearing,9
+17,1,Urban,40-49,MEGHALAYA,West Garo Hills,Male,In Hearing,9
+17,1,Urban,50-59,MEGHALAYA,West Garo Hills,Male,In Hearing,12
+17,1,Urban,60-69,MEGHALAYA,West Garo Hills,Male,In Hearing,8
+17,1,Urban,70-79,MEGHALAYA,West Garo Hills,Male,In Hearing,7
+17,1,Urban,80-89,MEGHALAYA,West Garo Hills,Male,In Hearing,3
+17,1,Urban,90+,MEGHALAYA,West Garo Hills,Male,In Hearing,0
+17,1,Urban,Age Not Stated,MEGHALAYA,West Garo Hills,Male,In Hearing,0
+17,2,Rural,0-4,MEGHALAYA,East Garo Hills,Male,In Hearing,79
+17,2,Rural,5-9,MEGHALAYA,East Garo Hills,Male,In Hearing,77
+17,2,Rural,10-19,MEGHALAYA,East Garo Hills,Male,In Hearing,195
+17,2,Rural,20-29,MEGHALAYA,East Garo Hills,Male,In Hearing,142
+17,2,Rural,30-39,MEGHALAYA,East Garo Hills,Male,In Hearing,104
+17,2,Rural,40-49,MEGHALAYA,East Garo Hills,Male,In Hearing,85
+17,2,Rural,50-59,MEGHALAYA,East Garo Hills,Male,In Hearing,52
+17,2,Rural,60-69,MEGHALAYA,East Garo Hills,Male,In Hearing,53
+17,2,Rural,70-79,MEGHALAYA,East Garo Hills,Male,In Hearing,32
+17,2,Rural,80-89,MEGHALAYA,East Garo Hills,Male,In Hearing,8
+17,2,Rural,90+,MEGHALAYA,East Garo Hills,Male,In Hearing,5
+17,2,Rural,Age Not Stated,MEGHALAYA,East Garo Hills,Male,In Hearing,0
+17,2,Urban,0-4,MEGHALAYA,East Garo Hills,Male,In Hearing,1
+17,2,Urban,5-9,MEGHALAYA,East Garo Hills,Male,In Hearing,7
+17,2,Urban,10-19,MEGHALAYA,East Garo Hills,Male,In Hearing,10
+17,2,Urban,20-29,MEGHALAYA,East Garo Hills,Male,In Hearing,119
+17,2,Urban,30-39,MEGHALAYA,East Garo Hills,Male,In Hearing,11
+17,2,Urban,40-49,MEGHALAYA,East Garo Hills,Male,In Hearing,8
+17,2,Urban,50-59,MEGHALAYA,East Garo Hills,Male,In Hearing,4
+17,2,Urban,60-69,MEGHALAYA,East Garo Hills,Male,In Hearing,6
+17,2,Urban,70-79,MEGHALAYA,East Garo Hills,Male,In Hearing,2
+17,2,Urban,80-89,MEGHALAYA,East Garo Hills,Male,In Hearing,4
+17,2,Urban,90+,MEGHALAYA,East Garo Hills,Male,In Hearing,0
+17,2,Urban,Age Not Stated,MEGHALAYA,East Garo Hills,Male,In Hearing,185
+17,3,Rural,0-4,MEGHALAYA,South Garo Hills,Male,In Hearing,45
+17,3,Rural,5-9,MEGHALAYA,South Garo Hills,Male,In Hearing,45
+17,3,Rural,10-19,MEGHALAYA,South Garo Hills,Male,In Hearing,85
+17,3,Rural,20-29,MEGHALAYA,South Garo Hills,Male,In Hearing,71
+17,3,Rural,30-39,MEGHALAYA,South Garo Hills,Male,In Hearing,59
+17,3,Rural,40-49,MEGHALAYA,South Garo Hills,Male,In Hearing,46
+17,3,Rural,50-59,MEGHALAYA,South Garo Hills,Male,In Hearing,32
+17,3,Rural,60-69,MEGHALAYA,South Garo Hills,Male,In Hearing,31
+17,3,Rural,70-79,MEGHALAYA,South Garo Hills,Male,In Hearing,17
+17,3,Rural,80-89,MEGHALAYA,South Garo Hills,Male,In Hearing,8
+17,3,Rural,90+,MEGHALAYA,South Garo Hills,Male,In Hearing,3
+17,3,Rural,Age Not Stated,MEGHALAYA,South Garo Hills,Male,In Hearing,1
+17,3,Urban,0-4,MEGHALAYA,South Garo Hills,Male,In Hearing,5
+17,3,Urban,5-9,MEGHALAYA,South Garo Hills,Male,In Hearing,1
+17,3,Urban,10-19,MEGHALAYA,South Garo Hills,Male,In Hearing,5
+17,3,Urban,20-29,MEGHALAYA,South Garo Hills,Male,In Hearing,3
+17,3,Urban,30-39,MEGHALAYA,South Garo Hills,Male,In Hearing,3
+17,3,Urban,40-49,MEGHALAYA,South Garo Hills,Male,In Hearing,5
+17,3,Urban,50-59,MEGHALAYA,South Garo Hills,Male,In Hearing,2
+17,3,Urban,60-69,MEGHALAYA,South Garo Hills,Male,In Hearing,3
+17,3,Urban,70-79,MEGHALAYA,South Garo Hills,Male,In Hearing,2
+17,3,Urban,80-89,MEGHALAYA,South Garo Hills,Male,In Hearing,2
+17,3,Urban,90+,MEGHALAYA,South Garo Hills,Male,In Hearing,0
+17,3,Urban,Age Not Stated,MEGHALAYA,South Garo Hills,Male,In Hearing,0
+17,4,Rural,0-4,MEGHALAYA,West Khasi Hills,Male,In Hearing,87
+17,4,Rural,5-9,MEGHALAYA,West Khasi Hills,Male,In Hearing,122
+17,4,Rural,10-19,MEGHALAYA,West Khasi Hills,Male,In Hearing,196
+17,4,Rural,20-29,MEGHALAYA,West Khasi Hills,Male,In Hearing,118
+17,4,Rural,30-39,MEGHALAYA,West Khasi Hills,Male,In Hearing,78
+17,4,Rural,40-49,MEGHALAYA,West Khasi Hills,Male,In Hearing,77
+17,4,Rural,50-59,MEGHALAYA,West Khasi Hills,Male,In Hearing,67
+17,4,Rural,60-69,MEGHALAYA,West Khasi Hills,Male,In Hearing,45
+17,4,Rural,70-79,MEGHALAYA,West Khasi Hills,Male,In Hearing,31
+17,4,Rural,80-89,MEGHALAYA,West Khasi Hills,Male,In Hearing,13
+17,4,Rural,90+,MEGHALAYA,West Khasi Hills,Male,In Hearing,5
+17,4,Rural,Age Not Stated,MEGHALAYA,West Khasi Hills,Male,In Hearing,53
+17,4,Urban,0-4,MEGHALAYA,West Khasi Hills,Male,In Hearing,2
+17,4,Urban,5-9,MEGHALAYA,West Khasi Hills,Male,In Hearing,7
+17,4,Urban,10-19,MEGHALAYA,West Khasi Hills,Male,In Hearing,13
+17,4,Urban,20-29,MEGHALAYA,West Khasi Hills,Male,In Hearing,11
+17,4,Urban,30-39,MEGHALAYA,West Khasi Hills,Male,In Hearing,5
+17,4,Urban,40-49,MEGHALAYA,West Khasi Hills,Male,In Hearing,2
+17,4,Urban,50-59,MEGHALAYA,West Khasi Hills,Male,In Hearing,4
+17,4,Urban,60-69,MEGHALAYA,West Khasi Hills,Male,In Hearing,3
+17,4,Urban,70-79,MEGHALAYA,West Khasi Hills,Male,In Hearing,0
+17,4,Urban,80-89,MEGHALAYA,West Khasi Hills,Male,In Hearing,1
+17,4,Urban,90+,MEGHALAYA,West Khasi Hills,Male,In Hearing,0
+17,4,Urban,Age Not Stated,MEGHALAYA,West Khasi Hills,Male,In Hearing,0
+17,5,Rural,0-4,MEGHALAYA,Ribhoi,Male,In Hearing,37
+17,5,Rural,5-9,MEGHALAYA,Ribhoi,Male,In Hearing,51
+17,5,Rural,10-19,MEGHALAYA,Ribhoi,Male,In Hearing,95
+17,5,Rural,20-29,MEGHALAYA,Ribhoi,Male,In Hearing,52
+17,5,Rural,30-39,MEGHALAYA,Ribhoi,Male,In Hearing,75
+17,5,Rural,40-49,MEGHALAYA,Ribhoi,Male,In Hearing,64
+17,5,Rural,50-59,MEGHALAYA,Ribhoi,Male,In Hearing,40
+17,5,Rural,60-69,MEGHALAYA,Ribhoi,Male,In Hearing,36
+17,5,Rural,70-79,MEGHALAYA,Ribhoi,Male,In Hearing,18
+17,5,Rural,80-89,MEGHALAYA,Ribhoi,Male,In Hearing,6
+17,5,Rural,90+,MEGHALAYA,Ribhoi,Male,In Hearing,0
+17,5,Rural,Age Not Stated,MEGHALAYA,Ribhoi,Male,In Hearing,0
+17,5,Urban,0-4,MEGHALAYA,Ribhoi,Male,In Hearing,3
+17,5,Urban,5-9,MEGHALAYA,Ribhoi,Male,In Hearing,3
+17,5,Urban,10-19,MEGHALAYA,Ribhoi,Male,In Hearing,5
+17,5,Urban,20-29,MEGHALAYA,Ribhoi,Male,In Hearing,5
+17,5,Urban,30-39,MEGHALAYA,Ribhoi,Male,In Hearing,7
+17,5,Urban,40-49,MEGHALAYA,Ribhoi,Male,In Hearing,8
+17,5,Urban,50-59,MEGHALAYA,Ribhoi,Male,In Hearing,0
+17,5,Urban,60-69,MEGHALAYA,Ribhoi,Male,In Hearing,0
+17,5,Urban,70-79,MEGHALAYA,Ribhoi,Male,In Hearing,0
+17,5,Urban,80-89,MEGHALAYA,Ribhoi,Male,In Hearing,1
+17,5,Urban,90+,MEGHALAYA,Ribhoi,Male,In Hearing,0
+17,5,Urban,Age Not Stated,MEGHALAYA,Ribhoi,Male,In Hearing,0
+17,6,Rural,0-4,MEGHALAYA,East Khasi Hills,Male,In Hearing,46
+17,6,Rural,5-9,MEGHALAYA,East Khasi Hills,Male,In Hearing,110
+17,6,Rural,10-19,MEGHALAYA,East Khasi Hills,Male,In Hearing,215
+17,6,Rural,20-29,MEGHALAYA,East Khasi Hills,Male,In Hearing,120
+17,6,Rural,30-39,MEGHALAYA,East Khasi Hills,Male,In Hearing,101
+17,6,Rural,40-49,MEGHALAYA,East Khasi Hills,Male,In Hearing,78
+17,6,Rural,50-59,MEGHALAYA,East Khasi Hills,Male,In Hearing,67
+17,6,Rural,60-69,MEGHALAYA,East Khasi Hills,Male,In Hearing,39
+17,6,Rural,70-79,MEGHALAYA,East Khasi Hills,Male,In Hearing,28
+17,6,Rural,80-89,MEGHALAYA,East Khasi Hills,Male,In Hearing,20
+17,6,Rural,90+,MEGHALAYA,East Khasi Hills,Male,In Hearing,3
+17,6,Rural,Age Not Stated,MEGHALAYA,East Khasi Hills,Male,In Hearing,0
+17,6,Urban,0-4,MEGHALAYA,East Khasi Hills,Male,In Hearing,26
+17,6,Urban,5-9,MEGHALAYA,East Khasi Hills,Male,In Hearing,26
+17,6,Urban,10-19,MEGHALAYA,East Khasi Hills,Male,In Hearing,150
+17,6,Urban,20-29,MEGHALAYA,East Khasi Hills,Male,In Hearing,76
+17,6,Urban,30-39,MEGHALAYA,East Khasi Hills,Male,In Hearing,58
+17,6,Urban,40-49,MEGHALAYA,East Khasi Hills,Male,In Hearing,66
+17,6,Urban,50-59,MEGHALAYA,East Khasi Hills,Male,In Hearing,29
+17,6,Urban,60-69,MEGHALAYA,East Khasi Hills,Male,In Hearing,19
+17,6,Urban,70-79,MEGHALAYA,East Khasi Hills,Male,In Hearing,14
+17,6,Urban,80-89,MEGHALAYA,East Khasi Hills,Male,In Hearing,4
+17,6,Urban,90+,MEGHALAYA,East Khasi Hills,Male,In Hearing,1
+17,6,Urban,Age Not Stated,MEGHALAYA,East Khasi Hills,Male,In Hearing,0
+17,7,Rural,0-4,MEGHALAYA,Jaintia Hills,Male,In Hearing,67
+17,7,Rural,5-9,MEGHALAYA,Jaintia Hills,Male,In Hearing,78
+17,7,Rural,10-19,MEGHALAYA,Jaintia Hills,Male,In Hearing,192
+17,7,Rural,20-29,MEGHALAYA,Jaintia Hills,Male,In Hearing,114
+17,7,Rural,30-39,MEGHALAYA,Jaintia Hills,Male,In Hearing,74
+17,7,Rural,40-49,MEGHALAYA,Jaintia Hills,Male,In Hearing,69
+17,7,Rural,50-59,MEGHALAYA,Jaintia Hills,Male,In Hearing,35
+17,7,Rural,60-69,MEGHALAYA,Jaintia Hills,Male,In Hearing,28
+17,7,Rural,70-79,MEGHALAYA,Jaintia Hills,Male,In Hearing,19
+17,7,Rural,80-89,MEGHALAYA,Jaintia Hills,Male,In Hearing,4
+17,7,Rural,90+,MEGHALAYA,Jaintia Hills,Male,In Hearing,0
+17,7,Rural,Age Not Stated,MEGHALAYA,Jaintia Hills,Male,In Hearing,4
+17,7,Urban,0-4,MEGHALAYA,Jaintia Hills,Male,In Hearing,1
+17,7,Urban,5-9,MEGHALAYA,Jaintia Hills,Male,In Hearing,3
+17,7,Urban,10-19,MEGHALAYA,Jaintia Hills,Male,In Hearing,7
+17,7,Urban,20-29,MEGHALAYA,Jaintia Hills,Male,In Hearing,6
+17,7,Urban,30-39,MEGHALAYA,Jaintia Hills,Male,In Hearing,2
+17,7,Urban,40-49,MEGHALAYA,Jaintia Hills,Male,In Hearing,3
+17,7,Urban,50-59,MEGHALAYA,Jaintia Hills,Male,In Hearing,2
+17,7,Urban,60-69,MEGHALAYA,Jaintia Hills,Male,In Hearing,2
+17,7,Urban,70-79,MEGHALAYA,Jaintia Hills,Male,In Hearing,0
+17,7,Urban,80-89,MEGHALAYA,Jaintia Hills,Male,In Hearing,0
+17,7,Urban,90+,MEGHALAYA,Jaintia Hills,Male,In Hearing,0
+17,7,Urban,Age Not Stated,MEGHALAYA,Jaintia Hills,Male,In Hearing,0
+17,1,Rural,0-4,MEGHALAYA,West Garo Hills,Female,In Hearing,102
+17,1,Rural,5-9,MEGHALAYA,West Garo Hills,Female,In Hearing,112
+17,1,Rural,10-19,MEGHALAYA,West Garo Hills,Female,In Hearing,251
+17,1,Rural,20-29,MEGHALAYA,West Garo Hills,Female,In Hearing,177
+17,1,Rural,30-39,MEGHALAYA,West Garo Hills,Female,In Hearing,148
+17,1,Rural,40-49,MEGHALAYA,West Garo Hills,Female,In Hearing,171
+17,1,Rural,50-59,MEGHALAYA,West Garo Hills,Female,In Hearing,145
+17,1,Rural,60-69,MEGHALAYA,West Garo Hills,Female,In Hearing,133
+17,1,Rural,70-79,MEGHALAYA,West Garo Hills,Female,In Hearing,68
+17,1,Rural,80-89,MEGHALAYA,West Garo Hills,Female,In Hearing,24
+17,1,Rural,90+,MEGHALAYA,West Garo Hills,Female,In Hearing,8
+17,1,Rural,Age Not Stated,MEGHALAYA,West Garo Hills,Female,In Hearing,2
+17,1,Urban,0-4,MEGHALAYA,West Garo Hills,Female,In Hearing,3
+17,1,Urban,5-9,MEGHALAYA,West Garo Hills,Female,In Hearing,5
+17,1,Urban,10-19,MEGHALAYA,West Garo Hills,Female,In Hearing,17
+17,1,Urban,20-29,MEGHALAYA,West Garo Hills,Female,In Hearing,14
+17,1,Urban,30-39,MEGHALAYA,West Garo Hills,Female,In Hearing,10
+17,1,Urban,40-49,MEGHALAYA,West Garo Hills,Female,In Hearing,19
+17,1,Urban,50-59,MEGHALAYA,West Garo Hills,Female,In Hearing,10
+17,1,Urban,60-69,MEGHALAYA,West Garo Hills,Female,In Hearing,6
+17,1,Urban,70-79,MEGHALAYA,West Garo Hills,Female,In Hearing,3
+17,1,Urban,80-89,MEGHALAYA,West Garo Hills,Female,In Hearing,2
+17,1,Urban,90+,MEGHALAYA,West Garo Hills,Female,In Hearing,0
+17,1,Urban,Age Not Stated,MEGHALAYA,West Garo Hills,Female,In Hearing,0
+17,2,Rural,0-4,MEGHALAYA,East Garo Hills,Female,In Hearing,74
+17,2,Rural,5-9,MEGHALAYA,East Garo Hills,Female,In Hearing,65
+17,2,Rural,10-19,MEGHALAYA,East Garo Hills,Female,In Hearing,172
+17,2,Rural,20-29,MEGHALAYA,East Garo Hills,Female,In Hearing,143
+17,2,Rural,30-39,MEGHALAYA,East Garo Hills,Female,In Hearing,93
+17,2,Rural,40-49,MEGHALAYA,East Garo Hills,Female,In Hearing,62
+17,2,Rural,50-59,MEGHALAYA,East Garo Hills,Female,In Hearing,62
+17,2,Rural,60-69,MEGHALAYA,East Garo Hills,Female,In Hearing,44
+17,2,Rural,70-79,MEGHALAYA,East Garo Hills,Female,In Hearing,25
+17,2,Rural,80-89,MEGHALAYA,East Garo Hills,Female,In Hearing,2
+17,2,Rural,90+,MEGHALAYA,East Garo Hills,Female,In Hearing,0
+17,2,Rural,Age Not Stated,MEGHALAYA,East Garo Hills,Female,In Hearing,0
+17,2,Urban,0-4,MEGHALAYA,East Garo Hills,Female,In Hearing,0
+17,2,Urban,5-9,MEGHALAYA,East Garo Hills,Female,In Hearing,6
+17,2,Urban,10-19,MEGHALAYA,East Garo Hills,Female,In Hearing,12
+17,2,Urban,20-29,MEGHALAYA,East Garo Hills,Female,In Hearing,7
+17,2,Urban,30-39,MEGHALAYA,East Garo Hills,Female,In Hearing,6
+17,2,Urban,40-49,MEGHALAYA,East Garo Hills,Female,In Hearing,5
+17,2,Urban,50-59,MEGHALAYA,East Garo Hills,Female,In Hearing,3
+17,2,Urban,60-69,MEGHALAYA,East Garo Hills,Female,In Hearing,6
+17,2,Urban,70-79,MEGHALAYA,East Garo Hills,Female,In Hearing,4
+17,2,Urban,80-89,MEGHALAYA,East Garo Hills,Female,In Hearing,1
+17,2,Urban,90+,MEGHALAYA,East Garo Hills,Female,In Hearing,0
+17,2,Urban,Age Not Stated,MEGHALAYA,East Garo Hills,Female,In Hearing,0
+17,3,Rural,0-4,MEGHALAYA,South Garo Hills,Female,In Hearing,48
+17,3,Rural,5-9,MEGHALAYA,South Garo Hills,Female,In Hearing,40
+17,3,Rural,10-19,MEGHALAYA,South Garo Hills,Female,In Hearing,87
+17,3,Rural,20-29,MEGHALAYA,South Garo Hills,Female,In Hearing,72
+17,3,Rural,30-39,MEGHALAYA,South Garo Hills,Female,In Hearing,51
+17,3,Rural,40-49,MEGHALAYA,South Garo Hills,Female,In Hearing,37
+17,3,Rural,50-59,MEGHALAYA,South Garo Hills,Female,In Hearing,22
+17,3,Rural,60-69,MEGHALAYA,South Garo Hills,Female,In Hearing,21
+17,3,Rural,70-79,MEGHALAYA,South Garo Hills,Female,In Hearing,11
+17,3,Rural,80-89,MEGHALAYA,South Garo Hills,Female,In Hearing,5
+17,3,Rural,90+,MEGHALAYA,South Garo Hills,Female,In Hearing,2
+17,3,Rural,Age Not Stated,MEGHALAYA,South Garo Hills,Female,In Hearing,0
+17,3,Urban,0-4,MEGHALAYA,South Garo Hills,Female,In Hearing,3
+17,3,Urban,5-9,MEGHALAYA,South Garo Hills,Female,In Hearing,6
+17,3,Urban,10-19,MEGHALAYA,South Garo Hills,Female,In Hearing,5
+17,3,Urban,20-29,MEGHALAYA,South Garo Hills,Female,In Hearing,4
+17,3,Urban,30-39,MEGHALAYA,South Garo Hills,Female,In Hearing,5
+17,3,Urban,40-49,MEGHALAYA,South Garo Hills,Female,In Hearing,2
+17,3,Urban,50-59,MEGHALAYA,South Garo Hills,Female,In Hearing,2
+17,3,Urban,60-69,MEGHALAYA,South Garo Hills,Female,In Hearing,2
+17,3,Urban,70-79,MEGHALAYA,South Garo Hills,Female,In Hearing,2
+17,3,Urban,80-89,MEGHALAYA,South Garo Hills,Female,In Hearing,0
+17,3,Urban,90+,MEGHALAYA,South Garo Hills,Female,In Hearing,0
+17,3,Urban,Age Not Stated,MEGHALAYA,South Garo Hills,Female,In Hearing,0
+17,4,Rural,0-4,MEGHALAYA,West Khasi Hills,Female,In Hearing,83
+17,4,Rural,5-9,MEGHALAYA,West Khasi Hills,Female,In Hearing,87
+17,4,Rural,10-19,MEGHALAYA,West Khasi Hills,Female,In Hearing,165
+17,4,Rural,20-29,MEGHALAYA,West Khasi Hills,Female,In Hearing,126
+17,4,Rural,30-39,MEGHALAYA,West Khasi Hills,Female,In Hearing,84
+17,4,Rural,40-49,MEGHALAYA,West Khasi Hills,Female,In Hearing,62
+17,4,Rural,50-59,MEGHALAYA,West Khasi Hills,Female,In Hearing,51
+17,4,Rural,60-69,MEGHALAYA,West Khasi Hills,Female,In Hearing,42
+17,4,Rural,70-79,MEGHALAYA,West Khasi Hills,Female,In Hearing,38
+17,4,Rural,80-89,MEGHALAYA,West Khasi Hills,Female,In Hearing,12
+17,4,Rural,90+,MEGHALAYA,West Khasi Hills,Female,In Hearing,8
+17,4,Rural,Age Not Stated,MEGHALAYA,West Khasi Hills,Female,In Hearing,49
+17,4,Urban,0-4,MEGHALAYA,West Khasi Hills,Female,In Hearing,7
+17,4,Urban,5-9,MEGHALAYA,West Khasi Hills,Female,In Hearing,5
+17,4,Urban,10-19,MEGHALAYA,West Khasi Hills,Female,In Hearing,13
+17,4,Urban,20-29,MEGHALAYA,West Khasi Hills,Female,In Hearing,8
+17,4,Urban,30-39,MEGHALAYA,West Khasi Hills,Female,In Hearing,6
+17,4,Urban,40-49,MEGHALAYA,West Khasi Hills,Female,In Hearing,4
+17,4,Urban,50-59,MEGHALAYA,West Khasi Hills,Female,In Hearing,4
+17,4,Urban,60-69,MEGHALAYA,West Khasi Hills,Female,In Hearing,2
+17,4,Urban,70-79,MEGHALAYA,West Khasi Hills,Female,In Hearing,3
+17,4,Urban,80-89,MEGHALAYA,West Khasi Hills,Female,In Hearing,1
+17,4,Urban,90+,MEGHALAYA,West Khasi Hills,Female,In Hearing,1
+17,4,Urban,Age Not Stated,MEGHALAYA,West Khasi Hills,Female,In Hearing,0
+17,5,Rural,0-4,MEGHALAYA,Ribhoi,Female,In Hearing,24
+17,5,Rural,5-9,MEGHALAYA,Ribhoi,Female,In Hearing,38
+17,5,Rural,10-19,MEGHALAYA,Ribhoi,Female,In Hearing,81
+17,5,Rural,20-29,MEGHALAYA,Ribhoi,Female,In Hearing,58
+17,5,Rural,30-39,MEGHALAYA,Ribhoi,Female,In Hearing,60
+17,5,Rural,40-49,MEGHALAYA,Ribhoi,Female,In Hearing,40
+17,5,Rural,50-59,MEGHALAYA,Ribhoi,Female,In Hearing,36
+17,5,Rural,60-69,MEGHALAYA,Ribhoi,Female,In Hearing,31
+17,5,Rural,70-79,MEGHALAYA,Ribhoi,Female,In Hearing,17
+17,5,Rural,80-89,MEGHALAYA,Ribhoi,Female,In Hearing,5
+17,5,Rural,90+,MEGHALAYA,Ribhoi,Female,In Hearing,3
+17,5,Rural,Age Not Stated,MEGHALAYA,Ribhoi,Female,In Hearing,1
+17,5,Urban,0-4,MEGHALAYA,Ribhoi,Female,In Hearing,3
+17,5,Urban,5-9,MEGHALAYA,Ribhoi,Female,In Hearing,5
+17,5,Urban,10-19,MEGHALAYA,Ribhoi,Female,In Hearing,6
+17,5,Urban,20-29,MEGHALAYA,Ribhoi,Female,In Hearing,4
+17,5,Urban,30-39,MEGHALAYA,Ribhoi,Female,In Hearing,3
+17,5,Urban,40-49,MEGHALAYA,Ribhoi,Female,In Hearing,6
+17,5,Urban,50-59,MEGHALAYA,Ribhoi,Female,In Hearing,2
+17,5,Urban,60-69,MEGHALAYA,Ribhoi,Female,In Hearing,3
+17,5,Urban,70-79,MEGHALAYA,Ribhoi,Female,In Hearing,5
+17,5,Urban,80-89,MEGHALAYA,Ribhoi,Female,In Hearing,3
+17,5,Urban,90+,MEGHALAYA,Ribhoi,Female,In Hearing,1
+17,5,Urban,Age Not Stated,MEGHALAYA,Ribhoi,Female,In Hearing,0
+17,6,Rural,0-4,MEGHALAYA,East Khasi Hills,Female,In Hearing,53
+17,6,Rural,5-9,MEGHALAYA,East Khasi Hills,Female,In Hearing,70
+17,6,Rural,10-19,MEGHALAYA,East Khasi Hills,Female,In Hearing,173
+17,6,Rural,20-29,MEGHALAYA,East Khasi Hills,Female,In Hearing,92
+17,6,Rural,30-39,MEGHALAYA,East Khasi Hills,Female,In Hearing,77
+17,6,Rural,40-49,MEGHALAYA,East Khasi Hills,Female,In Hearing,76
+17,6,Rural,50-59,MEGHALAYA,East Khasi Hills,Female,In Hearing,71
+17,6,Rural,60-69,MEGHALAYA,East Khasi Hills,Female,In Hearing,55
+17,6,Rural,70-79,MEGHALAYA,East Khasi Hills,Female,In Hearing,37
+17,6,Rural,80-89,MEGHALAYA,East Khasi Hills,Female,In Hearing,23
+17,6,Rural,90+,MEGHALAYA,East Khasi Hills,Female,In Hearing,9
+17,6,Rural,Age Not Stated,MEGHALAYA,East Khasi Hills,Female,In Hearing,2
+17,6,Urban,0-4,MEGHALAYA,East Khasi Hills,Female,In Hearing,20
+17,6,Urban,5-9,MEGHALAYA,East Khasi Hills,Female,In Hearing,33
+17,6,Urban,10-19,MEGHALAYA,East Khasi Hills,Female,In Hearing,74
+17,6,Urban,20-29,MEGHALAYA,East Khasi Hills,Female,In Hearing,76
+17,6,Urban,30-39,MEGHALAYA,East Khasi Hills,Female,In Hearing,48
+17,6,Urban,40-49,MEGHALAYA,East Khasi Hills,Female,In Hearing,42
+17,6,Urban,50-59,MEGHALAYA,East Khasi Hills,Female,In Hearing,28
+17,6,Urban,60-69,MEGHALAYA,East Khasi Hills,Female,In Hearing,32
+17,6,Urban,70-79,MEGHALAYA,East Khasi Hills,Female,In Hearing,14
+17,6,Urban,80-89,MEGHALAYA,East Khasi Hills,Female,In Hearing,9
+17,6,Urban,90+,MEGHALAYA,East Khasi Hills,Female,In Hearing,5
+17,6,Urban,Age Not Stated,MEGHALAYA,East Khasi Hills,Female,In Hearing,0
+17,7,Rural,0-4,MEGHALAYA,Jaintia Hills,Female,In Hearing,75
+17,7,Rural,5-9,MEGHALAYA,Jaintia Hills,Female,In Hearing,64
+17,7,Rural,10-19,MEGHALAYA,Jaintia Hills,Female,In Hearing,156
+17,7,Rural,20-29,MEGHALAYA,Jaintia Hills,Female,In Hearing,121
+17,7,Rural,30-39,MEGHALAYA,Jaintia Hills,Female,In Hearing,81
+17,7,Rural,40-49,MEGHALAYA,Jaintia Hills,Female,In Hearing,61
+17,7,Rural,50-59,MEGHALAYA,Jaintia Hills,Female,In Hearing,39
+17,7,Rural,60-69,MEGHALAYA,Jaintia Hills,Female,In Hearing,36
+17,7,Rural,70-79,MEGHALAYA,Jaintia Hills,Female,In Hearing,28
+17,7,Rural,80-89,MEGHALAYA,Jaintia Hills,Female,In Hearing,18
+17,7,Rural,90+,MEGHALAYA,Jaintia Hills,Female,In Hearing,6
+17,7,Rural,Age Not Stated,MEGHALAYA,Jaintia Hills,Female,In Hearing,3
+17,7,Urban,0-4,MEGHALAYA,Jaintia Hills,Female,In Hearing,0
+17,7,Urban,5-9,MEGHALAYA,Jaintia Hills,Female,In Hearing,1
+17,7,Urban,10-19,MEGHALAYA,Jaintia Hills,Female,In Hearing,15
+17,7,Urban,20-29,MEGHALAYA,Jaintia Hills,Female,In Hearing,9
+17,7,Urban,30-39,MEGHALAYA,Jaintia Hills,Female,In Hearing,10
+17,7,Urban,40-49,MEGHALAYA,Jaintia Hills,Female,In Hearing,5
+17,7,Urban,50-59,MEGHALAYA,Jaintia Hills,Female,In Hearing,3
+17,7,Urban,60-69,MEGHALAYA,Jaintia Hills,Female,In Hearing,1
+17,7,Urban,70-79,MEGHALAYA,Jaintia Hills,Female,In Hearing,3
+17,7,Urban,80-89,MEGHALAYA,Jaintia Hills,Female,In Hearing,1
+17,7,Urban,90+,MEGHALAYA,Jaintia Hills,Female,In Hearing,2
+17,7,Urban,Age Not Stated,MEGHALAYA,Jaintia Hills,Female,In Hearing,0
+17,1,Rural,0-4,MEGHALAYA,West Garo Hills,Male,In Movement,31
+17,1,Rural,5-9,MEGHALAYA,West Garo Hills,Male,In Movement,43
+17,1,Rural,10-19,MEGHALAYA,West Garo Hills,Male,In Movement,107
+17,1,Rural,20-29,MEGHALAYA,West Garo Hills,Male,In Movement,119
+17,1,Rural,30-39,MEGHALAYA,West Garo Hills,Male,In Movement,72
+17,1,Rural,40-49,MEGHALAYA,West Garo Hills,Male,In Movement,93
+17,1,Rural,50-59,MEGHALAYA,West Garo Hills,Male,In Movement,66
+17,1,Rural,60-69,MEGHALAYA,West Garo Hills,Male,In Movement,80
+17,1,Rural,70-79,MEGHALAYA,West Garo Hills,Male,In Movement,31
+17,1,Rural,80-89,MEGHALAYA,West Garo Hills,Male,In Movement,8
+17,1,Rural,90+,MEGHALAYA,West Garo Hills,Male,In Movement,3
+17,1,Rural,Age Not Stated,MEGHALAYA,West Garo Hills,Male,In Movement,1
+17,1,Urban,0-4,MEGHALAYA,West Garo Hills,Male,In Movement,1
+17,1,Urban,5-9,MEGHALAYA,West Garo Hills,Male,In Movement,4
+17,1,Urban,10-19,MEGHALAYA,West Garo Hills,Male,In Movement,11
+17,1,Urban,20-29,MEGHALAYA,West Garo Hills,Male,In Movement,2
+17,1,Urban,30-39,MEGHALAYA,West Garo Hills,Male,In Movement,4
+17,1,Urban,40-49,MEGHALAYA,West Garo Hills,Male,In Movement,11
+17,1,Urban,50-59,MEGHALAYA,West Garo Hills,Male,In Movement,5
+17,1,Urban,60-69,MEGHALAYA,West Garo Hills,Male,In Movement,4
+17,1,Urban,70-79,MEGHALAYA,West Garo Hills,Male,In Movement,3
+17,1,Urban,80-89,MEGHALAYA,West Garo Hills,Male,In Movement,2
+17,1,Urban,90+,MEGHALAYA,West Garo Hills,Male,In Movement,0
+17,1,Urban,Age Not Stated,MEGHALAYA,West Garo Hills,Male,In Movement,0
+17,2,Rural,0-4,MEGHALAYA,East Garo Hills,Male,In Movement,17
+17,2,Rural,5-9,MEGHALAYA,East Garo Hills,Male,In Movement,15
+17,2,Rural,10-19,MEGHALAYA,East Garo Hills,Male,In Movement,49
+17,2,Rural,20-29,MEGHALAYA,East Garo Hills,Male,In Movement,42
+17,2,Rural,30-39,MEGHALAYA,East Garo Hills,Male,In Movement,40
+17,2,Rural,40-49,MEGHALAYA,East Garo Hills,Male,In Movement,34
+17,2,Rural,50-59,MEGHALAYA,East Garo Hills,Male,In Movement,29
+17,2,Rural,60-69,MEGHALAYA,East Garo Hills,Male,In Movement,26
+17,2,Rural,70-79,MEGHALAYA,East Garo Hills,Male,In Movement,12
+17,2,Rural,80-89,MEGHALAYA,East Garo Hills,Male,In Movement,3
+17,2,Rural,90+,MEGHALAYA,East Garo Hills,Male,In Movement,2
+17,2,Rural,Age Not Stated,MEGHALAYA,East Garo Hills,Male,In Movement,0
+17,2,Urban,0-4,MEGHALAYA,East Garo Hills,Male,In Movement,0
+17,2,Urban,5-9,MEGHALAYA,East Garo Hills,Male,In Movement,2
+17,2,Urban,10-19,MEGHALAYA,East Garo Hills,Male,In Movement,8
+17,2,Urban,20-29,MEGHALAYA,East Garo Hills,Male,In Movement,7
+17,2,Urban,30-39,MEGHALAYA,East Garo Hills,Male,In Movement,4
+17,2,Urban,40-49,MEGHALAYA,East Garo Hills,Male,In Movement,7
+17,2,Urban,50-59,MEGHALAYA,East Garo Hills,Male,In Movement,5
+17,2,Urban,60-69,MEGHALAYA,East Garo Hills,Male,In Movement,6
+17,2,Urban,70-79,MEGHALAYA,East Garo Hills,Male,In Movement,4
+17,2,Urban,80-89,MEGHALAYA,East Garo Hills,Male,In Movement,0
+17,2,Urban,90+,MEGHALAYA,East Garo Hills,Male,In Movement,0
+17,2,Urban,Age Not Stated,MEGHALAYA,East Garo Hills,Male,In Movement,0
+17,3,Rural,0-4,MEGHALAYA,South Garo Hills,Male,In Movement,1
+17,3,Rural,5-9,MEGHALAYA,South Garo Hills,Male,In Movement,12
+17,3,Rural,10-19,MEGHALAYA,South Garo Hills,Male,In Movement,27
+17,3,Rural,20-29,MEGHALAYA,South Garo Hills,Male,In Movement,21
+17,3,Rural,30-39,MEGHALAYA,South Garo Hills,Male,In Movement,14
+17,3,Rural,40-49,MEGHALAYA,South Garo Hills,Male,In Movement,19
+17,3,Rural,50-59,MEGHALAYA,South Garo Hills,Male,In Movement,11
+17,3,Rural,60-69,MEGHALAYA,South Garo Hills,Male,In Movement,9
+17,3,Rural,70-79,MEGHALAYA,South Garo Hills,Male,In Movement,6
+17,3,Rural,80-89,MEGHALAYA,South Garo Hills,Male,In Movement,1
+17,3,Rural,90+,MEGHALAYA,South Garo Hills,Male,In Movement,1
+17,3,Rural,Age Not Stated,MEGHALAYA,South Garo Hills,Male,In Movement,0
+17,3,Urban,0-4,MEGHALAYA,South Garo Hills,Male,In Movement,0
+17,3,Urban,5-9,MEGHALAYA,South Garo Hills,Male,In Movement,2
+17,3,Urban,10-19,MEGHALAYA,South Garo Hills,Male,In Movement,2
+17,3,Urban,20-29,MEGHALAYA,South Garo Hills,Male,In Movement,1
+17,3,Urban,30-39,MEGHALAYA,South Garo Hills,Male,In Movement,1
+17,3,Urban,40-49,MEGHALAYA,South Garo Hills,Male,In Movement,0
+17,3,Urban,50-59,MEGHALAYA,South Garo Hills,Male,In Movement,0
+17,3,Urban,60-69,MEGHALAYA,South Garo Hills,Male,In Movement,0
+17,3,Urban,70-79,MEGHALAYA,South Garo Hills,Male,In Movement,0
+17,3,Urban,80-89,MEGHALAYA,South Garo Hills,Male,In Movement,0
+17,3,Urban,90+,MEGHALAYA,South Garo Hills,Male,In Movement,0
+17,3,Urban,Age Not Stated,MEGHALAYA,South Garo Hills,Male,In Movement,0
+17,4,Rural,0-4,MEGHALAYA,West Khasi Hills,Male,In Movement,36
+17,4,Rural,5-9,MEGHALAYA,West Khasi Hills,Male,In Movement,52
+17,4,Rural,10-19,MEGHALAYA,West Khasi Hills,Male,In Movement,101
+17,4,Rural,20-29,MEGHALAYA,West Khasi Hills,Male,In Movement,61
+17,4,Rural,30-39,MEGHALAYA,West Khasi Hills,Male,In Movement,52
+17,4,Rural,40-49,MEGHALAYA,West Khasi Hills,Male,In Movement,28
+17,4,Rural,50-59,MEGHALAYA,West Khasi Hills,Male,In Movement,28
+17,4,Rural,60-69,MEGHALAYA,West Khasi Hills,Male,In Movement,30
+17,4,Rural,70-79,MEGHALAYA,West Khasi Hills,Male,In Movement,17
+17,4,Rural,80-89,MEGHALAYA,West Khasi Hills,Male,In Movement,4
+17,4,Rural,90+,MEGHALAYA,West Khasi Hills,Male,In Movement,0
+17,4,Rural,Age Not Stated,MEGHALAYA,West Khasi Hills,Male,In Movement,1
+17,4,Urban,0-4,MEGHALAYA,West Khasi Hills,Male,In Movement,5
+17,4,Urban,5-9,MEGHALAYA,West Khasi Hills,Male,In Movement,4
+17,4,Urban,10-19,MEGHALAYA,West Khasi Hills,Male,In Movement,14
+17,4,Urban,20-29,MEGHALAYA,West Khasi Hills,Male,In Movement,5
+17,4,Urban,30-39,MEGHALAYA,West Khasi Hills,Male,In Movement,4
+17,4,Urban,40-49,MEGHALAYA,West Khasi Hills,Male,In Movement,7
+17,4,Urban,50-59,MEGHALAYA,West Khasi Hills,Male,In Movement,2
+17,4,Urban,60-69,MEGHALAYA,West Khasi Hills,Male,In Movement,1
+17,4,Urban,70-79,MEGHALAYA,West Khasi Hills,Male,In Movement,0
+17,4,Urban,80-89,MEGHALAYA,West Khasi Hills,Male,In Movement,1
+17,4,Urban,90+,MEGHALAYA,West Khasi Hills,Male,In Movement,0
+17,4,Urban,Age Not Stated,MEGHALAYA,West Khasi Hills,Male,In Movement,0
+17,5,Rural,0-4,MEGHALAYA,Ribhoi,Male,In Movement,23
+17,5,Rural,5-9,MEGHALAYA,Ribhoi,Male,In Movement,28
+17,5,Rural,10-19,MEGHALAYA,Ribhoi,Male,In Movement,64
+17,5,Rural,20-29,MEGHALAYA,Ribhoi,Male,In Movement,49
+17,5,Rural,30-39,MEGHALAYA,Ribhoi,Male,In Movement,40
+17,5,Rural,40-49,MEGHALAYA,Ribhoi,Male,In Movement,28
+17,5,Rural,50-59,MEGHALAYA,Ribhoi,Male,In Movement,21
+17,5,Rural,60-69,MEGHALAYA,Ribhoi,Male,In Movement,18
+17,5,Rural,70-79,MEGHALAYA,Ribhoi,Male,In Movement,8
+17,5,Rural,80-89,MEGHALAYA,Ribhoi,Male,In Movement,2
+17,5,Rural,90+,MEGHALAYA,Ribhoi,Male,In Movement,0
+17,5,Rural,Age Not Stated,MEGHALAYA,Ribhoi,Male,In Movement,0
+17,5,Urban,0-4,MEGHALAYA,Ribhoi,Male,In Movement,1
+17,5,Urban,5-9,MEGHALAYA,Ribhoi,Male,In Movement,3
+17,5,Urban,10-19,MEGHALAYA,Ribhoi,Male,In Movement,3
+17,5,Urban,20-29,MEGHALAYA,Ribhoi,Male,In Movement,9
+17,5,Urban,30-39,MEGHALAYA,Ribhoi,Male,In Movement,9
+17,5,Urban,40-49,MEGHALAYA,Ribhoi,Male,In Movement,3
+17,5,Urban,50-59,MEGHALAYA,Ribhoi,Male,In Movement,2
+17,5,Urban,60-69,MEGHALAYA,Ribhoi,Male,In Movement,3
+17,5,Urban,70-79,MEGHALAYA,Ribhoi,Male,In Movement,3
+17,5,Urban,80-89,MEGHALAYA,Ribhoi,Male,In Movement,0
+17,5,Urban,90+,MEGHALAYA,Ribhoi,Male,In Movement,0
+17,5,Urban,Age Not Stated,MEGHALAYA,Ribhoi,Male,In Movement,0
+17,6,Rural,0-4,MEGHALAYA,East Khasi Hills,Male,In Movement,46
+17,6,Rural,5-9,MEGHALAYA,East Khasi Hills,Male,In Movement,79
+17,6,Rural,10-19,MEGHALAYA,East Khasi Hills,Male,In Movement,114
+17,6,Rural,20-29,MEGHALAYA,East Khasi Hills,Male,In Movement,99
+17,6,Rural,30-39,MEGHALAYA,East Khasi Hills,Male,In Movement,50
+17,6,Rural,40-49,MEGHALAYA,East Khasi Hills,Male,In Movement,58
+17,6,Rural,50-59,MEGHALAYA,East Khasi Hills,Male,In Movement,39
+17,6,Rural,60-69,MEGHALAYA,East Khasi Hills,Male,In Movement,30
+17,6,Rural,70-79,MEGHALAYA,East Khasi Hills,Male,In Movement,12
+17,6,Rural,80-89,MEGHALAYA,East Khasi Hills,Male,In Movement,6
+17,6,Rural,90+,MEGHALAYA,East Khasi Hills,Male,In Movement,1
+17,6,Rural,Age Not Stated,MEGHALAYA,East Khasi Hills,Male,In Movement,1
+17,6,Urban,0-4,MEGHALAYA,East Khasi Hills,Male,In Movement,13
+17,6,Urban,5-9,MEGHALAYA,East Khasi Hills,Male,In Movement,18
+17,6,Urban,10-19,MEGHALAYA,East Khasi Hills,Male,In Movement,52
+17,6,Urban,20-29,MEGHALAYA,East Khasi Hills,Male,In Movement,50
+17,6,Urban,30-39,MEGHALAYA,East Khasi Hills,Male,In Movement,37
+17,6,Urban,40-49,MEGHALAYA,East Khasi Hills,Male,In Movement,31
+17,6,Urban,50-59,MEGHALAYA,East Khasi Hills,Male,In Movement,27
+17,6,Urban,60-69,MEGHALAYA,East Khasi Hills,Male,In Movement,24
+17,6,Urban,70-79,MEGHALAYA,East Khasi Hills,Male,In Movement,14
+17,6,Urban,80-89,MEGHALAYA,East Khasi Hills,Male,In Movement,2
+17,6,Urban,90+,MEGHALAYA,East Khasi Hills,Male,In Movement,0
+17,6,Urban,Age Not Stated,MEGHALAYA,East Khasi Hills,Male,In Movement,0
+17,7,Rural,0-4,MEGHALAYA,Jaintia Hills,Male,In Movement,11
+17,7,Rural,5-9,MEGHALAYA,Jaintia Hills,Male,In Movement,27
+17,7,Rural,10-19,MEGHALAYA,Jaintia Hills,Male,In Movement,60
+17,7,Rural,20-29,MEGHALAYA,Jaintia Hills,Male,In Movement,57
+17,7,Rural,30-39,MEGHALAYA,Jaintia Hills,Male,In Movement,23
+17,7,Rural,40-49,MEGHALAYA,Jaintia Hills,Male,In Movement,39
+17,7,Rural,50-59,MEGHALAYA,Jaintia Hills,Male,In Movement,22
+17,7,Rural,60-69,MEGHALAYA,Jaintia Hills,Male,In Movement,13
+17,7,Rural,70-79,MEGHALAYA,Jaintia Hills,Male,In Movement,10
+17,7,Rural,80-89,MEGHALAYA,Jaintia Hills,Male,In Movement,2
+17,7,Rural,90+,MEGHALAYA,Jaintia Hills,Male,In Movement,0
+17,7,Rural,Age Not Stated,MEGHALAYA,Jaintia Hills,Male,In Movement,0
+17,7,Urban,0-4,MEGHALAYA,Jaintia Hills,Male,In Movement,1
+17,7,Urban,5-9,MEGHALAYA,Jaintia Hills,Male,In Movement,1
+17,7,Urban,10-19,MEGHALAYA,Jaintia Hills,Male,In Movement,5
+17,7,Urban,20-29,MEGHALAYA,Jaintia Hills,Male,In Movement,5
+17,7,Urban,30-39,MEGHALAYA,Jaintia Hills,Male,In Movement,3
+17,7,Urban,40-49,MEGHALAYA,Jaintia Hills,Male,In Movement,2
+17,7,Urban,50-59,MEGHALAYA,Jaintia Hills,Male,In Movement,1
+17,7,Urban,60-69,MEGHALAYA,Jaintia Hills,Male,In Movement,1
+17,7,Urban,70-79,MEGHALAYA,Jaintia Hills,Male,In Movement,0
+17,7,Urban,80-89,MEGHALAYA,Jaintia Hills,Male,In Movement,1
+17,7,Urban,90+,MEGHALAYA,Jaintia Hills,Male,In Movement,0
+17,7,Urban,Age Not Stated,MEGHALAYA,Jaintia Hills,Male,In Movement,0
+17,1,Rural,0-4,MEGHALAYA,West Garo Hills,Female,In Movement,27
+17,1,Rural,5-9,MEGHALAYA,West Garo Hills,Female,In Movement,27
+17,1,Rural,10-19,MEGHALAYA,West Garo Hills,Female,In Movement,81
+17,1,Rural,20-29,MEGHALAYA,West Garo Hills,Female,In Movement,65
+17,1,Rural,30-39,MEGHALAYA,West Garo Hills,Female,In Movement,53
+17,1,Rural,40-49,MEGHALAYA,West Garo Hills,Female,In Movement,49
+17,1,Rural,50-59,MEGHALAYA,West Garo Hills,Female,In Movement,49
+17,1,Rural,60-69,MEGHALAYA,West Garo Hills,Female,In Movement,43
+17,1,Rural,70-79,MEGHALAYA,West Garo Hills,Female,In Movement,28
+17,1,Rural,80-89,MEGHALAYA,West Garo Hills,Female,In Movement,18
+17,1,Rural,90+,MEGHALAYA,West Garo Hills,Female,In Movement,6
+17,1,Rural,Age Not Stated,MEGHALAYA,West Garo Hills,Female,In Movement,0
+17,1,Urban,0-4,MEGHALAYA,West Garo Hills,Female,In Movement,0
+17,1,Urban,5-9,MEGHALAYA,West Garo Hills,Female,In Movement,1
+17,1,Urban,10-19,MEGHALAYA,West Garo Hills,Female,In Movement,6
+17,1,Urban,20-29,MEGHALAYA,West Garo Hills,Female,In Movement,7
+17,1,Urban,30-39,MEGHALAYA,West Garo Hills,Female,In Movement,3
+17,1,Urban,40-49,MEGHALAYA,West Garo Hills,Female,In Movement,9
+17,1,Urban,50-59,MEGHALAYA,West Garo Hills,Female,In Movement,6
+17,1,Urban,60-69,MEGHALAYA,West Garo Hills,Female,In Movement,5
+17,1,Urban,70-79,MEGHALAYA,West Garo Hills,Female,In Movement,4
+17,1,Urban,80-89,MEGHALAYA,West Garo Hills,Female,In Movement,3
+17,1,Urban,90+,MEGHALAYA,West Garo Hills,Female,In Movement,0
+17,1,Urban,Age Not Stated,MEGHALAYA,West Garo Hills,Female,In Movement,0
+17,2,Rural,0-4,MEGHALAYA,East Garo Hills,Female,In Movement,9
+17,2,Rural,5-9,MEGHALAYA,East Garo Hills,Female,In Movement,10
+17,2,Rural,10-19,MEGHALAYA,East Garo Hills,Female,In Movement,39
+17,2,Rural,20-29,MEGHALAYA,East Garo Hills,Female,In Movement,35
+17,2,Rural,30-39,MEGHALAYA,East Garo Hills,Female,In Movement,23
+17,2,Rural,40-49,MEGHALAYA,East Garo Hills,Female,In Movement,23
+17,2,Rural,50-59,MEGHALAYA,East Garo Hills,Female,In Movement,20
+17,2,Rural,60-69,MEGHALAYA,East Garo Hills,Female,In Movement,11
+17,2,Rural,70-79,MEGHALAYA,East Garo Hills,Female,In Movement,16
+17,2,Rural,80-89,MEGHALAYA,East Garo Hills,Female,In Movement,4
+17,2,Rural,90+,MEGHALAYA,East Garo Hills,Female,In Movement,1
+17,2,Rural,Age Not Stated,MEGHALAYA,East Garo Hills,Female,In Movement,0
+17,2,Urban,0-4,MEGHALAYA,East Garo Hills,Female,In Movement,3
+17,2,Urban,5-9,MEGHALAYA,East Garo Hills,Female,In Movement,2
+17,2,Urban,10-19,MEGHALAYA,East Garo Hills,Female,In Movement,2
+17,2,Urban,20-29,MEGHALAYA,East Garo Hills,Female,In Movement,4
+17,2,Urban,30-39,MEGHALAYA,East Garo Hills,Female,In Movement,5
+17,2,Urban,40-49,MEGHALAYA,East Garo Hills,Female,In Movement,3
+17,2,Urban,50-59,MEGHALAYA,East Garo Hills,Female,In Movement,3
+17,2,Urban,60-69,MEGHALAYA,East Garo Hills,Female,In Movement,0
+17,2,Urban,70-79,MEGHALAYA,East Garo Hills,Female,In Movement,1
+17,2,Urban,80-89,MEGHALAYA,East Garo Hills,Female,In Movement,0
+17,2,Urban,90+,MEGHALAYA,East Garo Hills,Female,In Movement,0
+17,2,Urban,Age Not Stated,MEGHALAYA,East Garo Hills,Female,In Movement,0
+17,3,Rural,0-4,MEGHALAYA,South Garo Hills,Female,In Movement,6
+17,3,Rural,5-9,MEGHALAYA,South Garo Hills,Female,In Movement,9
+17,3,Rural,10-19,MEGHALAYA,South Garo Hills,Female,In Movement,12
+17,3,Rural,20-29,MEGHALAYA,South Garo Hills,Female,In Movement,16
+17,3,Rural,30-39,MEGHALAYA,South Garo Hills,Female,In Movement,11
+17,3,Rural,40-49,MEGHALAYA,South Garo Hills,Female,In Movement,15
+17,3,Rural,50-59,MEGHALAYA,South Garo Hills,Female,In Movement,9
+17,3,Rural,60-69,MEGHALAYA,South Garo Hills,Female,In Movement,5
+17,3,Rural,70-79,MEGHALAYA,South Garo Hills,Female,In Movement,7
+17,3,Rural,80-89,MEGHALAYA,South Garo Hills,Female,In Movement,3
+17,3,Rural,90+,MEGHALAYA,South Garo Hills,Female,In Movement,0
+17,3,Rural,Age Not Stated,MEGHALAYA,South Garo Hills,Female,In Movement,0
+17,3,Urban,0-4,MEGHALAYA,South Garo Hills,Female,In Movement,1
+17,3,Urban,5-9,MEGHALAYA,South Garo Hills,Female,In Movement,0
+17,3,Urban,10-19,MEGHALAYA,South Garo Hills,Female,In Movement,2
+17,3,Urban,20-29,MEGHALAYA,South Garo Hills,Female,In Movement,1
+17,3,Urban,30-39,MEGHALAYA,South Garo Hills,Female,In Movement,1
+17,3,Urban,40-49,MEGHALAYA,South Garo Hills,Female,In Movement,1
+17,3,Urban,50-59,MEGHALAYA,South Garo Hills,Female,In Movement,3
+17,3,Urban,60-69,MEGHALAYA,South Garo Hills,Female,In Movement,0
+17,3,Urban,70-79,MEGHALAYA,South Garo Hills,Female,In Movement,0
+17,3,Urban,80-89,MEGHALAYA,South Garo Hills,Female,In Movement,0
+17,3,Urban,90+,MEGHALAYA,South Garo Hills,Female,In Movement,0
+17,3,Urban,Age Not Stated,MEGHALAYA,South Garo Hills,Female,In Movement,0
+17,4,Rural,0-4,MEGHALAYA,West Khasi Hills,Female,In Movement,30
+17,4,Rural,5-9,MEGHALAYA,West Khasi Hills,Female,In Movement,33
+17,4,Rural,10-19,MEGHALAYA,West Khasi Hills,Female,In Movement,71
+17,4,Rural,20-29,MEGHALAYA,West Khasi Hills,Female,In Movement,53
+17,4,Rural,30-39,MEGHALAYA,West Khasi Hills,Female,In Movement,33
+17,4,Rural,40-49,MEGHALAYA,West Khasi Hills,Female,In Movement,23
+17,4,Rural,50-59,MEGHALAYA,West Khasi Hills,Female,In Movement,24
+17,4,Rural,60-69,MEGHALAYA,West Khasi Hills,Female,In Movement,25
+17,4,Rural,70-79,MEGHALAYA,West Khasi Hills,Female,In Movement,14
+17,4,Rural,80-89,MEGHALAYA,West Khasi Hills,Female,In Movement,5
+17,4,Rural,90+,MEGHALAYA,West Khasi Hills,Female,In Movement,2
+17,4,Rural,Age Not Stated,MEGHALAYA,West Khasi Hills,Female,In Movement,1
+17,4,Urban,0-4,MEGHALAYA,West Khasi Hills,Female,In Movement,1
+17,4,Urban,5-9,MEGHALAYA,West Khasi Hills,Female,In Movement,4
+17,4,Urban,10-19,MEGHALAYA,West Khasi Hills,Female,In Movement,5
+17,4,Urban,20-29,MEGHALAYA,West Khasi Hills,Female,In Movement,4
+17,4,Urban,30-39,MEGHALAYA,West Khasi Hills,Female,In Movement,6
+17,4,Urban,40-49,MEGHALAYA,West Khasi Hills,Female,In Movement,0
+17,4,Urban,50-59,MEGHALAYA,West Khasi Hills,Female,In Movement,1
+17,4,Urban,60-69,MEGHALAYA,West Khasi Hills,Female,In Movement,2
+17,4,Urban,70-79,MEGHALAYA,West Khasi Hills,Female,In Movement,2
+17,4,Urban,80-89,MEGHALAYA,West Khasi Hills,Female,In Movement,0
+17,4,Urban,90+,MEGHALAYA,West Khasi Hills,Female,In Movement,1
+17,4,Urban,Age Not Stated,MEGHALAYA,West Khasi Hills,Female,In Movement,0
+17,5,Rural,0-4,MEGHALAYA,Ribhoi,Female,In Movement,21
+17,5,Rural,5-9,MEGHALAYA,Ribhoi,Female,In Movement,28
+17,5,Rural,10-19,MEGHALAYA,Ribhoi,Female,In Movement,51
+17,5,Rural,20-29,MEGHALAYA,Ribhoi,Female,In Movement,45
+17,5,Rural,30-39,MEGHALAYA,Ribhoi,Female,In Movement,30
+17,5,Rural,40-49,MEGHALAYA,Ribhoi,Female,In Movement,24
+17,5,Rural,50-59,MEGHALAYA,Ribhoi,Female,In Movement,9
+17,5,Rural,60-69,MEGHALAYA,Ribhoi,Female,In Movement,12
+17,5,Rural,70-79,MEGHALAYA,Ribhoi,Female,In Movement,6
+17,5,Rural,80-89,MEGHALAYA,Ribhoi,Female,In Movement,1
+17,5,Rural,90+,MEGHALAYA,Ribhoi,Female,In Movement,2
+17,5,Rural,Age Not Stated,MEGHALAYA,Ribhoi,Female,In Movement,0
+17,5,Urban,0-4,MEGHALAYA,Ribhoi,Female,In Movement,0
+17,5,Urban,5-9,MEGHALAYA,Ribhoi,Female,In Movement,2
+17,5,Urban,10-19,MEGHALAYA,Ribhoi,Female,In Movement,4
+17,5,Urban,20-29,MEGHALAYA,Ribhoi,Female,In Movement,6
+17,5,Urban,30-39,MEGHALAYA,Ribhoi,Female,In Movement,3
+17,5,Urban,40-49,MEGHALAYA,Ribhoi,Female,In Movement,3
+17,5,Urban,50-59,MEGHALAYA,Ribhoi,Female,In Movement,0
+17,5,Urban,60-69,MEGHALAYA,Ribhoi,Female,In Movement,0
+17,5,Urban,70-79,MEGHALAYA,Ribhoi,Female,In Movement,0
+17,5,Urban,80-89,MEGHALAYA,Ribhoi,Female,In Movement,0
+17,5,Urban,90+,MEGHALAYA,Ribhoi,Female,In Movement,0
+17,5,Urban,Age Not Stated,MEGHALAYA,Ribhoi,Female,In Movement,0
+17,6,Rural,0-4,MEGHALAYA,East Khasi Hills,Female,In Movement,38
+17,6,Rural,5-9,MEGHALAYA,East Khasi Hills,Female,In Movement,45
+17,6,Rural,10-19,MEGHALAYA,East Khasi Hills,Female,In Movement,112
+17,6,Rural,20-29,MEGHALAYA,East Khasi Hills,Female,In Movement,90
+17,6,Rural,30-39,MEGHALAYA,East Khasi Hills,Female,In Movement,44
+17,6,Rural,40-49,MEGHALAYA,East Khasi Hills,Female,In Movement,36
+17,6,Rural,50-59,MEGHALAYA,East Khasi Hills,Female,In Movement,28
+17,6,Rural,60-69,MEGHALAYA,East Khasi Hills,Female,In Movement,23
+17,6,Rural,70-79,MEGHALAYA,East Khasi Hills,Female,In Movement,12
+17,6,Rural,80-89,MEGHALAYA,East Khasi Hills,Female,In Movement,7
+17,6,Rural,90+,MEGHALAYA,East Khasi Hills,Female,In Movement,2
+17,6,Rural,Age Not Stated,MEGHALAYA,East Khasi Hills,Female,In Movement,2
+17,6,Urban,0-4,MEGHALAYA,East Khasi Hills,Female,In Movement,19
+17,6,Urban,5-9,MEGHALAYA,East Khasi Hills,Female,In Movement,15
+17,6,Urban,10-19,MEGHALAYA,East Khasi Hills,Female,In Movement,42
+17,6,Urban,20-29,MEGHALAYA,East Khasi Hills,Female,In Movement,52
+17,6,Urban,30-39,MEGHALAYA,East Khasi Hills,Female,In Movement,18
+17,6,Urban,40-49,MEGHALAYA,East Khasi Hills,Female,In Movement,20
+17,6,Urban,50-59,MEGHALAYA,East Khasi Hills,Female,In Movement,15
+17,6,Urban,60-69,MEGHALAYA,East Khasi Hills,Female,In Movement,17
+17,6,Urban,70-79,MEGHALAYA,East Khasi Hills,Female,In Movement,7
+17,6,Urban,80-89,MEGHALAYA,East Khasi Hills,Female,In Movement,6
+17,6,Urban,90+,MEGHALAYA,East Khasi Hills,Female,In Movement,7
+17,6,Urban,Age Not Stated,MEGHALAYA,East Khasi Hills,Female,In Movement,1
+17,7,Rural,0-4,MEGHALAYA,Jaintia Hills,Female,In Movement,18
+17,7,Rural,5-9,MEGHALAYA,Jaintia Hills,Female,In Movement,32
+17,7,Rural,10-19,MEGHALAYA,Jaintia Hills,Female,In Movement,49
+17,7,Rural,20-29,MEGHALAYA,Jaintia Hills,Female,In Movement,49
+17,7,Rural,30-39,MEGHALAYA,Jaintia Hills,Female,In Movement,25
+17,7,Rural,40-49,MEGHALAYA,Jaintia Hills,Female,In Movement,23
+17,7,Rural,50-59,MEGHALAYA,Jaintia Hills,Female,In Movement,19
+17,7,Rural,60-69,MEGHALAYA,Jaintia Hills,Female,In Movement,20
+17,7,Rural,70-79,MEGHALAYA,Jaintia Hills,Female,In Movement,15
+17,7,Rural,80-89,MEGHALAYA,Jaintia Hills,Female,In Movement,3
+17,7,Rural,90+,MEGHALAYA,Jaintia Hills,Female,In Movement,0
+17,7,Rural,Age Not Stated,MEGHALAYA,Jaintia Hills,Female,In Movement,0
+17,7,Urban,0-4,MEGHALAYA,Jaintia Hills,Female,In Movement,1
+17,7,Urban,5-9,MEGHALAYA,Jaintia Hills,Female,In Movement,2
+17,7,Urban,10-19,MEGHALAYA,Jaintia Hills,Female,In Movement,2
+17,7,Urban,20-29,MEGHALAYA,Jaintia Hills,Female,In Movement,0
+17,7,Urban,30-39,MEGHALAYA,Jaintia Hills,Female,In Movement,2
+17,7,Urban,40-49,MEGHALAYA,Jaintia Hills,Female,In Movement,1
+17,7,Urban,50-59,MEGHALAYA,Jaintia Hills,Female,In Movement,1
+17,7,Urban,60-69,MEGHALAYA,Jaintia Hills,Female,In Movement,1
+17,7,Urban,70-79,MEGHALAYA,Jaintia Hills,Female,In Movement,0
+17,7,Urban,80-89,MEGHALAYA,Jaintia Hills,Female,In Movement,0
+17,7,Urban,90+,MEGHALAYA,Jaintia Hills,Female,In Movement,0
+17,7,Urban,Age Not Stated,MEGHALAYA,Jaintia Hills,Female,In Movement,0
+17,1,Rural,0-4,MEGHALAYA,West Garo Hills,Male,Mental,23
+17,1,Rural,5-9,MEGHALAYA,West Garo Hills,Male,Mental,52
+17,1,Rural,10-19,MEGHALAYA,West Garo Hills,Male,Mental,123
+17,1,Rural,20-29,MEGHALAYA,West Garo Hills,Male,Mental,114
+17,1,Rural,30-39,MEGHALAYA,West Garo Hills,Male,Mental,95
+17,1,Rural,40-49,MEGHALAYA,West Garo Hills,Male,Mental,60
+17,1,Rural,50-59,MEGHALAYA,West Garo Hills,Male,Mental,30
+17,1,Rural,60-69,MEGHALAYA,West Garo Hills,Male,Mental,25
+17,1,Rural,70-79,MEGHALAYA,West Garo Hills,Male,Mental,3
+17,1,Rural,80-89,MEGHALAYA,West Garo Hills,Male,Mental,3
+17,1,Rural,90+,MEGHALAYA,West Garo Hills,Male,Mental,0
+17,1,Rural,Age Not Stated,MEGHALAYA,West Garo Hills,Male,Mental,0
+17,1,Urban,0-4,MEGHALAYA,West Garo Hills,Male,Mental,2
+17,1,Urban,5-9,MEGHALAYA,West Garo Hills,Male,Mental,1
+17,1,Urban,10-19,MEGHALAYA,West Garo Hills,Male,Mental,10
+17,1,Urban,20-29,MEGHALAYA,West Garo Hills,Male,Mental,15
+17,1,Urban,30-39,MEGHALAYA,West Garo Hills,Male,Mental,11
+17,1,Urban,40-49,MEGHALAYA,West Garo Hills,Male,Mental,9
+17,1,Urban,50-59,MEGHALAYA,West Garo Hills,Male,Mental,8
+17,1,Urban,60-69,MEGHALAYA,West Garo Hills,Male,Mental,1
+17,1,Urban,70-79,MEGHALAYA,West Garo Hills,Male,Mental,2
+17,1,Urban,80-89,MEGHALAYA,West Garo Hills,Male,Mental,0
+17,1,Urban,90+,MEGHALAYA,West Garo Hills,Male,Mental,0
+17,1,Urban,Age Not Stated,MEGHALAYA,West Garo Hills,Male,Mental,0
+17,2,Rural,0-4,MEGHALAYA,East Garo Hills,Male,Mental,3
+17,2,Rural,5-9,MEGHALAYA,East Garo Hills,Male,Mental,13
+17,2,Rural,10-19,MEGHALAYA,East Garo Hills,Male,Mental,37
+17,2,Rural,20-29,MEGHALAYA,East Garo Hills,Male,Mental,32
+17,2,Rural,30-39,MEGHALAYA,East Garo Hills,Male,Mental,16
+17,2,Rural,40-49,MEGHALAYA,East Garo Hills,Male,Mental,14
+17,2,Rural,50-59,MEGHALAYA,East Garo Hills,Male,Mental,5
+17,2,Rural,60-69,MEGHALAYA,East Garo Hills,Male,Mental,7
+17,2,Rural,70-79,MEGHALAYA,East Garo Hills,Male,Mental,2
+17,2,Rural,80-89,MEGHALAYA,East Garo Hills,Male,Mental,1
+17,2,Rural,90+,MEGHALAYA,East Garo Hills,Male,Mental,0
+17,2,Rural,Age Not Stated,MEGHALAYA,East Garo Hills,Male,Mental,0
+17,2,Urban,0-4,MEGHALAYA,East Garo Hills,Male,Mental,1
+17,2,Urban,5-9,MEGHALAYA,East Garo Hills,Male,Mental,0
+17,2,Urban,10-19,MEGHALAYA,East Garo Hills,Male,Mental,13
+17,2,Urban,20-29,MEGHALAYA,East Garo Hills,Male,Mental,12
+17,2,Urban,30-39,MEGHALAYA,East Garo Hills,Male,Mental,4
+17,2,Urban,40-49,MEGHALAYA,East Garo Hills,Male,Mental,5
+17,2,Urban,50-59,MEGHALAYA,East Garo Hills,Male,Mental,2
+17,2,Urban,60-69,MEGHALAYA,East Garo Hills,Male,Mental,1
+17,2,Urban,70-79,MEGHALAYA,East Garo Hills,Male,Mental,2
+17,2,Urban,80-89,MEGHALAYA,East Garo Hills,Male,Mental,0
+17,2,Urban,90+,MEGHALAYA,East Garo Hills,Male,Mental,0
+17,2,Urban,Age Not Stated,MEGHALAYA,East Garo Hills,Male,Mental,1
+17,3,Rural,0-4,MEGHALAYA,South Garo Hills,Male,Mental,4
+17,3,Rural,5-9,MEGHALAYA,South Garo Hills,Male,Mental,9
+17,3,Rural,10-19,MEGHALAYA,South Garo Hills,Male,Mental,29
+17,3,Rural,20-29,MEGHALAYA,South Garo Hills,Male,Mental,27
+17,3,Rural,30-39,MEGHALAYA,South Garo Hills,Male,Mental,17
+17,3,Rural,40-49,MEGHALAYA,South Garo Hills,Male,Mental,15
+17,3,Rural,50-59,MEGHALAYA,South Garo Hills,Male,Mental,6
+17,3,Rural,60-69,MEGHALAYA,South Garo Hills,Male,Mental,2
+17,3,Rural,70-79,MEGHALAYA,South Garo Hills,Male,Mental,1
+17,3,Rural,80-89,MEGHALAYA,South Garo Hills,Male,Mental,0
+17,3,Rural,90+,MEGHALAYA,South Garo Hills,Male,Mental,1
+17,3,Rural,Age Not Stated,MEGHALAYA,South Garo Hills,Male,Mental,0
+17,3,Urban,0-4,MEGHALAYA,South Garo Hills,Male,Mental,3
+17,3,Urban,5-9,MEGHALAYA,South Garo Hills,Male,Mental,3
+17,3,Urban,10-19,MEGHALAYA,South Garo Hills,Male,Mental,11
+17,3,Urban,20-29,MEGHALAYA,South Garo Hills,Male,Mental,6
+17,3,Urban,30-39,MEGHALAYA,South Garo Hills,Male,Mental,3
+17,3,Urban,40-49,MEGHALAYA,South Garo Hills,Male,Mental,2
+17,3,Urban,50-59,MEGHALAYA,South Garo Hills,Male,Mental,0
+17,3,Urban,60-69,MEGHALAYA,South Garo Hills,Male,Mental,3
+17,3,Urban,70-79,MEGHALAYA,South Garo Hills,Male,Mental,0
+17,3,Urban,80-89,MEGHALAYA,South Garo Hills,Male,Mental,0
+17,3,Urban,90+,MEGHALAYA,South Garo Hills,Male,Mental,0
+17,3,Urban,Age Not Stated,MEGHALAYA,South Garo Hills,Male,Mental,0
+17,4,Rural,0-4,MEGHALAYA,West Khasi Hills,Male,Mental,8
+17,4,Rural,5-9,MEGHALAYA,West Khasi Hills,Male,Mental,26
+17,4,Rural,10-19,MEGHALAYA,West Khasi Hills,Male,Mental,73
+17,4,Rural,20-29,MEGHALAYA,West Khasi Hills,Male,Mental,58
+17,4,Rural,30-39,MEGHALAYA,West Khasi Hills,Male,Mental,31
+17,4,Rural,40-49,MEGHALAYA,West Khasi Hills,Male,Mental,33
+17,4,Rural,50-59,MEGHALAYA,West Khasi Hills,Male,Mental,15
+17,4,Rural,60-69,MEGHALAYA,West Khasi Hills,Male,Mental,11
+17,4,Rural,70-79,MEGHALAYA,West Khasi Hills,Male,Mental,4
+17,4,Rural,80-89,MEGHALAYA,West Khasi Hills,Male,Mental,0
+17,4,Rural,90+,MEGHALAYA,West Khasi Hills,Male,Mental,0
+17,4,Rural,Age Not Stated,MEGHALAYA,West Khasi Hills,Male,Mental,1
+17,4,Urban,0-4,MEGHALAYA,West Khasi Hills,Male,Mental,0
+17,4,Urban,5-9,MEGHALAYA,West Khasi Hills,Male,Mental,4
+17,4,Urban,10-19,MEGHALAYA,West Khasi Hills,Male,Mental,7
+17,4,Urban,20-29,MEGHALAYA,West Khasi Hills,Male,Mental,6
+17,4,Urban,30-39,MEGHALAYA,West Khasi Hills,Male,Mental,8
+17,4,Urban,40-49,MEGHALAYA,West Khasi Hills,Male,Mental,2
+17,4,Urban,50-59,MEGHALAYA,West Khasi Hills,Male,Mental,1
+17,4,Urban,60-69,MEGHALAYA,West Khasi Hills,Male,Mental,0
+17,4,Urban,70-79,MEGHALAYA,West Khasi Hills,Male,Mental,0
+17,4,Urban,80-89,MEGHALAYA,West Khasi Hills,Male,Mental,0
+17,4,Urban,90+,MEGHALAYA,West Khasi Hills,Male,Mental,0
+17,4,Urban,Age Not Stated,MEGHALAYA,West Khasi Hills,Male,Mental,0
+17,5,Rural,0-4,MEGHALAYA,Ribhoi,Male,Mental,6
+17,5,Rural,5-9,MEGHALAYA,Ribhoi,Male,Mental,16
+17,5,Rural,10-19,MEGHALAYA,Ribhoi,Male,Mental,57
+17,5,Rural,20-29,MEGHALAYA,Ribhoi,Male,Mental,48
+17,5,Rural,30-39,MEGHALAYA,Ribhoi,Male,Mental,29
+17,5,Rural,40-49,MEGHALAYA,Ribhoi,Male,Mental,22
+17,5,Rural,50-59,MEGHALAYA,Ribhoi,Male,Mental,10
+17,5,Rural,60-69,MEGHALAYA,Ribhoi,Male,Mental,11
+17,5,Rural,70-79,MEGHALAYA,Ribhoi,Male,Mental,2
+17,5,Rural,80-89,MEGHALAYA,Ribhoi,Male,Mental,0
+17,5,Rural,90+,MEGHALAYA,Ribhoi,Male,Mental,0
+17,5,Rural,Age Not Stated,MEGHALAYA,Ribhoi,Male,Mental,0
+17,5,Urban,0-4,MEGHALAYA,Ribhoi,Male,Mental,1
+17,5,Urban,5-9,MEGHALAYA,Ribhoi,Male,Mental,2
+17,5,Urban,10-19,MEGHALAYA,Ribhoi,Male,Mental,12
+17,5,Urban,20-29,MEGHALAYA,Ribhoi,Male,Mental,12
+17,5,Urban,30-39,MEGHALAYA,Ribhoi,Male,Mental,8
+17,5,Urban,40-49,MEGHALAYA,Ribhoi,Male,Mental,4
+17,5,Urban,50-59,MEGHALAYA,Ribhoi,Male,Mental,1
+17,5,Urban,60-69,MEGHALAYA,Ribhoi,Male,Mental,3
+17,5,Urban,70-79,MEGHALAYA,Ribhoi,Male,Mental,1
+17,5,Urban,80-89,MEGHALAYA,Ribhoi,Male,Mental,0
+17,5,Urban,90+,MEGHALAYA,Ribhoi,Male,Mental,0
+17,5,Urban,Age Not Stated,MEGHALAYA,Ribhoi,Male,Mental,0
+17,6,Rural,0-4,MEGHALAYA,East Khasi Hills,Male,Mental,7
+17,6,Rural,5-9,MEGHALAYA,East Khasi Hills,Male,Mental,21
+17,6,Rural,10-19,MEGHALAYA,East Khasi Hills,Male,Mental,84
+17,6,Rural,20-29,MEGHALAYA,East Khasi Hills,Male,Mental,81
+17,6,Rural,30-39,MEGHALAYA,East Khasi Hills,Male,Mental,64
+17,6,Rural,40-49,MEGHALAYA,East Khasi Hills,Male,Mental,54
+17,6,Rural,50-59,MEGHALAYA,East Khasi Hills,Male,Mental,18
+17,6,Rural,60-69,MEGHALAYA,East Khasi Hills,Male,Mental,6
+17,6,Rural,70-79,MEGHALAYA,East Khasi Hills,Male,Mental,2
+17,6,Rural,80-89,MEGHALAYA,East Khasi Hills,Male,Mental,4
+17,6,Rural,90+,MEGHALAYA,East Khasi Hills,Male,Mental,0
+17,6,Rural,Age Not Stated,MEGHALAYA,East Khasi Hills,Male,Mental,1
+17,6,Urban,0-4,MEGHALAYA,East Khasi Hills,Male,Mental,6
+17,6,Urban,5-9,MEGHALAYA,East Khasi Hills,Male,Mental,5
+17,6,Urban,10-19,MEGHALAYA,East Khasi Hills,Male,Mental,68
+17,6,Urban,20-29,MEGHALAYA,East Khasi Hills,Male,Mental,106
+17,6,Urban,30-39,MEGHALAYA,East Khasi Hills,Male,Mental,70
+17,6,Urban,40-49,MEGHALAYA,East Khasi Hills,Male,Mental,41
+17,6,Urban,50-59,MEGHALAYA,East Khasi Hills,Male,Mental,30
+17,6,Urban,60-69,MEGHALAYA,East Khasi Hills,Male,Mental,9
+17,6,Urban,70-79,MEGHALAYA,East Khasi Hills,Male,Mental,2
+17,6,Urban,80-89,MEGHALAYA,East Khasi Hills,Male,Mental,1
+17,6,Urban,90+,MEGHALAYA,East Khasi Hills,Male,Mental,0
+17,6,Urban,Age Not Stated,MEGHALAYA,East Khasi Hills,Male,Mental,1
+17,7,Rural,0-4,MEGHALAYA,Jaintia Hills,Male,Mental,11
+17,7,Rural,5-9,MEGHALAYA,Jaintia Hills,Male,Mental,22
+17,7,Rural,10-19,MEGHALAYA,Jaintia Hills,Male,Mental,76
+17,7,Rural,20-29,MEGHALAYA,Jaintia Hills,Male,Mental,59
+17,7,Rural,30-39,MEGHALAYA,Jaintia Hills,Male,Mental,52
+17,7,Rural,40-49,MEGHALAYA,Jaintia Hills,Male,Mental,31
+17,7,Rural,50-59,MEGHALAYA,Jaintia Hills,Male,Mental,16
+17,7,Rural,60-69,MEGHALAYA,Jaintia Hills,Male,Mental,7
+17,7,Rural,70-79,MEGHALAYA,Jaintia Hills,Male,Mental,2
+17,7,Rural,80-89,MEGHALAYA,Jaintia Hills,Male,Mental,0
+17,7,Rural,90+,MEGHALAYA,Jaintia Hills,Male,Mental,1
+17,7,Rural,Age Not Stated,MEGHALAYA,Jaintia Hills,Male,Mental,1
+17,7,Urban,0-4,MEGHALAYA,Jaintia Hills,Male,Mental,0
+17,7,Urban,5-9,MEGHALAYA,Jaintia Hills,Male,Mental,1
+17,7,Urban,10-19,MEGHALAYA,Jaintia Hills,Male,Mental,6
+17,7,Urban,20-29,MEGHALAYA,Jaintia Hills,Male,Mental,2
+17,7,Urban,30-39,MEGHALAYA,Jaintia Hills,Male,Mental,6
+17,7,Urban,40-49,MEGHALAYA,Jaintia Hills,Male,Mental,1
+17,7,Urban,50-59,MEGHALAYA,Jaintia Hills,Male,Mental,0
+17,7,Urban,60-69,MEGHALAYA,Jaintia Hills,Male,Mental,1
+17,7,Urban,70-79,MEGHALAYA,Jaintia Hills,Male,Mental,0
+17,7,Urban,80-89,MEGHALAYA,Jaintia Hills,Male,Mental,0
+17,7,Urban,90+,MEGHALAYA,Jaintia Hills,Male,Mental,0
+17,7,Urban,Age Not Stated,MEGHALAYA,Jaintia Hills,Male,Mental,0
+17,1,Rural,0-4,MEGHALAYA,West Garo Hills,Female,Mental,14
+17,1,Rural,5-9,MEGHALAYA,West Garo Hills,Female,Mental,30
+17,1,Rural,10-19,MEGHALAYA,West Garo Hills,Female,Mental,120
+17,1,Rural,20-29,MEGHALAYA,West Garo Hills,Female,Mental,89
+17,1,Rural,30-39,MEGHALAYA,West Garo Hills,Female,Mental,76
+17,1,Rural,40-49,MEGHALAYA,West Garo Hills,Female,Mental,64
+17,1,Rural,50-59,MEGHALAYA,West Garo Hills,Female,Mental,49
+17,1,Rural,60-69,MEGHALAYA,West Garo Hills,Female,Mental,19
+17,1,Rural,70-79,MEGHALAYA,West Garo Hills,Female,Mental,10
+17,1,Rural,80-89,MEGHALAYA,West Garo Hills,Female,Mental,2
+17,1,Rural,90+,MEGHALAYA,West Garo Hills,Female,Mental,1
+17,1,Rural,Age Not Stated,MEGHALAYA,West Garo Hills,Female,Mental,1
+17,1,Urban,0-4,MEGHALAYA,West Garo Hills,Female,Mental,2
+17,1,Urban,5-9,MEGHALAYA,West Garo Hills,Female,Mental,1
+17,1,Urban,10-19,MEGHALAYA,West Garo Hills,Female,Mental,11
+17,1,Urban,20-29,MEGHALAYA,West Garo Hills,Female,Mental,14
+17,1,Urban,30-39,MEGHALAYA,West Garo Hills,Female,Mental,10
+17,1,Urban,40-49,MEGHALAYA,West Garo Hills,Female,Mental,13
+17,1,Urban,50-59,MEGHALAYA,West Garo Hills,Female,Mental,3
+17,1,Urban,60-69,MEGHALAYA,West Garo Hills,Female,Mental,2
+17,1,Urban,70-79,MEGHALAYA,West Garo Hills,Female,Mental,0
+17,1,Urban,80-89,MEGHALAYA,West Garo Hills,Female,Mental,1
+17,1,Urban,90+,MEGHALAYA,West Garo Hills,Female,Mental,1
+17,1,Urban,Age Not Stated,MEGHALAYA,West Garo Hills,Female,Mental,0
+17,2,Rural,0-4,MEGHALAYA,East Garo Hills,Female,Mental,4
+17,2,Rural,5-9,MEGHALAYA,East Garo Hills,Female,Mental,8
+17,2,Rural,10-19,MEGHALAYA,East Garo Hills,Female,Mental,32
+17,2,Rural,20-29,MEGHALAYA,East Garo Hills,Female,Mental,29
+17,2,Rural,30-39,MEGHALAYA,East Garo Hills,Female,Mental,20
+17,2,Rural,40-49,MEGHALAYA,East Garo Hills,Female,Mental,16
+17,2,Rural,50-59,MEGHALAYA,East Garo Hills,Female,Mental,9
+17,2,Rural,60-69,MEGHALAYA,East Garo Hills,Female,Mental,3
+17,2,Rural,70-79,MEGHALAYA,East Garo Hills,Female,Mental,0
+17,2,Rural,80-89,MEGHALAYA,East Garo Hills,Female,Mental,0
+17,2,Rural,90+,MEGHALAYA,East Garo Hills,Female,Mental,0
+17,2,Rural,Age Not Stated,MEGHALAYA,East Garo Hills,Female,Mental,1
+17,2,Urban,0-4,MEGHALAYA,East Garo Hills,Female,Mental,3
+17,2,Urban,5-9,MEGHALAYA,East Garo Hills,Female,Mental,1
+17,2,Urban,10-19,MEGHALAYA,East Garo Hills,Female,Mental,12
+17,2,Urban,20-29,MEGHALAYA,East Garo Hills,Female,Mental,7
+17,2,Urban,30-39,MEGHALAYA,East Garo Hills,Female,Mental,6
+17,2,Urban,40-49,MEGHALAYA,East Garo Hills,Female,Mental,4
+17,2,Urban,50-59,MEGHALAYA,East Garo Hills,Female,Mental,1
+17,2,Urban,60-69,MEGHALAYA,East Garo Hills,Female,Mental,1
+17,2,Urban,70-79,MEGHALAYA,East Garo Hills,Female,Mental,1
+17,2,Urban,80-89,MEGHALAYA,East Garo Hills,Female,Mental,0
+17,2,Urban,90+,MEGHALAYA,East Garo Hills,Female,Mental,0
+17,2,Urban,Age Not Stated,MEGHALAYA,East Garo Hills,Female,Mental,0
+17,3,Rural,0-4,MEGHALAYA,South Garo Hills,Female,Mental,6
+17,3,Rural,5-9,MEGHALAYA,South Garo Hills,Female,Mental,6
+17,3,Rural,10-19,MEGHALAYA,South Garo Hills,Female,Mental,25
+17,3,Rural,20-29,MEGHALAYA,South Garo Hills,Female,Mental,25
+17,3,Rural,30-39,MEGHALAYA,South Garo Hills,Female,Mental,21
+17,3,Rural,40-49,MEGHALAYA,South Garo Hills,Female,Mental,13
+17,3,Rural,50-59,MEGHALAYA,South Garo Hills,Female,Mental,14
+17,3,Rural,60-69,MEGHALAYA,South Garo Hills,Female,Mental,2
+17,3,Rural,70-79,MEGHALAYA,South Garo Hills,Female,Mental,1
+17,3,Rural,80-89,MEGHALAYA,South Garo Hills,Female,Mental,0
+17,3,Rural,90+,MEGHALAYA,South Garo Hills,Female,Mental,0
+17,3,Rural,Age Not Stated,MEGHALAYA,South Garo Hills,Female,Mental,0
+17,3,Urban,0-4,MEGHALAYA,South Garo Hills,Female,Mental,3
+17,3,Urban,5-9,MEGHALAYA,South Garo Hills,Female,Mental,4
+17,3,Urban,10-19,MEGHALAYA,South Garo Hills,Female,Mental,7
+17,3,Urban,20-29,MEGHALAYA,South Garo Hills,Female,Mental,7
+17,3,Urban,30-39,MEGHALAYA,South Garo Hills,Female,Mental,5
+17,3,Urban,40-49,MEGHALAYA,South Garo Hills,Female,Mental,0
+17,3,Urban,50-59,MEGHALAYA,South Garo Hills,Female,Mental,0
+17,3,Urban,60-69,MEGHALAYA,South Garo Hills,Female,Mental,0
+17,3,Urban,70-79,MEGHALAYA,South Garo Hills,Female,Mental,0
+17,3,Urban,80-89,MEGHALAYA,South Garo Hills,Female,Mental,0
+17,3,Urban,90+,MEGHALAYA,South Garo Hills,Female,Mental,0
+17,3,Urban,Age Not Stated,MEGHALAYA,South Garo Hills,Female,Mental,0
+17,4,Rural,0-4,MEGHALAYA,West Khasi Hills,Female,Mental,7
+17,4,Rural,5-9,MEGHALAYA,West Khasi Hills,Female,Mental,22
+17,4,Rural,10-19,MEGHALAYA,West Khasi Hills,Female,Mental,58
+17,4,Rural,20-29,MEGHALAYA,West Khasi Hills,Female,Mental,54
+17,4,Rural,30-39,MEGHALAYA,West Khasi Hills,Female,Mental,52
+17,4,Rural,40-49,MEGHALAYA,West Khasi Hills,Female,Mental,31
+17,4,Rural,50-59,MEGHALAYA,West Khasi Hills,Female,Mental,15
+17,4,Rural,60-69,MEGHALAYA,West Khasi Hills,Female,Mental,12
+17,4,Rural,70-79,MEGHALAYA,West Khasi Hills,Female,Mental,7
+17,4,Rural,80-89,MEGHALAYA,West Khasi Hills,Female,Mental,0
+17,4,Rural,90+,MEGHALAYA,West Khasi Hills,Female,Mental,2
+17,4,Rural,Age Not Stated,MEGHALAYA,West Khasi Hills,Female,Mental,1
+17,4,Urban,0-4,MEGHALAYA,West Khasi Hills,Female,Mental,1
+17,4,Urban,5-9,MEGHALAYA,West Khasi Hills,Female,Mental,1
+17,4,Urban,10-19,MEGHALAYA,West Khasi Hills,Female,Mental,7
+17,4,Urban,20-29,MEGHALAYA,West Khasi Hills,Female,Mental,6
+17,4,Urban,30-39,MEGHALAYA,West Khasi Hills,Female,Mental,4
+17,4,Urban,40-49,MEGHALAYA,West Khasi Hills,Female,Mental,4
+17,4,Urban,50-59,MEGHALAYA,West Khasi Hills,Female,Mental,1
+17,4,Urban,60-69,MEGHALAYA,West Khasi Hills,Female,Mental,0
+17,4,Urban,70-79,MEGHALAYA,West Khasi Hills,Female,Mental,1
+17,4,Urban,80-89,MEGHALAYA,West Khasi Hills,Female,Mental,0
+17,4,Urban,90+,MEGHALAYA,West Khasi Hills,Female,Mental,0
+17,4,Urban,Age Not Stated,MEGHALAYA,West Khasi Hills,Female,Mental,0
+17,5,Rural,0-4,MEGHALAYA,Ribhoi,Female,Mental,4
+17,5,Rural,5-9,MEGHALAYA,Ribhoi,Female,Mental,12
+17,5,Rural,10-19,MEGHALAYA,Ribhoi,Female,Mental,57
+17,5,Rural,20-29,MEGHALAYA,Ribhoi,Female,Mental,50
+17,5,Rural,30-39,MEGHALAYA,Ribhoi,Female,Mental,28
+17,5,Rural,40-49,MEGHALAYA,Ribhoi,Female,Mental,25
+17,5,Rural,50-59,MEGHALAYA,Ribhoi,Female,Mental,20
+17,5,Rural,60-69,MEGHALAYA,Ribhoi,Female,Mental,13
+17,5,Rural,70-79,MEGHALAYA,Ribhoi,Female,Mental,4
+17,5,Rural,80-89,MEGHALAYA,Ribhoi,Female,Mental,0
+17,5,Rural,90+,MEGHALAYA,Ribhoi,Female,Mental,0
+17,5,Rural,Age Not Stated,MEGHALAYA,Ribhoi,Female,Mental,0
+17,5,Urban,0-4,MEGHALAYA,Ribhoi,Female,Mental,1
+17,5,Urban,5-9,MEGHALAYA,Ribhoi,Female,Mental,0
+17,5,Urban,10-19,MEGHALAYA,Ribhoi,Female,Mental,10
+17,5,Urban,20-29,MEGHALAYA,Ribhoi,Female,Mental,9
+17,5,Urban,30-39,MEGHALAYA,Ribhoi,Female,Mental,8
+17,5,Urban,40-49,MEGHALAYA,Ribhoi,Female,Mental,5
+17,5,Urban,50-59,MEGHALAYA,Ribhoi,Female,Mental,4
+17,5,Urban,60-69,MEGHALAYA,Ribhoi,Female,Mental,3
+17,5,Urban,70-79,MEGHALAYA,Ribhoi,Female,Mental,0
+17,5,Urban,80-89,MEGHALAYA,Ribhoi,Female,Mental,1
+17,5,Urban,90+,MEGHALAYA,Ribhoi,Female,Mental,0
+17,5,Urban,Age Not Stated,MEGHALAYA,Ribhoi,Female,Mental,0
+17,6,Rural,0-4,MEGHALAYA,East Khasi Hills,Female,Mental,6
+17,6,Rural,5-9,MEGHALAYA,East Khasi Hills,Female,Mental,15
+17,6,Rural,10-19,MEGHALAYA,East Khasi Hills,Female,Mental,84
+17,6,Rural,20-29,MEGHALAYA,East Khasi Hills,Female,Mental,63
+17,6,Rural,30-39,MEGHALAYA,East Khasi Hills,Female,Mental,75
+17,6,Rural,40-49,MEGHALAYA,East Khasi Hills,Female,Mental,60
+17,6,Rural,50-59,MEGHALAYA,East Khasi Hills,Female,Mental,27
+17,6,Rural,60-69,MEGHALAYA,East Khasi Hills,Female,Mental,17
+17,6,Rural,70-79,MEGHALAYA,East Khasi Hills,Female,Mental,11
+17,6,Rural,80-89,MEGHALAYA,East Khasi Hills,Female,Mental,1
+17,6,Rural,90+,MEGHALAYA,East Khasi Hills,Female,Mental,0
+17,6,Rural,Age Not Stated,MEGHALAYA,East Khasi Hills,Female,Mental,1
+17,6,Urban,0-4,MEGHALAYA,East Khasi Hills,Female,Mental,1
+17,6,Urban,5-9,MEGHALAYA,East Khasi Hills,Female,Mental,11
+17,6,Urban,10-19,MEGHALAYA,East Khasi Hills,Female,Mental,64
+17,6,Urban,20-29,MEGHALAYA,East Khasi Hills,Female,Mental,56
+17,6,Urban,30-39,MEGHALAYA,East Khasi Hills,Female,Mental,37
+17,6,Urban,40-49,MEGHALAYA,East Khasi Hills,Female,Mental,36
+17,6,Urban,50-59,MEGHALAYA,East Khasi Hills,Female,Mental,19
+17,6,Urban,60-69,MEGHALAYA,East Khasi Hills,Female,Mental,10
+17,6,Urban,70-79,MEGHALAYA,East Khasi Hills,Female,Mental,3
+17,6,Urban,80-89,MEGHALAYA,East Khasi Hills,Female,Mental,5
+17,6,Urban,90+,MEGHALAYA,East Khasi Hills,Female,Mental,1
+17,6,Urban,Age Not Stated,MEGHALAYA,East Khasi Hills,Female,Mental,0
+17,7,Rural,0-4,MEGHALAYA,Jaintia Hills,Female,Mental,17
+17,7,Rural,5-9,MEGHALAYA,Jaintia Hills,Female,Mental,18
+17,7,Rural,10-19,MEGHALAYA,Jaintia Hills,Female,Mental,67
+17,7,Rural,20-29,MEGHALAYA,Jaintia Hills,Female,Mental,57
+17,7,Rural,30-39,MEGHALAYA,Jaintia Hills,Female,Mental,47
+17,7,Rural,40-49,MEGHALAYA,Jaintia Hills,Female,Mental,26
+17,7,Rural,50-59,MEGHALAYA,Jaintia Hills,Female,Mental,30
+17,7,Rural,60-69,MEGHALAYA,Jaintia Hills,Female,Mental,8
+17,7,Rural,70-79,MEGHALAYA,Jaintia Hills,Female,Mental,4
+17,7,Rural,80-89,MEGHALAYA,Jaintia Hills,Female,Mental,0
+17,7,Rural,90+,MEGHALAYA,Jaintia Hills,Female,Mental,0
+17,7,Rural,Age Not Stated,MEGHALAYA,Jaintia Hills,Female,Mental,1
+17,7,Urban,0-4,MEGHALAYA,Jaintia Hills,Female,Mental,1
+17,7,Urban,5-9,MEGHALAYA,Jaintia Hills,Female,Mental,1
+17,7,Urban,10-19,MEGHALAYA,Jaintia Hills,Female,Mental,3
+17,7,Urban,20-29,MEGHALAYA,Jaintia Hills,Female,Mental,1
+17,7,Urban,30-39,MEGHALAYA,Jaintia Hills,Female,Mental,5
+17,7,Urban,40-49,MEGHALAYA,Jaintia Hills,Female,Mental,2
+17,7,Urban,50-59,MEGHALAYA,Jaintia Hills,Female,Mental,2
+17,7,Urban,60-69,MEGHALAYA,Jaintia Hills,Female,Mental,0
+17,7,Urban,70-79,MEGHALAYA,Jaintia Hills,Female,Mental,0
+17,7,Urban,80-89,MEGHALAYA,Jaintia Hills,Female,Mental,0
+17,7,Urban,90+,MEGHALAYA,Jaintia Hills,Female,Mental,0
+17,7,Urban,Age Not Stated,MEGHALAYA,Jaintia Hills,Female,Mental,0

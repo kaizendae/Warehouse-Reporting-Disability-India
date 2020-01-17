@@ -1,0 +1,2641 @@
+State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
+13,1,Rural,0-4,NAGALAND,Mon,Male,In seeing,19
+13,1,Rural,5-9,NAGALAND,Mon,Male,In seeing,26
+13,1,Rural,10-19,NAGALAND,Mon,Male,In seeing,71
+13,1,Rural,20-29,NAGALAND,Mon,Male,In seeing,43
+13,1,Rural,30-39,NAGALAND,Mon,Male,In seeing,47
+13,1,Rural,40-49,NAGALAND,Mon,Male,In seeing,39
+13,1,Rural,50-59,NAGALAND,Mon,Male,In seeing,39
+13,1,Rural,60-69,NAGALAND,Mon,Male,In seeing,51
+13,1,Rural,70-79,NAGALAND,Mon,Male,In seeing,35
+13,1,Rural,80-89,NAGALAND,Mon,Male,In seeing,13
+13,1,Rural,90+,NAGALAND,Mon,Male,In seeing,4
+13,1,Rural,Age Not Stated,NAGALAND,Mon,Male,In seeing,0
+13,1,Urban,0-4,NAGALAND,Mon,Male,In seeing,3
+13,1,Urban,5-9,NAGALAND,Mon,Male,In seeing,4
+13,1,Urban,10-19,NAGALAND,Mon,Male,In seeing,12
+13,1,Urban,20-29,NAGALAND,Mon,Male,In seeing,8
+13,1,Urban,30-39,NAGALAND,Mon,Male,In seeing,7
+13,1,Urban,40-49,NAGALAND,Mon,Male,In seeing,7
+13,1,Urban,50-59,NAGALAND,Mon,Male,In seeing,6
+13,1,Urban,60-69,NAGALAND,Mon,Male,In seeing,6
+13,1,Urban,70-79,NAGALAND,Mon,Male,In seeing,0
+13,1,Urban,80-89,NAGALAND,Mon,Male,In seeing,1
+13,1,Urban,90+,NAGALAND,Mon,Male,In seeing,0
+13,1,Urban,Age Not Stated,NAGALAND,Mon,Male,In seeing,0
+13,2,Rural,0-4,NAGALAND,Mokokchung,Male,In seeing,2
+13,2,Rural,5-9,NAGALAND,Mokokchung,Male,In seeing,4
+13,2,Rural,10-19,NAGALAND,Mokokchung,Male,In seeing,17
+13,2,Rural,20-29,NAGALAND,Mokokchung,Male,In seeing,11
+13,2,Rural,30-39,NAGALAND,Mokokchung,Male,In seeing,15
+13,2,Rural,40-49,NAGALAND,Mokokchung,Male,In seeing,14
+13,2,Rural,50-59,NAGALAND,Mokokchung,Male,In seeing,13
+13,2,Rural,60-69,NAGALAND,Mokokchung,Male,In seeing,11
+13,2,Rural,70-79,NAGALAND,Mokokchung,Male,In seeing,20
+13,2,Rural,80-89,NAGALAND,Mokokchung,Male,In seeing,13
+13,2,Rural,90+,NAGALAND,Mokokchung,Male,In seeing,2
+13,2,Rural,Age Not Stated,NAGALAND,Mokokchung,Male,In seeing,1
+13,2,Urban,0-4,NAGALAND,Mokokchung,Male,In seeing,0
+13,2,Urban,5-9,NAGALAND,Mokokchung,Male,In seeing,0
+13,2,Urban,10-19,NAGALAND,Mokokchung,Male,In seeing,5
+13,2,Urban,20-29,NAGALAND,Mokokchung,Male,In seeing,2
+13,2,Urban,30-39,NAGALAND,Mokokchung,Male,In seeing,3
+13,2,Urban,40-49,NAGALAND,Mokokchung,Male,In seeing,6
+13,2,Urban,50-59,NAGALAND,Mokokchung,Male,In seeing,9
+13,2,Urban,60-69,NAGALAND,Mokokchung,Male,In seeing,8
+13,2,Urban,70-79,NAGALAND,Mokokchung,Male,In seeing,4
+13,2,Urban,80-89,NAGALAND,Mokokchung,Male,In seeing,5
+13,2,Urban,90+,NAGALAND,Mokokchung,Male,In seeing,1
+13,2,Urban,Age Not Stated,NAGALAND,Mokokchung,Male,In seeing,0
+13,3,Rural,0-4,NAGALAND,Zunheboto,Male,In seeing,2
+13,3,Rural,5-9,NAGALAND,Zunheboto,Male,In seeing,10
+13,3,Rural,10-19,NAGALAND,Zunheboto,Male,In seeing,19
+13,3,Rural,20-29,NAGALAND,Zunheboto,Male,In seeing,14
+13,3,Rural,30-39,NAGALAND,Zunheboto,Male,In seeing,14
+13,3,Rural,40-49,NAGALAND,Zunheboto,Male,In seeing,17
+13,3,Rural,50-59,NAGALAND,Zunheboto,Male,In seeing,18
+13,3,Rural,60-69,NAGALAND,Zunheboto,Male,In seeing,12
+13,3,Rural,70-79,NAGALAND,Zunheboto,Male,In seeing,17
+13,3,Rural,80-89,NAGALAND,Zunheboto,Male,In seeing,6
+13,3,Rural,90+,NAGALAND,Zunheboto,Male,In seeing,4
+13,3,Rural,Age Not Stated,NAGALAND,Zunheboto,Male,In seeing,0
+13,3,Urban,0-4,NAGALAND,Zunheboto,Male,In seeing,0
+13,3,Urban,5-9,NAGALAND,Zunheboto,Male,In seeing,2
+13,3,Urban,10-19,NAGALAND,Zunheboto,Male,In seeing,4
+13,3,Urban,20-29,NAGALAND,Zunheboto,Male,In seeing,6
+13,3,Urban,30-39,NAGALAND,Zunheboto,Male,In seeing,2
+13,3,Urban,40-49,NAGALAND,Zunheboto,Male,In seeing,4
+13,3,Urban,50-59,NAGALAND,Zunheboto,Male,In seeing,2
+13,3,Urban,60-69,NAGALAND,Zunheboto,Male,In seeing,2
+13,3,Urban,70-79,NAGALAND,Zunheboto,Male,In seeing,3
+13,3,Urban,80-89,NAGALAND,Zunheboto,Male,In seeing,0
+13,3,Urban,90+,NAGALAND,Zunheboto,Male,In seeing,0
+13,3,Urban,Age Not Stated,NAGALAND,Zunheboto,Male,In seeing,0
+13,4,Rural,0-4,NAGALAND,Wokha,Male,In seeing,1
+13,4,Rural,5-9,NAGALAND,Wokha,Male,In seeing,3
+13,4,Rural,10-19,NAGALAND,Wokha,Male,In seeing,13
+13,4,Rural,20-29,NAGALAND,Wokha,Male,In seeing,16
+13,4,Rural,30-39,NAGALAND,Wokha,Male,In seeing,7
+13,4,Rural,40-49,NAGALAND,Wokha,Male,In seeing,14
+13,4,Rural,50-59,NAGALAND,Wokha,Male,In seeing,10
+13,4,Rural,60-69,NAGALAND,Wokha,Male,In seeing,19
+13,4,Rural,70-79,NAGALAND,Wokha,Male,In seeing,19
+13,4,Rural,80-89,NAGALAND,Wokha,Male,In seeing,10
+13,4,Rural,90+,NAGALAND,Wokha,Male,In seeing,2
+13,4,Rural,Age Not Stated,NAGALAND,Wokha,Male,In seeing,0
+13,4,Urban,0-4,NAGALAND,Wokha,Male,In seeing,0
+13,4,Urban,5-9,NAGALAND,Wokha,Male,In seeing,1
+13,4,Urban,10-19,NAGALAND,Wokha,Male,In seeing,1
+13,4,Urban,20-29,NAGALAND,Wokha,Male,In seeing,0
+13,4,Urban,30-39,NAGALAND,Wokha,Male,In seeing,2
+13,4,Urban,40-49,NAGALAND,Wokha,Male,In seeing,1
+13,4,Urban,50-59,NAGALAND,Wokha,Male,In seeing,3
+13,4,Urban,60-69,NAGALAND,Wokha,Male,In seeing,3
+13,4,Urban,70-79,NAGALAND,Wokha,Male,In seeing,2
+13,4,Urban,80-89,NAGALAND,Wokha,Male,In seeing,0
+13,4,Urban,90+,NAGALAND,Wokha,Male,In seeing,0
+13,4,Urban,Age Not Stated,NAGALAND,Wokha,Male,In seeing,0
+13,5,Rural,0-4,NAGALAND,Dimapur ,Male,In seeing,4
+13,5,Rural,5-9,NAGALAND,Dimapur ,Male,In seeing,18
+13,5,Rural,10-19,NAGALAND,Dimapur ,Male,In seeing,33
+13,5,Rural,20-29,NAGALAND,Dimapur ,Male,In seeing,17
+13,5,Rural,30-39,NAGALAND,Dimapur ,Male,In seeing,14
+13,5,Rural,40-49,NAGALAND,Dimapur ,Male,In seeing,23
+13,5,Rural,50-59,NAGALAND,Dimapur ,Male,In seeing,36
+13,5,Rural,60-69,NAGALAND,Dimapur ,Male,In seeing,26
+13,5,Rural,70-79,NAGALAND,Dimapur ,Male,In seeing,12
+13,5,Rural,80-89,NAGALAND,Dimapur ,Male,In seeing,14
+13,5,Rural,90+,NAGALAND,Dimapur ,Male,In seeing,3
+13,5,Rural,Age Not Stated,NAGALAND,Dimapur ,Male,In seeing,0
+13,5,Urban,0-4,NAGALAND,Dimapur ,Male,In seeing,11
+13,5,Urban,5-9,NAGALAND,Dimapur ,Male,In seeing,12
+13,5,Urban,10-19,NAGALAND,Dimapur ,Male,In seeing,32
+13,5,Urban,20-29,NAGALAND,Dimapur ,Male,In seeing,32
+13,5,Urban,30-39,NAGALAND,Dimapur ,Male,In seeing,29
+13,5,Urban,40-49,NAGALAND,Dimapur ,Male,In seeing,26
+13,5,Urban,50-59,NAGALAND,Dimapur ,Male,In seeing,30
+13,5,Urban,60-69,NAGALAND,Dimapur ,Male,In seeing,15
+13,5,Urban,70-79,NAGALAND,Dimapur ,Male,In seeing,11
+13,5,Urban,80-89,NAGALAND,Dimapur ,Male,In seeing,2
+13,5,Urban,90+,NAGALAND,Dimapur ,Male,In seeing,1
+13,5,Urban,Age Not Stated,NAGALAND,Dimapur ,Male,In seeing,1
+13,6,Rural,0-4,NAGALAND,Phek,Male,In seeing,2
+13,6,Rural,5-9,NAGALAND,Phek,Male,In seeing,8
+13,6,Rural,10-19,NAGALAND,Phek,Male,In seeing,18
+13,6,Rural,20-29,NAGALAND,Phek,Male,In seeing,14
+13,6,Rural,30-39,NAGALAND,Phek,Male,In seeing,15
+13,6,Rural,40-49,NAGALAND,Phek,Male,In seeing,20
+13,6,Rural,50-59,NAGALAND,Phek,Male,In seeing,20
+13,6,Rural,60-69,NAGALAND,Phek,Male,In seeing,20
+13,6,Rural,70-79,NAGALAND,Phek,Male,In seeing,13
+13,6,Rural,80-89,NAGALAND,Phek,Male,In seeing,12
+13,6,Rural,90+,NAGALAND,Phek,Male,In seeing,3
+13,6,Rural,Age Not Stated,NAGALAND,Phek,Male,In seeing,0
+13,6,Urban,0-4,NAGALAND,Phek,Male,In seeing,0
+13,6,Urban,5-9,NAGALAND,Phek,Male,In seeing,0
+13,6,Urban,10-19,NAGALAND,Phek,Male,In seeing,4
+13,6,Urban,20-29,NAGALAND,Phek,Male,In seeing,2
+13,6,Urban,30-39,NAGALAND,Phek,Male,In seeing,1
+13,6,Urban,40-49,NAGALAND,Phek,Male,In seeing,1
+13,6,Urban,50-59,NAGALAND,Phek,Male,In seeing,1
+13,6,Urban,60-69,NAGALAND,Phek,Male,In seeing,0
+13,6,Urban,70-79,NAGALAND,Phek,Male,In seeing,0
+13,6,Urban,80-89,NAGALAND,Phek,Male,In seeing,0
+13,6,Urban,90+,NAGALAND,Phek,Male,In seeing,0
+13,6,Urban,Age Not Stated,NAGALAND,Phek,Male,In seeing,0
+13,7,Rural,0-4,NAGALAND,Tuensang,Male,In seeing,5
+13,7,Rural,5-9,NAGALAND,Tuensang,Male,In seeing,12
+13,7,Rural,10-19,NAGALAND,Tuensang,Male,In seeing,22
+13,7,Rural,20-29,NAGALAND,Tuensang,Male,In seeing,15
+13,7,Rural,30-39,NAGALAND,Tuensang,Male,In seeing,15
+13,7,Rural,40-49,NAGALAND,Tuensang,Male,In seeing,25
+13,7,Rural,50-59,NAGALAND,Tuensang,Male,In seeing,17
+13,7,Rural,60-69,NAGALAND,Tuensang,Male,In seeing,20
+13,7,Rural,70-79,NAGALAND,Tuensang,Male,In seeing,21
+13,7,Rural,80-89,NAGALAND,Tuensang,Male,In seeing,12
+13,7,Rural,90+,NAGALAND,Tuensang,Male,In seeing,9
+13,7,Rural,Age Not Stated,NAGALAND,Tuensang,Male,In seeing,0
+13,7,Urban,0-4,NAGALAND,Tuensang,Male,In seeing,0
+13,7,Urban,5-9,NAGALAND,Tuensang,Male,In seeing,2
+13,7,Urban,10-19,NAGALAND,Tuensang,Male,In seeing,7
+13,7,Urban,20-29,NAGALAND,Tuensang,Male,In seeing,1
+13,7,Urban,30-39,NAGALAND,Tuensang,Male,In seeing,1
+13,7,Urban,40-49,NAGALAND,Tuensang,Male,In seeing,0
+13,7,Urban,50-59,NAGALAND,Tuensang,Male,In seeing,1
+13,7,Urban,60-69,NAGALAND,Tuensang,Male,In seeing,0
+13,7,Urban,70-79,NAGALAND,Tuensang,Male,In seeing,0
+13,7,Urban,80-89,NAGALAND,Tuensang,Male,In seeing,0
+13,7,Urban,90+,NAGALAND,Tuensang,Male,In seeing,2
+13,7,Urban,Age Not Stated,NAGALAND,Tuensang,Male,In seeing,0
+13,8,Rural,0-4,NAGALAND,Longleng,Male,In seeing,1
+13,8,Rural,5-9,NAGALAND,Longleng,Male,In seeing,5
+13,8,Rural,10-19,NAGALAND,Longleng,Male,In seeing,12
+13,8,Rural,20-29,NAGALAND,Longleng,Male,In seeing,5
+13,8,Rural,30-39,NAGALAND,Longleng,Male,In seeing,4
+13,8,Rural,40-49,NAGALAND,Longleng,Male,In seeing,10
+13,8,Rural,50-59,NAGALAND,Longleng,Male,In seeing,8
+13,8,Rural,60-69,NAGALAND,Longleng,Male,In seeing,8
+13,8,Rural,70-79,NAGALAND,Longleng,Male,In seeing,5
+13,8,Rural,80-89,NAGALAND,Longleng,Male,In seeing,7
+13,8,Rural,90+,NAGALAND,Longleng,Male,In seeing,4
+13,8,Rural,Age Not Stated,NAGALAND,Longleng,Male,In seeing,0
+13,8,Urban,0-4,NAGALAND,Longleng,Male,In seeing,1
+13,8,Urban,5-9,NAGALAND,Longleng,Male,In seeing,0
+13,8,Urban,10-19,NAGALAND,Longleng,Male,In seeing,3
+13,8,Urban,20-29,NAGALAND,Longleng,Male,In seeing,0
+13,8,Urban,30-39,NAGALAND,Longleng,Male,In seeing,0
+13,8,Urban,40-49,NAGALAND,Longleng,Male,In seeing,1
+13,8,Urban,50-59,NAGALAND,Longleng,Male,In seeing,1
+13,8,Urban,60-69,NAGALAND,Longleng,Male,In seeing,1
+13,8,Urban,70-79,NAGALAND,Longleng,Male,In seeing,1
+13,8,Urban,80-89,NAGALAND,Longleng,Male,In seeing,1
+13,8,Urban,90+,NAGALAND,Longleng,Male,In seeing,0
+13,8,Urban,Age Not Stated,NAGALAND,Longleng,Male,In seeing,0
+13,9,Rural,0-4,NAGALAND,Kiphire,Male,In seeing,4
+13,9,Rural,5-9,NAGALAND,Kiphire,Male,In seeing,3
+13,9,Rural,10-19,NAGALAND,Kiphire,Male,In seeing,6
+13,9,Rural,20-29,NAGALAND,Kiphire,Male,In seeing,3
+13,9,Rural,30-39,NAGALAND,Kiphire,Male,In seeing,3
+13,9,Rural,40-49,NAGALAND,Kiphire,Male,In seeing,9
+13,9,Rural,50-59,NAGALAND,Kiphire,Male,In seeing,15
+13,9,Rural,60-69,NAGALAND,Kiphire,Male,In seeing,7
+13,9,Rural,70-79,NAGALAND,Kiphire,Male,In seeing,8
+13,9,Rural,80-89,NAGALAND,Kiphire,Male,In seeing,5
+13,9,Rural,90+,NAGALAND,Kiphire,Male,In seeing,2
+13,9,Rural,Age Not Stated,NAGALAND,Kiphire,Male,In seeing,0
+13,9,Urban,0-4,NAGALAND,Kiphire,Male,In seeing,1
+13,9,Urban,5-9,NAGALAND,Kiphire,Male,In seeing,1
+13,9,Urban,10-19,NAGALAND,Kiphire,Male,In seeing,2
+13,9,Urban,20-29,NAGALAND,Kiphire,Male,In seeing,0
+13,9,Urban,30-39,NAGALAND,Kiphire,Male,In seeing,0
+13,9,Urban,40-49,NAGALAND,Kiphire,Male,In seeing,1
+13,9,Urban,50-59,NAGALAND,Kiphire,Male,In seeing,3
+13,9,Urban,60-69,NAGALAND,Kiphire,Male,In seeing,2
+13,9,Urban,70-79,NAGALAND,Kiphire,Male,In seeing,1
+13,9,Urban,80-89,NAGALAND,Kiphire,Male,In seeing,0
+13,9,Urban,90+,NAGALAND,Kiphire,Male,In seeing,0
+13,9,Urban,Age Not Stated,NAGALAND,Kiphire,Male,In seeing,0
+13,10,Rural,0-4,NAGALAND,Kohima,Male,In seeing,1
+13,10,Rural,5-9,NAGALAND,Kohima,Male,In seeing,7
+13,10,Rural,10-19,NAGALAND,Kohima,Male,In seeing,15
+13,10,Rural,20-29,NAGALAND,Kohima,Male,In seeing,13
+13,10,Rural,30-39,NAGALAND,Kohima,Male,In seeing,16
+13,10,Rural,40-49,NAGALAND,Kohima,Male,In seeing,20
+13,10,Rural,50-59,NAGALAND,Kohima,Male,In seeing,17
+13,10,Rural,60-69,NAGALAND,Kohima,Male,In seeing,19
+13,10,Rural,70-79,NAGALAND,Kohima,Male,In seeing,16
+13,10,Rural,80-89,NAGALAND,Kohima,Male,In seeing,5
+13,10,Rural,90+,NAGALAND,Kohima,Male,In seeing,3
+13,10,Rural,Age Not Stated,NAGALAND,Kohima,Male,In seeing,1
+13,10,Urban,0-4,NAGALAND,Kohima,Male,In seeing,1
+13,10,Urban,5-9,NAGALAND,Kohima,Male,In seeing,2
+13,10,Urban,10-19,NAGALAND,Kohima,Male,In seeing,10
+13,10,Urban,20-29,NAGALAND,Kohima,Male,In seeing,14
+13,10,Urban,30-39,NAGALAND,Kohima,Male,In seeing,6
+13,10,Urban,40-49,NAGALAND,Kohima,Male,In seeing,9
+13,10,Urban,50-59,NAGALAND,Kohima,Male,In seeing,6
+13,10,Urban,60-69,NAGALAND,Kohima,Male,In seeing,4
+13,10,Urban,70-79,NAGALAND,Kohima,Male,In seeing,2
+13,10,Urban,80-89,NAGALAND,Kohima,Male,In seeing,1
+13,10,Urban,90+,NAGALAND,Kohima,Male,In seeing,1
+13,10,Urban,Age Not Stated,NAGALAND,Kohima,Male,In seeing,0
+13,11,Rural,0-4,NAGALAND,Peren,Male,In seeing,2
+13,11,Rural,5-9,NAGALAND,Peren,Male,In seeing,10
+13,11,Rural,10-19,NAGALAND,Peren,Male,In seeing,16
+13,11,Rural,20-29,NAGALAND,Peren,Male,In seeing,14
+13,11,Rural,30-39,NAGALAND,Peren,Male,In seeing,21
+13,11,Rural,40-49,NAGALAND,Peren,Male,In seeing,24
+13,11,Rural,50-59,NAGALAND,Peren,Male,In seeing,29
+13,11,Rural,60-69,NAGALAND,Peren,Male,In seeing,19
+13,11,Rural,70-79,NAGALAND,Peren,Male,In seeing,5
+13,11,Rural,80-89,NAGALAND,Peren,Male,In seeing,5
+13,11,Rural,90+,NAGALAND,Peren,Male,In seeing,1
+13,11,Rural,Age Not Stated,NAGALAND,Peren,Male,In seeing,1
+13,11,Urban,0-4,NAGALAND,Peren,Male,In seeing,0
+13,11,Urban,5-9,NAGALAND,Peren,Male,In seeing,0
+13,11,Urban,10-19,NAGALAND,Peren,Male,In seeing,1
+13,11,Urban,20-29,NAGALAND,Peren,Male,In seeing,0
+13,11,Urban,30-39,NAGALAND,Peren,Male,In seeing,1
+13,11,Urban,40-49,NAGALAND,Peren,Male,In seeing,1
+13,11,Urban,50-59,NAGALAND,Peren,Male,In seeing,0
+13,11,Urban,60-69,NAGALAND,Peren,Male,In seeing,2
+13,11,Urban,70-79,NAGALAND,Peren,Male,In seeing,0
+13,11,Urban,80-89,NAGALAND,Peren,Male,In seeing,0
+13,11,Urban,90+,NAGALAND,Peren,Male,In seeing,0
+13,11,Urban,Age Not Stated,NAGALAND,Peren,Male,In seeing,0
+13,1,Rural,0-4,NAGALAND,Mon,Female,In seeing,20
+13,1,Rural,5-9,NAGALAND,Mon,Female,In seeing,28
+13,1,Rural,10-19,NAGALAND,Mon,Female,In seeing,57
+13,1,Rural,20-29,NAGALAND,Mon,Female,In seeing,53
+13,1,Rural,30-39,NAGALAND,Mon,Female,In seeing,27
+13,1,Rural,40-49,NAGALAND,Mon,Female,In seeing,34
+13,1,Rural,50-59,NAGALAND,Mon,Female,In seeing,34
+13,1,Rural,60-69,NAGALAND,Mon,Female,In seeing,41
+13,1,Rural,70-79,NAGALAND,Mon,Female,In seeing,31
+13,1,Rural,80-89,NAGALAND,Mon,Female,In seeing,7
+13,1,Rural,90+,NAGALAND,Mon,Female,In seeing,2
+13,1,Rural,Age Not Stated,NAGALAND,Mon,Female,In seeing,1
+13,1,Urban,0-4,NAGALAND,Mon,Female,In seeing,2
+13,1,Urban,5-9,NAGALAND,Mon,Female,In seeing,5
+13,1,Urban,10-19,NAGALAND,Mon,Female,In seeing,20
+13,1,Urban,20-29,NAGALAND,Mon,Female,In seeing,6
+13,1,Urban,30-39,NAGALAND,Mon,Female,In seeing,7
+13,1,Urban,40-49,NAGALAND,Mon,Female,In seeing,8
+13,1,Urban,50-59,NAGALAND,Mon,Female,In seeing,5
+13,1,Urban,60-69,NAGALAND,Mon,Female,In seeing,2
+13,1,Urban,70-79,NAGALAND,Mon,Female,In seeing,1
+13,1,Urban,80-89,NAGALAND,Mon,Female,In seeing,1
+13,1,Urban,90+,NAGALAND,Mon,Female,In seeing,1
+13,1,Urban,Age Not Stated,NAGALAND,Mon,Female,In seeing,0
+13,2,Rural,0-4,NAGALAND,Mokokchung,Female,In seeing,1
+13,2,Rural,5-9,NAGALAND,Mokokchung,Female,In seeing,3
+13,2,Rural,10-19,NAGALAND,Mokokchung,Female,In seeing,12
+13,2,Rural,20-29,NAGALAND,Mokokchung,Female,In seeing,17
+13,2,Rural,30-39,NAGALAND,Mokokchung,Female,In seeing,10
+13,2,Rural,40-49,NAGALAND,Mokokchung,Female,In seeing,7
+13,2,Rural,50-59,NAGALAND,Mokokchung,Female,In seeing,9
+13,2,Rural,60-69,NAGALAND,Mokokchung,Female,In seeing,14
+13,2,Rural,70-79,NAGALAND,Mokokchung,Female,In seeing,14
+13,2,Rural,80-89,NAGALAND,Mokokchung,Female,In seeing,17
+13,2,Rural,90+,NAGALAND,Mokokchung,Female,In seeing,9
+13,2,Rural,Age Not Stated,NAGALAND,Mokokchung,Female,In seeing,0
+13,2,Urban,0-4,NAGALAND,Mokokchung,Female,In seeing,3
+13,2,Urban,5-9,NAGALAND,Mokokchung,Female,In seeing,1
+13,2,Urban,10-19,NAGALAND,Mokokchung,Female,In seeing,7
+13,2,Urban,20-29,NAGALAND,Mokokchung,Female,In seeing,5
+13,2,Urban,30-39,NAGALAND,Mokokchung,Female,In seeing,2
+13,2,Urban,40-49,NAGALAND,Mokokchung,Female,In seeing,2
+13,2,Urban,50-59,NAGALAND,Mokokchung,Female,In seeing,6
+13,2,Urban,60-69,NAGALAND,Mokokchung,Female,In seeing,5
+13,2,Urban,70-79,NAGALAND,Mokokchung,Female,In seeing,11
+13,2,Urban,80-89,NAGALAND,Mokokchung,Female,In seeing,5
+13,2,Urban,90+,NAGALAND,Mokokchung,Female,In seeing,3
+13,2,Urban,Age Not Stated,NAGALAND,Mokokchung,Female,In seeing,0
+13,3,Rural,0-4,NAGALAND,Zunheboto,Female,In seeing,4
+13,3,Rural,5-9,NAGALAND,Zunheboto,Female,In seeing,7
+13,3,Rural,10-19,NAGALAND,Zunheboto,Female,In seeing,16
+13,3,Rural,20-29,NAGALAND,Zunheboto,Female,In seeing,19
+13,3,Rural,30-39,NAGALAND,Zunheboto,Female,In seeing,7
+13,3,Rural,40-49,NAGALAND,Zunheboto,Female,In seeing,7
+13,3,Rural,50-59,NAGALAND,Zunheboto,Female,In seeing,19
+13,3,Rural,60-69,NAGALAND,Zunheboto,Female,In seeing,28
+13,3,Rural,70-79,NAGALAND,Zunheboto,Female,In seeing,26
+13,3,Rural,80-89,NAGALAND,Zunheboto,Female,In seeing,7
+13,3,Rural,90+,NAGALAND,Zunheboto,Female,In seeing,3
+13,3,Rural,Age Not Stated,NAGALAND,Zunheboto,Female,In seeing,0
+13,3,Urban,0-4,NAGALAND,Zunheboto,Female,In seeing,0
+13,3,Urban,5-9,NAGALAND,Zunheboto,Female,In seeing,1
+13,3,Urban,10-19,NAGALAND,Zunheboto,Female,In seeing,3
+13,3,Urban,20-29,NAGALAND,Zunheboto,Female,In seeing,0
+13,3,Urban,30-39,NAGALAND,Zunheboto,Female,In seeing,2
+13,3,Urban,40-49,NAGALAND,Zunheboto,Female,In seeing,2
+13,3,Urban,50-59,NAGALAND,Zunheboto,Female,In seeing,1
+13,3,Urban,60-69,NAGALAND,Zunheboto,Female,In seeing,1
+13,3,Urban,70-79,NAGALAND,Zunheboto,Female,In seeing,0
+13,3,Urban,80-89,NAGALAND,Zunheboto,Female,In seeing,1
+13,3,Urban,90+,NAGALAND,Zunheboto,Female,In seeing,1
+13,3,Urban,Age Not Stated,NAGALAND,Zunheboto,Female,In seeing,0
+13,4,Rural,0-4,NAGALAND,Wokha,Female,In seeing,1
+13,4,Rural,5-9,NAGALAND,Wokha,Female,In seeing,3
+13,4,Rural,10-19,NAGALAND,Wokha,Female,In seeing,12
+13,4,Rural,20-29,NAGALAND,Wokha,Female,In seeing,16
+13,4,Rural,30-39,NAGALAND,Wokha,Female,In seeing,8
+13,4,Rural,40-49,NAGALAND,Wokha,Female,In seeing,10
+13,4,Rural,50-59,NAGALAND,Wokha,Female,In seeing,12
+13,4,Rural,60-69,NAGALAND,Wokha,Female,In seeing,19
+13,4,Rural,70-79,NAGALAND,Wokha,Female,In seeing,19
+13,4,Rural,80-89,NAGALAND,Wokha,Female,In seeing,13
+13,4,Rural,90+,NAGALAND,Wokha,Female,In seeing,1
+13,4,Rural,Age Not Stated,NAGALAND,Wokha,Female,In seeing,0
+13,4,Urban,0-4,NAGALAND,Wokha,Female,In seeing,0
+13,4,Urban,5-9,NAGALAND,Wokha,Female,In seeing,2
+13,4,Urban,10-19,NAGALAND,Wokha,Female,In seeing,0
+13,4,Urban,20-29,NAGALAND,Wokha,Female,In seeing,4
+13,4,Urban,30-39,NAGALAND,Wokha,Female,In seeing,0
+13,4,Urban,40-49,NAGALAND,Wokha,Female,In seeing,1
+13,4,Urban,50-59,NAGALAND,Wokha,Female,In seeing,1
+13,4,Urban,60-69,NAGALAND,Wokha,Female,In seeing,1
+13,4,Urban,70-79,NAGALAND,Wokha,Female,In seeing,1
+13,4,Urban,80-89,NAGALAND,Wokha,Female,In seeing,2
+13,4,Urban,90+,NAGALAND,Wokha,Female,In seeing,0
+13,4,Urban,Age Not Stated,NAGALAND,Wokha,Female,In seeing,0
+13,5,Rural,0-4,NAGALAND,Dimapur ,Female,In seeing,3
+13,5,Rural,5-9,NAGALAND,Dimapur ,Female,In seeing,12
+13,5,Rural,10-19,NAGALAND,Dimapur ,Female,In seeing,30
+13,5,Rural,20-29,NAGALAND,Dimapur ,Female,In seeing,23
+13,5,Rural,30-39,NAGALAND,Dimapur ,Female,In seeing,14
+13,5,Rural,40-49,NAGALAND,Dimapur ,Female,In seeing,17
+13,5,Rural,50-59,NAGALAND,Dimapur ,Female,In seeing,34
+13,5,Rural,60-69,NAGALAND,Dimapur ,Female,In seeing,21
+13,5,Rural,70-79,NAGALAND,Dimapur ,Female,In seeing,24
+13,5,Rural,80-89,NAGALAND,Dimapur ,Female,In seeing,16
+13,5,Rural,90+,NAGALAND,Dimapur ,Female,In seeing,4
+13,5,Rural,Age Not Stated,NAGALAND,Dimapur ,Female,In seeing,0
+13,5,Urban,0-4,NAGALAND,Dimapur ,Female,In seeing,12
+13,5,Urban,5-9,NAGALAND,Dimapur ,Female,In seeing,9
+13,5,Urban,10-19,NAGALAND,Dimapur ,Female,In seeing,18
+13,5,Urban,20-29,NAGALAND,Dimapur ,Female,In seeing,35
+13,5,Urban,30-39,NAGALAND,Dimapur ,Female,In seeing,18
+13,5,Urban,40-49,NAGALAND,Dimapur ,Female,In seeing,23
+13,5,Urban,50-59,NAGALAND,Dimapur ,Female,In seeing,22
+13,5,Urban,60-69,NAGALAND,Dimapur ,Female,In seeing,26
+13,5,Urban,70-79,NAGALAND,Dimapur ,Female,In seeing,14
+13,5,Urban,80-89,NAGALAND,Dimapur ,Female,In seeing,2
+13,5,Urban,90+,NAGALAND,Dimapur ,Female,In seeing,1
+13,5,Urban,Age Not Stated,NAGALAND,Dimapur ,Female,In seeing,0
+13,6,Rural,0-4,NAGALAND,Phek,Female,In seeing,4
+13,6,Rural,5-9,NAGALAND,Phek,Female,In seeing,9
+13,6,Rural,10-19,NAGALAND,Phek,Female,In seeing,15
+13,6,Rural,20-29,NAGALAND,Phek,Female,In seeing,8
+13,6,Rural,30-39,NAGALAND,Phek,Female,In seeing,10
+13,6,Rural,40-49,NAGALAND,Phek,Female,In seeing,17
+13,6,Rural,50-59,NAGALAND,Phek,Female,In seeing,12
+13,6,Rural,60-69,NAGALAND,Phek,Female,In seeing,23
+13,6,Rural,70-79,NAGALAND,Phek,Female,In seeing,24
+13,6,Rural,80-89,NAGALAND,Phek,Female,In seeing,19
+13,6,Rural,90+,NAGALAND,Phek,Female,In seeing,5
+13,6,Rural,Age Not Stated,NAGALAND,Phek,Female,In seeing,0
+13,6,Urban,0-4,NAGALAND,Phek,Female,In seeing,0
+13,6,Urban,5-9,NAGALAND,Phek,Female,In seeing,2
+13,6,Urban,10-19,NAGALAND,Phek,Female,In seeing,4
+13,6,Urban,20-29,NAGALAND,Phek,Female,In seeing,1
+13,6,Urban,30-39,NAGALAND,Phek,Female,In seeing,0
+13,6,Urban,40-49,NAGALAND,Phek,Female,In seeing,1
+13,6,Urban,50-59,NAGALAND,Phek,Female,In seeing,1
+13,6,Urban,60-69,NAGALAND,Phek,Female,In seeing,1
+13,6,Urban,70-79,NAGALAND,Phek,Female,In seeing,2
+13,6,Urban,80-89,NAGALAND,Phek,Female,In seeing,2
+13,6,Urban,90+,NAGALAND,Phek,Female,In seeing,1
+13,6,Urban,Age Not Stated,NAGALAND,Phek,Female,In seeing,0
+13,7,Rural,0-4,NAGALAND,Tuensang,Female,In seeing,5
+13,7,Rural,5-9,NAGALAND,Tuensang,Female,In seeing,13
+13,7,Rural,10-19,NAGALAND,Tuensang,Female,In seeing,20
+13,7,Rural,20-29,NAGALAND,Tuensang,Female,In seeing,17
+13,7,Rural,30-39,NAGALAND,Tuensang,Female,In seeing,13
+13,7,Rural,40-49,NAGALAND,Tuensang,Female,In seeing,12
+13,7,Rural,50-59,NAGALAND,Tuensang,Female,In seeing,20
+13,7,Rural,60-69,NAGALAND,Tuensang,Female,In seeing,27
+13,7,Rural,70-79,NAGALAND,Tuensang,Female,In seeing,22
+13,7,Rural,80-89,NAGALAND,Tuensang,Female,In seeing,10
+13,7,Rural,90+,NAGALAND,Tuensang,Female,In seeing,0
+13,7,Rural,Age Not Stated,NAGALAND,Tuensang,Female,In seeing,0
+13,7,Urban,0-4,NAGALAND,Tuensang,Female,In seeing,0
+13,7,Urban,5-9,NAGALAND,Tuensang,Female,In seeing,1
+13,7,Urban,10-19,NAGALAND,Tuensang,Female,In seeing,3
+13,7,Urban,20-29,NAGALAND,Tuensang,Female,In seeing,4
+13,7,Urban,30-39,NAGALAND,Tuensang,Female,In seeing,0
+13,7,Urban,40-49,NAGALAND,Tuensang,Female,In seeing,3
+13,7,Urban,50-59,NAGALAND,Tuensang,Female,In seeing,1
+13,7,Urban,60-69,NAGALAND,Tuensang,Female,In seeing,5
+13,7,Urban,70-79,NAGALAND,Tuensang,Female,In seeing,0
+13,7,Urban,80-89,NAGALAND,Tuensang,Female,In seeing,0
+13,7,Urban,90+,NAGALAND,Tuensang,Female,In seeing,0
+13,7,Urban,Age Not Stated,NAGALAND,Tuensang,Female,In seeing,0
+13,8,Rural,0-4,NAGALAND,Longleng,Female,In seeing,3
+13,8,Rural,5-9,NAGALAND,Longleng,Female,In seeing,4
+13,8,Rural,10-19,NAGALAND,Longleng,Female,In seeing,11
+13,8,Rural,20-29,NAGALAND,Longleng,Female,In seeing,3
+13,8,Rural,30-39,NAGALAND,Longleng,Female,In seeing,2
+13,8,Rural,40-49,NAGALAND,Longleng,Female,In seeing,9
+13,8,Rural,50-59,NAGALAND,Longleng,Female,In seeing,6
+13,8,Rural,60-69,NAGALAND,Longleng,Female,In seeing,10
+13,8,Rural,70-79,NAGALAND,Longleng,Female,In seeing,9
+13,8,Rural,80-89,NAGALAND,Longleng,Female,In seeing,5
+13,8,Rural,90+,NAGALAND,Longleng,Female,In seeing,2
+13,8,Rural,Age Not Stated,NAGALAND,Longleng,Female,In seeing,0
+13,8,Urban,0-4,NAGALAND,Longleng,Female,In seeing,0
+13,8,Urban,5-9,NAGALAND,Longleng,Female,In seeing,0
+13,8,Urban,10-19,NAGALAND,Longleng,Female,In seeing,1
+13,8,Urban,20-29,NAGALAND,Longleng,Female,In seeing,1
+13,8,Urban,30-39,NAGALAND,Longleng,Female,In seeing,1
+13,8,Urban,40-49,NAGALAND,Longleng,Female,In seeing,2
+13,8,Urban,50-59,NAGALAND,Longleng,Female,In seeing,0
+13,8,Urban,60-69,NAGALAND,Longleng,Female,In seeing,1
+13,8,Urban,70-79,NAGALAND,Longleng,Female,In seeing,3
+13,8,Urban,80-89,NAGALAND,Longleng,Female,In seeing,0
+13,8,Urban,90+,NAGALAND,Longleng,Female,In seeing,0
+13,8,Urban,Age Not Stated,NAGALAND,Longleng,Female,In seeing,0
+13,9,Rural,0-4,NAGALAND,Kiphire,Female,In seeing,1
+13,9,Rural,5-9,NAGALAND,Kiphire,Female,In seeing,2
+13,9,Rural,10-19,NAGALAND,Kiphire,Female,In seeing,10
+13,9,Rural,20-29,NAGALAND,Kiphire,Female,In seeing,5
+13,9,Rural,30-39,NAGALAND,Kiphire,Female,In seeing,3
+13,9,Rural,40-49,NAGALAND,Kiphire,Female,In seeing,7
+13,9,Rural,50-59,NAGALAND,Kiphire,Female,In seeing,5
+13,9,Rural,60-69,NAGALAND,Kiphire,Female,In seeing,8
+13,9,Rural,70-79,NAGALAND,Kiphire,Female,In seeing,4
+13,9,Rural,80-89,NAGALAND,Kiphire,Female,In seeing,3
+13,9,Rural,90+,NAGALAND,Kiphire,Female,In seeing,1
+13,9,Rural,Age Not Stated,NAGALAND,Kiphire,Female,In seeing,0
+13,9,Urban,0-4,NAGALAND,Kiphire,Female,In seeing,1
+13,9,Urban,5-9,NAGALAND,Kiphire,Female,In seeing,1
+13,9,Urban,10-19,NAGALAND,Kiphire,Female,In seeing,3
+13,9,Urban,20-29,NAGALAND,Kiphire,Female,In seeing,0
+13,9,Urban,30-39,NAGALAND,Kiphire,Female,In seeing,1
+13,9,Urban,40-49,NAGALAND,Kiphire,Female,In seeing,0
+13,9,Urban,50-59,NAGALAND,Kiphire,Female,In seeing,2
+13,9,Urban,60-69,NAGALAND,Kiphire,Female,In seeing,0
+13,9,Urban,70-79,NAGALAND,Kiphire,Female,In seeing,2
+13,9,Urban,80-89,NAGALAND,Kiphire,Female,In seeing,1
+13,9,Urban,90+,NAGALAND,Kiphire,Female,In seeing,0
+13,9,Urban,Age Not Stated,NAGALAND,Kiphire,Female,In seeing,0
+13,10,Rural,0-4,NAGALAND,Kohima,Female,In seeing,4
+13,10,Rural,5-9,NAGALAND,Kohima,Female,In seeing,10
+13,10,Rural,10-19,NAGALAND,Kohima,Female,In seeing,17
+13,10,Rural,20-29,NAGALAND,Kohima,Female,In seeing,8
+13,10,Rural,30-39,NAGALAND,Kohima,Female,In seeing,7
+13,10,Rural,40-49,NAGALAND,Kohima,Female,In seeing,12
+13,10,Rural,50-59,NAGALAND,Kohima,Female,In seeing,18
+13,10,Rural,60-69,NAGALAND,Kohima,Female,In seeing,32
+13,10,Rural,70-79,NAGALAND,Kohima,Female,In seeing,15
+13,10,Rural,80-89,NAGALAND,Kohima,Female,In seeing,17
+13,10,Rural,90+,NAGALAND,Kohima,Female,In seeing,2
+13,10,Rural,Age Not Stated,NAGALAND,Kohima,Female,In seeing,0
+13,10,Urban,0-4,NAGALAND,Kohima,Female,In seeing,3
+13,10,Urban,5-9,NAGALAND,Kohima,Female,In seeing,2
+13,10,Urban,10-19,NAGALAND,Kohima,Female,In seeing,11
+13,10,Urban,20-29,NAGALAND,Kohima,Female,In seeing,14
+13,10,Urban,30-39,NAGALAND,Kohima,Female,In seeing,4
+13,10,Urban,40-49,NAGALAND,Kohima,Female,In seeing,3
+13,10,Urban,50-59,NAGALAND,Kohima,Female,In seeing,0
+13,10,Urban,60-69,NAGALAND,Kohima,Female,In seeing,1
+13,10,Urban,70-79,NAGALAND,Kohima,Female,In seeing,4
+13,10,Urban,80-89,NAGALAND,Kohima,Female,In seeing,3
+13,10,Urban,90+,NAGALAND,Kohima,Female,In seeing,2
+13,10,Urban,Age Not Stated,NAGALAND,Kohima,Female,In seeing,0
+13,11,Rural,0-4,NAGALAND,Peren,Female,In seeing,2
+13,11,Rural,5-9,NAGALAND,Peren,Female,In seeing,9
+13,11,Rural,10-19,NAGALAND,Peren,Female,In seeing,23
+13,11,Rural,20-29,NAGALAND,Peren,Female,In seeing,11
+13,11,Rural,30-39,NAGALAND,Peren,Female,In seeing,18
+13,11,Rural,40-49,NAGALAND,Peren,Female,In seeing,14
+13,11,Rural,50-59,NAGALAND,Peren,Female,In seeing,28
+13,11,Rural,60-69,NAGALAND,Peren,Female,In seeing,15
+13,11,Rural,70-79,NAGALAND,Peren,Female,In seeing,7
+13,11,Rural,80-89,NAGALAND,Peren,Female,In seeing,10
+13,11,Rural,90+,NAGALAND,Peren,Female,In seeing,2
+13,11,Rural,Age Not Stated,NAGALAND,Peren,Female,In seeing,0
+13,11,Urban,0-4,NAGALAND,Peren,Female,In seeing,0
+13,11,Urban,5-9,NAGALAND,Peren,Female,In seeing,0
+13,11,Urban,10-19,NAGALAND,Peren,Female,In seeing,2
+13,11,Urban,20-29,NAGALAND,Peren,Female,In seeing,2
+13,11,Urban,30-39,NAGALAND,Peren,Female,In seeing,2
+13,11,Urban,40-49,NAGALAND,Peren,Female,In seeing,0
+13,11,Urban,50-59,NAGALAND,Peren,Female,In seeing,0
+13,11,Urban,60-69,NAGALAND,Peren,Female,In seeing,1
+13,11,Urban,70-79,NAGALAND,Peren,Female,In seeing,0
+13,11,Urban,80-89,NAGALAND,Peren,Female,In seeing,0
+13,11,Urban,90+,NAGALAND,Peren,Female,In seeing,0
+13,11,Urban,Age Not Stated,NAGALAND,Peren,Female,In seeing,0
+13,1,Rural,0-4,NAGALAND,Mon,Male,In Speech,3
+13,1,Rural,5-9,NAGALAND,Mon,Male,In Speech,12
+13,1,Rural,10-19,NAGALAND,Mon,Male,In Speech,31
+13,1,Rural,20-29,NAGALAND,Mon,Male,In Speech,27
+13,1,Rural,30-39,NAGALAND,Mon,Male,In Speech,21
+13,1,Rural,40-49,NAGALAND,Mon,Male,In Speech,26
+13,1,Rural,50-59,NAGALAND,Mon,Male,In Speech,21
+13,1,Rural,60-69,NAGALAND,Mon,Male,In Speech,14
+13,1,Rural,70-79,NAGALAND,Mon,Male,In Speech,1
+13,1,Rural,80-89,NAGALAND,Mon,Male,In Speech,0
+13,1,Rural,90+,NAGALAND,Mon,Male,In Speech,0
+13,1,Rural,Age Not Stated,NAGALAND,Mon,Male,In Speech,0
+13,1,Urban,0-4,NAGALAND,Mon,Male,In Speech,1
+13,1,Urban,5-9,NAGALAND,Mon,Male,In Speech,1
+13,1,Urban,10-19,NAGALAND,Mon,Male,In Speech,8
+13,1,Urban,20-29,NAGALAND,Mon,Male,In Speech,3
+13,1,Urban,30-39,NAGALAND,Mon,Male,In Speech,3
+13,1,Urban,40-49,NAGALAND,Mon,Male,In Speech,2
+13,1,Urban,50-59,NAGALAND,Mon,Male,In Speech,1
+13,1,Urban,60-69,NAGALAND,Mon,Male,In Speech,1
+13,1,Urban,70-79,NAGALAND,Mon,Male,In Speech,2
+13,1,Urban,80-89,NAGALAND,Mon,Male,In Speech,0
+13,1,Urban,90+,NAGALAND,Mon,Male,In Speech,0
+13,1,Urban,Age Not Stated,NAGALAND,Mon,Male,In Speech,0
+13,2,Rural,0-4,NAGALAND,Mokokchung,Male,In Speech,2
+13,2,Rural,5-9,NAGALAND,Mokokchung,Male,In Speech,12
+13,2,Rural,10-19,NAGALAND,Mokokchung,Male,In Speech,21
+13,2,Rural,20-29,NAGALAND,Mokokchung,Male,In Speech,20
+13,2,Rural,30-39,NAGALAND,Mokokchung,Male,In Speech,13
+13,2,Rural,40-49,NAGALAND,Mokokchung,Male,In Speech,17
+13,2,Rural,50-59,NAGALAND,Mokokchung,Male,In Speech,13
+13,2,Rural,60-69,NAGALAND,Mokokchung,Male,In Speech,5
+13,2,Rural,70-79,NAGALAND,Mokokchung,Male,In Speech,10
+13,2,Rural,80-89,NAGALAND,Mokokchung,Male,In Speech,1
+13,2,Rural,90+,NAGALAND,Mokokchung,Male,In Speech,0
+13,2,Rural,Age Not Stated,NAGALAND,Mokokchung,Male,In Speech,0
+13,2,Urban,0-4,NAGALAND,Mokokchung,Male,In Speech,0
+13,2,Urban,5-9,NAGALAND,Mokokchung,Male,In Speech,3
+13,2,Urban,10-19,NAGALAND,Mokokchung,Male,In Speech,3
+13,2,Urban,20-29,NAGALAND,Mokokchung,Male,In Speech,6
+13,2,Urban,30-39,NAGALAND,Mokokchung,Male,In Speech,7
+13,2,Urban,40-49,NAGALAND,Mokokchung,Male,In Speech,4
+13,2,Urban,50-59,NAGALAND,Mokokchung,Male,In Speech,4
+13,2,Urban,60-69,NAGALAND,Mokokchung,Male,In Speech,3
+13,2,Urban,70-79,NAGALAND,Mokokchung,Male,In Speech,0
+13,2,Urban,80-89,NAGALAND,Mokokchung,Male,In Speech,0
+13,2,Urban,90+,NAGALAND,Mokokchung,Male,In Speech,1
+13,2,Urban,Age Not Stated,NAGALAND,Mokokchung,Male,In Speech,0
+13,3,Rural,0-4,NAGALAND,Zunheboto,Male,In Speech,0
+13,3,Rural,5-9,NAGALAND,Zunheboto,Male,In Speech,6
+13,3,Rural,10-19,NAGALAND,Zunheboto,Male,In Speech,17
+13,3,Rural,20-29,NAGALAND,Zunheboto,Male,In Speech,14
+13,3,Rural,30-39,NAGALAND,Zunheboto,Male,In Speech,16
+13,3,Rural,40-49,NAGALAND,Zunheboto,Male,In Speech,22
+13,3,Rural,50-59,NAGALAND,Zunheboto,Male,In Speech,20
+13,3,Rural,60-69,NAGALAND,Zunheboto,Male,In Speech,11
+13,3,Rural,70-79,NAGALAND,Zunheboto,Male,In Speech,4
+13,3,Rural,80-89,NAGALAND,Zunheboto,Male,In Speech,0
+13,3,Rural,90+,NAGALAND,Zunheboto,Male,In Speech,0
+13,3,Rural,Age Not Stated,NAGALAND,Zunheboto,Male,In Speech,0
+13,3,Urban,0-4,NAGALAND,Zunheboto,Male,In Speech,0
+13,3,Urban,5-9,NAGALAND,Zunheboto,Male,In Speech,2
+13,3,Urban,10-19,NAGALAND,Zunheboto,Male,In Speech,3
+13,3,Urban,20-29,NAGALAND,Zunheboto,Male,In Speech,1
+13,3,Urban,30-39,NAGALAND,Zunheboto,Male,In Speech,0
+13,3,Urban,40-49,NAGALAND,Zunheboto,Male,In Speech,1
+13,3,Urban,50-59,NAGALAND,Zunheboto,Male,In Speech,1
+13,3,Urban,60-69,NAGALAND,Zunheboto,Male,In Speech,1
+13,3,Urban,70-79,NAGALAND,Zunheboto,Male,In Speech,0
+13,3,Urban,80-89,NAGALAND,Zunheboto,Male,In Speech,0
+13,3,Urban,90+,NAGALAND,Zunheboto,Male,In Speech,0
+13,3,Urban,Age Not Stated,NAGALAND,Zunheboto,Male,In Speech,0
+13,4,Rural,0-4,NAGALAND,Wokha,Male,In Speech,2
+13,4,Rural,5-9,NAGALAND,Wokha,Male,In Speech,11
+13,4,Rural,10-19,NAGALAND,Wokha,Male,In Speech,17
+13,4,Rural,20-29,NAGALAND,Wokha,Male,In Speech,9
+13,4,Rural,30-39,NAGALAND,Wokha,Male,In Speech,11
+13,4,Rural,40-49,NAGALAND,Wokha,Male,In Speech,7
+13,4,Rural,50-59,NAGALAND,Wokha,Male,In Speech,3
+13,4,Rural,60-69,NAGALAND,Wokha,Male,In Speech,6
+13,4,Rural,70-79,NAGALAND,Wokha,Male,In Speech,2
+13,4,Rural,80-89,NAGALAND,Wokha,Male,In Speech,1
+13,4,Rural,90+,NAGALAND,Wokha,Male,In Speech,0
+13,4,Rural,Age Not Stated,NAGALAND,Wokha,Male,In Speech,0
+13,4,Urban,0-4,NAGALAND,Wokha,Male,In Speech,0
+13,4,Urban,5-9,NAGALAND,Wokha,Male,In Speech,2
+13,4,Urban,10-19,NAGALAND,Wokha,Male,In Speech,1
+13,4,Urban,20-29,NAGALAND,Wokha,Male,In Speech,3
+13,4,Urban,30-39,NAGALAND,Wokha,Male,In Speech,4
+13,4,Urban,40-49,NAGALAND,Wokha,Male,In Speech,0
+13,4,Urban,50-59,NAGALAND,Wokha,Male,In Speech,0
+13,4,Urban,60-69,NAGALAND,Wokha,Male,In Speech,0
+13,4,Urban,70-79,NAGALAND,Wokha,Male,In Speech,0
+13,4,Urban,80-89,NAGALAND,Wokha,Male,In Speech,0
+13,4,Urban,90+,NAGALAND,Wokha,Male,In Speech,0
+13,4,Urban,Age Not Stated,NAGALAND,Wokha,Male,In Speech,0
+13,5,Rural,0-4,NAGALAND,Dimapur ,Male,In Speech,2
+13,5,Rural,5-9,NAGALAND,Dimapur ,Male,In Speech,13
+13,5,Rural,10-19,NAGALAND,Dimapur ,Male,In Speech,24
+13,5,Rural,20-29,NAGALAND,Dimapur ,Male,In Speech,15
+13,5,Rural,30-39,NAGALAND,Dimapur ,Male,In Speech,11
+13,5,Rural,40-49,NAGALAND,Dimapur ,Male,In Speech,9
+13,5,Rural,50-59,NAGALAND,Dimapur ,Male,In Speech,6
+13,5,Rural,60-69,NAGALAND,Dimapur ,Male,In Speech,2
+13,5,Rural,70-79,NAGALAND,Dimapur ,Male,In Speech,1
+13,5,Rural,80-89,NAGALAND,Dimapur ,Male,In Speech,0
+13,5,Rural,90+,NAGALAND,Dimapur ,Male,In Speech,0
+13,5,Rural,Age Not Stated,NAGALAND,Dimapur ,Male,In Speech,0
+13,5,Urban,0-4,NAGALAND,Dimapur ,Male,In Speech,0
+13,5,Urban,5-9,NAGALAND,Dimapur ,Male,In Speech,5
+13,5,Urban,10-19,NAGALAND,Dimapur ,Male,In Speech,7
+13,5,Urban,20-29,NAGALAND,Dimapur ,Male,In Speech,16
+13,5,Urban,30-39,NAGALAND,Dimapur ,Male,In Speech,13
+13,5,Urban,40-49,NAGALAND,Dimapur ,Male,In Speech,10
+13,5,Urban,50-59,NAGALAND,Dimapur ,Male,In Speech,7
+13,5,Urban,60-69,NAGALAND,Dimapur ,Male,In Speech,4
+13,5,Urban,70-79,NAGALAND,Dimapur ,Male,In Speech,0
+13,5,Urban,80-89,NAGALAND,Dimapur ,Male,In Speech,1
+13,5,Urban,90+,NAGALAND,Dimapur ,Male,In Speech,0
+13,5,Urban,Age Not Stated,NAGALAND,Dimapur ,Male,In Speech,0
+13,6,Rural,0-4,NAGALAND,Phek,Male,In Speech,1
+13,6,Rural,5-9,NAGALAND,Phek,Male,In Speech,12
+13,6,Rural,10-19,NAGALAND,Phek,Male,In Speech,17
+13,6,Rural,20-29,NAGALAND,Phek,Male,In Speech,16
+13,6,Rural,30-39,NAGALAND,Phek,Male,In Speech,11
+13,6,Rural,40-49,NAGALAND,Phek,Male,In Speech,17
+13,6,Rural,50-59,NAGALAND,Phek,Male,In Speech,17
+13,6,Rural,60-69,NAGALAND,Phek,Male,In Speech,8
+13,6,Rural,70-79,NAGALAND,Phek,Male,In Speech,3
+13,6,Rural,80-89,NAGALAND,Phek,Male,In Speech,1
+13,6,Rural,90+,NAGALAND,Phek,Male,In Speech,0
+13,6,Rural,Age Not Stated,NAGALAND,Phek,Male,In Speech,0
+13,6,Urban,0-4,NAGALAND,Phek,Male,In Speech,0
+13,6,Urban,5-9,NAGALAND,Phek,Male,In Speech,2
+13,6,Urban,10-19,NAGALAND,Phek,Male,In Speech,5
+13,6,Urban,20-29,NAGALAND,Phek,Male,In Speech,1
+13,6,Urban,30-39,NAGALAND,Phek,Male,In Speech,1
+13,6,Urban,40-49,NAGALAND,Phek,Male,In Speech,2
+13,6,Urban,50-59,NAGALAND,Phek,Male,In Speech,4
+13,6,Urban,60-69,NAGALAND,Phek,Male,In Speech,1
+13,6,Urban,70-79,NAGALAND,Phek,Male,In Speech,0
+13,6,Urban,80-89,NAGALAND,Phek,Male,In Speech,0
+13,6,Urban,90+,NAGALAND,Phek,Male,In Speech,0
+13,6,Urban,Age Not Stated,NAGALAND,Phek,Male,In Speech,0
+13,7,Rural,0-4,NAGALAND,Tuensang,Male,In Speech,0
+13,7,Rural,5-9,NAGALAND,Tuensang,Male,In Speech,18
+13,7,Rural,10-19,NAGALAND,Tuensang,Male,In Speech,41
+13,7,Rural,20-29,NAGALAND,Tuensang,Male,In Speech,35
+13,7,Rural,30-39,NAGALAND,Tuensang,Male,In Speech,29
+13,7,Rural,40-49,NAGALAND,Tuensang,Male,In Speech,39
+13,7,Rural,50-59,NAGALAND,Tuensang,Male,In Speech,21
+13,7,Rural,60-69,NAGALAND,Tuensang,Male,In Speech,13
+13,7,Rural,70-79,NAGALAND,Tuensang,Male,In Speech,6
+13,7,Rural,80-89,NAGALAND,Tuensang,Male,In Speech,3
+13,7,Rural,90+,NAGALAND,Tuensang,Male,In Speech,0
+13,7,Rural,Age Not Stated,NAGALAND,Tuensang,Male,In Speech,0
+13,7,Urban,0-4,NAGALAND,Tuensang,Male,In Speech,0
+13,7,Urban,5-9,NAGALAND,Tuensang,Male,In Speech,1
+13,7,Urban,10-19,NAGALAND,Tuensang,Male,In Speech,7
+13,7,Urban,20-29,NAGALAND,Tuensang,Male,In Speech,2
+13,7,Urban,30-39,NAGALAND,Tuensang,Male,In Speech,1
+13,7,Urban,40-49,NAGALAND,Tuensang,Male,In Speech,3
+13,7,Urban,50-59,NAGALAND,Tuensang,Male,In Speech,2
+13,7,Urban,60-69,NAGALAND,Tuensang,Male,In Speech,0
+13,7,Urban,70-79,NAGALAND,Tuensang,Male,In Speech,0
+13,7,Urban,80-89,NAGALAND,Tuensang,Male,In Speech,0
+13,7,Urban,90+,NAGALAND,Tuensang,Male,In Speech,0
+13,7,Urban,Age Not Stated,NAGALAND,Tuensang,Male,In Speech,0
+13,8,Rural,0-4,NAGALAND,Longleng,Male,In Speech,1
+13,8,Rural,5-9,NAGALAND,Longleng,Male,In Speech,5
+13,8,Rural,10-19,NAGALAND,Longleng,Male,In Speech,7
+13,8,Rural,20-29,NAGALAND,Longleng,Male,In Speech,7
+13,8,Rural,30-39,NAGALAND,Longleng,Male,In Speech,3
+13,8,Rural,40-49,NAGALAND,Longleng,Male,In Speech,2
+13,8,Rural,50-59,NAGALAND,Longleng,Male,In Speech,1
+13,8,Rural,60-69,NAGALAND,Longleng,Male,In Speech,1
+13,8,Rural,70-79,NAGALAND,Longleng,Male,In Speech,0
+13,8,Rural,80-89,NAGALAND,Longleng,Male,In Speech,0
+13,8,Rural,90+,NAGALAND,Longleng,Male,In Speech,0
+13,8,Rural,Age Not Stated,NAGALAND,Longleng,Male,In Speech,0
+13,8,Urban,0-4,NAGALAND,Longleng,Male,In Speech,0
+13,8,Urban,5-9,NAGALAND,Longleng,Male,In Speech,2
+13,8,Urban,10-19,NAGALAND,Longleng,Male,In Speech,2
+13,8,Urban,20-29,NAGALAND,Longleng,Male,In Speech,1
+13,8,Urban,30-39,NAGALAND,Longleng,Male,In Speech,1
+13,8,Urban,40-49,NAGALAND,Longleng,Male,In Speech,0
+13,8,Urban,50-59,NAGALAND,Longleng,Male,In Speech,0
+13,8,Urban,60-69,NAGALAND,Longleng,Male,In Speech,1
+13,8,Urban,70-79,NAGALAND,Longleng,Male,In Speech,0
+13,8,Urban,80-89,NAGALAND,Longleng,Male,In Speech,0
+13,8,Urban,90+,NAGALAND,Longleng,Male,In Speech,0
+13,8,Urban,Age Not Stated,NAGALAND,Longleng,Male,In Speech,0
+13,9,Rural,0-4,NAGALAND,Kiphire,Male,In Speech,0
+13,9,Rural,5-9,NAGALAND,Kiphire,Male,In Speech,1
+13,9,Rural,10-19,NAGALAND,Kiphire,Male,In Speech,5
+13,9,Rural,20-29,NAGALAND,Kiphire,Male,In Speech,8
+13,9,Rural,30-39,NAGALAND,Kiphire,Male,In Speech,5
+13,9,Rural,40-49,NAGALAND,Kiphire,Male,In Speech,15
+13,9,Rural,50-59,NAGALAND,Kiphire,Male,In Speech,6
+13,9,Rural,60-69,NAGALAND,Kiphire,Male,In Speech,1
+13,9,Rural,70-79,NAGALAND,Kiphire,Male,In Speech,0
+13,9,Rural,80-89,NAGALAND,Kiphire,Male,In Speech,0
+13,9,Rural,90+,NAGALAND,Kiphire,Male,In Speech,0
+13,9,Rural,Age Not Stated,NAGALAND,Kiphire,Male,In Speech,0
+13,9,Urban,0-4,NAGALAND,Kiphire,Male,In Speech,0
+13,9,Urban,5-9,NAGALAND,Kiphire,Male,In Speech,2
+13,9,Urban,10-19,NAGALAND,Kiphire,Male,In Speech,2
+13,9,Urban,20-29,NAGALAND,Kiphire,Male,In Speech,1
+13,9,Urban,30-39,NAGALAND,Kiphire,Male,In Speech,1
+13,9,Urban,40-49,NAGALAND,Kiphire,Male,In Speech,2
+13,9,Urban,50-59,NAGALAND,Kiphire,Male,In Speech,0
+13,9,Urban,60-69,NAGALAND,Kiphire,Male,In Speech,1
+13,9,Urban,70-79,NAGALAND,Kiphire,Male,In Speech,0
+13,9,Urban,80-89,NAGALAND,Kiphire,Male,In Speech,0
+13,9,Urban,90+,NAGALAND,Kiphire,Male,In Speech,0
+13,9,Urban,Age Not Stated,NAGALAND,Kiphire,Male,In Speech,0
+13,10,Rural,0-4,NAGALAND,Kohima,Male,In Speech,1
+13,10,Rural,5-9,NAGALAND,Kohima,Male,In Speech,8
+13,10,Rural,10-19,NAGALAND,Kohima,Male,In Speech,20
+13,10,Rural,20-29,NAGALAND,Kohima,Male,In Speech,9
+13,10,Rural,30-39,NAGALAND,Kohima,Male,In Speech,13
+13,10,Rural,40-49,NAGALAND,Kohima,Male,In Speech,12
+13,10,Rural,50-59,NAGALAND,Kohima,Male,In Speech,7
+13,10,Rural,60-69,NAGALAND,Kohima,Male,In Speech,5
+13,10,Rural,70-79,NAGALAND,Kohima,Male,In Speech,3
+13,10,Rural,80-89,NAGALAND,Kohima,Male,In Speech,0
+13,10,Rural,90+,NAGALAND,Kohima,Male,In Speech,0
+13,10,Rural,Age Not Stated,NAGALAND,Kohima,Male,In Speech,0
+13,10,Urban,0-4,NAGALAND,Kohima,Male,In Speech,0
+13,10,Urban,5-9,NAGALAND,Kohima,Male,In Speech,5
+13,10,Urban,10-19,NAGALAND,Kohima,Male,In Speech,9
+13,10,Urban,20-29,NAGALAND,Kohima,Male,In Speech,9
+13,10,Urban,30-39,NAGALAND,Kohima,Male,In Speech,5
+13,10,Urban,40-49,NAGALAND,Kohima,Male,In Speech,4
+13,10,Urban,50-59,NAGALAND,Kohima,Male,In Speech,3
+13,10,Urban,60-69,NAGALAND,Kohima,Male,In Speech,2
+13,10,Urban,70-79,NAGALAND,Kohima,Male,In Speech,0
+13,10,Urban,80-89,NAGALAND,Kohima,Male,In Speech,0
+13,10,Urban,90+,NAGALAND,Kohima,Male,In Speech,0
+13,10,Urban,Age Not Stated,NAGALAND,Kohima,Male,In Speech,0
+13,11,Rural,0-4,NAGALAND,Peren,Male,In Speech,2
+13,11,Rural,5-9,NAGALAND,Peren,Male,In Speech,9
+13,11,Rural,10-19,NAGALAND,Peren,Male,In Speech,16
+13,11,Rural,20-29,NAGALAND,Peren,Male,In Speech,6
+13,11,Rural,30-39,NAGALAND,Peren,Male,In Speech,7
+13,11,Rural,40-49,NAGALAND,Peren,Male,In Speech,2
+13,11,Rural,50-59,NAGALAND,Peren,Male,In Speech,1
+13,11,Rural,60-69,NAGALAND,Peren,Male,In Speech,4
+13,11,Rural,70-79,NAGALAND,Peren,Male,In Speech,0
+13,11,Rural,80-89,NAGALAND,Peren,Male,In Speech,0
+13,11,Rural,90+,NAGALAND,Peren,Male,In Speech,0
+13,11,Rural,Age Not Stated,NAGALAND,Peren,Male,In Speech,0
+13,11,Urban,0-4,NAGALAND,Peren,Male,In Speech,0
+13,11,Urban,5-9,NAGALAND,Peren,Male,In Speech,1
+13,11,Urban,10-19,NAGALAND,Peren,Male,In Speech,3
+13,11,Urban,20-29,NAGALAND,Peren,Male,In Speech,3
+13,11,Urban,30-39,NAGALAND,Peren,Male,In Speech,1
+13,11,Urban,40-49,NAGALAND,Peren,Male,In Speech,0
+13,11,Urban,50-59,NAGALAND,Peren,Male,In Speech,0
+13,11,Urban,60-69,NAGALAND,Peren,Male,In Speech,0
+13,11,Urban,70-79,NAGALAND,Peren,Male,In Speech,0
+13,11,Urban,80-89,NAGALAND,Peren,Male,In Speech,0
+13,11,Urban,90+,NAGALAND,Peren,Male,In Speech,0
+13,11,Urban,Age Not Stated,NAGALAND,Peren,Male,In Speech,0
+13,1,Rural,0-4,NAGALAND,Mon,Female,In Speech,1
+13,1,Rural,5-9,NAGALAND,Mon,Female,In Speech,7
+13,1,Rural,10-19,NAGALAND,Mon,Female,In Speech,29
+13,1,Rural,20-29,NAGALAND,Mon,Female,In Speech,21
+13,1,Rural,30-39,NAGALAND,Mon,Female,In Speech,20
+13,1,Rural,40-49,NAGALAND,Mon,Female,In Speech,26
+13,1,Rural,50-59,NAGALAND,Mon,Female,In Speech,17
+13,1,Rural,60-69,NAGALAND,Mon,Female,In Speech,3
+13,1,Rural,70-79,NAGALAND,Mon,Female,In Speech,2
+13,1,Rural,80-89,NAGALAND,Mon,Female,In Speech,0
+13,1,Rural,90+,NAGALAND,Mon,Female,In Speech,0
+13,1,Rural,Age Not Stated,NAGALAND,Mon,Female,In Speech,0
+13,1,Urban,0-4,NAGALAND,Mon,Female,In Speech,0
+13,1,Urban,5-9,NAGALAND,Mon,Female,In Speech,2
+13,1,Urban,10-19,NAGALAND,Mon,Female,In Speech,4
+13,1,Urban,20-29,NAGALAND,Mon,Female,In Speech,2
+13,1,Urban,30-39,NAGALAND,Mon,Female,In Speech,3
+13,1,Urban,40-49,NAGALAND,Mon,Female,In Speech,2
+13,1,Urban,50-59,NAGALAND,Mon,Female,In Speech,1
+13,1,Urban,60-69,NAGALAND,Mon,Female,In Speech,1
+13,1,Urban,70-79,NAGALAND,Mon,Female,In Speech,0
+13,1,Urban,80-89,NAGALAND,Mon,Female,In Speech,0
+13,1,Urban,90+,NAGALAND,Mon,Female,In Speech,0
+13,1,Urban,Age Not Stated,NAGALAND,Mon,Female,In Speech,0
+13,2,Rural,0-4,NAGALAND,Mokokchung,Female,In Speech,0
+13,2,Rural,5-9,NAGALAND,Mokokchung,Female,In Speech,5
+13,2,Rural,10-19,NAGALAND,Mokokchung,Female,In Speech,8
+13,2,Rural,20-29,NAGALAND,Mokokchung,Female,In Speech,4
+13,2,Rural,30-39,NAGALAND,Mokokchung,Female,In Speech,18
+13,2,Rural,40-49,NAGALAND,Mokokchung,Female,In Speech,11
+13,2,Rural,50-59,NAGALAND,Mokokchung,Female,In Speech,5
+13,2,Rural,60-69,NAGALAND,Mokokchung,Female,In Speech,6
+13,2,Rural,70-79,NAGALAND,Mokokchung,Female,In Speech,2
+13,2,Rural,80-89,NAGALAND,Mokokchung,Female,In Speech,1
+13,2,Rural,90+,NAGALAND,Mokokchung,Female,In Speech,0
+13,2,Rural,Age Not Stated,NAGALAND,Mokokchung,Female,In Speech,0
+13,2,Urban,0-4,NAGALAND,Mokokchung,Female,In Speech,0
+13,2,Urban,5-9,NAGALAND,Mokokchung,Female,In Speech,3
+13,2,Urban,10-19,NAGALAND,Mokokchung,Female,In Speech,0
+13,2,Urban,20-29,NAGALAND,Mokokchung,Female,In Speech,1
+13,2,Urban,30-39,NAGALAND,Mokokchung,Female,In Speech,5
+13,2,Urban,40-49,NAGALAND,Mokokchung,Female,In Speech,2
+13,2,Urban,50-59,NAGALAND,Mokokchung,Female,In Speech,4
+13,2,Urban,60-69,NAGALAND,Mokokchung,Female,In Speech,1
+13,2,Urban,70-79,NAGALAND,Mokokchung,Female,In Speech,0
+13,2,Urban,80-89,NAGALAND,Mokokchung,Female,In Speech,1
+13,2,Urban,90+,NAGALAND,Mokokchung,Female,In Speech,0
+13,2,Urban,Age Not Stated,NAGALAND,Mokokchung,Female,In Speech,0
+13,3,Rural,0-4,NAGALAND,Zunheboto,Female,In Speech,0
+13,3,Rural,5-9,NAGALAND,Zunheboto,Female,In Speech,8
+13,3,Rural,10-19,NAGALAND,Zunheboto,Female,In Speech,17
+13,3,Rural,20-29,NAGALAND,Zunheboto,Female,In Speech,14
+13,3,Rural,30-39,NAGALAND,Zunheboto,Female,In Speech,12
+13,3,Rural,40-49,NAGALAND,Zunheboto,Female,In Speech,16
+13,3,Rural,50-59,NAGALAND,Zunheboto,Female,In Speech,9
+13,3,Rural,60-69,NAGALAND,Zunheboto,Female,In Speech,14
+13,3,Rural,70-79,NAGALAND,Zunheboto,Female,In Speech,3
+13,3,Rural,80-89,NAGALAND,Zunheboto,Female,In Speech,2
+13,3,Rural,90+,NAGALAND,Zunheboto,Female,In Speech,0
+13,3,Rural,Age Not Stated,NAGALAND,Zunheboto,Female,In Speech,0
+13,3,Urban,0-4,NAGALAND,Zunheboto,Female,In Speech,0
+13,3,Urban,5-9,NAGALAND,Zunheboto,Female,In Speech,2
+13,3,Urban,10-19,NAGALAND,Zunheboto,Female,In Speech,4
+13,3,Urban,20-29,NAGALAND,Zunheboto,Female,In Speech,1
+13,3,Urban,30-39,NAGALAND,Zunheboto,Female,In Speech,1
+13,3,Urban,40-49,NAGALAND,Zunheboto,Female,In Speech,2
+13,3,Urban,50-59,NAGALAND,Zunheboto,Female,In Speech,1
+13,3,Urban,60-69,NAGALAND,Zunheboto,Female,In Speech,0
+13,3,Urban,70-79,NAGALAND,Zunheboto,Female,In Speech,0
+13,3,Urban,80-89,NAGALAND,Zunheboto,Female,In Speech,0
+13,3,Urban,90+,NAGALAND,Zunheboto,Female,In Speech,0
+13,3,Urban,Age Not Stated,NAGALAND,Zunheboto,Female,In Speech,0
+13,4,Rural,0-4,NAGALAND,Wokha,Female,In Speech,0
+13,4,Rural,5-9,NAGALAND,Wokha,Female,In Speech,8
+13,4,Rural,10-19,NAGALAND,Wokha,Female,In Speech,15
+13,4,Rural,20-29,NAGALAND,Wokha,Female,In Speech,12
+13,4,Rural,30-39,NAGALAND,Wokha,Female,In Speech,17
+13,4,Rural,40-49,NAGALAND,Wokha,Female,In Speech,8
+13,4,Rural,50-59,NAGALAND,Wokha,Female,In Speech,2
+13,4,Rural,60-69,NAGALAND,Wokha,Female,In Speech,2
+13,4,Rural,70-79,NAGALAND,Wokha,Female,In Speech,1
+13,4,Rural,80-89,NAGALAND,Wokha,Female,In Speech,0
+13,4,Rural,90+,NAGALAND,Wokha,Female,In Speech,0
+13,4,Rural,Age Not Stated,NAGALAND,Wokha,Female,In Speech,0
+13,4,Urban,0-4,NAGALAND,Wokha,Female,In Speech,0
+13,4,Urban,5-9,NAGALAND,Wokha,Female,In Speech,0
+13,4,Urban,10-19,NAGALAND,Wokha,Female,In Speech,3
+13,4,Urban,20-29,NAGALAND,Wokha,Female,In Speech,3
+13,4,Urban,30-39,NAGALAND,Wokha,Female,In Speech,0
+13,4,Urban,40-49,NAGALAND,Wokha,Female,In Speech,0
+13,4,Urban,50-59,NAGALAND,Wokha,Female,In Speech,1
+13,4,Urban,60-69,NAGALAND,Wokha,Female,In Speech,0
+13,4,Urban,70-79,NAGALAND,Wokha,Female,In Speech,0
+13,4,Urban,80-89,NAGALAND,Wokha,Female,In Speech,0
+13,4,Urban,90+,NAGALAND,Wokha,Female,In Speech,0
+13,4,Urban,Age Not Stated,NAGALAND,Wokha,Female,In Speech,0
+13,5,Rural,0-4,NAGALAND,Dimapur ,Female,In Speech,3
+13,5,Rural,5-9,NAGALAND,Dimapur ,Female,In Speech,9
+13,5,Rural,10-19,NAGALAND,Dimapur ,Female,In Speech,23
+13,5,Rural,20-29,NAGALAND,Dimapur ,Female,In Speech,18
+13,5,Rural,30-39,NAGALAND,Dimapur ,Female,In Speech,13
+13,5,Rural,40-49,NAGALAND,Dimapur ,Female,In Speech,2
+13,5,Rural,50-59,NAGALAND,Dimapur ,Female,In Speech,4
+13,5,Rural,60-69,NAGALAND,Dimapur ,Female,In Speech,1
+13,5,Rural,70-79,NAGALAND,Dimapur ,Female,In Speech,1
+13,5,Rural,80-89,NAGALAND,Dimapur ,Female,In Speech,0
+13,5,Rural,90+,NAGALAND,Dimapur ,Female,In Speech,0
+13,5,Rural,Age Not Stated,NAGALAND,Dimapur ,Female,In Speech,0
+13,5,Urban,0-4,NAGALAND,Dimapur ,Female,In Speech,0
+13,5,Urban,5-9,NAGALAND,Dimapur ,Female,In Speech,5
+13,5,Urban,10-19,NAGALAND,Dimapur ,Female,In Speech,14
+13,5,Urban,20-29,NAGALAND,Dimapur ,Female,In Speech,19
+13,5,Urban,30-39,NAGALAND,Dimapur ,Female,In Speech,10
+13,5,Urban,40-49,NAGALAND,Dimapur ,Female,In Speech,6
+13,5,Urban,50-59,NAGALAND,Dimapur ,Female,In Speech,1
+13,5,Urban,60-69,NAGALAND,Dimapur ,Female,In Speech,0
+13,5,Urban,70-79,NAGALAND,Dimapur ,Female,In Speech,3
+13,5,Urban,80-89,NAGALAND,Dimapur ,Female,In Speech,1
+13,5,Urban,90+,NAGALAND,Dimapur ,Female,In Speech,0
+13,5,Urban,Age Not Stated,NAGALAND,Dimapur ,Female,In Speech,0
+13,6,Rural,0-4,NAGALAND,Phek,Female,In Speech,0
+13,6,Rural,5-9,NAGALAND,Phek,Female,In Speech,9
+13,6,Rural,10-19,NAGALAND,Phek,Female,In Speech,20
+13,6,Rural,20-29,NAGALAND,Phek,Female,In Speech,7
+13,6,Rural,30-39,NAGALAND,Phek,Female,In Speech,14
+13,6,Rural,40-49,NAGALAND,Phek,Female,In Speech,18
+13,6,Rural,50-59,NAGALAND,Phek,Female,In Speech,11
+13,6,Rural,60-69,NAGALAND,Phek,Female,In Speech,7
+13,6,Rural,70-79,NAGALAND,Phek,Female,In Speech,4
+13,6,Rural,80-89,NAGALAND,Phek,Female,In Speech,1
+13,6,Rural,90+,NAGALAND,Phek,Female,In Speech,0
+13,6,Rural,Age Not Stated,NAGALAND,Phek,Female,In Speech,0
+13,6,Urban,0-4,NAGALAND,Phek,Female,In Speech,1
+13,6,Urban,5-9,NAGALAND,Phek,Female,In Speech,0
+13,6,Urban,10-19,NAGALAND,Phek,Female,In Speech,1
+13,6,Urban,20-29,NAGALAND,Phek,Female,In Speech,3
+13,6,Urban,30-39,NAGALAND,Phek,Female,In Speech,1
+13,6,Urban,40-49,NAGALAND,Phek,Female,In Speech,0
+13,6,Urban,50-59,NAGALAND,Phek,Female,In Speech,1
+13,6,Urban,60-69,NAGALAND,Phek,Female,In Speech,0
+13,6,Urban,70-79,NAGALAND,Phek,Female,In Speech,0
+13,6,Urban,80-89,NAGALAND,Phek,Female,In Speech,0
+13,6,Urban,90+,NAGALAND,Phek,Female,In Speech,0
+13,6,Urban,Age Not Stated,NAGALAND,Phek,Female,In Speech,0
+13,7,Rural,0-4,NAGALAND,Tuensang,Female,In Speech,3
+13,7,Rural,5-9,NAGALAND,Tuensang,Female,In Speech,17
+13,7,Rural,10-19,NAGALAND,Tuensang,Female,In Speech,25
+13,7,Rural,20-29,NAGALAND,Tuensang,Female,In Speech,23
+13,7,Rural,30-39,NAGALAND,Tuensang,Female,In Speech,34
+13,7,Rural,40-49,NAGALAND,Tuensang,Female,In Speech,45
+13,7,Rural,50-59,NAGALAND,Tuensang,Female,In Speech,25
+13,7,Rural,60-69,NAGALAND,Tuensang,Female,In Speech,13
+13,7,Rural,70-79,NAGALAND,Tuensang,Female,In Speech,4
+13,7,Rural,80-89,NAGALAND,Tuensang,Female,In Speech,1
+13,7,Rural,90+,NAGALAND,Tuensang,Female,In Speech,0
+13,7,Rural,Age Not Stated,NAGALAND,Tuensang,Female,In Speech,0
+13,7,Urban,0-4,NAGALAND,Tuensang,Female,In Speech,0
+13,7,Urban,5-9,NAGALAND,Tuensang,Female,In Speech,0
+13,7,Urban,10-19,NAGALAND,Tuensang,Female,In Speech,2
+13,7,Urban,20-29,NAGALAND,Tuensang,Female,In Speech,2
+13,7,Urban,30-39,NAGALAND,Tuensang,Female,In Speech,3
+13,7,Urban,40-49,NAGALAND,Tuensang,Female,In Speech,2
+13,7,Urban,50-59,NAGALAND,Tuensang,Female,In Speech,2
+13,7,Urban,60-69,NAGALAND,Tuensang,Female,In Speech,2
+13,7,Urban,70-79,NAGALAND,Tuensang,Female,In Speech,1
+13,7,Urban,80-89,NAGALAND,Tuensang,Female,In Speech,0
+13,7,Urban,90+,NAGALAND,Tuensang,Female,In Speech,0
+13,7,Urban,Age Not Stated,NAGALAND,Tuensang,Female,In Speech,0
+13,8,Rural,0-4,NAGALAND,Longleng,Female,In Speech,0
+13,8,Rural,5-9,NAGALAND,Longleng,Female,In Speech,1
+13,8,Rural,10-19,NAGALAND,Longleng,Female,In Speech,5
+13,8,Rural,20-29,NAGALAND,Longleng,Female,In Speech,2
+13,8,Rural,30-39,NAGALAND,Longleng,Female,In Speech,4
+13,8,Rural,40-49,NAGALAND,Longleng,Female,In Speech,0
+13,8,Rural,50-59,NAGALAND,Longleng,Female,In Speech,2
+13,8,Rural,60-69,NAGALAND,Longleng,Female,In Speech,1
+13,8,Rural,70-79,NAGALAND,Longleng,Female,In Speech,1
+13,8,Rural,80-89,NAGALAND,Longleng,Female,In Speech,0
+13,8,Rural,90+,NAGALAND,Longleng,Female,In Speech,0
+13,8,Rural,Age Not Stated,NAGALAND,Longleng,Female,In Speech,0
+13,8,Urban,0-4,NAGALAND,Longleng,Female,In Speech,0
+13,8,Urban,5-9,NAGALAND,Longleng,Female,In Speech,1
+13,8,Urban,10-19,NAGALAND,Longleng,Female,In Speech,1
+13,8,Urban,20-29,NAGALAND,Longleng,Female,In Speech,0
+13,8,Urban,30-39,NAGALAND,Longleng,Female,In Speech,1
+13,8,Urban,40-49,NAGALAND,Longleng,Female,In Speech,0
+13,8,Urban,50-59,NAGALAND,Longleng,Female,In Speech,0
+13,8,Urban,60-69,NAGALAND,Longleng,Female,In Speech,1
+13,8,Urban,70-79,NAGALAND,Longleng,Female,In Speech,0
+13,8,Urban,80-89,NAGALAND,Longleng,Female,In Speech,0
+13,8,Urban,90+,NAGALAND,Longleng,Female,In Speech,0
+13,8,Urban,Age Not Stated,NAGALAND,Longleng,Female,In Speech,0
+13,9,Rural,0-4,NAGALAND,Kiphire,Female,In Speech,0
+13,9,Rural,5-9,NAGALAND,Kiphire,Female,In Speech,3
+13,9,Rural,10-19,NAGALAND,Kiphire,Female,In Speech,10
+13,9,Rural,20-29,NAGALAND,Kiphire,Female,In Speech,6
+13,9,Rural,30-39,NAGALAND,Kiphire,Female,In Speech,10
+13,9,Rural,40-49,NAGALAND,Kiphire,Female,In Speech,16
+13,9,Rural,50-59,NAGALAND,Kiphire,Female,In Speech,2
+13,9,Rural,60-69,NAGALAND,Kiphire,Female,In Speech,1
+13,9,Rural,70-79,NAGALAND,Kiphire,Female,In Speech,0
+13,9,Rural,80-89,NAGALAND,Kiphire,Female,In Speech,0
+13,9,Rural,90+,NAGALAND,Kiphire,Female,In Speech,0
+13,9,Rural,Age Not Stated,NAGALAND,Kiphire,Female,In Speech,0
+13,9,Urban,0-4,NAGALAND,Kiphire,Female,In Speech,0
+13,9,Urban,5-9,NAGALAND,Kiphire,Female,In Speech,1
+13,9,Urban,10-19,NAGALAND,Kiphire,Female,In Speech,2
+13,9,Urban,20-29,NAGALAND,Kiphire,Female,In Speech,0
+13,9,Urban,30-39,NAGALAND,Kiphire,Female,In Speech,1
+13,9,Urban,40-49,NAGALAND,Kiphire,Female,In Speech,3
+13,9,Urban,50-59,NAGALAND,Kiphire,Female,In Speech,2
+13,9,Urban,60-69,NAGALAND,Kiphire,Female,In Speech,0
+13,9,Urban,70-79,NAGALAND,Kiphire,Female,In Speech,0
+13,9,Urban,80-89,NAGALAND,Kiphire,Female,In Speech,0
+13,9,Urban,90+,NAGALAND,Kiphire,Female,In Speech,0
+13,9,Urban,Age Not Stated,NAGALAND,Kiphire,Female,In Speech,0
+13,10,Rural,0-4,NAGALAND,Kohima,Female,In Speech,0
+13,10,Rural,5-9,NAGALAND,Kohima,Female,In Speech,6
+13,10,Rural,10-19,NAGALAND,Kohima,Female,In Speech,9
+13,10,Rural,20-29,NAGALAND,Kohima,Female,In Speech,14
+13,10,Rural,30-39,NAGALAND,Kohima,Female,In Speech,7
+13,10,Rural,40-49,NAGALAND,Kohima,Female,In Speech,5
+13,10,Rural,50-59,NAGALAND,Kohima,Female,In Speech,9
+13,10,Rural,60-69,NAGALAND,Kohima,Female,In Speech,3
+13,10,Rural,70-79,NAGALAND,Kohima,Female,In Speech,4
+13,10,Rural,80-89,NAGALAND,Kohima,Female,In Speech,1
+13,10,Rural,90+,NAGALAND,Kohima,Female,In Speech,1
+13,10,Rural,Age Not Stated,NAGALAND,Kohima,Female,In Speech,0
+13,10,Urban,0-4,NAGALAND,Kohima,Female,In Speech,2
+13,10,Urban,5-9,NAGALAND,Kohima,Female,In Speech,8
+13,10,Urban,10-19,NAGALAND,Kohima,Female,In Speech,6
+13,10,Urban,20-29,NAGALAND,Kohima,Female,In Speech,2
+13,10,Urban,30-39,NAGALAND,Kohima,Female,In Speech,3
+13,10,Urban,40-49,NAGALAND,Kohima,Female,In Speech,2
+13,10,Urban,50-59,NAGALAND,Kohima,Female,In Speech,3
+13,10,Urban,60-69,NAGALAND,Kohima,Female,In Speech,0
+13,10,Urban,70-79,NAGALAND,Kohima,Female,In Speech,0
+13,10,Urban,80-89,NAGALAND,Kohima,Female,In Speech,0
+13,10,Urban,90+,NAGALAND,Kohima,Female,In Speech,1
+13,10,Urban,Age Not Stated,NAGALAND,Kohima,Female,In Speech,1
+13,11,Rural,0-4,NAGALAND,Peren,Female,In Speech,0
+13,11,Rural,5-9,NAGALAND,Peren,Female,In Speech,1
+13,11,Rural,10-19,NAGALAND,Peren,Female,In Speech,10
+13,11,Rural,20-29,NAGALAND,Peren,Female,In Speech,8
+13,11,Rural,30-39,NAGALAND,Peren,Female,In Speech,5
+13,11,Rural,40-49,NAGALAND,Peren,Female,In Speech,2
+13,11,Rural,50-59,NAGALAND,Peren,Female,In Speech,2
+13,11,Rural,60-69,NAGALAND,Peren,Female,In Speech,3
+13,11,Rural,70-79,NAGALAND,Peren,Female,In Speech,1
+13,11,Rural,80-89,NAGALAND,Peren,Female,In Speech,0
+13,11,Rural,90+,NAGALAND,Peren,Female,In Speech,0
+13,11,Rural,Age Not Stated,NAGALAND,Peren,Female,In Speech,0
+13,11,Urban,0-4,NAGALAND,Peren,Female,In Speech,0
+13,11,Urban,5-9,NAGALAND,Peren,Female,In Speech,1
+13,11,Urban,10-19,NAGALAND,Peren,Female,In Speech,1
+13,11,Urban,20-29,NAGALAND,Peren,Female,In Speech,3
+13,11,Urban,30-39,NAGALAND,Peren,Female,In Speech,1
+13,11,Urban,40-49,NAGALAND,Peren,Female,In Speech,0
+13,11,Urban,50-59,NAGALAND,Peren,Female,In Speech,0
+13,11,Urban,60-69,NAGALAND,Peren,Female,In Speech,0
+13,11,Urban,70-79,NAGALAND,Peren,Female,In Speech,0
+13,11,Urban,80-89,NAGALAND,Peren,Female,In Speech,0
+13,11,Urban,90+,NAGALAND,Peren,Female,In Speech,0
+13,11,Urban,Age Not Stated,NAGALAND,Peren,Female,In Speech,0
+13,1,Rural,0-4,NAGALAND,Mon,Male,In Hearing,90
+13,1,Rural,5-9,NAGALAND,Mon,Male,In Hearing,69
+13,1,Rural,10-19,NAGALAND,Mon,Male,In Hearing,187
+13,1,Rural,20-29,NAGALAND,Mon,Male,In Hearing,147
+13,1,Rural,30-39,NAGALAND,Mon,Male,In Hearing,88
+13,1,Rural,40-49,NAGALAND,Mon,Male,In Hearing,125
+13,1,Rural,50-59,NAGALAND,Mon,Male,In Hearing,110
+13,1,Rural,60-69,NAGALAND,Mon,Male,In Hearing,97
+13,1,Rural,70-79,NAGALAND,Mon,Male,In Hearing,74
+13,1,Rural,80-89,NAGALAND,Mon,Male,In Hearing,28
+13,1,Rural,90+,NAGALAND,Mon,Male,In Hearing,6
+13,1,Rural,Age Not Stated,NAGALAND,Mon,Male,In Hearing,11
+13,1,Urban,0-4,NAGALAND,Mon,Male,In Hearing,4
+13,1,Urban,5-9,NAGALAND,Mon,Male,In Hearing,10
+13,1,Urban,10-19,NAGALAND,Mon,Male,In Hearing,34
+13,1,Urban,20-29,NAGALAND,Mon,Male,In Hearing,17
+13,1,Urban,30-39,NAGALAND,Mon,Male,In Hearing,15
+13,1,Urban,40-49,NAGALAND,Mon,Male,In Hearing,10
+13,1,Urban,50-59,NAGALAND,Mon,Male,In Hearing,16
+13,1,Urban,60-69,NAGALAND,Mon,Male,In Hearing,7
+13,1,Urban,70-79,NAGALAND,Mon,Male,In Hearing,5
+13,1,Urban,80-89,NAGALAND,Mon,Male,In Hearing,1
+13,1,Urban,90+,NAGALAND,Mon,Male,In Hearing,1
+13,1,Urban,Age Not Stated,NAGALAND,Mon,Male,In Hearing,0
+13,2,Rural,0-4,NAGALAND,Mokokchung,Male,In Hearing,7
+13,2,Rural,5-9,NAGALAND,Mokokchung,Male,In Hearing,9
+13,2,Rural,10-19,NAGALAND,Mokokchung,Male,In Hearing,29
+13,2,Rural,20-29,NAGALAND,Mokokchung,Male,In Hearing,26
+13,2,Rural,30-39,NAGALAND,Mokokchung,Male,In Hearing,22
+13,2,Rural,40-49,NAGALAND,Mokokchung,Male,In Hearing,28
+13,2,Rural,50-59,NAGALAND,Mokokchung,Male,In Hearing,32
+13,2,Rural,60-69,NAGALAND,Mokokchung,Male,In Hearing,38
+13,2,Rural,70-79,NAGALAND,Mokokchung,Male,In Hearing,66
+13,2,Rural,80-89,NAGALAND,Mokokchung,Male,In Hearing,85
+13,2,Rural,90+,NAGALAND,Mokokchung,Male,In Hearing,30
+13,2,Rural,Age Not Stated,NAGALAND,Mokokchung,Male,In Hearing,0
+13,2,Urban,0-4,NAGALAND,Mokokchung,Male,In Hearing,4
+13,2,Urban,5-9,NAGALAND,Mokokchung,Male,In Hearing,4
+13,2,Urban,10-19,NAGALAND,Mokokchung,Male,In Hearing,4
+13,2,Urban,20-29,NAGALAND,Mokokchung,Male,In Hearing,8
+13,2,Urban,30-39,NAGALAND,Mokokchung,Male,In Hearing,13
+13,2,Urban,40-49,NAGALAND,Mokokchung,Male,In Hearing,8
+13,2,Urban,50-59,NAGALAND,Mokokchung,Male,In Hearing,5
+13,2,Urban,60-69,NAGALAND,Mokokchung,Male,In Hearing,10
+13,2,Urban,70-79,NAGALAND,Mokokchung,Male,In Hearing,17
+13,2,Urban,80-89,NAGALAND,Mokokchung,Male,In Hearing,21
+13,2,Urban,90+,NAGALAND,Mokokchung,Male,In Hearing,7
+13,2,Urban,Age Not Stated,NAGALAND,Mokokchung,Male,In Hearing,0
+13,3,Rural,0-4,NAGALAND,Zunheboto,Male,In Hearing,20
+13,3,Rural,5-9,NAGALAND,Zunheboto,Male,In Hearing,19
+13,3,Rural,10-19,NAGALAND,Zunheboto,Male,In Hearing,43
+13,3,Rural,20-29,NAGALAND,Zunheboto,Male,In Hearing,42
+13,3,Rural,30-39,NAGALAND,Zunheboto,Male,In Hearing,43
+13,3,Rural,40-49,NAGALAND,Zunheboto,Male,In Hearing,66
+13,3,Rural,50-59,NAGALAND,Zunheboto,Male,In Hearing,43
+13,3,Rural,60-69,NAGALAND,Zunheboto,Male,In Hearing,60
+13,3,Rural,70-79,NAGALAND,Zunheboto,Male,In Hearing,48
+13,3,Rural,80-89,NAGALAND,Zunheboto,Male,In Hearing,23
+13,3,Rural,90+,NAGALAND,Zunheboto,Male,In Hearing,6
+13,3,Rural,Age Not Stated,NAGALAND,Zunheboto,Male,In Hearing,0
+13,3,Urban,0-4,NAGALAND,Zunheboto,Male,In Hearing,1
+13,3,Urban,5-9,NAGALAND,Zunheboto,Male,In Hearing,1
+13,3,Urban,10-19,NAGALAND,Zunheboto,Male,In Hearing,8
+13,3,Urban,20-29,NAGALAND,Zunheboto,Male,In Hearing,5
+13,3,Urban,30-39,NAGALAND,Zunheboto,Male,In Hearing,2
+13,3,Urban,40-49,NAGALAND,Zunheboto,Male,In Hearing,7
+13,3,Urban,50-59,NAGALAND,Zunheboto,Male,In Hearing,3
+13,3,Urban,60-69,NAGALAND,Zunheboto,Male,In Hearing,1
+13,3,Urban,70-79,NAGALAND,Zunheboto,Male,In Hearing,1
+13,3,Urban,80-89,NAGALAND,Zunheboto,Male,In Hearing,0
+13,3,Urban,90+,NAGALAND,Zunheboto,Male,In Hearing,1
+13,3,Urban,Age Not Stated,NAGALAND,Zunheboto,Male,In Hearing,0
+13,4,Rural,0-4,NAGALAND,Wokha,Male,In Hearing,0
+13,4,Rural,5-9,NAGALAND,Wokha,Male,In Hearing,15
+13,4,Rural,10-19,NAGALAND,Wokha,Male,In Hearing,50
+13,4,Rural,20-29,NAGALAND,Wokha,Male,In Hearing,25
+13,4,Rural,30-39,NAGALAND,Wokha,Male,In Hearing,25
+13,4,Rural,40-49,NAGALAND,Wokha,Male,In Hearing,34
+13,4,Rural,50-59,NAGALAND,Wokha,Male,In Hearing,23
+13,4,Rural,60-69,NAGALAND,Wokha,Male,In Hearing,38
+13,4,Rural,70-79,NAGALAND,Wokha,Male,In Hearing,34
+13,4,Rural,80-89,NAGALAND,Wokha,Male,In Hearing,27
+13,4,Rural,90+,NAGALAND,Wokha,Male,In Hearing,9
+13,4,Rural,Age Not Stated,NAGALAND,Wokha,Male,In Hearing,0
+13,4,Urban,0-4,NAGALAND,Wokha,Male,In Hearing,6
+13,4,Urban,5-9,NAGALAND,Wokha,Male,In Hearing,7
+13,4,Urban,10-19,NAGALAND,Wokha,Male,In Hearing,7
+13,4,Urban,20-29,NAGALAND,Wokha,Male,In Hearing,21
+13,4,Urban,30-39,NAGALAND,Wokha,Male,In Hearing,27
+13,4,Urban,40-49,NAGALAND,Wokha,Male,In Hearing,22
+13,4,Urban,50-59,NAGALAND,Wokha,Male,In Hearing,7
+13,4,Urban,60-69,NAGALAND,Wokha,Male,In Hearing,5
+13,4,Urban,70-79,NAGALAND,Wokha,Male,In Hearing,6
+13,4,Urban,80-89,NAGALAND,Wokha,Male,In Hearing,5
+13,4,Urban,90+,NAGALAND,Wokha,Male,In Hearing,0
+13,4,Urban,Age Not Stated,NAGALAND,Wokha,Male,In Hearing,0
+13,5,Rural,0-4,NAGALAND,Dimapur ,Male,In Hearing,12
+13,5,Rural,5-9,NAGALAND,Dimapur ,Male,In Hearing,15
+13,5,Rural,10-19,NAGALAND,Dimapur ,Male,In Hearing,29
+13,5,Rural,20-29,NAGALAND,Dimapur ,Male,In Hearing,35
+13,5,Rural,30-39,NAGALAND,Dimapur ,Male,In Hearing,24
+13,5,Rural,40-49,NAGALAND,Dimapur ,Male,In Hearing,35
+13,5,Rural,50-59,NAGALAND,Dimapur ,Male,In Hearing,40
+13,5,Rural,60-69,NAGALAND,Dimapur ,Male,In Hearing,33
+13,5,Rural,70-79,NAGALAND,Dimapur ,Male,In Hearing,36
+13,5,Rural,80-89,NAGALAND,Dimapur ,Male,In Hearing,22
+13,5,Rural,90+,NAGALAND,Dimapur ,Male,In Hearing,6
+13,5,Rural,Age Not Stated,NAGALAND,Dimapur ,Male,In Hearing,1
+13,5,Urban,0-4,NAGALAND,Dimapur ,Male,In Hearing,15
+13,5,Urban,5-9,NAGALAND,Dimapur ,Male,In Hearing,17
+13,5,Urban,10-19,NAGALAND,Dimapur ,Male,In Hearing,29
+13,5,Urban,20-29,NAGALAND,Dimapur ,Male,In Hearing,44
+13,5,Urban,30-39,NAGALAND,Dimapur ,Male,In Hearing,34
+13,5,Urban,40-49,NAGALAND,Dimapur ,Male,In Hearing,57
+13,5,Urban,50-59,NAGALAND,Dimapur ,Male,In Hearing,18
+13,5,Urban,60-69,NAGALAND,Dimapur ,Male,In Hearing,12
+13,5,Urban,70-79,NAGALAND,Dimapur ,Male,In Hearing,11
+13,5,Urban,80-89,NAGALAND,Dimapur ,Male,In Hearing,10
+13,5,Urban,90+,NAGALAND,Dimapur ,Male,In Hearing,4
+13,5,Urban,Age Not Stated,NAGALAND,Dimapur ,Male,In Hearing,0
+13,6,Rural,0-4,NAGALAND,Phek,Male,In Hearing,5
+13,6,Rural,5-9,NAGALAND,Phek,Male,In Hearing,12
+13,6,Rural,10-19,NAGALAND,Phek,Male,In Hearing,24
+13,6,Rural,20-29,NAGALAND,Phek,Male,In Hearing,28
+13,6,Rural,30-39,NAGALAND,Phek,Male,In Hearing,36
+13,6,Rural,40-49,NAGALAND,Phek,Male,In Hearing,35
+13,6,Rural,50-59,NAGALAND,Phek,Male,In Hearing,41
+13,6,Rural,60-69,NAGALAND,Phek,Male,In Hearing,56
+13,6,Rural,70-79,NAGALAND,Phek,Male,In Hearing,54
+13,6,Rural,80-89,NAGALAND,Phek,Male,In Hearing,25
+13,6,Rural,90+,NAGALAND,Phek,Male,In Hearing,12
+13,6,Rural,Age Not Stated,NAGALAND,Phek,Male,In Hearing,0
+13,6,Urban,0-4,NAGALAND,Phek,Male,In Hearing,1
+13,6,Urban,5-9,NAGALAND,Phek,Male,In Hearing,2
+13,6,Urban,10-19,NAGALAND,Phek,Male,In Hearing,4
+13,6,Urban,20-29,NAGALAND,Phek,Male,In Hearing,0
+13,6,Urban,30-39,NAGALAND,Phek,Male,In Hearing,3
+13,6,Urban,40-49,NAGALAND,Phek,Male,In Hearing,1
+13,6,Urban,50-59,NAGALAND,Phek,Male,In Hearing,1
+13,6,Urban,60-69,NAGALAND,Phek,Male,In Hearing,2
+13,6,Urban,70-79,NAGALAND,Phek,Male,In Hearing,1
+13,6,Urban,80-89,NAGALAND,Phek,Male,In Hearing,0
+13,6,Urban,90+,NAGALAND,Phek,Male,In Hearing,0
+13,6,Urban,Age Not Stated,NAGALAND,Phek,Male,In Hearing,0
+13,7,Rural,0-4,NAGALAND,Tuensang,Male,In Hearing,16
+13,7,Rural,5-9,NAGALAND,Tuensang,Male,In Hearing,17
+13,7,Rural,10-19,NAGALAND,Tuensang,Male,In Hearing,64
+13,7,Rural,20-29,NAGALAND,Tuensang,Male,In Hearing,51
+13,7,Rural,30-39,NAGALAND,Tuensang,Male,In Hearing,61
+13,7,Rural,40-49,NAGALAND,Tuensang,Male,In Hearing,95
+13,7,Rural,50-59,NAGALAND,Tuensang,Male,In Hearing,94
+13,7,Rural,60-69,NAGALAND,Tuensang,Male,In Hearing,68
+13,7,Rural,70-79,NAGALAND,Tuensang,Male,In Hearing,63
+13,7,Rural,80-89,NAGALAND,Tuensang,Male,In Hearing,39
+13,7,Rural,90+,NAGALAND,Tuensang,Male,In Hearing,17
+13,7,Rural,Age Not Stated,NAGALAND,Tuensang,Male,In Hearing,0
+13,7,Urban,0-4,NAGALAND,Tuensang,Male,In Hearing,19
+13,7,Urban,5-9,NAGALAND,Tuensang,Male,In Hearing,14
+13,7,Urban,10-19,NAGALAND,Tuensang,Male,In Hearing,19
+13,7,Urban,20-29,NAGALAND,Tuensang,Male,In Hearing,17
+13,7,Urban,30-39,NAGALAND,Tuensang,Male,In Hearing,46
+13,7,Urban,40-49,NAGALAND,Tuensang,Male,In Hearing,22
+13,7,Urban,50-59,NAGALAND,Tuensang,Male,In Hearing,9
+13,7,Urban,60-69,NAGALAND,Tuensang,Male,In Hearing,4
+13,7,Urban,70-79,NAGALAND,Tuensang,Male,In Hearing,3
+13,7,Urban,80-89,NAGALAND,Tuensang,Male,In Hearing,4
+13,7,Urban,90+,NAGALAND,Tuensang,Male,In Hearing,1
+13,7,Urban,Age Not Stated,NAGALAND,Tuensang,Male,In Hearing,1
+13,8,Rural,0-4,NAGALAND,Longleng,Male,In Hearing,11
+13,8,Rural,5-9,NAGALAND,Longleng,Male,In Hearing,9
+13,8,Rural,10-19,NAGALAND,Longleng,Male,In Hearing,18
+13,8,Rural,20-29,NAGALAND,Longleng,Male,In Hearing,15
+13,8,Rural,30-39,NAGALAND,Longleng,Male,In Hearing,24
+13,8,Rural,40-49,NAGALAND,Longleng,Male,In Hearing,14
+13,8,Rural,50-59,NAGALAND,Longleng,Male,In Hearing,35
+13,8,Rural,60-69,NAGALAND,Longleng,Male,In Hearing,32
+13,8,Rural,70-79,NAGALAND,Longleng,Male,In Hearing,20
+13,8,Rural,80-89,NAGALAND,Longleng,Male,In Hearing,12
+13,8,Rural,90+,NAGALAND,Longleng,Male,In Hearing,10
+13,8,Rural,Age Not Stated,NAGALAND,Longleng,Male,In Hearing,0
+13,8,Urban,0-4,NAGALAND,Longleng,Male,In Hearing,0
+13,8,Urban,5-9,NAGALAND,Longleng,Male,In Hearing,0
+13,8,Urban,10-19,NAGALAND,Longleng,Male,In Hearing,2
+13,8,Urban,20-29,NAGALAND,Longleng,Male,In Hearing,0
+13,8,Urban,30-39,NAGALAND,Longleng,Male,In Hearing,0
+13,8,Urban,40-49,NAGALAND,Longleng,Male,In Hearing,2
+13,8,Urban,50-59,NAGALAND,Longleng,Male,In Hearing,3
+13,8,Urban,60-69,NAGALAND,Longleng,Male,In Hearing,8
+13,8,Urban,70-79,NAGALAND,Longleng,Male,In Hearing,2
+13,8,Urban,80-89,NAGALAND,Longleng,Male,In Hearing,1
+13,8,Urban,90+,NAGALAND,Longleng,Male,In Hearing,1
+13,8,Urban,Age Not Stated,NAGALAND,Longleng,Male,In Hearing,0
+13,9,Rural,0-4,NAGALAND,Kiphire,Male,In Hearing,4
+13,9,Rural,5-9,NAGALAND,Kiphire,Male,In Hearing,2
+13,9,Rural,10-19,NAGALAND,Kiphire,Male,In Hearing,13
+13,9,Rural,20-29,NAGALAND,Kiphire,Male,In Hearing,12
+13,9,Rural,30-39,NAGALAND,Kiphire,Male,In Hearing,10
+13,9,Rural,40-49,NAGALAND,Kiphire,Male,In Hearing,23
+13,9,Rural,50-59,NAGALAND,Kiphire,Male,In Hearing,14
+13,9,Rural,60-69,NAGALAND,Kiphire,Male,In Hearing,5
+13,9,Rural,70-79,NAGALAND,Kiphire,Male,In Hearing,11
+13,9,Rural,80-89,NAGALAND,Kiphire,Male,In Hearing,6
+13,9,Rural,90+,NAGALAND,Kiphire,Male,In Hearing,3
+13,9,Rural,Age Not Stated,NAGALAND,Kiphire,Male,In Hearing,0
+13,9,Urban,0-4,NAGALAND,Kiphire,Male,In Hearing,1
+13,9,Urban,5-9,NAGALAND,Kiphire,Male,In Hearing,0
+13,9,Urban,10-19,NAGALAND,Kiphire,Male,In Hearing,6
+13,9,Urban,20-29,NAGALAND,Kiphire,Male,In Hearing,3
+13,9,Urban,30-39,NAGALAND,Kiphire,Male,In Hearing,2
+13,9,Urban,40-49,NAGALAND,Kiphire,Male,In Hearing,3
+13,9,Urban,50-59,NAGALAND,Kiphire,Male,In Hearing,4
+13,9,Urban,60-69,NAGALAND,Kiphire,Male,In Hearing,1
+13,9,Urban,70-79,NAGALAND,Kiphire,Male,In Hearing,0
+13,9,Urban,80-89,NAGALAND,Kiphire,Male,In Hearing,0
+13,9,Urban,90+,NAGALAND,Kiphire,Male,In Hearing,1
+13,9,Urban,Age Not Stated,NAGALAND,Kiphire,Male,In Hearing,0
+13,10,Rural,0-4,NAGALAND,Kohima,Male,In Hearing,9
+13,10,Rural,5-9,NAGALAND,Kohima,Male,In Hearing,9
+13,10,Rural,10-19,NAGALAND,Kohima,Male,In Hearing,33
+13,10,Rural,20-29,NAGALAND,Kohima,Male,In Hearing,24
+13,10,Rural,30-39,NAGALAND,Kohima,Male,In Hearing,43
+13,10,Rural,40-49,NAGALAND,Kohima,Male,In Hearing,23
+13,10,Rural,50-59,NAGALAND,Kohima,Male,In Hearing,31
+13,10,Rural,60-69,NAGALAND,Kohima,Male,In Hearing,30
+13,10,Rural,70-79,NAGALAND,Kohima,Male,In Hearing,29
+13,10,Rural,80-89,NAGALAND,Kohima,Male,In Hearing,19
+13,10,Rural,90+,NAGALAND,Kohima,Male,In Hearing,6
+13,10,Rural,Age Not Stated,NAGALAND,Kohima,Male,In Hearing,4
+13,10,Urban,0-4,NAGALAND,Kohima,Male,In Hearing,2
+13,10,Urban,5-9,NAGALAND,Kohima,Male,In Hearing,3
+13,10,Urban,10-19,NAGALAND,Kohima,Male,In Hearing,24
+13,10,Urban,20-29,NAGALAND,Kohima,Male,In Hearing,18
+13,10,Urban,30-39,NAGALAND,Kohima,Male,In Hearing,11
+13,10,Urban,40-49,NAGALAND,Kohima,Male,In Hearing,17
+13,10,Urban,50-59,NAGALAND,Kohima,Male,In Hearing,19
+13,10,Urban,60-69,NAGALAND,Kohima,Male,In Hearing,7
+13,10,Urban,70-79,NAGALAND,Kohima,Male,In Hearing,5
+13,10,Urban,80-89,NAGALAND,Kohima,Male,In Hearing,8
+13,10,Urban,90+,NAGALAND,Kohima,Male,In Hearing,3
+13,10,Urban,Age Not Stated,NAGALAND,Kohima,Male,In Hearing,0
+13,11,Rural,0-4,NAGALAND,Peren,Male,In Hearing,7
+13,11,Rural,5-9,NAGALAND,Peren,Male,In Hearing,18
+13,11,Rural,10-19,NAGALAND,Peren,Male,In Hearing,32
+13,11,Rural,20-29,NAGALAND,Peren,Male,In Hearing,26
+13,11,Rural,30-39,NAGALAND,Peren,Male,In Hearing,22
+13,11,Rural,40-49,NAGALAND,Peren,Male,In Hearing,19
+13,11,Rural,50-59,NAGALAND,Peren,Male,In Hearing,18
+13,11,Rural,60-69,NAGALAND,Peren,Male,In Hearing,22
+13,11,Rural,70-79,NAGALAND,Peren,Male,In Hearing,18
+13,11,Rural,80-89,NAGALAND,Peren,Male,In Hearing,4
+13,11,Rural,90+,NAGALAND,Peren,Male,In Hearing,3
+13,11,Rural,Age Not Stated,NAGALAND,Peren,Male,In Hearing,0
+13,11,Urban,0-4,NAGALAND,Peren,Male,In Hearing,1
+13,11,Urban,5-9,NAGALAND,Peren,Male,In Hearing,1
+13,11,Urban,10-19,NAGALAND,Peren,Male,In Hearing,4
+13,11,Urban,20-29,NAGALAND,Peren,Male,In Hearing,0
+13,11,Urban,30-39,NAGALAND,Peren,Male,In Hearing,0
+13,11,Urban,40-49,NAGALAND,Peren,Male,In Hearing,2
+13,11,Urban,50-59,NAGALAND,Peren,Male,In Hearing,0
+13,11,Urban,60-69,NAGALAND,Peren,Male,In Hearing,2
+13,11,Urban,70-79,NAGALAND,Peren,Male,In Hearing,0
+13,11,Urban,80-89,NAGALAND,Peren,Male,In Hearing,1
+13,11,Urban,90+,NAGALAND,Peren,Male,In Hearing,0
+13,11,Urban,Age Not Stated,NAGALAND,Peren,Male,In Hearing,0
+13,1,Rural,0-4,NAGALAND,Mon,Female,In Hearing,61
+13,1,Rural,5-9,NAGALAND,Mon,Female,In Hearing,68
+13,1,Rural,10-19,NAGALAND,Mon,Female,In Hearing,168
+13,1,Rural,20-29,NAGALAND,Mon,Female,In Hearing,126
+13,1,Rural,30-39,NAGALAND,Mon,Female,In Hearing,75
+13,1,Rural,40-49,NAGALAND,Mon,Female,In Hearing,77
+13,1,Rural,50-59,NAGALAND,Mon,Female,In Hearing,63
+13,1,Rural,60-69,NAGALAND,Mon,Female,In Hearing,97
+13,1,Rural,70-79,NAGALAND,Mon,Female,In Hearing,72
+13,1,Rural,80-89,NAGALAND,Mon,Female,In Hearing,22
+13,1,Rural,90+,NAGALAND,Mon,Female,In Hearing,6
+13,1,Rural,Age Not Stated,NAGALAND,Mon,Female,In Hearing,2
+13,1,Urban,0-4,NAGALAND,Mon,Female,In Hearing,13
+13,1,Urban,5-9,NAGALAND,Mon,Female,In Hearing,12
+13,1,Urban,10-19,NAGALAND,Mon,Female,In Hearing,24
+13,1,Urban,20-29,NAGALAND,Mon,Female,In Hearing,12
+13,1,Urban,30-39,NAGALAND,Mon,Female,In Hearing,9
+13,1,Urban,40-49,NAGALAND,Mon,Female,In Hearing,5
+13,1,Urban,50-59,NAGALAND,Mon,Female,In Hearing,5
+13,1,Urban,60-69,NAGALAND,Mon,Female,In Hearing,3
+13,1,Urban,70-79,NAGALAND,Mon,Female,In Hearing,2
+13,1,Urban,80-89,NAGALAND,Mon,Female,In Hearing,0
+13,1,Urban,90+,NAGALAND,Mon,Female,In Hearing,0
+13,1,Urban,Age Not Stated,NAGALAND,Mon,Female,In Hearing,1
+13,2,Rural,0-4,NAGALAND,Mokokchung,Female,In Hearing,5
+13,2,Rural,5-9,NAGALAND,Mokokchung,Female,In Hearing,8
+13,2,Rural,10-19,NAGALAND,Mokokchung,Female,In Hearing,21
+13,2,Rural,20-29,NAGALAND,Mokokchung,Female,In Hearing,9
+13,2,Rural,30-39,NAGALAND,Mokokchung,Female,In Hearing,19
+13,2,Rural,40-49,NAGALAND,Mokokchung,Female,In Hearing,25
+13,2,Rural,50-59,NAGALAND,Mokokchung,Female,In Hearing,24
+13,2,Rural,60-69,NAGALAND,Mokokchung,Female,In Hearing,31
+13,2,Rural,70-79,NAGALAND,Mokokchung,Female,In Hearing,60
+13,2,Rural,80-89,NAGALAND,Mokokchung,Female,In Hearing,44
+13,2,Rural,90+,NAGALAND,Mokokchung,Female,In Hearing,17
+13,2,Rural,Age Not Stated,NAGALAND,Mokokchung,Female,In Hearing,0
+13,2,Urban,0-4,NAGALAND,Mokokchung,Female,In Hearing,0
+13,2,Urban,5-9,NAGALAND,Mokokchung,Female,In Hearing,4
+13,2,Urban,10-19,NAGALAND,Mokokchung,Female,In Hearing,13
+13,2,Urban,20-29,NAGALAND,Mokokchung,Female,In Hearing,8
+13,2,Urban,30-39,NAGALAND,Mokokchung,Female,In Hearing,7
+13,2,Urban,40-49,NAGALAND,Mokokchung,Female,In Hearing,11
+13,2,Urban,50-59,NAGALAND,Mokokchung,Female,In Hearing,9
+13,2,Urban,60-69,NAGALAND,Mokokchung,Female,In Hearing,6
+13,2,Urban,70-79,NAGALAND,Mokokchung,Female,In Hearing,13
+13,2,Urban,80-89,NAGALAND,Mokokchung,Female,In Hearing,14
+13,2,Urban,90+,NAGALAND,Mokokchung,Female,In Hearing,9
+13,2,Urban,Age Not Stated,NAGALAND,Mokokchung,Female,In Hearing,0
+13,3,Rural,0-4,NAGALAND,Zunheboto,Female,In Hearing,19
+13,3,Rural,5-9,NAGALAND,Zunheboto,Female,In Hearing,16
+13,3,Rural,10-19,NAGALAND,Zunheboto,Female,In Hearing,39
+13,3,Rural,20-29,NAGALAND,Zunheboto,Female,In Hearing,51
+13,3,Rural,30-39,NAGALAND,Zunheboto,Female,In Hearing,39
+13,3,Rural,40-49,NAGALAND,Zunheboto,Female,In Hearing,42
+13,3,Rural,50-59,NAGALAND,Zunheboto,Female,In Hearing,51
+13,3,Rural,60-69,NAGALAND,Zunheboto,Female,In Hearing,71
+13,3,Rural,70-79,NAGALAND,Zunheboto,Female,In Hearing,30
+13,3,Rural,80-89,NAGALAND,Zunheboto,Female,In Hearing,10
+13,3,Rural,90+,NAGALAND,Zunheboto,Female,In Hearing,6
+13,3,Rural,Age Not Stated,NAGALAND,Zunheboto,Female,In Hearing,0
+13,3,Urban,0-4,NAGALAND,Zunheboto,Female,In Hearing,2
+13,3,Urban,5-9,NAGALAND,Zunheboto,Female,In Hearing,2
+13,3,Urban,10-19,NAGALAND,Zunheboto,Female,In Hearing,6
+13,3,Urban,20-29,NAGALAND,Zunheboto,Female,In Hearing,4
+13,3,Urban,30-39,NAGALAND,Zunheboto,Female,In Hearing,2
+13,3,Urban,40-49,NAGALAND,Zunheboto,Female,In Hearing,4
+13,3,Urban,50-59,NAGALAND,Zunheboto,Female,In Hearing,2
+13,3,Urban,60-69,NAGALAND,Zunheboto,Female,In Hearing,0
+13,3,Urban,70-79,NAGALAND,Zunheboto,Female,In Hearing,2
+13,3,Urban,80-89,NAGALAND,Zunheboto,Female,In Hearing,1
+13,3,Urban,90+,NAGALAND,Zunheboto,Female,In Hearing,0
+13,3,Urban,Age Not Stated,NAGALAND,Zunheboto,Female,In Hearing,0
+13,4,Rural,0-4,NAGALAND,Wokha,Female,In Hearing,7
+13,4,Rural,5-9,NAGALAND,Wokha,Female,In Hearing,16
+13,4,Rural,10-19,NAGALAND,Wokha,Female,In Hearing,31
+13,4,Rural,20-29,NAGALAND,Wokha,Female,In Hearing,31
+13,4,Rural,30-39,NAGALAND,Wokha,Female,In Hearing,18
+13,4,Rural,40-49,NAGALAND,Wokha,Female,In Hearing,34
+13,4,Rural,50-59,NAGALAND,Wokha,Female,In Hearing,36
+13,4,Rural,60-69,NAGALAND,Wokha,Female,In Hearing,34
+13,4,Rural,70-79,NAGALAND,Wokha,Female,In Hearing,36
+13,4,Rural,80-89,NAGALAND,Wokha,Female,In Hearing,17
+13,4,Rural,90+,NAGALAND,Wokha,Female,In Hearing,2
+13,4,Rural,Age Not Stated,NAGALAND,Wokha,Female,In Hearing,0
+13,4,Urban,0-4,NAGALAND,Wokha,Female,In Hearing,8
+13,4,Urban,5-9,NAGALAND,Wokha,Female,In Hearing,10
+13,4,Urban,10-19,NAGALAND,Wokha,Female,In Hearing,12
+13,4,Urban,20-29,NAGALAND,Wokha,Female,In Hearing,15
+13,4,Urban,30-39,NAGALAND,Wokha,Female,In Hearing,9
+13,4,Urban,40-49,NAGALAND,Wokha,Female,In Hearing,3
+13,4,Urban,50-59,NAGALAND,Wokha,Female,In Hearing,4
+13,4,Urban,60-69,NAGALAND,Wokha,Female,In Hearing,3
+13,4,Urban,70-79,NAGALAND,Wokha,Female,In Hearing,1
+13,4,Urban,80-89,NAGALAND,Wokha,Female,In Hearing,2
+13,4,Urban,90+,NAGALAND,Wokha,Female,In Hearing,1
+13,4,Urban,Age Not Stated,NAGALAND,Wokha,Female,In Hearing,0
+13,5,Rural,0-4,NAGALAND,Dimapur ,Female,In Hearing,4
+13,5,Rural,5-9,NAGALAND,Dimapur ,Female,In Hearing,17
+13,5,Rural,10-19,NAGALAND,Dimapur ,Female,In Hearing,28
+13,5,Rural,20-29,NAGALAND,Dimapur ,Female,In Hearing,32
+13,5,Rural,30-39,NAGALAND,Dimapur ,Female,In Hearing,15
+13,5,Rural,40-49,NAGALAND,Dimapur ,Female,In Hearing,27
+13,5,Rural,50-59,NAGALAND,Dimapur ,Female,In Hearing,23
+13,5,Rural,60-69,NAGALAND,Dimapur ,Female,In Hearing,36
+13,5,Rural,70-79,NAGALAND,Dimapur ,Female,In Hearing,23
+13,5,Rural,80-89,NAGALAND,Dimapur ,Female,In Hearing,17
+13,5,Rural,90+,NAGALAND,Dimapur ,Female,In Hearing,7
+13,5,Rural,Age Not Stated,NAGALAND,Dimapur ,Female,In Hearing,2
+13,5,Urban,0-4,NAGALAND,Dimapur ,Female,In Hearing,14
+13,5,Urban,5-9,NAGALAND,Dimapur ,Female,In Hearing,14
+13,5,Urban,10-19,NAGALAND,Dimapur ,Female,In Hearing,36
+13,5,Urban,20-29,NAGALAND,Dimapur ,Female,In Hearing,43
+13,5,Urban,30-39,NAGALAND,Dimapur ,Female,In Hearing,24
+13,5,Urban,40-49,NAGALAND,Dimapur ,Female,In Hearing,19
+13,5,Urban,50-59,NAGALAND,Dimapur ,Female,In Hearing,11
+13,5,Urban,60-69,NAGALAND,Dimapur ,Female,In Hearing,13
+13,5,Urban,70-79,NAGALAND,Dimapur ,Female,In Hearing,8
+13,5,Urban,80-89,NAGALAND,Dimapur ,Female,In Hearing,2
+13,5,Urban,90+,NAGALAND,Dimapur ,Female,In Hearing,1
+13,5,Urban,Age Not Stated,NAGALAND,Dimapur ,Female,In Hearing,0
+13,6,Rural,0-4,NAGALAND,Phek,Female,In Hearing,3
+13,6,Rural,5-9,NAGALAND,Phek,Female,In Hearing,6
+13,6,Rural,10-19,NAGALAND,Phek,Female,In Hearing,17
+13,6,Rural,20-29,NAGALAND,Phek,Female,In Hearing,24
+13,6,Rural,30-39,NAGALAND,Phek,Female,In Hearing,19
+13,6,Rural,40-49,NAGALAND,Phek,Female,In Hearing,21
+13,6,Rural,50-59,NAGALAND,Phek,Female,In Hearing,30
+13,6,Rural,60-69,NAGALAND,Phek,Female,In Hearing,35
+13,6,Rural,70-79,NAGALAND,Phek,Female,In Hearing,45
+13,6,Rural,80-89,NAGALAND,Phek,Female,In Hearing,13
+13,6,Rural,90+,NAGALAND,Phek,Female,In Hearing,5
+13,6,Rural,Age Not Stated,NAGALAND,Phek,Female,In Hearing,0
+13,6,Urban,0-4,NAGALAND,Phek,Female,In Hearing,1
+13,6,Urban,5-9,NAGALAND,Phek,Female,In Hearing,3
+13,6,Urban,10-19,NAGALAND,Phek,Female,In Hearing,5
+13,6,Urban,20-29,NAGALAND,Phek,Female,In Hearing,0
+13,6,Urban,30-39,NAGALAND,Phek,Female,In Hearing,2
+13,6,Urban,40-49,NAGALAND,Phek,Female,In Hearing,2
+13,6,Urban,50-59,NAGALAND,Phek,Female,In Hearing,1
+13,6,Urban,60-69,NAGALAND,Phek,Female,In Hearing,3
+13,6,Urban,70-79,NAGALAND,Phek,Female,In Hearing,0
+13,6,Urban,80-89,NAGALAND,Phek,Female,In Hearing,1
+13,6,Urban,90+,NAGALAND,Phek,Female,In Hearing,0
+13,6,Urban,Age Not Stated,NAGALAND,Phek,Female,In Hearing,0
+13,7,Rural,0-4,NAGALAND,Tuensang,Female,In Hearing,14
+13,7,Rural,5-9,NAGALAND,Tuensang,Female,In Hearing,11
+13,7,Rural,10-19,NAGALAND,Tuensang,Female,In Hearing,47
+13,7,Rural,20-29,NAGALAND,Tuensang,Female,In Hearing,44
+13,7,Rural,30-39,NAGALAND,Tuensang,Female,In Hearing,51
+13,7,Rural,40-49,NAGALAND,Tuensang,Female,In Hearing,55
+13,7,Rural,50-59,NAGALAND,Tuensang,Female,In Hearing,58
+13,7,Rural,60-69,NAGALAND,Tuensang,Female,In Hearing,59
+13,7,Rural,70-79,NAGALAND,Tuensang,Female,In Hearing,38
+13,7,Rural,80-89,NAGALAND,Tuensang,Female,In Hearing,25
+13,7,Rural,90+,NAGALAND,Tuensang,Female,In Hearing,7
+13,7,Rural,Age Not Stated,NAGALAND,Tuensang,Female,In Hearing,0
+13,7,Urban,0-4,NAGALAND,Tuensang,Female,In Hearing,26
+13,7,Urban,5-9,NAGALAND,Tuensang,Female,In Hearing,18
+13,7,Urban,10-19,NAGALAND,Tuensang,Female,In Hearing,11
+13,7,Urban,20-29,NAGALAND,Tuensang,Female,In Hearing,46
+13,7,Urban,30-39,NAGALAND,Tuensang,Female,In Hearing,34
+13,7,Urban,40-49,NAGALAND,Tuensang,Female,In Hearing,10
+13,7,Urban,50-59,NAGALAND,Tuensang,Female,In Hearing,9
+13,7,Urban,60-69,NAGALAND,Tuensang,Female,In Hearing,2
+13,7,Urban,70-79,NAGALAND,Tuensang,Female,In Hearing,3
+13,7,Urban,80-89,NAGALAND,Tuensang,Female,In Hearing,2
+13,7,Urban,90+,NAGALAND,Tuensang,Female,In Hearing,0
+13,7,Urban,Age Not Stated,NAGALAND,Tuensang,Female,In Hearing,0
+13,8,Rural,0-4,NAGALAND,Longleng,Female,In Hearing,2
+13,8,Rural,5-9,NAGALAND,Longleng,Female,In Hearing,11
+13,8,Rural,10-19,NAGALAND,Longleng,Female,In Hearing,14
+13,8,Rural,20-29,NAGALAND,Longleng,Female,In Hearing,14
+13,8,Rural,30-39,NAGALAND,Longleng,Female,In Hearing,19
+13,8,Rural,40-49,NAGALAND,Longleng,Female,In Hearing,21
+13,8,Rural,50-59,NAGALAND,Longleng,Female,In Hearing,17
+13,8,Rural,60-69,NAGALAND,Longleng,Female,In Hearing,19
+13,8,Rural,70-79,NAGALAND,Longleng,Female,In Hearing,15
+13,8,Rural,80-89,NAGALAND,Longleng,Female,In Hearing,7
+13,8,Rural,90+,NAGALAND,Longleng,Female,In Hearing,1
+13,8,Rural,Age Not Stated,NAGALAND,Longleng,Female,In Hearing,0
+13,8,Urban,0-4,NAGALAND,Longleng,Female,In Hearing,1
+13,8,Urban,5-9,NAGALAND,Longleng,Female,In Hearing,1
+13,8,Urban,10-19,NAGALAND,Longleng,Female,In Hearing,2
+13,8,Urban,20-29,NAGALAND,Longleng,Female,In Hearing,0
+13,8,Urban,30-39,NAGALAND,Longleng,Female,In Hearing,1
+13,8,Urban,40-49,NAGALAND,Longleng,Female,In Hearing,2
+13,8,Urban,50-59,NAGALAND,Longleng,Female,In Hearing,6
+13,8,Urban,60-69,NAGALAND,Longleng,Female,In Hearing,3
+13,8,Urban,70-79,NAGALAND,Longleng,Female,In Hearing,2
+13,8,Urban,80-89,NAGALAND,Longleng,Female,In Hearing,1
+13,8,Urban,90+,NAGALAND,Longleng,Female,In Hearing,0
+13,8,Urban,Age Not Stated,NAGALAND,Longleng,Female,In Hearing,0
+13,9,Rural,0-4,NAGALAND,Kiphire,Female,In Hearing,1
+13,9,Rural,5-9,NAGALAND,Kiphire,Female,In Hearing,5
+13,9,Rural,10-19,NAGALAND,Kiphire,Female,In Hearing,10
+13,9,Rural,20-29,NAGALAND,Kiphire,Female,In Hearing,12
+13,9,Rural,30-39,NAGALAND,Kiphire,Female,In Hearing,3
+13,9,Rural,40-49,NAGALAND,Kiphire,Female,In Hearing,16
+13,9,Rural,50-59,NAGALAND,Kiphire,Female,In Hearing,17
+13,9,Rural,60-69,NAGALAND,Kiphire,Female,In Hearing,11
+13,9,Rural,70-79,NAGALAND,Kiphire,Female,In Hearing,8
+13,9,Rural,80-89,NAGALAND,Kiphire,Female,In Hearing,4
+13,9,Rural,90+,NAGALAND,Kiphire,Female,In Hearing,2
+13,9,Rural,Age Not Stated,NAGALAND,Kiphire,Female,In Hearing,0
+13,9,Urban,0-4,NAGALAND,Kiphire,Female,In Hearing,2
+13,9,Urban,5-9,NAGALAND,Kiphire,Female,In Hearing,0
+13,9,Urban,10-19,NAGALAND,Kiphire,Female,In Hearing,2
+13,9,Urban,20-29,NAGALAND,Kiphire,Female,In Hearing,2
+13,9,Urban,30-39,NAGALAND,Kiphire,Female,In Hearing,1
+13,9,Urban,40-49,NAGALAND,Kiphire,Female,In Hearing,0
+13,9,Urban,50-59,NAGALAND,Kiphire,Female,In Hearing,2
+13,9,Urban,60-69,NAGALAND,Kiphire,Female,In Hearing,3
+13,9,Urban,70-79,NAGALAND,Kiphire,Female,In Hearing,1
+13,9,Urban,80-89,NAGALAND,Kiphire,Female,In Hearing,0
+13,9,Urban,90+,NAGALAND,Kiphire,Female,In Hearing,0
+13,9,Urban,Age Not Stated,NAGALAND,Kiphire,Female,In Hearing,0
+13,10,Rural,0-4,NAGALAND,Kohima,Female,In Hearing,6
+13,10,Rural,5-9,NAGALAND,Kohima,Female,In Hearing,13
+13,10,Rural,10-19,NAGALAND,Kohima,Female,In Hearing,30
+13,10,Rural,20-29,NAGALAND,Kohima,Female,In Hearing,22
+13,10,Rural,30-39,NAGALAND,Kohima,Female,In Hearing,23
+13,10,Rural,40-49,NAGALAND,Kohima,Female,In Hearing,27
+13,10,Rural,50-59,NAGALAND,Kohima,Female,In Hearing,19
+13,10,Rural,60-69,NAGALAND,Kohima,Female,In Hearing,12
+13,10,Rural,70-79,NAGALAND,Kohima,Female,In Hearing,23
+13,10,Rural,80-89,NAGALAND,Kohima,Female,In Hearing,21
+13,10,Rural,90+,NAGALAND,Kohima,Female,In Hearing,8
+13,10,Rural,Age Not Stated,NAGALAND,Kohima,Female,In Hearing,0
+13,10,Urban,0-4,NAGALAND,Kohima,Female,In Hearing,2
+13,10,Urban,5-9,NAGALAND,Kohima,Female,In Hearing,3
+13,10,Urban,10-19,NAGALAND,Kohima,Female,In Hearing,15
+13,10,Urban,20-29,NAGALAND,Kohima,Female,In Hearing,7
+13,10,Urban,30-39,NAGALAND,Kohima,Female,In Hearing,5
+13,10,Urban,40-49,NAGALAND,Kohima,Female,In Hearing,8
+13,10,Urban,50-59,NAGALAND,Kohima,Female,In Hearing,4
+13,10,Urban,60-69,NAGALAND,Kohima,Female,In Hearing,8
+13,10,Urban,70-79,NAGALAND,Kohima,Female,In Hearing,5
+13,10,Urban,80-89,NAGALAND,Kohima,Female,In Hearing,6
+13,10,Urban,90+,NAGALAND,Kohima,Female,In Hearing,4
+13,10,Urban,Age Not Stated,NAGALAND,Kohima,Female,In Hearing,0
+13,11,Rural,0-4,NAGALAND,Peren,Female,In Hearing,13
+13,11,Rural,5-9,NAGALAND,Peren,Female,In Hearing,8
+13,11,Rural,10-19,NAGALAND,Peren,Female,In Hearing,33
+13,11,Rural,20-29,NAGALAND,Peren,Female,In Hearing,23
+13,11,Rural,30-39,NAGALAND,Peren,Female,In Hearing,21
+13,11,Rural,40-49,NAGALAND,Peren,Female,In Hearing,15
+13,11,Rural,50-59,NAGALAND,Peren,Female,In Hearing,17
+13,11,Rural,60-69,NAGALAND,Peren,Female,In Hearing,14
+13,11,Rural,70-79,NAGALAND,Peren,Female,In Hearing,6
+13,11,Rural,80-89,NAGALAND,Peren,Female,In Hearing,6
+13,11,Rural,90+,NAGALAND,Peren,Female,In Hearing,4
+13,11,Rural,Age Not Stated,NAGALAND,Peren,Female,In Hearing,0
+13,11,Urban,0-4,NAGALAND,Peren,Female,In Hearing,0
+13,11,Urban,5-9,NAGALAND,Peren,Female,In Hearing,0
+13,11,Urban,10-19,NAGALAND,Peren,Female,In Hearing,2
+13,11,Urban,20-29,NAGALAND,Peren,Female,In Hearing,1
+13,11,Urban,30-39,NAGALAND,Peren,Female,In Hearing,1
+13,11,Urban,40-49,NAGALAND,Peren,Female,In Hearing,1
+13,11,Urban,50-59,NAGALAND,Peren,Female,In Hearing,0
+13,11,Urban,60-69,NAGALAND,Peren,Female,In Hearing,2
+13,11,Urban,70-79,NAGALAND,Peren,Female,In Hearing,0
+13,11,Urban,80-89,NAGALAND,Peren,Female,In Hearing,3
+13,11,Urban,90+,NAGALAND,Peren,Female,In Hearing,0
+13,11,Urban,Age Not Stated,NAGALAND,Peren,Female,In Hearing,0
+13,1,Rural,0-4,NAGALAND,Mon,Male,In Movement,7
+13,1,Rural,5-9,NAGALAND,Mon,Male,In Movement,14
+13,1,Rural,10-19,NAGALAND,Mon,Male,In Movement,32
+13,1,Rural,20-29,NAGALAND,Mon,Male,In Movement,31
+13,1,Rural,30-39,NAGALAND,Mon,Male,In Movement,31
+13,1,Rural,40-49,NAGALAND,Mon,Male,In Movement,33
+13,1,Rural,50-59,NAGALAND,Mon,Male,In Movement,27
+13,1,Rural,60-69,NAGALAND,Mon,Male,In Movement,32
+13,1,Rural,70-79,NAGALAND,Mon,Male,In Movement,24
+13,1,Rural,80-89,NAGALAND,Mon,Male,In Movement,10
+13,1,Rural,90+,NAGALAND,Mon,Male,In Movement,8
+13,1,Rural,Age Not Stated,NAGALAND,Mon,Male,In Movement,0
+13,1,Urban,0-4,NAGALAND,Mon,Male,In Movement,3
+13,1,Urban,5-9,NAGALAND,Mon,Male,In Movement,2
+13,1,Urban,10-19,NAGALAND,Mon,Male,In Movement,4
+13,1,Urban,20-29,NAGALAND,Mon,Male,In Movement,6
+13,1,Urban,30-39,NAGALAND,Mon,Male,In Movement,7
+13,1,Urban,40-49,NAGALAND,Mon,Male,In Movement,7
+13,1,Urban,50-59,NAGALAND,Mon,Male,In Movement,11
+13,1,Urban,60-69,NAGALAND,Mon,Male,In Movement,3
+13,1,Urban,70-79,NAGALAND,Mon,Male,In Movement,0
+13,1,Urban,80-89,NAGALAND,Mon,Male,In Movement,1
+13,1,Urban,90+,NAGALAND,Mon,Male,In Movement,0
+13,1,Urban,Age Not Stated,NAGALAND,Mon,Male,In Movement,0
+13,2,Rural,0-4,NAGALAND,Mokokchung,Male,In Movement,1
+13,2,Rural,5-9,NAGALAND,Mokokchung,Male,In Movement,4
+13,2,Rural,10-19,NAGALAND,Mokokchung,Male,In Movement,9
+13,2,Rural,20-29,NAGALAND,Mokokchung,Male,In Movement,21
+13,2,Rural,30-39,NAGALAND,Mokokchung,Male,In Movement,18
+13,2,Rural,40-49,NAGALAND,Mokokchung,Male,In Movement,29
+13,2,Rural,50-59,NAGALAND,Mokokchung,Male,In Movement,17
+13,2,Rural,60-69,NAGALAND,Mokokchung,Male,In Movement,27
+13,2,Rural,70-79,NAGALAND,Mokokchung,Male,In Movement,31
+13,2,Rural,80-89,NAGALAND,Mokokchung,Male,In Movement,21
+13,2,Rural,90+,NAGALAND,Mokokchung,Male,In Movement,8
+13,2,Rural,Age Not Stated,NAGALAND,Mokokchung,Male,In Movement,2
+13,2,Urban,0-4,NAGALAND,Mokokchung,Male,In Movement,3
+13,2,Urban,5-9,NAGALAND,Mokokchung,Male,In Movement,3
+13,2,Urban,10-19,NAGALAND,Mokokchung,Male,In Movement,7
+13,2,Urban,20-29,NAGALAND,Mokokchung,Male,In Movement,9
+13,2,Urban,30-39,NAGALAND,Mokokchung,Male,In Movement,9
+13,2,Urban,40-49,NAGALAND,Mokokchung,Male,In Movement,13
+13,2,Urban,50-59,NAGALAND,Mokokchung,Male,In Movement,10
+13,2,Urban,60-69,NAGALAND,Mokokchung,Male,In Movement,10
+13,2,Urban,70-79,NAGALAND,Mokokchung,Male,In Movement,6
+13,2,Urban,80-89,NAGALAND,Mokokchung,Male,In Movement,2
+13,2,Urban,90+,NAGALAND,Mokokchung,Male,In Movement,0
+13,2,Urban,Age Not Stated,NAGALAND,Mokokchung,Male,In Movement,0
+13,3,Rural,0-4,NAGALAND,Zunheboto,Male,In Movement,1
+13,3,Rural,5-9,NAGALAND,Zunheboto,Male,In Movement,4
+13,3,Rural,10-19,NAGALAND,Zunheboto,Male,In Movement,16
+13,3,Rural,20-29,NAGALAND,Zunheboto,Male,In Movement,27
+13,3,Rural,30-39,NAGALAND,Zunheboto,Male,In Movement,13
+13,3,Rural,40-49,NAGALAND,Zunheboto,Male,In Movement,14
+13,3,Rural,50-59,NAGALAND,Zunheboto,Male,In Movement,13
+13,3,Rural,60-69,NAGALAND,Zunheboto,Male,In Movement,13
+13,3,Rural,70-79,NAGALAND,Zunheboto,Male,In Movement,14
+13,3,Rural,80-89,NAGALAND,Zunheboto,Male,In Movement,9
+13,3,Rural,90+,NAGALAND,Zunheboto,Male,In Movement,2
+13,3,Rural,Age Not Stated,NAGALAND,Zunheboto,Male,In Movement,0
+13,3,Urban,0-4,NAGALAND,Zunheboto,Male,In Movement,1
+13,3,Urban,5-9,NAGALAND,Zunheboto,Male,In Movement,1
+13,3,Urban,10-19,NAGALAND,Zunheboto,Male,In Movement,3
+13,3,Urban,20-29,NAGALAND,Zunheboto,Male,In Movement,4
+13,3,Urban,30-39,NAGALAND,Zunheboto,Male,In Movement,3
+13,3,Urban,40-49,NAGALAND,Zunheboto,Male,In Movement,7
+13,3,Urban,50-59,NAGALAND,Zunheboto,Male,In Movement,1
+13,3,Urban,60-69,NAGALAND,Zunheboto,Male,In Movement,2
+13,3,Urban,70-79,NAGALAND,Zunheboto,Male,In Movement,0
+13,3,Urban,80-89,NAGALAND,Zunheboto,Male,In Movement,0
+13,3,Urban,90+,NAGALAND,Zunheboto,Male,In Movement,0
+13,3,Urban,Age Not Stated,NAGALAND,Zunheboto,Male,In Movement,0
+13,4,Rural,0-4,NAGALAND,Wokha,Male,In Movement,1
+13,4,Rural,5-9,NAGALAND,Wokha,Male,In Movement,6
+13,4,Rural,10-19,NAGALAND,Wokha,Male,In Movement,40
+13,4,Rural,20-29,NAGALAND,Wokha,Male,In Movement,31
+13,4,Rural,30-39,NAGALAND,Wokha,Male,In Movement,20
+13,4,Rural,40-49,NAGALAND,Wokha,Male,In Movement,24
+13,4,Rural,50-59,NAGALAND,Wokha,Male,In Movement,15
+13,4,Rural,60-69,NAGALAND,Wokha,Male,In Movement,11
+13,4,Rural,70-79,NAGALAND,Wokha,Male,In Movement,14
+13,4,Rural,80-89,NAGALAND,Wokha,Male,In Movement,8
+13,4,Rural,90+,NAGALAND,Wokha,Male,In Movement,2
+13,4,Rural,Age Not Stated,NAGALAND,Wokha,Male,In Movement,1
+13,4,Urban,0-4,NAGALAND,Wokha,Male,In Movement,1
+13,4,Urban,5-9,NAGALAND,Wokha,Male,In Movement,0
+13,4,Urban,10-19,NAGALAND,Wokha,Male,In Movement,3
+13,4,Urban,20-29,NAGALAND,Wokha,Male,In Movement,5
+13,4,Urban,30-39,NAGALAND,Wokha,Male,In Movement,3
+13,4,Urban,40-49,NAGALAND,Wokha,Male,In Movement,1
+13,4,Urban,50-59,NAGALAND,Wokha,Male,In Movement,5
+13,4,Urban,60-69,NAGALAND,Wokha,Male,In Movement,3
+13,4,Urban,70-79,NAGALAND,Wokha,Male,In Movement,0
+13,4,Urban,80-89,NAGALAND,Wokha,Male,In Movement,0
+13,4,Urban,90+,NAGALAND,Wokha,Male,In Movement,0
+13,4,Urban,Age Not Stated,NAGALAND,Wokha,Male,In Movement,0
+13,5,Rural,0-4,NAGALAND,Dimapur ,Male,In Movement,6
+13,5,Rural,5-9,NAGALAND,Dimapur ,Male,In Movement,16
+13,5,Rural,10-19,NAGALAND,Dimapur ,Male,In Movement,33
+13,5,Rural,20-29,NAGALAND,Dimapur ,Male,In Movement,39
+13,5,Rural,30-39,NAGALAND,Dimapur ,Male,In Movement,24
+13,5,Rural,40-49,NAGALAND,Dimapur ,Male,In Movement,30
+13,5,Rural,50-59,NAGALAND,Dimapur ,Male,In Movement,23
+13,5,Rural,60-69,NAGALAND,Dimapur ,Male,In Movement,18
+13,5,Rural,70-79,NAGALAND,Dimapur ,Male,In Movement,14
+13,5,Rural,80-89,NAGALAND,Dimapur ,Male,In Movement,7
+13,5,Rural,90+,NAGALAND,Dimapur ,Male,In Movement,1
+13,5,Rural,Age Not Stated,NAGALAND,Dimapur ,Male,In Movement,0
+13,5,Urban,0-4,NAGALAND,Dimapur ,Male,In Movement,4
+13,5,Urban,5-9,NAGALAND,Dimapur ,Male,In Movement,7
+13,5,Urban,10-19,NAGALAND,Dimapur ,Male,In Movement,18
+13,5,Urban,20-29,NAGALAND,Dimapur ,Male,In Movement,38
+13,5,Urban,30-39,NAGALAND,Dimapur ,Male,In Movement,39
+13,5,Urban,40-49,NAGALAND,Dimapur ,Male,In Movement,20
+13,5,Urban,50-59,NAGALAND,Dimapur ,Male,In Movement,20
+13,5,Urban,60-69,NAGALAND,Dimapur ,Male,In Movement,29
+13,5,Urban,70-79,NAGALAND,Dimapur ,Male,In Movement,6
+13,5,Urban,80-89,NAGALAND,Dimapur ,Male,In Movement,5
+13,5,Urban,90+,NAGALAND,Dimapur ,Male,In Movement,1
+13,5,Urban,Age Not Stated,NAGALAND,Dimapur ,Male,In Movement,0
+13,6,Rural,0-4,NAGALAND,Phek,Male,In Movement,3
+13,6,Rural,5-9,NAGALAND,Phek,Male,In Movement,7
+13,6,Rural,10-19,NAGALAND,Phek,Male,In Movement,29
+13,6,Rural,20-29,NAGALAND,Phek,Male,In Movement,24
+13,6,Rural,30-39,NAGALAND,Phek,Male,In Movement,29
+13,6,Rural,40-49,NAGALAND,Phek,Male,In Movement,17
+13,6,Rural,50-59,NAGALAND,Phek,Male,In Movement,23
+13,6,Rural,60-69,NAGALAND,Phek,Male,In Movement,23
+13,6,Rural,70-79,NAGALAND,Phek,Male,In Movement,31
+13,6,Rural,80-89,NAGALAND,Phek,Male,In Movement,8
+13,6,Rural,90+,NAGALAND,Phek,Male,In Movement,2
+13,6,Rural,Age Not Stated,NAGALAND,Phek,Male,In Movement,0
+13,6,Urban,0-4,NAGALAND,Phek,Male,In Movement,0
+13,6,Urban,5-9,NAGALAND,Phek,Male,In Movement,2
+13,6,Urban,10-19,NAGALAND,Phek,Male,In Movement,4
+13,6,Urban,20-29,NAGALAND,Phek,Male,In Movement,3
+13,6,Urban,30-39,NAGALAND,Phek,Male,In Movement,4
+13,6,Urban,40-49,NAGALAND,Phek,Male,In Movement,0
+13,6,Urban,50-59,NAGALAND,Phek,Male,In Movement,3
+13,6,Urban,60-69,NAGALAND,Phek,Male,In Movement,0
+13,6,Urban,70-79,NAGALAND,Phek,Male,In Movement,1
+13,6,Urban,80-89,NAGALAND,Phek,Male,In Movement,0
+13,6,Urban,90+,NAGALAND,Phek,Male,In Movement,1
+13,6,Urban,Age Not Stated,NAGALAND,Phek,Male,In Movement,0
+13,7,Rural,0-4,NAGALAND,Tuensang,Male,In Movement,6
+13,7,Rural,5-9,NAGALAND,Tuensang,Male,In Movement,14
+13,7,Rural,10-19,NAGALAND,Tuensang,Male,In Movement,47
+13,7,Rural,20-29,NAGALAND,Tuensang,Male,In Movement,35
+13,7,Rural,30-39,NAGALAND,Tuensang,Male,In Movement,19
+13,7,Rural,40-49,NAGALAND,Tuensang,Male,In Movement,28
+13,7,Rural,50-59,NAGALAND,Tuensang,Male,In Movement,22
+13,7,Rural,60-69,NAGALAND,Tuensang,Male,In Movement,20
+13,7,Rural,70-79,NAGALAND,Tuensang,Male,In Movement,13
+13,7,Rural,80-89,NAGALAND,Tuensang,Male,In Movement,7
+13,7,Rural,90+,NAGALAND,Tuensang,Male,In Movement,6
+13,7,Rural,Age Not Stated,NAGALAND,Tuensang,Male,In Movement,0
+13,7,Urban,0-4,NAGALAND,Tuensang,Male,In Movement,3
+13,7,Urban,5-9,NAGALAND,Tuensang,Male,In Movement,2
+13,7,Urban,10-19,NAGALAND,Tuensang,Male,In Movement,7
+13,7,Urban,20-29,NAGALAND,Tuensang,Male,In Movement,7
+13,7,Urban,30-39,NAGALAND,Tuensang,Male,In Movement,6
+13,7,Urban,40-49,NAGALAND,Tuensang,Male,In Movement,4
+13,7,Urban,50-59,NAGALAND,Tuensang,Male,In Movement,3
+13,7,Urban,60-69,NAGALAND,Tuensang,Male,In Movement,1
+13,7,Urban,70-79,NAGALAND,Tuensang,Male,In Movement,0
+13,7,Urban,80-89,NAGALAND,Tuensang,Male,In Movement,0
+13,7,Urban,90+,NAGALAND,Tuensang,Male,In Movement,1
+13,7,Urban,Age Not Stated,NAGALAND,Tuensang,Male,In Movement,0
+13,8,Rural,0-4,NAGALAND,Longleng,Male,In Movement,3
+13,8,Rural,5-9,NAGALAND,Longleng,Male,In Movement,4
+13,8,Rural,10-19,NAGALAND,Longleng,Male,In Movement,10
+13,8,Rural,20-29,NAGALAND,Longleng,Male,In Movement,12
+13,8,Rural,30-39,NAGALAND,Longleng,Male,In Movement,3
+13,8,Rural,40-49,NAGALAND,Longleng,Male,In Movement,4
+13,8,Rural,50-59,NAGALAND,Longleng,Male,In Movement,7
+13,8,Rural,60-69,NAGALAND,Longleng,Male,In Movement,4
+13,8,Rural,70-79,NAGALAND,Longleng,Male,In Movement,3
+13,8,Rural,80-89,NAGALAND,Longleng,Male,In Movement,1
+13,8,Rural,90+,NAGALAND,Longleng,Male,In Movement,2
+13,8,Rural,Age Not Stated,NAGALAND,Longleng,Male,In Movement,0
+13,8,Urban,0-4,NAGALAND,Longleng,Male,In Movement,1
+13,8,Urban,5-9,NAGALAND,Longleng,Male,In Movement,0
+13,8,Urban,10-19,NAGALAND,Longleng,Male,In Movement,4
+13,8,Urban,20-29,NAGALAND,Longleng,Male,In Movement,4
+13,8,Urban,30-39,NAGALAND,Longleng,Male,In Movement,1
+13,8,Urban,40-49,NAGALAND,Longleng,Male,In Movement,0
+13,8,Urban,50-59,NAGALAND,Longleng,Male,In Movement,1
+13,8,Urban,60-69,NAGALAND,Longleng,Male,In Movement,1
+13,8,Urban,70-79,NAGALAND,Longleng,Male,In Movement,2
+13,8,Urban,80-89,NAGALAND,Longleng,Male,In Movement,0
+13,8,Urban,90+,NAGALAND,Longleng,Male,In Movement,0
+13,8,Urban,Age Not Stated,NAGALAND,Longleng,Male,In Movement,0
+13,9,Rural,0-4,NAGALAND,Kiphire,Male,In Movement,3
+13,9,Rural,5-9,NAGALAND,Kiphire,Male,In Movement,10
+13,9,Rural,10-19,NAGALAND,Kiphire,Male,In Movement,14
+13,9,Rural,20-29,NAGALAND,Kiphire,Male,In Movement,9
+13,9,Rural,30-39,NAGALAND,Kiphire,Male,In Movement,6
+13,9,Rural,40-49,NAGALAND,Kiphire,Male,In Movement,10
+13,9,Rural,50-59,NAGALAND,Kiphire,Male,In Movement,9
+13,9,Rural,60-69,NAGALAND,Kiphire,Male,In Movement,5
+13,9,Rural,70-79,NAGALAND,Kiphire,Male,In Movement,3
+13,9,Rural,80-89,NAGALAND,Kiphire,Male,In Movement,1
+13,9,Rural,90+,NAGALAND,Kiphire,Male,In Movement,2
+13,9,Rural,Age Not Stated,NAGALAND,Kiphire,Male,In Movement,0
+13,9,Urban,0-4,NAGALAND,Kiphire,Male,In Movement,0
+13,9,Urban,5-9,NAGALAND,Kiphire,Male,In Movement,0
+13,9,Urban,10-19,NAGALAND,Kiphire,Male,In Movement,0
+13,9,Urban,20-29,NAGALAND,Kiphire,Male,In Movement,3
+13,9,Urban,30-39,NAGALAND,Kiphire,Male,In Movement,1
+13,9,Urban,40-49,NAGALAND,Kiphire,Male,In Movement,2
+13,9,Urban,50-59,NAGALAND,Kiphire,Male,In Movement,2
+13,9,Urban,60-69,NAGALAND,Kiphire,Male,In Movement,0
+13,9,Urban,70-79,NAGALAND,Kiphire,Male,In Movement,0
+13,9,Urban,80-89,NAGALAND,Kiphire,Male,In Movement,0
+13,9,Urban,90+,NAGALAND,Kiphire,Male,In Movement,0
+13,9,Urban,Age Not Stated,NAGALAND,Kiphire,Male,In Movement,0
+13,10,Rural,0-4,NAGALAND,Kohima,Male,In Movement,4
+13,10,Rural,5-9,NAGALAND,Kohima,Male,In Movement,3
+13,10,Rural,10-19,NAGALAND,Kohima,Male,In Movement,26
+13,10,Rural,20-29,NAGALAND,Kohima,Male,In Movement,15
+13,10,Rural,30-39,NAGALAND,Kohima,Male,In Movement,28
+13,10,Rural,40-49,NAGALAND,Kohima,Male,In Movement,13
+13,10,Rural,50-59,NAGALAND,Kohima,Male,In Movement,15
+13,10,Rural,60-69,NAGALAND,Kohima,Male,In Movement,15
+13,10,Rural,70-79,NAGALAND,Kohima,Male,In Movement,7
+13,10,Rural,80-89,NAGALAND,Kohima,Male,In Movement,2
+13,10,Rural,90+,NAGALAND,Kohima,Male,In Movement,1
+13,10,Rural,Age Not Stated,NAGALAND,Kohima,Male,In Movement,0
+13,10,Urban,0-4,NAGALAND,Kohima,Male,In Movement,1
+13,10,Urban,5-9,NAGALAND,Kohima,Male,In Movement,12
+13,10,Urban,10-19,NAGALAND,Kohima,Male,In Movement,22
+13,10,Urban,20-29,NAGALAND,Kohima,Male,In Movement,19
+13,10,Urban,30-39,NAGALAND,Kohima,Male,In Movement,23
+13,10,Urban,40-49,NAGALAND,Kohima,Male,In Movement,11
+13,10,Urban,50-59,NAGALAND,Kohima,Male,In Movement,14
+13,10,Urban,60-69,NAGALAND,Kohima,Male,In Movement,10
+13,10,Urban,70-79,NAGALAND,Kohima,Male,In Movement,3
+13,10,Urban,80-89,NAGALAND,Kohima,Male,In Movement,3
+13,10,Urban,90+,NAGALAND,Kohima,Male,In Movement,0
+13,10,Urban,Age Not Stated,NAGALAND,Kohima,Male,In Movement,0
+13,11,Rural,0-4,NAGALAND,Peren,Male,In Movement,2
+13,11,Rural,5-9,NAGALAND,Peren,Male,In Movement,9
+13,11,Rural,10-19,NAGALAND,Peren,Male,In Movement,12
+13,11,Rural,20-29,NAGALAND,Peren,Male,In Movement,9
+13,11,Rural,30-39,NAGALAND,Peren,Male,In Movement,12
+13,11,Rural,40-49,NAGALAND,Peren,Male,In Movement,8
+13,11,Rural,50-59,NAGALAND,Peren,Male,In Movement,5
+13,11,Rural,60-69,NAGALAND,Peren,Male,In Movement,8
+13,11,Rural,70-79,NAGALAND,Peren,Male,In Movement,5
+13,11,Rural,80-89,NAGALAND,Peren,Male,In Movement,3
+13,11,Rural,90+,NAGALAND,Peren,Male,In Movement,2
+13,11,Rural,Age Not Stated,NAGALAND,Peren,Male,In Movement,0
+13,11,Urban,0-4,NAGALAND,Peren,Male,In Movement,0
+13,11,Urban,5-9,NAGALAND,Peren,Male,In Movement,1
+13,11,Urban,10-19,NAGALAND,Peren,Male,In Movement,2
+13,11,Urban,20-29,NAGALAND,Peren,Male,In Movement,0
+13,11,Urban,30-39,NAGALAND,Peren,Male,In Movement,1
+13,11,Urban,40-49,NAGALAND,Peren,Male,In Movement,1
+13,11,Urban,50-59,NAGALAND,Peren,Male,In Movement,1
+13,11,Urban,60-69,NAGALAND,Peren,Male,In Movement,1
+13,11,Urban,70-79,NAGALAND,Peren,Male,In Movement,1
+13,11,Urban,80-89,NAGALAND,Peren,Male,In Movement,0
+13,11,Urban,90+,NAGALAND,Peren,Male,In Movement,0
+13,11,Urban,Age Not Stated,NAGALAND,Peren,Male,In Movement,0
+13,1,Rural,0-4,NAGALAND,Mon,Female,In Movement,7
+13,1,Rural,5-9,NAGALAND,Mon,Female,In Movement,7
+13,1,Rural,10-19,NAGALAND,Mon,Female,In Movement,24
+13,1,Rural,20-29,NAGALAND,Mon,Female,In Movement,21
+13,1,Rural,30-39,NAGALAND,Mon,Female,In Movement,23
+13,1,Rural,40-49,NAGALAND,Mon,Female,In Movement,21
+13,1,Rural,50-59,NAGALAND,Mon,Female,In Movement,15
+13,1,Rural,60-69,NAGALAND,Mon,Female,In Movement,15
+13,1,Rural,70-79,NAGALAND,Mon,Female,In Movement,21
+13,1,Rural,80-89,NAGALAND,Mon,Female,In Movement,9
+13,1,Rural,90+,NAGALAND,Mon,Female,In Movement,4
+13,1,Rural,Age Not Stated,NAGALAND,Mon,Female,In Movement,1
+13,1,Urban,0-4,NAGALAND,Mon,Female,In Movement,0
+13,1,Urban,5-9,NAGALAND,Mon,Female,In Movement,1
+13,1,Urban,10-19,NAGALAND,Mon,Female,In Movement,4
+13,1,Urban,20-29,NAGALAND,Mon,Female,In Movement,2
+13,1,Urban,30-39,NAGALAND,Mon,Female,In Movement,1
+13,1,Urban,40-49,NAGALAND,Mon,Female,In Movement,5
+13,1,Urban,50-59,NAGALAND,Mon,Female,In Movement,1
+13,1,Urban,60-69,NAGALAND,Mon,Female,In Movement,1
+13,1,Urban,70-79,NAGALAND,Mon,Female,In Movement,1
+13,1,Urban,80-89,NAGALAND,Mon,Female,In Movement,0
+13,1,Urban,90+,NAGALAND,Mon,Female,In Movement,0
+13,1,Urban,Age Not Stated,NAGALAND,Mon,Female,In Movement,0
+13,2,Rural,0-4,NAGALAND,Mokokchung,Female,In Movement,1
+13,2,Rural,5-9,NAGALAND,Mokokchung,Female,In Movement,5
+13,2,Rural,10-19,NAGALAND,Mokokchung,Female,In Movement,6
+13,2,Rural,20-29,NAGALAND,Mokokchung,Female,In Movement,16
+13,2,Rural,30-39,NAGALAND,Mokokchung,Female,In Movement,7
+13,2,Rural,40-49,NAGALAND,Mokokchung,Female,In Movement,12
+13,2,Rural,50-59,NAGALAND,Mokokchung,Female,In Movement,16
+13,2,Rural,60-69,NAGALAND,Mokokchung,Female,In Movement,15
+13,2,Rural,70-79,NAGALAND,Mokokchung,Female,In Movement,37
+13,2,Rural,80-89,NAGALAND,Mokokchung,Female,In Movement,17
+13,2,Rural,90+,NAGALAND,Mokokchung,Female,In Movement,9
+13,2,Rural,Age Not Stated,NAGALAND,Mokokchung,Female,In Movement,1
+13,2,Urban,0-4,NAGALAND,Mokokchung,Female,In Movement,1
+13,2,Urban,5-9,NAGALAND,Mokokchung,Female,In Movement,1
+13,2,Urban,10-19,NAGALAND,Mokokchung,Female,In Movement,6
+13,2,Urban,20-29,NAGALAND,Mokokchung,Female,In Movement,5
+13,2,Urban,30-39,NAGALAND,Mokokchung,Female,In Movement,5
+13,2,Urban,40-49,NAGALAND,Mokokchung,Female,In Movement,1
+13,2,Urban,50-59,NAGALAND,Mokokchung,Female,In Movement,4
+13,2,Urban,60-69,NAGALAND,Mokokchung,Female,In Movement,6
+13,2,Urban,70-79,NAGALAND,Mokokchung,Female,In Movement,8
+13,2,Urban,80-89,NAGALAND,Mokokchung,Female,In Movement,3
+13,2,Urban,90+,NAGALAND,Mokokchung,Female,In Movement,1
+13,2,Urban,Age Not Stated,NAGALAND,Mokokchung,Female,In Movement,0
+13,3,Rural,0-4,NAGALAND,Zunheboto,Female,In Movement,0
+13,3,Rural,5-9,NAGALAND,Zunheboto,Female,In Movement,4
+13,3,Rural,10-19,NAGALAND,Zunheboto,Female,In Movement,19
+13,3,Rural,20-29,NAGALAND,Zunheboto,Female,In Movement,27
+13,3,Rural,30-39,NAGALAND,Zunheboto,Female,In Movement,20
+13,3,Rural,40-49,NAGALAND,Zunheboto,Female,In Movement,14
+13,3,Rural,50-59,NAGALAND,Zunheboto,Female,In Movement,13
+13,3,Rural,60-69,NAGALAND,Zunheboto,Female,In Movement,23
+13,3,Rural,70-79,NAGALAND,Zunheboto,Female,In Movement,19
+13,3,Rural,80-89,NAGALAND,Zunheboto,Female,In Movement,13
+13,3,Rural,90+,NAGALAND,Zunheboto,Female,In Movement,1
+13,3,Rural,Age Not Stated,NAGALAND,Zunheboto,Female,In Movement,0
+13,3,Urban,0-4,NAGALAND,Zunheboto,Female,In Movement,0
+13,3,Urban,5-9,NAGALAND,Zunheboto,Female,In Movement,0
+13,3,Urban,10-19,NAGALAND,Zunheboto,Female,In Movement,0
+13,3,Urban,20-29,NAGALAND,Zunheboto,Female,In Movement,0
+13,3,Urban,30-39,NAGALAND,Zunheboto,Female,In Movement,1
+13,3,Urban,40-49,NAGALAND,Zunheboto,Female,In Movement,0
+13,3,Urban,50-59,NAGALAND,Zunheboto,Female,In Movement,0
+13,3,Urban,60-69,NAGALAND,Zunheboto,Female,In Movement,1
+13,3,Urban,70-79,NAGALAND,Zunheboto,Female,In Movement,0
+13,3,Urban,80-89,NAGALAND,Zunheboto,Female,In Movement,0
+13,3,Urban,90+,NAGALAND,Zunheboto,Female,In Movement,0
+13,3,Urban,Age Not Stated,NAGALAND,Zunheboto,Female,In Movement,0
+13,4,Rural,0-4,NAGALAND,Wokha,Female,In Movement,2
+13,4,Rural,5-9,NAGALAND,Wokha,Female,In Movement,1
+13,4,Rural,10-19,NAGALAND,Wokha,Female,In Movement,22
+13,4,Rural,20-29,NAGALAND,Wokha,Female,In Movement,26
+13,4,Rural,30-39,NAGALAND,Wokha,Female,In Movement,15
+13,4,Rural,40-49,NAGALAND,Wokha,Female,In Movement,9
+13,4,Rural,50-59,NAGALAND,Wokha,Female,In Movement,13
+13,4,Rural,60-69,NAGALAND,Wokha,Female,In Movement,20
+13,4,Rural,70-79,NAGALAND,Wokha,Female,In Movement,9
+13,4,Rural,80-89,NAGALAND,Wokha,Female,In Movement,4
+13,4,Rural,90+,NAGALAND,Wokha,Female,In Movement,1
+13,4,Rural,Age Not Stated,NAGALAND,Wokha,Female,In Movement,0
+13,4,Urban,0-4,NAGALAND,Wokha,Female,In Movement,0
+13,4,Urban,5-9,NAGALAND,Wokha,Female,In Movement,0
+13,4,Urban,10-19,NAGALAND,Wokha,Female,In Movement,4
+13,4,Urban,20-29,NAGALAND,Wokha,Female,In Movement,2
+13,4,Urban,30-39,NAGALAND,Wokha,Female,In Movement,0
+13,4,Urban,40-49,NAGALAND,Wokha,Female,In Movement,1
+13,4,Urban,50-59,NAGALAND,Wokha,Female,In Movement,1
+13,4,Urban,60-69,NAGALAND,Wokha,Female,In Movement,2
+13,4,Urban,70-79,NAGALAND,Wokha,Female,In Movement,1
+13,4,Urban,80-89,NAGALAND,Wokha,Female,In Movement,2
+13,4,Urban,90+,NAGALAND,Wokha,Female,In Movement,0
+13,4,Urban,Age Not Stated,NAGALAND,Wokha,Female,In Movement,0
+13,5,Rural,0-4,NAGALAND,Dimapur ,Female,In Movement,6
+13,5,Rural,5-9,NAGALAND,Dimapur ,Female,In Movement,13
+13,5,Rural,10-19,NAGALAND,Dimapur ,Female,In Movement,21
+13,5,Rural,20-29,NAGALAND,Dimapur ,Female,In Movement,33
+13,5,Rural,30-39,NAGALAND,Dimapur ,Female,In Movement,4
+13,5,Rural,40-49,NAGALAND,Dimapur ,Female,In Movement,14
+13,5,Rural,50-59,NAGALAND,Dimapur ,Female,In Movement,17
+13,5,Rural,60-69,NAGALAND,Dimapur ,Female,In Movement,13
+13,5,Rural,70-79,NAGALAND,Dimapur ,Female,In Movement,10
+13,5,Rural,80-89,NAGALAND,Dimapur ,Female,In Movement,6
+13,5,Rural,90+,NAGALAND,Dimapur ,Female,In Movement,3
+13,5,Rural,Age Not Stated,NAGALAND,Dimapur ,Female,In Movement,0
+13,5,Urban,0-4,NAGALAND,Dimapur ,Female,In Movement,3
+13,5,Urban,5-9,NAGALAND,Dimapur ,Female,In Movement,5
+13,5,Urban,10-19,NAGALAND,Dimapur ,Female,In Movement,21
+13,5,Urban,20-29,NAGALAND,Dimapur ,Female,In Movement,22
+13,5,Urban,30-39,NAGALAND,Dimapur ,Female,In Movement,12
+13,5,Urban,40-49,NAGALAND,Dimapur ,Female,In Movement,12
+13,5,Urban,50-59,NAGALAND,Dimapur ,Female,In Movement,14
+13,5,Urban,60-69,NAGALAND,Dimapur ,Female,In Movement,11
+13,5,Urban,70-79,NAGALAND,Dimapur ,Female,In Movement,7
+13,5,Urban,80-89,NAGALAND,Dimapur ,Female,In Movement,3
+13,5,Urban,90+,NAGALAND,Dimapur ,Female,In Movement,0
+13,5,Urban,Age Not Stated,NAGALAND,Dimapur ,Female,In Movement,0
+13,6,Rural,0-4,NAGALAND,Phek,Female,In Movement,1
+13,6,Rural,5-9,NAGALAND,Phek,Female,In Movement,6
+13,6,Rural,10-19,NAGALAND,Phek,Female,In Movement,9
+13,6,Rural,20-29,NAGALAND,Phek,Female,In Movement,9
+13,6,Rural,30-39,NAGALAND,Phek,Female,In Movement,19
+13,6,Rural,40-49,NAGALAND,Phek,Female,In Movement,9
+13,6,Rural,50-59,NAGALAND,Phek,Female,In Movement,18
+13,6,Rural,60-69,NAGALAND,Phek,Female,In Movement,17
+13,6,Rural,70-79,NAGALAND,Phek,Female,In Movement,15
+13,6,Rural,80-89,NAGALAND,Phek,Female,In Movement,7
+13,6,Rural,90+,NAGALAND,Phek,Female,In Movement,1
+13,6,Rural,Age Not Stated,NAGALAND,Phek,Female,In Movement,0
+13,6,Urban,0-4,NAGALAND,Phek,Female,In Movement,0
+13,6,Urban,5-9,NAGALAND,Phek,Female,In Movement,1
+13,6,Urban,10-19,NAGALAND,Phek,Female,In Movement,1
+13,6,Urban,20-29,NAGALAND,Phek,Female,In Movement,1
+13,6,Urban,30-39,NAGALAND,Phek,Female,In Movement,2
+13,6,Urban,40-49,NAGALAND,Phek,Female,In Movement,0
+13,6,Urban,50-59,NAGALAND,Phek,Female,In Movement,5
+13,6,Urban,60-69,NAGALAND,Phek,Female,In Movement,3
+13,6,Urban,70-79,NAGALAND,Phek,Female,In Movement,3
+13,6,Urban,80-89,NAGALAND,Phek,Female,In Movement,1
+13,6,Urban,90+,NAGALAND,Phek,Female,In Movement,0
+13,6,Urban,Age Not Stated,NAGALAND,Phek,Female,In Movement,0
+13,7,Rural,0-4,NAGALAND,Tuensang,Female,In Movement,4
+13,7,Rural,5-9,NAGALAND,Tuensang,Female,In Movement,6
+13,7,Rural,10-19,NAGALAND,Tuensang,Female,In Movement,23
+13,7,Rural,20-29,NAGALAND,Tuensang,Female,In Movement,13
+13,7,Rural,30-39,NAGALAND,Tuensang,Female,In Movement,14
+13,7,Rural,40-49,NAGALAND,Tuensang,Female,In Movement,14
+13,7,Rural,50-59,NAGALAND,Tuensang,Female,In Movement,13
+13,7,Rural,60-69,NAGALAND,Tuensang,Female,In Movement,19
+13,7,Rural,70-79,NAGALAND,Tuensang,Female,In Movement,17
+13,7,Rural,80-89,NAGALAND,Tuensang,Female,In Movement,14
+13,7,Rural,90+,NAGALAND,Tuensang,Female,In Movement,3
+13,7,Rural,Age Not Stated,NAGALAND,Tuensang,Female,In Movement,0
+13,7,Urban,0-4,NAGALAND,Tuensang,Female,In Movement,0
+13,7,Urban,5-9,NAGALAND,Tuensang,Female,In Movement,2
+13,7,Urban,10-19,NAGALAND,Tuensang,Female,In Movement,7
+13,7,Urban,20-29,NAGALAND,Tuensang,Female,In Movement,4
+13,7,Urban,30-39,NAGALAND,Tuensang,Female,In Movement,4
+13,7,Urban,40-49,NAGALAND,Tuensang,Female,In Movement,3
+13,7,Urban,50-59,NAGALAND,Tuensang,Female,In Movement,4
+13,7,Urban,60-69,NAGALAND,Tuensang,Female,In Movement,4
+13,7,Urban,70-79,NAGALAND,Tuensang,Female,In Movement,0
+13,7,Urban,80-89,NAGALAND,Tuensang,Female,In Movement,0
+13,7,Urban,90+,NAGALAND,Tuensang,Female,In Movement,1
+13,7,Urban,Age Not Stated,NAGALAND,Tuensang,Female,In Movement,0
+13,8,Rural,0-4,NAGALAND,Longleng,Female,In Movement,0
+13,8,Rural,5-9,NAGALAND,Longleng,Female,In Movement,1
+13,8,Rural,10-19,NAGALAND,Longleng,Female,In Movement,7
+13,8,Rural,20-29,NAGALAND,Longleng,Female,In Movement,6
+13,8,Rural,30-39,NAGALAND,Longleng,Female,In Movement,2
+13,8,Rural,40-49,NAGALAND,Longleng,Female,In Movement,4
+13,8,Rural,50-59,NAGALAND,Longleng,Female,In Movement,3
+13,8,Rural,60-69,NAGALAND,Longleng,Female,In Movement,1
+13,8,Rural,70-79,NAGALAND,Longleng,Female,In Movement,6
+13,8,Rural,80-89,NAGALAND,Longleng,Female,In Movement,1
+13,8,Rural,90+,NAGALAND,Longleng,Female,In Movement,0
+13,8,Rural,Age Not Stated,NAGALAND,Longleng,Female,In Movement,0
+13,8,Urban,0-4,NAGALAND,Longleng,Female,In Movement,0
+13,8,Urban,5-9,NAGALAND,Longleng,Female,In Movement,1
+13,8,Urban,10-19,NAGALAND,Longleng,Female,In Movement,0
+13,8,Urban,20-29,NAGALAND,Longleng,Female,In Movement,4
+13,8,Urban,30-39,NAGALAND,Longleng,Female,In Movement,0
+13,8,Urban,40-49,NAGALAND,Longleng,Female,In Movement,1
+13,8,Urban,50-59,NAGALAND,Longleng,Female,In Movement,0
+13,8,Urban,60-69,NAGALAND,Longleng,Female,In Movement,0
+13,8,Urban,70-79,NAGALAND,Longleng,Female,In Movement,0
+13,8,Urban,80-89,NAGALAND,Longleng,Female,In Movement,0
+13,8,Urban,90+,NAGALAND,Longleng,Female,In Movement,0
+13,8,Urban,Age Not Stated,NAGALAND,Longleng,Female,In Movement,0
+13,9,Rural,0-4,NAGALAND,Kiphire,Female,In Movement,1
+13,9,Rural,5-9,NAGALAND,Kiphire,Female,In Movement,0
+13,9,Rural,10-19,NAGALAND,Kiphire,Female,In Movement,13
+13,9,Rural,20-29,NAGALAND,Kiphire,Female,In Movement,3
+13,9,Rural,30-39,NAGALAND,Kiphire,Female,In Movement,1
+13,9,Rural,40-49,NAGALAND,Kiphire,Female,In Movement,4
+13,9,Rural,50-59,NAGALAND,Kiphire,Female,In Movement,10
+13,9,Rural,60-69,NAGALAND,Kiphire,Female,In Movement,7
+13,9,Rural,70-79,NAGALAND,Kiphire,Female,In Movement,9
+13,9,Rural,80-89,NAGALAND,Kiphire,Female,In Movement,0
+13,9,Rural,90+,NAGALAND,Kiphire,Female,In Movement,0
+13,9,Rural,Age Not Stated,NAGALAND,Kiphire,Female,In Movement,0
+13,9,Urban,0-4,NAGALAND,Kiphire,Female,In Movement,0
+13,9,Urban,5-9,NAGALAND,Kiphire,Female,In Movement,0
+13,9,Urban,10-19,NAGALAND,Kiphire,Female,In Movement,3
+13,9,Urban,20-29,NAGALAND,Kiphire,Female,In Movement,2
+13,9,Urban,30-39,NAGALAND,Kiphire,Female,In Movement,3
+13,9,Urban,40-49,NAGALAND,Kiphire,Female,In Movement,3
+13,9,Urban,50-59,NAGALAND,Kiphire,Female,In Movement,0
+13,9,Urban,60-69,NAGALAND,Kiphire,Female,In Movement,1
+13,9,Urban,70-79,NAGALAND,Kiphire,Female,In Movement,0
+13,9,Urban,80-89,NAGALAND,Kiphire,Female,In Movement,0
+13,9,Urban,90+,NAGALAND,Kiphire,Female,In Movement,0
+13,9,Urban,Age Not Stated,NAGALAND,Kiphire,Female,In Movement,0
+13,10,Rural,0-4,NAGALAND,Kohima,Female,In Movement,3
+13,10,Rural,5-9,NAGALAND,Kohima,Female,In Movement,2
+13,10,Rural,10-19,NAGALAND,Kohima,Female,In Movement,15
+13,10,Rural,20-29,NAGALAND,Kohima,Female,In Movement,18
+13,10,Rural,30-39,NAGALAND,Kohima,Female,In Movement,16
+13,10,Rural,40-49,NAGALAND,Kohima,Female,In Movement,15
+13,10,Rural,50-59,NAGALAND,Kohima,Female,In Movement,11
+13,10,Rural,60-69,NAGALAND,Kohima,Female,In Movement,12
+13,10,Rural,70-79,NAGALAND,Kohima,Female,In Movement,15
+13,10,Rural,80-89,NAGALAND,Kohima,Female,In Movement,6
+13,10,Rural,90+,NAGALAND,Kohima,Female,In Movement,5
+13,10,Rural,Age Not Stated,NAGALAND,Kohima,Female,In Movement,0
+13,10,Urban,0-4,NAGALAND,Kohima,Female,In Movement,1
+13,10,Urban,5-9,NAGALAND,Kohima,Female,In Movement,11
+13,10,Urban,10-19,NAGALAND,Kohima,Female,In Movement,11
+13,10,Urban,20-29,NAGALAND,Kohima,Female,In Movement,16
+13,10,Urban,30-39,NAGALAND,Kohima,Female,In Movement,13
+13,10,Urban,40-49,NAGALAND,Kohima,Female,In Movement,7
+13,10,Urban,50-59,NAGALAND,Kohima,Female,In Movement,11
+13,10,Urban,60-69,NAGALAND,Kohima,Female,In Movement,4
+13,10,Urban,70-79,NAGALAND,Kohima,Female,In Movement,8
+13,10,Urban,80-89,NAGALAND,Kohima,Female,In Movement,6
+13,10,Urban,90+,NAGALAND,Kohima,Female,In Movement,2
+13,10,Urban,Age Not Stated,NAGALAND,Kohima,Female,In Movement,0
+13,11,Rural,0-4,NAGALAND,Peren,Female,In Movement,3
+13,11,Rural,5-9,NAGALAND,Peren,Female,In Movement,3
+13,11,Rural,10-19,NAGALAND,Peren,Female,In Movement,18
+13,11,Rural,20-29,NAGALAND,Peren,Female,In Movement,7
+13,11,Rural,30-39,NAGALAND,Peren,Female,In Movement,11
+13,11,Rural,40-49,NAGALAND,Peren,Female,In Movement,5
+13,11,Rural,50-59,NAGALAND,Peren,Female,In Movement,9
+13,11,Rural,60-69,NAGALAND,Peren,Female,In Movement,9
+13,11,Rural,70-79,NAGALAND,Peren,Female,In Movement,10
+13,11,Rural,80-89,NAGALAND,Peren,Female,In Movement,3
+13,11,Rural,90+,NAGALAND,Peren,Female,In Movement,1
+13,11,Rural,Age Not Stated,NAGALAND,Peren,Female,In Movement,0
+13,11,Urban,0-4,NAGALAND,Peren,Female,In Movement,0
+13,11,Urban,5-9,NAGALAND,Peren,Female,In Movement,0
+13,11,Urban,10-19,NAGALAND,Peren,Female,In Movement,1
+13,11,Urban,20-29,NAGALAND,Peren,Female,In Movement,2
+13,11,Urban,30-39,NAGALAND,Peren,Female,In Movement,0
+13,11,Urban,40-49,NAGALAND,Peren,Female,In Movement,0
+13,11,Urban,50-59,NAGALAND,Peren,Female,In Movement,1
+13,11,Urban,60-69,NAGALAND,Peren,Female,In Movement,1
+13,11,Urban,70-79,NAGALAND,Peren,Female,In Movement,0
+13,11,Urban,80-89,NAGALAND,Peren,Female,In Movement,0
+13,11,Urban,90+,NAGALAND,Peren,Female,In Movement,0
+13,11,Urban,Age Not Stated,NAGALAND,Peren,Female,In Movement,0
+13,1,Rural,0-4,NAGALAND,Mon,Male,Mental,1
+13,1,Rural,5-9,NAGALAND,Mon,Male,Mental,4
+13,1,Rural,10-19,NAGALAND,Mon,Male,Mental,29
+13,1,Rural,20-29,NAGALAND,Mon,Male,Mental,25
+13,1,Rural,30-39,NAGALAND,Mon,Male,Mental,17
+13,1,Rural,40-49,NAGALAND,Mon,Male,Mental,13
+13,1,Rural,50-59,NAGALAND,Mon,Male,Mental,13
+13,1,Rural,60-69,NAGALAND,Mon,Male,Mental,8
+13,1,Rural,70-79,NAGALAND,Mon,Male,Mental,3
+13,1,Rural,80-89,NAGALAND,Mon,Male,Mental,1
+13,1,Rural,90+,NAGALAND,Mon,Male,Mental,0
+13,1,Rural,Age Not Stated,NAGALAND,Mon,Male,Mental,1
+13,1,Urban,0-4,NAGALAND,Mon,Male,Mental,2
+13,1,Urban,5-9,NAGALAND,Mon,Male,Mental,1
+13,1,Urban,10-19,NAGALAND,Mon,Male,Mental,1
+13,1,Urban,20-29,NAGALAND,Mon,Male,Mental,6
+13,1,Urban,30-39,NAGALAND,Mon,Male,Mental,1
+13,1,Urban,40-49,NAGALAND,Mon,Male,Mental,3
+13,1,Urban,50-59,NAGALAND,Mon,Male,Mental,2
+13,1,Urban,60-69,NAGALAND,Mon,Male,Mental,1
+13,1,Urban,70-79,NAGALAND,Mon,Male,Mental,0
+13,1,Urban,80-89,NAGALAND,Mon,Male,Mental,0
+13,1,Urban,90+,NAGALAND,Mon,Male,Mental,0
+13,1,Urban,Age Not Stated,NAGALAND,Mon,Male,Mental,0
+13,2,Rural,0-4,NAGALAND,Mokokchung,Male,Mental,1
+13,2,Rural,5-9,NAGALAND,Mokokchung,Male,Mental,3
+13,2,Rural,10-19,NAGALAND,Mokokchung,Male,Mental,14
+13,2,Rural,20-29,NAGALAND,Mokokchung,Male,Mental,24
+13,2,Rural,30-39,NAGALAND,Mokokchung,Male,Mental,31
+13,2,Rural,40-49,NAGALAND,Mokokchung,Male,Mental,21
+13,2,Rural,50-59,NAGALAND,Mokokchung,Male,Mental,14
+13,2,Rural,60-69,NAGALAND,Mokokchung,Male,Mental,5
+13,2,Rural,70-79,NAGALAND,Mokokchung,Male,Mental,5
+13,2,Rural,80-89,NAGALAND,Mokokchung,Male,Mental,3
+13,2,Rural,90+,NAGALAND,Mokokchung,Male,Mental,0
+13,2,Rural,Age Not Stated,NAGALAND,Mokokchung,Male,Mental,0
+13,2,Urban,0-4,NAGALAND,Mokokchung,Male,Mental,1
+13,2,Urban,5-9,NAGALAND,Mokokchung,Male,Mental,1
+13,2,Urban,10-19,NAGALAND,Mokokchung,Male,Mental,4
+13,2,Urban,20-29,NAGALAND,Mokokchung,Male,Mental,15
+13,2,Urban,30-39,NAGALAND,Mokokchung,Male,Mental,14
+13,2,Urban,40-49,NAGALAND,Mokokchung,Male,Mental,11
+13,2,Urban,50-59,NAGALAND,Mokokchung,Male,Mental,1
+13,2,Urban,60-69,NAGALAND,Mokokchung,Male,Mental,0
+13,2,Urban,70-79,NAGALAND,Mokokchung,Male,Mental,0
+13,2,Urban,80-89,NAGALAND,Mokokchung,Male,Mental,0
+13,2,Urban,90+,NAGALAND,Mokokchung,Male,Mental,0
+13,2,Urban,Age Not Stated,NAGALAND,Mokokchung,Male,Mental,1
+13,3,Rural,0-4,NAGALAND,Zunheboto,Male,Mental,2
+13,3,Rural,5-9,NAGALAND,Zunheboto,Male,Mental,6
+13,3,Rural,10-19,NAGALAND,Zunheboto,Male,Mental,11
+13,3,Rural,20-29,NAGALAND,Zunheboto,Male,Mental,23
+13,3,Rural,30-39,NAGALAND,Zunheboto,Male,Mental,21
+13,3,Rural,40-49,NAGALAND,Zunheboto,Male,Mental,21
+13,3,Rural,50-59,NAGALAND,Zunheboto,Male,Mental,18
+13,3,Rural,60-69,NAGALAND,Zunheboto,Male,Mental,7
+13,3,Rural,70-79,NAGALAND,Zunheboto,Male,Mental,0
+13,3,Rural,80-89,NAGALAND,Zunheboto,Male,Mental,1
+13,3,Rural,90+,NAGALAND,Zunheboto,Male,Mental,1
+13,3,Rural,Age Not Stated,NAGALAND,Zunheboto,Male,Mental,0
+13,3,Urban,0-4,NAGALAND,Zunheboto,Male,Mental,0
+13,3,Urban,5-9,NAGALAND,Zunheboto,Male,Mental,0
+13,3,Urban,10-19,NAGALAND,Zunheboto,Male,Mental,2
+13,3,Urban,20-29,NAGALAND,Zunheboto,Male,Mental,2
+13,3,Urban,30-39,NAGALAND,Zunheboto,Male,Mental,4
+13,3,Urban,40-49,NAGALAND,Zunheboto,Male,Mental,2
+13,3,Urban,50-59,NAGALAND,Zunheboto,Male,Mental,0
+13,3,Urban,60-69,NAGALAND,Zunheboto,Male,Mental,1
+13,3,Urban,70-79,NAGALAND,Zunheboto,Male,Mental,1
+13,3,Urban,80-89,NAGALAND,Zunheboto,Male,Mental,0
+13,3,Urban,90+,NAGALAND,Zunheboto,Male,Mental,0
+13,3,Urban,Age Not Stated,NAGALAND,Zunheboto,Male,Mental,0
+13,4,Rural,0-4,NAGALAND,Wokha,Male,Mental,2
+13,4,Rural,5-9,NAGALAND,Wokha,Male,Mental,4
+13,4,Rural,10-19,NAGALAND,Wokha,Male,Mental,12
+13,4,Rural,20-29,NAGALAND,Wokha,Male,Mental,14
+13,4,Rural,30-39,NAGALAND,Wokha,Male,Mental,15
+13,4,Rural,40-49,NAGALAND,Wokha,Male,Mental,13
+13,4,Rural,50-59,NAGALAND,Wokha,Male,Mental,4
+13,4,Rural,60-69,NAGALAND,Wokha,Male,Mental,2
+13,4,Rural,70-79,NAGALAND,Wokha,Male,Mental,2
+13,4,Rural,80-89,NAGALAND,Wokha,Male,Mental,0
+13,4,Rural,90+,NAGALAND,Wokha,Male,Mental,0
+13,4,Rural,Age Not Stated,NAGALAND,Wokha,Male,Mental,0
+13,4,Urban,0-4,NAGALAND,Wokha,Male,Mental,1
+13,4,Urban,5-9,NAGALAND,Wokha,Male,Mental,2
+13,4,Urban,10-19,NAGALAND,Wokha,Male,Mental,2
+13,4,Urban,20-29,NAGALAND,Wokha,Male,Mental,4
+13,4,Urban,30-39,NAGALAND,Wokha,Male,Mental,3
+13,4,Urban,40-49,NAGALAND,Wokha,Male,Mental,3
+13,4,Urban,50-59,NAGALAND,Wokha,Male,Mental,0
+13,4,Urban,60-69,NAGALAND,Wokha,Male,Mental,0
+13,4,Urban,70-79,NAGALAND,Wokha,Male,Mental,1
+13,4,Urban,80-89,NAGALAND,Wokha,Male,Mental,0
+13,4,Urban,90+,NAGALAND,Wokha,Male,Mental,0
+13,4,Urban,Age Not Stated,NAGALAND,Wokha,Male,Mental,0
+13,5,Rural,0-4,NAGALAND,Dimapur ,Male,Mental,6
+13,5,Rural,5-9,NAGALAND,Dimapur ,Male,Mental,7
+13,5,Rural,10-19,NAGALAND,Dimapur ,Male,Mental,15
+13,5,Rural,20-29,NAGALAND,Dimapur ,Male,Mental,19
+13,5,Rural,30-39,NAGALAND,Dimapur ,Male,Mental,23
+13,5,Rural,40-49,NAGALAND,Dimapur ,Male,Mental,20
+13,5,Rural,50-59,NAGALAND,Dimapur ,Male,Mental,7
+13,5,Rural,60-69,NAGALAND,Dimapur ,Male,Mental,6
+13,5,Rural,70-79,NAGALAND,Dimapur ,Male,Mental,4
+13,5,Rural,80-89,NAGALAND,Dimapur ,Male,Mental,0
+13,5,Rural,90+,NAGALAND,Dimapur ,Male,Mental,0
+13,5,Rural,Age Not Stated,NAGALAND,Dimapur ,Male,Mental,0
+13,5,Urban,0-4,NAGALAND,Dimapur ,Male,Mental,5
+13,5,Urban,5-9,NAGALAND,Dimapur ,Male,Mental,8
+13,5,Urban,10-19,NAGALAND,Dimapur ,Male,Mental,17
+13,5,Urban,20-29,NAGALAND,Dimapur ,Male,Mental,29
+13,5,Urban,30-39,NAGALAND,Dimapur ,Male,Mental,18
+13,5,Urban,40-49,NAGALAND,Dimapur ,Male,Mental,18
+13,5,Urban,50-59,NAGALAND,Dimapur ,Male,Mental,7
+13,5,Urban,60-69,NAGALAND,Dimapur ,Male,Mental,5
+13,5,Urban,70-79,NAGALAND,Dimapur ,Male,Mental,2
+13,5,Urban,80-89,NAGALAND,Dimapur ,Male,Mental,0
+13,5,Urban,90+,NAGALAND,Dimapur ,Male,Mental,2
+13,5,Urban,Age Not Stated,NAGALAND,Dimapur ,Male,Mental,0
+13,6,Rural,0-4,NAGALAND,Phek,Male,Mental,2
+13,6,Rural,5-9,NAGALAND,Phek,Male,Mental,3
+13,6,Rural,10-19,NAGALAND,Phek,Male,Mental,17
+13,6,Rural,20-29,NAGALAND,Phek,Male,Mental,22
+13,6,Rural,30-39,NAGALAND,Phek,Male,Mental,31
+13,6,Rural,40-49,NAGALAND,Phek,Male,Mental,26
+13,6,Rural,50-59,NAGALAND,Phek,Male,Mental,15
+13,6,Rural,60-69,NAGALAND,Phek,Male,Mental,6
+13,6,Rural,70-79,NAGALAND,Phek,Male,Mental,1
+13,6,Rural,80-89,NAGALAND,Phek,Male,Mental,0
+13,6,Rural,90+,NAGALAND,Phek,Male,Mental,0
+13,6,Rural,Age Not Stated,NAGALAND,Phek,Male,Mental,1
+13,6,Urban,0-4,NAGALAND,Phek,Male,Mental,0
+13,6,Urban,5-9,NAGALAND,Phek,Male,Mental,1
+13,6,Urban,10-19,NAGALAND,Phek,Male,Mental,0
+13,6,Urban,20-29,NAGALAND,Phek,Male,Mental,3
+13,6,Urban,30-39,NAGALAND,Phek,Male,Mental,4
+13,6,Urban,40-49,NAGALAND,Phek,Male,Mental,2
+13,6,Urban,50-59,NAGALAND,Phek,Male,Mental,1
+13,6,Urban,60-69,NAGALAND,Phek,Male,Mental,0
+13,6,Urban,70-79,NAGALAND,Phek,Male,Mental,0
+13,6,Urban,80-89,NAGALAND,Phek,Male,Mental,0
+13,6,Urban,90+,NAGALAND,Phek,Male,Mental,0
+13,6,Urban,Age Not Stated,NAGALAND,Phek,Male,Mental,0
+13,7,Rural,0-4,NAGALAND,Tuensang,Male,Mental,1
+13,7,Rural,5-9,NAGALAND,Tuensang,Male,Mental,4
+13,7,Rural,10-19,NAGALAND,Tuensang,Male,Mental,19
+13,7,Rural,20-29,NAGALAND,Tuensang,Male,Mental,16
+13,7,Rural,30-39,NAGALAND,Tuensang,Male,Mental,12
+13,7,Rural,40-49,NAGALAND,Tuensang,Male,Mental,7
+13,7,Rural,50-59,NAGALAND,Tuensang,Male,Mental,10
+13,7,Rural,60-69,NAGALAND,Tuensang,Male,Mental,7
+13,7,Rural,70-79,NAGALAND,Tuensang,Male,Mental,3
+13,7,Rural,80-89,NAGALAND,Tuensang,Male,Mental,1
+13,7,Rural,90+,NAGALAND,Tuensang,Male,Mental,0
+13,7,Rural,Age Not Stated,NAGALAND,Tuensang,Male,Mental,0
+13,7,Urban,0-4,NAGALAND,Tuensang,Male,Mental,0
+13,7,Urban,5-9,NAGALAND,Tuensang,Male,Mental,0
+13,7,Urban,10-19,NAGALAND,Tuensang,Male,Mental,0
+13,7,Urban,20-29,NAGALAND,Tuensang,Male,Mental,3
+13,7,Urban,30-39,NAGALAND,Tuensang,Male,Mental,1
+13,7,Urban,40-49,NAGALAND,Tuensang,Male,Mental,1
+13,7,Urban,50-59,NAGALAND,Tuensang,Male,Mental,0
+13,7,Urban,60-69,NAGALAND,Tuensang,Male,Mental,0
+13,7,Urban,70-79,NAGALAND,Tuensang,Male,Mental,0
+13,7,Urban,80-89,NAGALAND,Tuensang,Male,Mental,0
+13,7,Urban,90+,NAGALAND,Tuensang,Male,Mental,0
+13,7,Urban,Age Not Stated,NAGALAND,Tuensang,Male,Mental,0
+13,8,Rural,0-4,NAGALAND,Longleng,Male,Mental,1
+13,8,Rural,5-9,NAGALAND,Longleng,Male,Mental,2
+13,8,Rural,10-19,NAGALAND,Longleng,Male,Mental,5
+13,8,Rural,20-29,NAGALAND,Longleng,Male,Mental,5
+13,8,Rural,30-39,NAGALAND,Longleng,Male,Mental,9
+13,8,Rural,40-49,NAGALAND,Longleng,Male,Mental,4
+13,8,Rural,50-59,NAGALAND,Longleng,Male,Mental,5
+13,8,Rural,60-69,NAGALAND,Longleng,Male,Mental,0
+13,8,Rural,70-79,NAGALAND,Longleng,Male,Mental,0
+13,8,Rural,80-89,NAGALAND,Longleng,Male,Mental,1
+13,8,Rural,90+,NAGALAND,Longleng,Male,Mental,0
+13,8,Rural,Age Not Stated,NAGALAND,Longleng,Male,Mental,0
+13,8,Urban,0-4,NAGALAND,Longleng,Male,Mental,0
+13,8,Urban,5-9,NAGALAND,Longleng,Male,Mental,0
+13,8,Urban,10-19,NAGALAND,Longleng,Male,Mental,1
+13,8,Urban,20-29,NAGALAND,Longleng,Male,Mental,1
+13,8,Urban,30-39,NAGALAND,Longleng,Male,Mental,0
+13,8,Urban,40-49,NAGALAND,Longleng,Male,Mental,0
+13,8,Urban,50-59,NAGALAND,Longleng,Male,Mental,0
+13,8,Urban,60-69,NAGALAND,Longleng,Male,Mental,0
+13,8,Urban,70-79,NAGALAND,Longleng,Male,Mental,0
+13,8,Urban,80-89,NAGALAND,Longleng,Male,Mental,0
+13,8,Urban,90+,NAGALAND,Longleng,Male,Mental,0
+13,8,Urban,Age Not Stated,NAGALAND,Longleng,Male,Mental,0
+13,9,Rural,0-4,NAGALAND,Kiphire,Male,Mental,0
+13,9,Rural,5-9,NAGALAND,Kiphire,Male,Mental,0
+13,9,Rural,10-19,NAGALAND,Kiphire,Male,Mental,5
+13,9,Rural,20-29,NAGALAND,Kiphire,Male,Mental,6
+13,9,Rural,30-39,NAGALAND,Kiphire,Male,Mental,4
+13,9,Rural,40-49,NAGALAND,Kiphire,Male,Mental,5
+13,9,Rural,50-59,NAGALAND,Kiphire,Male,Mental,2
+13,9,Rural,60-69,NAGALAND,Kiphire,Male,Mental,0
+13,9,Rural,70-79,NAGALAND,Kiphire,Male,Mental,0
+13,9,Rural,80-89,NAGALAND,Kiphire,Male,Mental,0
+13,9,Rural,90+,NAGALAND,Kiphire,Male,Mental,0
+13,9,Rural,Age Not Stated,NAGALAND,Kiphire,Male,Mental,0
+13,9,Urban,0-4,NAGALAND,Kiphire,Male,Mental,0
+13,9,Urban,5-9,NAGALAND,Kiphire,Male,Mental,0
+13,9,Urban,10-19,NAGALAND,Kiphire,Male,Mental,0
+13,9,Urban,20-29,NAGALAND,Kiphire,Male,Mental,0
+13,9,Urban,30-39,NAGALAND,Kiphire,Male,Mental,1
+13,9,Urban,40-49,NAGALAND,Kiphire,Male,Mental,2
+13,9,Urban,50-59,NAGALAND,Kiphire,Male,Mental,1
+13,9,Urban,60-69,NAGALAND,Kiphire,Male,Mental,0
+13,9,Urban,70-79,NAGALAND,Kiphire,Male,Mental,0
+13,9,Urban,80-89,NAGALAND,Kiphire,Male,Mental,0
+13,9,Urban,90+,NAGALAND,Kiphire,Male,Mental,0
+13,9,Urban,Age Not Stated,NAGALAND,Kiphire,Male,Mental,0
+13,10,Rural,0-4,NAGALAND,Kohima,Male,Mental,1
+13,10,Rural,5-9,NAGALAND,Kohima,Male,Mental,3
+13,10,Rural,10-19,NAGALAND,Kohima,Male,Mental,7
+13,10,Rural,20-29,NAGALAND,Kohima,Male,Mental,21
+13,10,Rural,30-39,NAGALAND,Kohima,Male,Mental,23
+13,10,Rural,40-49,NAGALAND,Kohima,Male,Mental,6
+13,10,Rural,50-59,NAGALAND,Kohima,Male,Mental,6
+13,10,Rural,60-69,NAGALAND,Kohima,Male,Mental,3
+13,10,Rural,70-79,NAGALAND,Kohima,Male,Mental,2
+13,10,Rural,80-89,NAGALAND,Kohima,Male,Mental,2
+13,10,Rural,90+,NAGALAND,Kohima,Male,Mental,0
+13,10,Rural,Age Not Stated,NAGALAND,Kohima,Male,Mental,0
+13,10,Urban,0-4,NAGALAND,Kohima,Male,Mental,0
+13,10,Urban,5-9,NAGALAND,Kohima,Male,Mental,1
+13,10,Urban,10-19,NAGALAND,Kohima,Male,Mental,10
+13,10,Urban,20-29,NAGALAND,Kohima,Male,Mental,15
+13,10,Urban,30-39,NAGALAND,Kohima,Male,Mental,9
+13,10,Urban,40-49,NAGALAND,Kohima,Male,Mental,5
+13,10,Urban,50-59,NAGALAND,Kohima,Male,Mental,6
+13,10,Urban,60-69,NAGALAND,Kohima,Male,Mental,4
+13,10,Urban,70-79,NAGALAND,Kohima,Male,Mental,0
+13,10,Urban,80-89,NAGALAND,Kohima,Male,Mental,1
+13,10,Urban,90+,NAGALAND,Kohima,Male,Mental,0
+13,10,Urban,Age Not Stated,NAGALAND,Kohima,Male,Mental,0
+13,11,Rural,0-4,NAGALAND,Peren,Male,Mental,2
+13,11,Rural,5-9,NAGALAND,Peren,Male,Mental,2
+13,11,Rural,10-19,NAGALAND,Peren,Male,Mental,18
+13,11,Rural,20-29,NAGALAND,Peren,Male,Mental,18
+13,11,Rural,30-39,NAGALAND,Peren,Male,Mental,12
+13,11,Rural,40-49,NAGALAND,Peren,Male,Mental,7
+13,11,Rural,50-59,NAGALAND,Peren,Male,Mental,5
+13,11,Rural,60-69,NAGALAND,Peren,Male,Mental,4
+13,11,Rural,70-79,NAGALAND,Peren,Male,Mental,2
+13,11,Rural,80-89,NAGALAND,Peren,Male,Mental,0
+13,11,Rural,90+,NAGALAND,Peren,Male,Mental,0
+13,11,Rural,Age Not Stated,NAGALAND,Peren,Male,Mental,0
+13,11,Urban,0-4,NAGALAND,Peren,Male,Mental,0
+13,11,Urban,5-9,NAGALAND,Peren,Male,Mental,0
+13,11,Urban,10-19,NAGALAND,Peren,Male,Mental,2
+13,11,Urban,20-29,NAGALAND,Peren,Male,Mental,2
+13,11,Urban,30-39,NAGALAND,Peren,Male,Mental,4
+13,11,Urban,40-49,NAGALAND,Peren,Male,Mental,1
+13,11,Urban,50-59,NAGALAND,Peren,Male,Mental,2
+13,11,Urban,60-69,NAGALAND,Peren,Male,Mental,1
+13,11,Urban,70-79,NAGALAND,Peren,Male,Mental,0
+13,11,Urban,80-89,NAGALAND,Peren,Male,Mental,0
+13,11,Urban,90+,NAGALAND,Peren,Male,Mental,0
+13,11,Urban,Age Not Stated,NAGALAND,Peren,Male,Mental,0
+13,1,Rural,0-4,NAGALAND,Mon,Female,Mental,3
+13,1,Rural,5-9,NAGALAND,Mon,Female,Mental,12
+13,1,Rural,10-19,NAGALAND,Mon,Female,Mental,9
+13,1,Rural,20-29,NAGALAND,Mon,Female,Mental,26
+13,1,Rural,30-39,NAGALAND,Mon,Female,Mental,14
+13,1,Rural,40-49,NAGALAND,Mon,Female,Mental,20
+13,1,Rural,50-59,NAGALAND,Mon,Female,Mental,8
+13,1,Rural,60-69,NAGALAND,Mon,Female,Mental,7
+13,1,Rural,70-79,NAGALAND,Mon,Female,Mental,8
+13,1,Rural,80-89,NAGALAND,Mon,Female,Mental,1
+13,1,Rural,90+,NAGALAND,Mon,Female,Mental,0
+13,1,Rural,Age Not Stated,NAGALAND,Mon,Female,Mental,0
+13,1,Urban,0-4,NAGALAND,Mon,Female,Mental,0
+13,1,Urban,5-9,NAGALAND,Mon,Female,Mental,0
+13,1,Urban,10-19,NAGALAND,Mon,Female,Mental,1
+13,1,Urban,20-29,NAGALAND,Mon,Female,Mental,4
+13,1,Urban,30-39,NAGALAND,Mon,Female,Mental,3
+13,1,Urban,40-49,NAGALAND,Mon,Female,Mental,1
+13,1,Urban,50-59,NAGALAND,Mon,Female,Mental,0
+13,1,Urban,60-69,NAGALAND,Mon,Female,Mental,1
+13,1,Urban,70-79,NAGALAND,Mon,Female,Mental,0
+13,1,Urban,80-89,NAGALAND,Mon,Female,Mental,1
+13,1,Urban,90+,NAGALAND,Mon,Female,Mental,0
+13,1,Urban,Age Not Stated,NAGALAND,Mon,Female,Mental,0
+13,2,Rural,0-4,NAGALAND,Mokokchung,Female,Mental,0
+13,2,Rural,5-9,NAGALAND,Mokokchung,Female,Mental,2
+13,2,Rural,10-19,NAGALAND,Mokokchung,Female,Mental,9
+13,2,Rural,20-29,NAGALAND,Mokokchung,Female,Mental,16
+13,2,Rural,30-39,NAGALAND,Mokokchung,Female,Mental,32
+13,2,Rural,40-49,NAGALAND,Mokokchung,Female,Mental,15
+13,2,Rural,50-59,NAGALAND,Mokokchung,Female,Mental,13
+13,2,Rural,60-69,NAGALAND,Mokokchung,Female,Mental,6
+13,2,Rural,70-79,NAGALAND,Mokokchung,Female,Mental,5
+13,2,Rural,80-89,NAGALAND,Mokokchung,Female,Mental,1
+13,2,Rural,90+,NAGALAND,Mokokchung,Female,Mental,0
+13,2,Rural,Age Not Stated,NAGALAND,Mokokchung,Female,Mental,0
+13,2,Urban,0-4,NAGALAND,Mokokchung,Female,Mental,0
+13,2,Urban,5-9,NAGALAND,Mokokchung,Female,Mental,2
+13,2,Urban,10-19,NAGALAND,Mokokchung,Female,Mental,3
+13,2,Urban,20-29,NAGALAND,Mokokchung,Female,Mental,6
+13,2,Urban,30-39,NAGALAND,Mokokchung,Female,Mental,8
+13,2,Urban,40-49,NAGALAND,Mokokchung,Female,Mental,8
+13,2,Urban,50-59,NAGALAND,Mokokchung,Female,Mental,3
+13,2,Urban,60-69,NAGALAND,Mokokchung,Female,Mental,3
+13,2,Urban,70-79,NAGALAND,Mokokchung,Female,Mental,1
+13,2,Urban,80-89,NAGALAND,Mokokchung,Female,Mental,2
+13,2,Urban,90+,NAGALAND,Mokokchung,Female,Mental,0
+13,2,Urban,Age Not Stated,NAGALAND,Mokokchung,Female,Mental,0
+13,3,Rural,0-4,NAGALAND,Zunheboto,Female,Mental,0
+13,3,Rural,5-9,NAGALAND,Zunheboto,Female,Mental,0
+13,3,Rural,10-19,NAGALAND,Zunheboto,Female,Mental,13
+13,3,Rural,20-29,NAGALAND,Zunheboto,Female,Mental,12
+13,3,Rural,30-39,NAGALAND,Zunheboto,Female,Mental,16
+13,3,Rural,40-49,NAGALAND,Zunheboto,Female,Mental,23
+13,3,Rural,50-59,NAGALAND,Zunheboto,Female,Mental,16
+13,3,Rural,60-69,NAGALAND,Zunheboto,Female,Mental,8
+13,3,Rural,70-79,NAGALAND,Zunheboto,Female,Mental,0
+13,3,Rural,80-89,NAGALAND,Zunheboto,Female,Mental,1
+13,3,Rural,90+,NAGALAND,Zunheboto,Female,Mental,0
+13,3,Rural,Age Not Stated,NAGALAND,Zunheboto,Female,Mental,0
+13,3,Urban,0-4,NAGALAND,Zunheboto,Female,Mental,0
+13,3,Urban,5-9,NAGALAND,Zunheboto,Female,Mental,1
+13,3,Urban,10-19,NAGALAND,Zunheboto,Female,Mental,2
+13,3,Urban,20-29,NAGALAND,Zunheboto,Female,Mental,1
+13,3,Urban,30-39,NAGALAND,Zunheboto,Female,Mental,1
+13,3,Urban,40-49,NAGALAND,Zunheboto,Female,Mental,5
+13,3,Urban,50-59,NAGALAND,Zunheboto,Female,Mental,1
+13,3,Urban,60-69,NAGALAND,Zunheboto,Female,Mental,1
+13,3,Urban,70-79,NAGALAND,Zunheboto,Female,Mental,0
+13,3,Urban,80-89,NAGALAND,Zunheboto,Female,Mental,1
+13,3,Urban,90+,NAGALAND,Zunheboto,Female,Mental,0
+13,3,Urban,Age Not Stated,NAGALAND,Zunheboto,Female,Mental,0
+13,4,Rural,0-4,NAGALAND,Wokha,Female,Mental,0
+13,4,Rural,5-9,NAGALAND,Wokha,Female,Mental,1
+13,4,Rural,10-19,NAGALAND,Wokha,Female,Mental,19
+13,4,Rural,20-29,NAGALAND,Wokha,Female,Mental,12
+13,4,Rural,30-39,NAGALAND,Wokha,Female,Mental,10
+13,4,Rural,40-49,NAGALAND,Wokha,Female,Mental,7
+13,4,Rural,50-59,NAGALAND,Wokha,Female,Mental,5
+13,4,Rural,60-69,NAGALAND,Wokha,Female,Mental,3
+13,4,Rural,70-79,NAGALAND,Wokha,Female,Mental,0
+13,4,Rural,80-89,NAGALAND,Wokha,Female,Mental,0
+13,4,Rural,90+,NAGALAND,Wokha,Female,Mental,0
+13,4,Rural,Age Not Stated,NAGALAND,Wokha,Female,Mental,0
+13,4,Urban,0-4,NAGALAND,Wokha,Female,Mental,1
+13,4,Urban,5-9,NAGALAND,Wokha,Female,Mental,1
+13,4,Urban,10-19,NAGALAND,Wokha,Female,Mental,2
+13,4,Urban,20-29,NAGALAND,Wokha,Female,Mental,5
+13,4,Urban,30-39,NAGALAND,Wokha,Female,Mental,2
+13,4,Urban,40-49,NAGALAND,Wokha,Female,Mental,3
+13,4,Urban,50-59,NAGALAND,Wokha,Female,Mental,0
+13,4,Urban,60-69,NAGALAND,Wokha,Female,Mental,3
+13,4,Urban,70-79,NAGALAND,Wokha,Female,Mental,0
+13,4,Urban,80-89,NAGALAND,Wokha,Female,Mental,0
+13,4,Urban,90+,NAGALAND,Wokha,Female,Mental,0
+13,4,Urban,Age Not Stated,NAGALAND,Wokha,Female,Mental,0
+13,5,Rural,0-4,NAGALAND,Dimapur ,Female,Mental,2
+13,5,Rural,5-9,NAGALAND,Dimapur ,Female,Mental,9
+13,5,Rural,10-19,NAGALAND,Dimapur ,Female,Mental,17
+13,5,Rural,20-29,NAGALAND,Dimapur ,Female,Mental,20
+13,5,Rural,30-39,NAGALAND,Dimapur ,Female,Mental,17
+13,5,Rural,40-49,NAGALAND,Dimapur ,Female,Mental,17
+13,5,Rural,50-59,NAGALAND,Dimapur ,Female,Mental,6
+13,5,Rural,60-69,NAGALAND,Dimapur ,Female,Mental,6
+13,5,Rural,70-79,NAGALAND,Dimapur ,Female,Mental,4
+13,5,Rural,80-89,NAGALAND,Dimapur ,Female,Mental,2
+13,5,Rural,90+,NAGALAND,Dimapur ,Female,Mental,0
+13,5,Rural,Age Not Stated,NAGALAND,Dimapur ,Female,Mental,0
+13,5,Urban,0-4,NAGALAND,Dimapur ,Female,Mental,1
+13,5,Urban,5-9,NAGALAND,Dimapur ,Female,Mental,4
+13,5,Urban,10-19,NAGALAND,Dimapur ,Female,Mental,19
+13,5,Urban,20-29,NAGALAND,Dimapur ,Female,Mental,19
+13,5,Urban,30-39,NAGALAND,Dimapur ,Female,Mental,13
+13,5,Urban,40-49,NAGALAND,Dimapur ,Female,Mental,7
+13,5,Urban,50-59,NAGALAND,Dimapur ,Female,Mental,6
+13,5,Urban,60-69,NAGALAND,Dimapur ,Female,Mental,4
+13,5,Urban,70-79,NAGALAND,Dimapur ,Female,Mental,0
+13,5,Urban,80-89,NAGALAND,Dimapur ,Female,Mental,1
+13,5,Urban,90+,NAGALAND,Dimapur ,Female,Mental,0
+13,5,Urban,Age Not Stated,NAGALAND,Dimapur ,Female,Mental,0
+13,6,Rural,0-4,NAGALAND,Phek,Female,Mental,0
+13,6,Rural,5-9,NAGALAND,Phek,Female,Mental,3
+13,6,Rural,10-19,NAGALAND,Phek,Female,Mental,15
+13,6,Rural,20-29,NAGALAND,Phek,Female,Mental,26
+13,6,Rural,30-39,NAGALAND,Phek,Female,Mental,15
+13,6,Rural,40-49,NAGALAND,Phek,Female,Mental,16
+13,6,Rural,50-59,NAGALAND,Phek,Female,Mental,9
+13,6,Rural,60-69,NAGALAND,Phek,Female,Mental,7
+13,6,Rural,70-79,NAGALAND,Phek,Female,Mental,5
+13,6,Rural,80-89,NAGALAND,Phek,Female,Mental,1
+13,6,Rural,90+,NAGALAND,Phek,Female,Mental,0
+13,6,Rural,Age Not Stated,NAGALAND,Phek,Female,Mental,0
+13,6,Urban,0-4,NAGALAND,Phek,Female,Mental,0
+13,6,Urban,5-9,NAGALAND,Phek,Female,Mental,1
+13,6,Urban,10-19,NAGALAND,Phek,Female,Mental,2
+13,6,Urban,20-29,NAGALAND,Phek,Female,Mental,3
+13,6,Urban,30-39,NAGALAND,Phek,Female,Mental,2
+13,6,Urban,40-49,NAGALAND,Phek,Female,Mental,2
+13,6,Urban,50-59,NAGALAND,Phek,Female,Mental,0
+13,6,Urban,60-69,NAGALAND,Phek,Female,Mental,1
+13,6,Urban,70-79,NAGALAND,Phek,Female,Mental,1
+13,6,Urban,80-89,NAGALAND,Phek,Female,Mental,0
+13,6,Urban,90+,NAGALAND,Phek,Female,Mental,0
+13,6,Urban,Age Not Stated,NAGALAND,Phek,Female,Mental,0
+13,7,Rural,0-4,NAGALAND,Tuensang,Female,Mental,1
+13,7,Rural,5-9,NAGALAND,Tuensang,Female,Mental,3
+13,7,Rural,10-19,NAGALAND,Tuensang,Female,Mental,8
+13,7,Rural,20-29,NAGALAND,Tuensang,Female,Mental,10
+13,7,Rural,30-39,NAGALAND,Tuensang,Female,Mental,10
+13,7,Rural,40-49,NAGALAND,Tuensang,Female,Mental,15
+13,7,Rural,50-59,NAGALAND,Tuensang,Female,Mental,13
+13,7,Rural,60-69,NAGALAND,Tuensang,Female,Mental,4
+13,7,Rural,70-79,NAGALAND,Tuensang,Female,Mental,5
+13,7,Rural,80-89,NAGALAND,Tuensang,Female,Mental,0
+13,7,Rural,90+,NAGALAND,Tuensang,Female,Mental,0
+13,7,Rural,Age Not Stated,NAGALAND,Tuensang,Female,Mental,0
+13,7,Urban,0-4,NAGALAND,Tuensang,Female,Mental,0
+13,7,Urban,5-9,NAGALAND,Tuensang,Female,Mental,0
+13,7,Urban,10-19,NAGALAND,Tuensang,Female,Mental,3
+13,7,Urban,20-29,NAGALAND,Tuensang,Female,Mental,1
+13,7,Urban,30-39,NAGALAND,Tuensang,Female,Mental,3
+13,7,Urban,40-49,NAGALAND,Tuensang,Female,Mental,2
+13,7,Urban,50-59,NAGALAND,Tuensang,Female,Mental,0
+13,7,Urban,60-69,NAGALAND,Tuensang,Female,Mental,0
+13,7,Urban,70-79,NAGALAND,Tuensang,Female,Mental,0
+13,7,Urban,80-89,NAGALAND,Tuensang,Female,Mental,1
+13,7,Urban,90+,NAGALAND,Tuensang,Female,Mental,0
+13,7,Urban,Age Not Stated,NAGALAND,Tuensang,Female,Mental,0
+13,8,Rural,0-4,NAGALAND,Longleng,Female,Mental,0
+13,8,Rural,5-9,NAGALAND,Longleng,Female,Mental,3
+13,8,Rural,10-19,NAGALAND,Longleng,Female,Mental,5
+13,8,Rural,20-29,NAGALAND,Longleng,Female,Mental,1
+13,8,Rural,30-39,NAGALAND,Longleng,Female,Mental,2
+13,8,Rural,40-49,NAGALAND,Longleng,Female,Mental,5
+13,8,Rural,50-59,NAGALAND,Longleng,Female,Mental,2
+13,8,Rural,60-69,NAGALAND,Longleng,Female,Mental,4
+13,8,Rural,70-79,NAGALAND,Longleng,Female,Mental,5
+13,8,Rural,80-89,NAGALAND,Longleng,Female,Mental,0
+13,8,Rural,90+,NAGALAND,Longleng,Female,Mental,1
+13,8,Rural,Age Not Stated,NAGALAND,Longleng,Female,Mental,0
+13,8,Urban,0-4,NAGALAND,Longleng,Female,Mental,0
+13,8,Urban,5-9,NAGALAND,Longleng,Female,Mental,0
+13,8,Urban,10-19,NAGALAND,Longleng,Female,Mental,2
+13,8,Urban,20-29,NAGALAND,Longleng,Female,Mental,1
+13,8,Urban,30-39,NAGALAND,Longleng,Female,Mental,0
+13,8,Urban,40-49,NAGALAND,Longleng,Female,Mental,0
+13,8,Urban,50-59,NAGALAND,Longleng,Female,Mental,0
+13,8,Urban,60-69,NAGALAND,Longleng,Female,Mental,0
+13,8,Urban,70-79,NAGALAND,Longleng,Female,Mental,0
+13,8,Urban,80-89,NAGALAND,Longleng,Female,Mental,0
+13,8,Urban,90+,NAGALAND,Longleng,Female,Mental,0
+13,8,Urban,Age Not Stated,NAGALAND,Longleng,Female,Mental,0
+13,9,Rural,0-4,NAGALAND,Kiphire,Female,Mental,0
+13,9,Rural,5-9,NAGALAND,Kiphire,Female,Mental,1
+13,9,Rural,10-19,NAGALAND,Kiphire,Female,Mental,6
+13,9,Rural,20-29,NAGALAND,Kiphire,Female,Mental,4
+13,9,Rural,30-39,NAGALAND,Kiphire,Female,Mental,8
+13,9,Rural,40-49,NAGALAND,Kiphire,Female,Mental,5
+13,9,Rural,50-59,NAGALAND,Kiphire,Female,Mental,3
+13,9,Rural,60-69,NAGALAND,Kiphire,Female,Mental,1
+13,9,Rural,70-79,NAGALAND,Kiphire,Female,Mental,2
+13,9,Rural,80-89,NAGALAND,Kiphire,Female,Mental,0
+13,9,Rural,90+,NAGALAND,Kiphire,Female,Mental,0
+13,9,Rural,Age Not Stated,NAGALAND,Kiphire,Female,Mental,0
+13,9,Urban,0-4,NAGALAND,Kiphire,Female,Mental,0
+13,9,Urban,5-9,NAGALAND,Kiphire,Female,Mental,0
+13,9,Urban,10-19,NAGALAND,Kiphire,Female,Mental,2
+13,9,Urban,20-29,NAGALAND,Kiphire,Female,Mental,0
+13,9,Urban,30-39,NAGALAND,Kiphire,Female,Mental,2
+13,9,Urban,40-49,NAGALAND,Kiphire,Female,Mental,1
+13,9,Urban,50-59,NAGALAND,Kiphire,Female,Mental,1
+13,9,Urban,60-69,NAGALAND,Kiphire,Female,Mental,0
+13,9,Urban,70-79,NAGALAND,Kiphire,Female,Mental,0
+13,9,Urban,80-89,NAGALAND,Kiphire,Female,Mental,0
+13,9,Urban,90+,NAGALAND,Kiphire,Female,Mental,0
+13,9,Urban,Age Not Stated,NAGALAND,Kiphire,Female,Mental,0
+13,10,Rural,0-4,NAGALAND,Kohima,Female,Mental,1
+13,10,Rural,5-9,NAGALAND,Kohima,Female,Mental,1
+13,10,Rural,10-19,NAGALAND,Kohima,Female,Mental,13
+13,10,Rural,20-29,NAGALAND,Kohima,Female,Mental,11
+13,10,Rural,30-39,NAGALAND,Kohima,Female,Mental,12
+13,10,Rural,40-49,NAGALAND,Kohima,Female,Mental,13
+13,10,Rural,50-59,NAGALAND,Kohima,Female,Mental,10
+13,10,Rural,60-69,NAGALAND,Kohima,Female,Mental,7
+13,10,Rural,70-79,NAGALAND,Kohima,Female,Mental,3
+13,10,Rural,80-89,NAGALAND,Kohima,Female,Mental,0
+13,10,Rural,90+,NAGALAND,Kohima,Female,Mental,0
+13,10,Rural,Age Not Stated,NAGALAND,Kohima,Female,Mental,1
+13,10,Urban,0-4,NAGALAND,Kohima,Female,Mental,1
+13,10,Urban,5-9,NAGALAND,Kohima,Female,Mental,1
+13,10,Urban,10-19,NAGALAND,Kohima,Female,Mental,8
+13,10,Urban,20-29,NAGALAND,Kohima,Female,Mental,7
+13,10,Urban,30-39,NAGALAND,Kohima,Female,Mental,12
+13,10,Urban,40-49,NAGALAND,Kohima,Female,Mental,7
+13,10,Urban,50-59,NAGALAND,Kohima,Female,Mental,5
+13,10,Urban,60-69,NAGALAND,Kohima,Female,Mental,3
+13,10,Urban,70-79,NAGALAND,Kohima,Female,Mental,0
+13,10,Urban,80-89,NAGALAND,Kohima,Female,Mental,1
+13,10,Urban,90+,NAGALAND,Kohima,Female,Mental,0
+13,10,Urban,Age Not Stated,NAGALAND,Kohima,Female,Mental,0
+13,11,Rural,0-4,NAGALAND,Peren,Female,Mental,0
+13,11,Rural,5-9,NAGALAND,Peren,Female,Mental,3
+13,11,Rural,10-19,NAGALAND,Peren,Female,Mental,11
+13,11,Rural,20-29,NAGALAND,Peren,Female,Mental,8
+13,11,Rural,30-39,NAGALAND,Peren,Female,Mental,13
+13,11,Rural,40-49,NAGALAND,Peren,Female,Mental,3
+13,11,Rural,50-59,NAGALAND,Peren,Female,Mental,6
+13,11,Rural,60-69,NAGALAND,Peren,Female,Mental,5
+13,11,Rural,70-79,NAGALAND,Peren,Female,Mental,3
+13,11,Rural,80-89,NAGALAND,Peren,Female,Mental,0
+13,11,Rural,90+,NAGALAND,Peren,Female,Mental,0
+13,11,Rural,Age Not Stated,NAGALAND,Peren,Female,Mental,0
+13,11,Urban,0-4,NAGALAND,Peren,Female,Mental,0
+13,11,Urban,5-9,NAGALAND,Peren,Female,Mental,1
+13,11,Urban,10-19,NAGALAND,Peren,Female,Mental,1
+13,11,Urban,20-29,NAGALAND,Peren,Female,Mental,1
+13,11,Urban,30-39,NAGALAND,Peren,Female,Mental,0
+13,11,Urban,40-49,NAGALAND,Peren,Female,Mental,0
+13,11,Urban,50-59,NAGALAND,Peren,Female,Mental,1
+13,11,Urban,60-69,NAGALAND,Peren,Female,Mental,0
+13,11,Urban,70-79,NAGALAND,Peren,Female,Mental,0
+13,11,Urban,80-89,NAGALAND,Peren,Female,Mental,0
+13,11,Urban,90+,NAGALAND,Peren,Female,Mental,0
+13,11,Urban,Age Not Stated,NAGALAND,Peren,Female,Mental,0

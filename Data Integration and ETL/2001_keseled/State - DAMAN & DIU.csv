@@ -1,0 +1,481 @@
+State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
+25,1,Rural,0-4, DAMAN & DIU,Diu ,Male,In seeing,31
+25,1,Rural,5-9, DAMAN & DIU,Diu ,Male,In seeing,28
+25,1,Rural,10-19, DAMAN & DIU,Diu ,Male,In seeing,41
+25,1,Rural,20-29, DAMAN & DIU,Diu ,Male,In seeing,34
+25,1,Rural,30-39, DAMAN & DIU,Diu ,Male,In seeing,38
+25,1,Rural,40-49, DAMAN & DIU,Diu ,Male,In seeing,21
+25,1,Rural,50-59, DAMAN & DIU,Diu ,Male,In seeing,18
+25,1,Rural,60-69, DAMAN & DIU,Diu ,Male,In seeing,10
+25,1,Rural,70-79, DAMAN & DIU,Diu ,Male,In seeing,4
+25,1,Rural,80-89, DAMAN & DIU,Diu ,Male,In seeing,2
+25,1,Rural,90+, DAMAN & DIU,Diu ,Male,In seeing,0
+25,1,Rural,Age not stated, DAMAN & DIU,Diu ,Male,In seeing,0
+25,1,Urban,0-4, DAMAN & DIU,Diu ,Male,In seeing,19
+25,1,Urban,5-9, DAMAN & DIU,Diu ,Male,In seeing,17
+25,1,Urban,10-19, DAMAN & DIU,Diu ,Male,In seeing,42
+25,1,Urban,20-29, DAMAN & DIU,Diu ,Male,In seeing,20
+25,1,Urban,30-39, DAMAN & DIU,Diu ,Male,In seeing,23
+25,1,Urban,40-49, DAMAN & DIU,Diu ,Male,In seeing,17
+25,1,Urban,50-59, DAMAN & DIU,Diu ,Male,In seeing,12
+25,1,Urban,60-69, DAMAN & DIU,Diu ,Male,In seeing,9
+25,1,Urban,70-79, DAMAN & DIU,Diu ,Male,In seeing,6
+25,1,Urban,80-89, DAMAN & DIU,Diu ,Male,In seeing,4
+25,1,Urban,90+, DAMAN & DIU,Diu ,Male,In seeing,0
+25,1,Urban,Age not stated, DAMAN & DIU,Diu ,Male,In seeing,0
+25,2,Rural,0-4, DAMAN & DIU,Daman ,Male,In seeing,20
+25,2,Rural,5-9, DAMAN & DIU,Daman ,Male,In seeing,22
+25,2,Rural,10-19, DAMAN & DIU,Daman ,Male,In seeing,76
+25,2,Rural,20-29, DAMAN & DIU,Daman ,Male,In seeing,214
+25,2,Rural,30-39, DAMAN & DIU,Daman ,Male,In seeing,87
+25,2,Rural,40-49, DAMAN & DIU,Daman ,Male,In seeing,42
+25,2,Rural,50-59, DAMAN & DIU,Daman ,Male,In seeing,15
+25,2,Rural,60-69, DAMAN & DIU,Daman ,Male,In seeing,15
+25,2,Rural,70-79, DAMAN & DIU,Daman ,Male,In seeing,10
+25,2,Rural,80-89, DAMAN & DIU,Daman ,Male,In seeing,2
+25,2,Rural,90+, DAMAN & DIU,Daman ,Male,In seeing,0
+25,2,Rural,Age not stated, DAMAN & DIU,Daman ,Male,In seeing,0
+25,2,Urban,0-4, DAMAN & DIU,Daman ,Male,In seeing,10
+25,2,Urban,5-9, DAMAN & DIU,Daman ,Male,In seeing,12
+25,2,Urban,10-19, DAMAN & DIU,Daman ,Male,In seeing,18
+25,2,Urban,20-29, DAMAN & DIU,Daman ,Male,In seeing,40
+25,2,Urban,30-39, DAMAN & DIU,Daman ,Male,In seeing,33
+25,2,Urban,40-49, DAMAN & DIU,Daman ,Male,In seeing,19
+25,2,Urban,50-59, DAMAN & DIU,Daman ,Male,In seeing,17
+25,2,Urban,60-69, DAMAN & DIU,Daman ,Male,In seeing,10
+25,2,Urban,70-79, DAMAN & DIU,Daman ,Male,In seeing,6
+25,2,Urban,80-89, DAMAN & DIU,Daman ,Male,In seeing,3
+25,2,Urban,90+, DAMAN & DIU,Daman ,Male,In seeing,2
+25,2,Urban,Age not stated, DAMAN & DIU,Daman ,Male,In seeing,0
+25,1,Rural,0-4, DAMAN & DIU,Diu ,Female,In seeing,25
+25,1,Rural,5-9, DAMAN & DIU,Diu ,Female,In seeing,22
+25,1,Rural,10-19, DAMAN & DIU,Diu ,Female,In seeing,33
+25,1,Rural,20-29, DAMAN & DIU,Diu ,Female,In seeing,38
+25,1,Rural,30-39, DAMAN & DIU,Diu ,Female,In seeing,23
+25,1,Rural,40-49, DAMAN & DIU,Diu ,Female,In seeing,19
+25,1,Rural,50-59, DAMAN & DIU,Diu ,Female,In seeing,15
+25,1,Rural,60-69, DAMAN & DIU,Diu ,Female,In seeing,15
+25,1,Rural,70-79, DAMAN & DIU,Diu ,Female,In seeing,6
+25,1,Rural,80-89, DAMAN & DIU,Diu ,Female,In seeing,1
+25,1,Rural,90+, DAMAN & DIU,Diu ,Female,In seeing,4
+25,1,Rural,Age not stated, DAMAN & DIU,Diu ,Female,In seeing,0
+25,1,Urban,0-4, DAMAN & DIU,Diu ,Female,In seeing,18
+25,1,Urban,5-9, DAMAN & DIU,Diu ,Female,In seeing,24
+25,1,Urban,10-19, DAMAN & DIU,Diu ,Female,In seeing,46
+25,1,Urban,20-29, DAMAN & DIU,Diu ,Female,In seeing,45
+25,1,Urban,30-39, DAMAN & DIU,Diu ,Female,In seeing,27
+25,1,Urban,40-49, DAMAN & DIU,Diu ,Female,In seeing,18
+25,1,Urban,50-59, DAMAN & DIU,Diu ,Female,In seeing,17
+25,1,Urban,60-69, DAMAN & DIU,Diu ,Female,In seeing,19
+25,1,Urban,70-79, DAMAN & DIU,Diu ,Female,In seeing,17
+25,1,Urban,80-89, DAMAN & DIU,Diu ,Female,In seeing,12
+25,1,Urban,90+, DAMAN & DIU,Diu ,Female,In seeing,2
+25,1,Urban,Age not stated, DAMAN & DIU,Diu ,Female,In seeing,0
+25,2,Rural,0-4, DAMAN & DIU,Daman ,Female,In seeing,29
+25,2,Rural,5-9, DAMAN & DIU,Daman ,Female,In seeing,15
+25,2,Rural,10-19, DAMAN & DIU,Daman ,Female,In seeing,38
+25,2,Rural,20-29, DAMAN & DIU,Daman ,Female,In seeing,54
+25,2,Rural,30-39, DAMAN & DIU,Daman ,Female,In seeing,25
+25,2,Rural,40-49, DAMAN & DIU,Daman ,Female,In seeing,26
+25,2,Rural,50-59, DAMAN & DIU,Daman ,Female,In seeing,17
+25,2,Rural,60-69, DAMAN & DIU,Daman ,Female,In seeing,15
+25,2,Rural,70-79, DAMAN & DIU,Daman ,Female,In seeing,7
+25,2,Rural,80-89, DAMAN & DIU,Daman ,Female,In seeing,3
+25,2,Rural,90+, DAMAN & DIU,Daman ,Female,In seeing,1
+25,2,Rural,Age not stated, DAMAN & DIU,Daman ,Female,In seeing,0
+25,2,Urban,0-4, DAMAN & DIU,Daman ,Female,In seeing,5
+25,2,Urban,5-9, DAMAN & DIU,Daman ,Female,In seeing,3
+25,2,Urban,10-19, DAMAN & DIU,Daman ,Female,In seeing,26
+25,2,Urban,20-29, DAMAN & DIU,Daman ,Female,In seeing,29
+25,2,Urban,30-39, DAMAN & DIU,Daman ,Female,In seeing,23
+25,2,Urban,40-49, DAMAN & DIU,Daman ,Female,In seeing,18
+25,2,Urban,50-59, DAMAN & DIU,Daman ,Female,In seeing,16
+25,2,Urban,60-69, DAMAN & DIU,Daman ,Female,In seeing,15
+25,2,Urban,70-79, DAMAN & DIU,Daman ,Female,In seeing,11
+25,2,Urban,80-89, DAMAN & DIU,Daman ,Female,In seeing,6
+25,2,Urban,90+, DAMAN & DIU,Daman ,Female,In seeing,1
+25,2,Urban,Age not stated, DAMAN & DIU,Daman ,Female,In seeing,0
+25,1,Rural,0-4, DAMAN & DIU,Diu ,Male,In speech,0
+25,1,Rural,5-9, DAMAN & DIU,Diu ,Male,In speech,5
+25,1,Rural,10-19, DAMAN & DIU,Diu ,Male,In speech,11
+25,1,Rural,20-29, DAMAN & DIU,Diu ,Male,In speech,3
+25,1,Rural,30-39, DAMAN & DIU,Diu ,Male,In speech,2
+25,1,Rural,40-49, DAMAN & DIU,Diu ,Male,In speech,1
+25,1,Rural,50-59, DAMAN & DIU,Diu ,Male,In speech,1
+25,1,Rural,60-69, DAMAN & DIU,Diu ,Male,In speech,0
+25,1,Rural,70-79, DAMAN & DIU,Diu ,Male,In speech,0
+25,1,Rural,80-89, DAMAN & DIU,Diu ,Male,In speech,0
+25,1,Rural,90+, DAMAN & DIU,Diu ,Male,In speech,0
+25,1,Rural,Age not stated, DAMAN & DIU,Diu ,Male,In speech,0
+25,1,Urban,0-4, DAMAN & DIU,Diu ,Male,In speech,0
+25,1,Urban,5-9, DAMAN & DIU,Diu ,Male,In speech,2
+25,1,Urban,10-19, DAMAN & DIU,Diu ,Male,In speech,4
+25,1,Urban,20-29, DAMAN & DIU,Diu ,Male,In speech,3
+25,1,Urban,30-39, DAMAN & DIU,Diu ,Male,In speech,6
+25,1,Urban,40-49, DAMAN & DIU,Diu ,Male,In speech,1
+25,1,Urban,50-59, DAMAN & DIU,Diu ,Male,In speech,0
+25,1,Urban,60-69, DAMAN & DIU,Diu ,Male,In speech,1
+25,1,Urban,70-79, DAMAN & DIU,Diu ,Male,In speech,0
+25,1,Urban,80-89, DAMAN & DIU,Diu ,Male,In speech,0
+25,1,Urban,90+, DAMAN & DIU,Diu ,Male,In speech,0
+25,1,Urban,Age not stated, DAMAN & DIU,Diu ,Male,In speech,0
+25,2,Rural,0-4, DAMAN & DIU,Daman ,Male,In speech,0
+25,2,Rural,5-9, DAMAN & DIU,Daman ,Male,In speech,7
+25,2,Rural,10-19, DAMAN & DIU,Daman ,Male,In speech,5
+25,2,Rural,20-29, DAMAN & DIU,Daman ,Male,In speech,14
+25,2,Rural,30-39, DAMAN & DIU,Daman ,Male,In speech,5
+25,2,Rural,40-49, DAMAN & DIU,Daman ,Male,In speech,3
+25,2,Rural,50-59, DAMAN & DIU,Daman ,Male,In speech,2
+25,2,Rural,60-69, DAMAN & DIU,Daman ,Male,In speech,3
+25,2,Rural,70-79, DAMAN & DIU,Daman ,Male,In speech,0
+25,2,Rural,80-89, DAMAN & DIU,Daman ,Male,In speech,0
+25,2,Rural,90+, DAMAN & DIU,Daman ,Male,In speech,0
+25,2,Rural,Age not stated, DAMAN & DIU,Daman ,Male,In speech,0
+25,2,Urban,0-4, DAMAN & DIU,Daman ,Male,In speech,0
+25,2,Urban,5-9, DAMAN & DIU,Daman ,Male,In speech,1
+25,2,Urban,10-19, DAMAN & DIU,Daman ,Male,In speech,5
+25,2,Urban,20-29, DAMAN & DIU,Daman ,Male,In speech,7
+25,2,Urban,30-39, DAMAN & DIU,Daman ,Male,In speech,4
+25,2,Urban,40-49, DAMAN & DIU,Daman ,Male,In speech,5
+25,2,Urban,50-59, DAMAN & DIU,Daman ,Male,In speech,5
+25,2,Urban,60-69, DAMAN & DIU,Daman ,Male,In speech,0
+25,2,Urban,70-79, DAMAN & DIU,Daman ,Male,In speech,0
+25,2,Urban,80-89, DAMAN & DIU,Daman ,Male,In speech,0
+25,2,Urban,90+, DAMAN & DIU,Daman ,Male,In speech,0
+25,2,Urban,Age not stated, DAMAN & DIU,Daman ,Male,In speech,0
+25,1,Rural,0-4, DAMAN & DIU,Diu ,Female,In speech,1
+25,1,Rural,5-9, DAMAN & DIU,Diu ,Female,In speech,3
+25,1,Rural,10-19, DAMAN & DIU,Diu ,Female,In speech,5
+25,1,Rural,20-29, DAMAN & DIU,Diu ,Female,In speech,4
+25,1,Rural,30-39, DAMAN & DIU,Diu ,Female,In speech,2
+25,1,Rural,40-49, DAMAN & DIU,Diu ,Female,In speech,2
+25,1,Rural,50-59, DAMAN & DIU,Diu ,Female,In speech,0
+25,1,Rural,60-69, DAMAN & DIU,Diu ,Female,In speech,0
+25,1,Rural,70-79, DAMAN & DIU,Diu ,Female,In speech,2
+25,1,Rural,80-89, DAMAN & DIU,Diu ,Female,In speech,0
+25,1,Rural,90+, DAMAN & DIU,Diu ,Female,In speech,0
+25,1,Rural,Age not stated, DAMAN & DIU,Diu ,Female,In speech,0
+25,1,Urban,0-4, DAMAN & DIU,Diu ,Female,In speech,0
+25,1,Urban,5-9, DAMAN & DIU,Diu ,Female,In speech,0
+25,1,Urban,10-19, DAMAN & DIU,Diu ,Female,In speech,6
+25,1,Urban,20-29, DAMAN & DIU,Diu ,Female,In speech,1
+25,1,Urban,30-39, DAMAN & DIU,Diu ,Female,In speech,0
+25,1,Urban,40-49, DAMAN & DIU,Diu ,Female,In speech,1
+25,1,Urban,50-59, DAMAN & DIU,Diu ,Female,In speech,0
+25,1,Urban,60-69, DAMAN & DIU,Diu ,Female,In speech,1
+25,1,Urban,70-79, DAMAN & DIU,Diu ,Female,In speech,0
+25,1,Urban,80-89, DAMAN & DIU,Diu ,Female,In speech,0
+25,1,Urban,90+, DAMAN & DIU,Diu ,Female,In speech,0
+25,1,Urban,Age not stated, DAMAN & DIU,Diu ,Female,In speech,0
+25,2,Rural,0-4, DAMAN & DIU,Daman ,Female,In speech,1
+25,2,Rural,5-9, DAMAN & DIU,Daman ,Female,In speech,2
+25,2,Rural,10-19, DAMAN & DIU,Daman ,Female,In speech,6
+25,2,Rural,20-29, DAMAN & DIU,Daman ,Female,In speech,9
+25,2,Rural,30-39, DAMAN & DIU,Daman ,Female,In speech,4
+25,2,Rural,40-49, DAMAN & DIU,Daman ,Female,In speech,2
+25,2,Rural,50-59, DAMAN & DIU,Daman ,Female,In speech,3
+25,2,Rural,60-69, DAMAN & DIU,Daman ,Female,In speech,3
+25,2,Rural,70-79, DAMAN & DIU,Daman ,Female,In speech,2
+25,2,Rural,80-89, DAMAN & DIU,Daman ,Female,In speech,0
+25,2,Rural,90+, DAMAN & DIU,Daman ,Female,In speech,0
+25,2,Rural,Age not stated, DAMAN & DIU,Daman ,Female,In speech,0
+25,2,Urban,0-4, DAMAN & DIU,Daman ,Female,In speech,1
+25,2,Urban,5-9, DAMAN & DIU,Daman ,Female,In speech,2
+25,2,Urban,10-19, DAMAN & DIU,Daman ,Female,In speech,7
+25,2,Urban,20-29, DAMAN & DIU,Daman ,Female,In speech,2
+25,2,Urban,30-39, DAMAN & DIU,Daman ,Female,In speech,4
+25,2,Urban,40-49, DAMAN & DIU,Daman ,Female,In speech,0
+25,2,Urban,50-59, DAMAN & DIU,Daman ,Female,In speech,1
+25,2,Urban,60-69, DAMAN & DIU,Daman ,Female,In speech,2
+25,2,Urban,70-79, DAMAN & DIU,Daman ,Female,In speech,3
+25,2,Urban,80-89, DAMAN & DIU,Daman ,Female,In speech,1
+25,2,Urban,90+, DAMAN & DIU,Daman ,Female,In speech,0
+25,2,Urban,Age not stated, DAMAN & DIU,Daman ,Female,In speech,0
+25,1,Rural,0-4, DAMAN & DIU,Diu ,Male,In hearing,0
+25,1,Rural,5-9, DAMAN & DIU,Diu ,Male,In hearing,0
+25,1,Rural,10-19, DAMAN & DIU,Diu ,Male,In hearing,0
+25,1,Rural,20-29, DAMAN & DIU,Diu ,Male,In hearing,0
+25,1,Rural,30-39, DAMAN & DIU,Diu ,Male,In hearing,0
+25,1,Rural,40-49, DAMAN & DIU,Diu ,Male,In hearing,0
+25,1,Rural,50-59, DAMAN & DIU,Diu ,Male,In hearing,1
+25,1,Rural,60-69, DAMAN & DIU,Diu ,Male,In hearing,3
+25,1,Rural,70-79, DAMAN & DIU,Diu ,Male,In hearing,2
+25,1,Rural,80-89, DAMAN & DIU,Diu ,Male,In hearing,0
+25,1,Rural,90+, DAMAN & DIU,Diu ,Male,In hearing,0
+25,1,Rural,Age not stated, DAMAN & DIU,Diu ,Male,In hearing,0
+25,1,Urban,0-4, DAMAN & DIU,Diu ,Male,In hearing,0
+25,1,Urban,5-9, DAMAN & DIU,Diu ,Male,In hearing,1
+25,1,Urban,10-19, DAMAN & DIU,Diu ,Male,In hearing,0
+25,1,Urban,20-29, DAMAN & DIU,Diu ,Male,In hearing,1
+25,1,Urban,30-39, DAMAN & DIU,Diu ,Male,In hearing,1
+25,1,Urban,40-49, DAMAN & DIU,Diu ,Male,In hearing,0
+25,1,Urban,50-59, DAMAN & DIU,Diu ,Male,In hearing,2
+25,1,Urban,60-69, DAMAN & DIU,Diu ,Male,In hearing,3
+25,1,Urban,70-79, DAMAN & DIU,Diu ,Male,In hearing,3
+25,1,Urban,80-89, DAMAN & DIU,Diu ,Male,In hearing,1
+25,1,Urban,90+, DAMAN & DIU,Diu ,Male,In hearing,0
+25,1,Urban,Age not stated, DAMAN & DIU,Diu ,Male,In hearing,0
+25,2,Rural,0-4, DAMAN & DIU,Daman ,Male,In hearing,0
+25,2,Rural,5-9, DAMAN & DIU,Daman ,Male,In hearing,0
+25,2,Rural,10-19, DAMAN & DIU,Daman ,Male,In hearing,0
+25,2,Rural,20-29, DAMAN & DIU,Daman ,Male,In hearing,6
+25,2,Rural,30-39, DAMAN & DIU,Daman ,Male,In hearing,1
+25,2,Rural,40-49, DAMAN & DIU,Daman ,Male,In hearing,1
+25,2,Rural,50-59, DAMAN & DIU,Daman ,Male,In hearing,3
+25,2,Rural,60-69, DAMAN & DIU,Daman ,Male,In hearing,2
+25,2,Rural,70-79, DAMAN & DIU,Daman ,Male,In hearing,1
+25,2,Rural,80-89, DAMAN & DIU,Daman ,Male,In hearing,2
+25,2,Rural,90+, DAMAN & DIU,Daman ,Male,In hearing,0
+25,2,Rural,Age not stated, DAMAN & DIU,Daman ,Male,In hearing,0
+25,2,Urban,0-4, DAMAN & DIU,Daman ,Male,In hearing,0
+25,2,Urban,5-9, DAMAN & DIU,Daman ,Male,In hearing,3
+25,2,Urban,10-19, DAMAN & DIU,Daman ,Male,In hearing,1
+25,2,Urban,20-29, DAMAN & DIU,Daman ,Male,In hearing,1
+25,2,Urban,30-39, DAMAN & DIU,Daman ,Male,In hearing,0
+25,2,Urban,40-49, DAMAN & DIU,Daman ,Male,In hearing,2
+25,2,Urban,50-59, DAMAN & DIU,Daman ,Male,In hearing,0
+25,2,Urban,60-69, DAMAN & DIU,Daman ,Male,In hearing,1
+25,2,Urban,70-79, DAMAN & DIU,Daman ,Male,In hearing,3
+25,2,Urban,80-89, DAMAN & DIU,Daman ,Male,In hearing,0
+25,2,Urban,90+, DAMAN & DIU,Daman ,Male,In hearing,0
+25,2,Urban,Age not stated, DAMAN & DIU,Daman ,Male,In hearing,0
+25,1,Rural,0-4, DAMAN & DIU,Diu ,Female,In hearing,0
+25,1,Rural,5-9, DAMAN & DIU,Diu ,Female,In hearing,1
+25,1,Rural,10-19, DAMAN & DIU,Diu ,Female,In hearing,0
+25,1,Rural,20-29, DAMAN & DIU,Diu ,Female,In hearing,0
+25,1,Rural,30-39, DAMAN & DIU,Diu ,Female,In hearing,1
+25,1,Rural,40-49, DAMAN & DIU,Diu ,Female,In hearing,1
+25,1,Rural,50-59, DAMAN & DIU,Diu ,Female,In hearing,2
+25,1,Rural,60-69, DAMAN & DIU,Diu ,Female,In hearing,5
+25,1,Rural,70-79, DAMAN & DIU,Diu ,Female,In hearing,3
+25,1,Rural,80-89, DAMAN & DIU,Diu ,Female,In hearing,2
+25,1,Rural,90+, DAMAN & DIU,Diu ,Female,In hearing,0
+25,1,Rural,Age not stated, DAMAN & DIU,Diu ,Female,In hearing,0
+25,1,Urban,0-4, DAMAN & DIU,Diu ,Female,In hearing,0
+25,1,Urban,5-9, DAMAN & DIU,Diu ,Female,In hearing,0
+25,1,Urban,10-19, DAMAN & DIU,Diu ,Female,In hearing,0
+25,1,Urban,20-29, DAMAN & DIU,Diu ,Female,In hearing,0
+25,1,Urban,30-39, DAMAN & DIU,Diu ,Female,In hearing,2
+25,1,Urban,40-49, DAMAN & DIU,Diu ,Female,In hearing,1
+25,1,Urban,50-59, DAMAN & DIU,Diu ,Female,In hearing,4
+25,1,Urban,60-69, DAMAN & DIU,Diu ,Female,In hearing,4
+25,1,Urban,70-79, DAMAN & DIU,Diu ,Female,In hearing,6
+25,1,Urban,80-89, DAMAN & DIU,Diu ,Female,In hearing,4
+25,1,Urban,90+, DAMAN & DIU,Diu ,Female,In hearing,0
+25,1,Urban,Age not stated, DAMAN & DIU,Diu ,Female,In hearing,0
+25,2,Rural,0-4, DAMAN & DIU,Daman ,Female,In hearing,0
+25,2,Rural,5-9, DAMAN & DIU,Daman ,Female,In hearing,0
+25,2,Rural,10-19, DAMAN & DIU,Daman ,Female,In hearing,1
+25,2,Rural,20-29, DAMAN & DIU,Daman ,Female,In hearing,0
+25,2,Rural,30-39, DAMAN & DIU,Daman ,Female,In hearing,4
+25,2,Rural,40-49, DAMAN & DIU,Daman ,Female,In hearing,1
+25,2,Rural,50-59, DAMAN & DIU,Daman ,Female,In hearing,3
+25,2,Rural,60-69, DAMAN & DIU,Daman ,Female,In hearing,3
+25,2,Rural,70-79, DAMAN & DIU,Daman ,Female,In hearing,4
+25,2,Rural,80-89, DAMAN & DIU,Daman ,Female,In hearing,0
+25,2,Rural,90+, DAMAN & DIU,Daman ,Female,In hearing,2
+25,2,Rural,Age not stated, DAMAN & DIU,Daman ,Female,In hearing,0
+25,2,Urban,0-4, DAMAN & DIU,Daman ,Female,In hearing,1
+25,2,Urban,5-9, DAMAN & DIU,Daman ,Female,In hearing,1
+25,2,Urban,10-19, DAMAN & DIU,Daman ,Female,In hearing,1
+25,2,Urban,20-29, DAMAN & DIU,Daman ,Female,In hearing,0
+25,2,Urban,30-39, DAMAN & DIU,Daman ,Female,In hearing,3
+25,2,Urban,40-49, DAMAN & DIU,Daman ,Female,In hearing,2
+25,2,Urban,50-59, DAMAN & DIU,Daman ,Female,In hearing,2
+25,2,Urban,60-69, DAMAN & DIU,Daman ,Female,In hearing,4
+25,2,Urban,70-79, DAMAN & DIU,Daman ,Female,In hearing,1
+25,2,Urban,80-89, DAMAN & DIU,Daman ,Female,In hearing,6
+25,2,Urban,90+, DAMAN & DIU,Daman ,Female,In hearing,0
+25,2,Urban,Age not stated, DAMAN & DIU,Daman ,Female,In hearing,0
+25,1,Rural,0-4, DAMAN & DIU,Diu ,Male,In movement,3
+25,1,Rural,5-9, DAMAN & DIU,Diu ,Male,In movement,9
+25,1,Rural,10-19, DAMAN & DIU,Diu ,Male,In movement,25
+25,1,Rural,20-29, DAMAN & DIU,Diu ,Male,In movement,28
+25,1,Rural,30-39, DAMAN & DIU,Diu ,Male,In movement,19
+25,1,Rural,40-49, DAMAN & DIU,Diu ,Male,In movement,8
+25,1,Rural,50-59, DAMAN & DIU,Diu ,Male,In movement,9
+25,1,Rural,60-69, DAMAN & DIU,Diu ,Male,In movement,14
+25,1,Rural,70-79, DAMAN & DIU,Diu ,Male,In movement,5
+25,1,Rural,80-89, DAMAN & DIU,Diu ,Male,In movement,1
+25,1,Rural,90+, DAMAN & DIU,Diu ,Male,In movement,0
+25,1,Rural,Age not stated, DAMAN & DIU,Diu ,Male,In movement,0
+25,1,Urban,0-4, DAMAN & DIU,Diu ,Male,In movement,0
+25,1,Urban,5-9, DAMAN & DIU,Diu ,Male,In movement,3
+25,1,Urban,10-19, DAMAN & DIU,Diu ,Male,In movement,13
+25,1,Urban,20-29, DAMAN & DIU,Diu ,Male,In movement,10
+25,1,Urban,30-39, DAMAN & DIU,Diu ,Male,In movement,8
+25,1,Urban,40-49, DAMAN & DIU,Diu ,Male,In movement,7
+25,1,Urban,50-59, DAMAN & DIU,Diu ,Male,In movement,12
+25,1,Urban,60-69, DAMAN & DIU,Diu ,Male,In movement,10
+25,1,Urban,70-79, DAMAN & DIU,Diu ,Male,In movement,5
+25,1,Urban,80-89, DAMAN & DIU,Diu ,Male,In movement,1
+25,1,Urban,90+, DAMAN & DIU,Diu ,Male,In movement,0
+25,1,Urban,Age not stated, DAMAN & DIU,Diu ,Male,In movement,0
+25,2,Rural,0-4, DAMAN & DIU,Daman ,Male,In movement,3
+25,2,Rural,5-9, DAMAN & DIU,Daman ,Male,In movement,8
+25,2,Rural,10-19, DAMAN & DIU,Daman ,Male,In movement,25
+25,2,Rural,20-29, DAMAN & DIU,Daman ,Male,In movement,38
+25,2,Rural,30-39, DAMAN & DIU,Daman ,Male,In movement,14
+25,2,Rural,40-49, DAMAN & DIU,Daman ,Male,In movement,10
+25,2,Rural,50-59, DAMAN & DIU,Daman ,Male,In movement,12
+25,2,Rural,60-69, DAMAN & DIU,Daman ,Male,In movement,16
+25,2,Rural,70-79, DAMAN & DIU,Daman ,Male,In movement,2
+25,2,Rural,80-89, DAMAN & DIU,Daman ,Male,In movement,2
+25,2,Rural,90+, DAMAN & DIU,Daman ,Male,In movement,2
+25,2,Rural,Age not stated, DAMAN & DIU,Daman ,Male,In movement,0
+25,2,Urban,0-4, DAMAN & DIU,Daman ,Male,In movement,0
+25,2,Urban,5-9, DAMAN & DIU,Daman ,Male,In movement,4
+25,2,Urban,10-19, DAMAN & DIU,Daman ,Male,In movement,8
+25,2,Urban,20-29, DAMAN & DIU,Daman ,Male,In movement,21
+25,2,Urban,30-39, DAMAN & DIU,Daman ,Male,In movement,11
+25,2,Urban,40-49, DAMAN & DIU,Daman ,Male,In movement,9
+25,2,Urban,50-59, DAMAN & DIU,Daman ,Male,In movement,9
+25,2,Urban,60-69, DAMAN & DIU,Daman ,Male,In movement,18
+25,2,Urban,70-79, DAMAN & DIU,Daman ,Male,In movement,10
+25,2,Urban,80-89, DAMAN & DIU,Daman ,Male,In movement,2
+25,2,Urban,90+, DAMAN & DIU,Daman ,Male,In movement,0
+25,2,Urban,Age not stated, DAMAN & DIU,Daman ,Male,In movement,0
+25,1,Rural,0-4, DAMAN & DIU,Diu ,Female,In movement,3
+25,1,Rural,5-9, DAMAN & DIU,Diu ,Female,In movement,4
+25,1,Rural,10-19, DAMAN & DIU,Diu ,Female,In movement,16
+25,1,Rural,20-29, DAMAN & DIU,Diu ,Female,In movement,11
+25,1,Rural,30-39, DAMAN & DIU,Diu ,Female,In movement,5
+25,1,Rural,40-49, DAMAN & DIU,Diu ,Female,In movement,2
+25,1,Rural,50-59, DAMAN & DIU,Diu ,Female,In movement,12
+25,1,Rural,60-69, DAMAN & DIU,Diu ,Female,In movement,13
+25,1,Rural,70-79, DAMAN & DIU,Diu ,Female,In movement,9
+25,1,Rural,80-89, DAMAN & DIU,Diu ,Female,In movement,0
+25,1,Rural,90+, DAMAN & DIU,Diu ,Female,In movement,2
+25,1,Rural,Age not stated, DAMAN & DIU,Diu ,Female,In movement,0
+25,1,Urban,0-4, DAMAN & DIU,Diu ,Female,In movement,0
+25,1,Urban,5-9, DAMAN & DIU,Diu ,Female,In movement,1
+25,1,Urban,10-19, DAMAN & DIU,Diu ,Female,In movement,7
+25,1,Urban,20-29, DAMAN & DIU,Diu ,Female,In movement,8
+25,1,Urban,30-39, DAMAN & DIU,Diu ,Female,In movement,2
+25,1,Urban,40-49, DAMAN & DIU,Diu ,Female,In movement,5
+25,1,Urban,50-59, DAMAN & DIU,Diu ,Female,In movement,5
+25,1,Urban,60-69, DAMAN & DIU,Diu ,Female,In movement,6
+25,1,Urban,70-79, DAMAN & DIU,Diu ,Female,In movement,8
+25,1,Urban,80-89, DAMAN & DIU,Diu ,Female,In movement,4
+25,1,Urban,90+, DAMAN & DIU,Diu ,Female,In movement,1
+25,1,Urban,Age not stated, DAMAN & DIU,Diu ,Female,In movement,0
+25,2,Rural,0-4, DAMAN & DIU,Daman ,Female,In movement,4
+25,2,Rural,5-9, DAMAN & DIU,Daman ,Female,In movement,8
+25,2,Rural,10-19, DAMAN & DIU,Daman ,Female,In movement,12
+25,2,Rural,20-29, DAMAN & DIU,Daman ,Female,In movement,20
+25,2,Rural,30-39, DAMAN & DIU,Daman ,Female,In movement,12
+25,2,Rural,40-49, DAMAN & DIU,Daman ,Female,In movement,5
+25,2,Rural,50-59, DAMAN & DIU,Daman ,Female,In movement,7
+25,2,Rural,60-69, DAMAN & DIU,Daman ,Female,In movement,10
+25,2,Rural,70-79, DAMAN & DIU,Daman ,Female,In movement,4
+25,2,Rural,80-89, DAMAN & DIU,Daman ,Female,In movement,1
+25,2,Rural,90+, DAMAN & DIU,Daman ,Female,In movement,0
+25,2,Rural,Age not stated, DAMAN & DIU,Daman ,Female,In movement,0
+25,2,Urban,0-4, DAMAN & DIU,Daman ,Female,In movement,0
+25,2,Urban,5-9, DAMAN & DIU,Daman ,Female,In movement,7
+25,2,Urban,10-19, DAMAN & DIU,Daman ,Female,In movement,9
+25,2,Urban,20-29, DAMAN & DIU,Daman ,Female,In movement,7
+25,2,Urban,30-39, DAMAN & DIU,Daman ,Female,In movement,4
+25,2,Urban,40-49, DAMAN & DIU,Daman ,Female,In movement,1
+25,2,Urban,50-59, DAMAN & DIU,Daman ,Female,In movement,7
+25,2,Urban,60-69, DAMAN & DIU,Daman ,Female,In movement,7
+25,2,Urban,70-79, DAMAN & DIU,Daman ,Female,In movement,12
+25,2,Urban,80-89, DAMAN & DIU,Daman ,Female,In movement,11
+25,2,Urban,90+, DAMAN & DIU,Daman ,Female,In movement,4
+25,2,Urban,Age not stated, DAMAN & DIU,Daman ,Female,In movement,0
+25,1,Rural,0-4, DAMAN & DIU,Diu ,Male,Mental,0
+25,1,Rural,5-9, DAMAN & DIU,Diu ,Male,Mental,5
+25,1,Rural,10-19, DAMAN & DIU,Diu ,Male,Mental,8
+25,1,Rural,20-29, DAMAN & DIU,Diu ,Male,Mental,7
+25,1,Rural,30-39, DAMAN & DIU,Diu ,Male,Mental,6
+25,1,Rural,40-49, DAMAN & DIU,Diu ,Male,Mental,0
+25,1,Rural,50-59, DAMAN & DIU,Diu ,Male,Mental,1
+25,1,Rural,60-69, DAMAN & DIU,Diu ,Male,Mental,2
+25,1,Rural,70-79, DAMAN & DIU,Diu ,Male,Mental,2
+25,1,Rural,80-89, DAMAN & DIU,Diu ,Male,Mental,0
+25,1,Rural,90+, DAMAN & DIU,Diu ,Male,Mental,0
+25,1,Rural,Age not stated, DAMAN & DIU,Diu ,Male,Mental,0
+25,1,Urban,0-4, DAMAN & DIU,Diu ,Male,Mental,0
+25,1,Urban,5-9, DAMAN & DIU,Diu ,Male,Mental,5
+25,1,Urban,10-19, DAMAN & DIU,Diu ,Male,Mental,14
+25,1,Urban,20-29, DAMAN & DIU,Diu ,Male,Mental,10
+25,1,Urban,30-39, DAMAN & DIU,Diu ,Male,Mental,4
+25,1,Urban,40-49, DAMAN & DIU,Diu ,Male,Mental,1
+25,1,Urban,50-59, DAMAN & DIU,Diu ,Male,Mental,3
+25,1,Urban,60-69, DAMAN & DIU,Diu ,Male,Mental,2
+25,1,Urban,70-79, DAMAN & DIU,Diu ,Male,Mental,0
+25,1,Urban,80-89, DAMAN & DIU,Diu ,Male,Mental,0
+25,1,Urban,90+, DAMAN & DIU,Diu ,Male,Mental,0
+25,1,Urban,Age not stated, DAMAN & DIU,Diu ,Male,Mental,0
+25,2,Rural,0-4, DAMAN & DIU,Daman ,Male,Mental,2
+25,2,Rural,5-9, DAMAN & DIU,Daman ,Male,Mental,2
+25,2,Rural,10-19, DAMAN & DIU,Daman ,Male,Mental,13
+25,2,Rural,20-29, DAMAN & DIU,Daman ,Male,Mental,13
+25,2,Rural,30-39, DAMAN & DIU,Daman ,Male,Mental,10
+25,2,Rural,40-49, DAMAN & DIU,Daman ,Male,Mental,4
+25,2,Rural,50-59, DAMAN & DIU,Daman ,Male,Mental,1
+25,2,Rural,60-69, DAMAN & DIU,Daman ,Male,Mental,0
+25,2,Rural,70-79, DAMAN & DIU,Daman ,Male,Mental,0
+25,2,Rural,80-89, DAMAN & DIU,Daman ,Male,Mental,0
+25,2,Rural,90+, DAMAN & DIU,Daman ,Male,Mental,0
+25,2,Rural,Age not stated, DAMAN & DIU,Daman ,Male,Mental,0
+25,2,Urban,0-4, DAMAN & DIU,Daman ,Male,Mental,0
+25,2,Urban,5-9, DAMAN & DIU,Daman ,Male,Mental,1
+25,2,Urban,10-19, DAMAN & DIU,Daman ,Male,Mental,7
+25,2,Urban,20-29, DAMAN & DIU,Daman ,Male,Mental,7
+25,2,Urban,30-39, DAMAN & DIU,Daman ,Male,Mental,7
+25,2,Urban,40-49, DAMAN & DIU,Daman ,Male,Mental,4
+25,2,Urban,50-59, DAMAN & DIU,Daman ,Male,Mental,2
+25,2,Urban,60-69, DAMAN & DIU,Daman ,Male,Mental,2
+25,2,Urban,70-79, DAMAN & DIU,Daman ,Male,Mental,0
+25,2,Urban,80-89, DAMAN & DIU,Daman ,Male,Mental,0
+25,2,Urban,90+, DAMAN & DIU,Daman ,Male,Mental,0
+25,2,Urban,Age not stated, DAMAN & DIU,Daman ,Male,Mental,0
+25,1,Rural,0-4, DAMAN & DIU,Diu ,Female,Mental,0
+25,1,Rural,5-9, DAMAN & DIU,Diu ,Female,Mental,1
+25,1,Rural,10-19, DAMAN & DIU,Diu ,Female,Mental,8
+25,1,Rural,20-29, DAMAN & DIU,Diu ,Female,Mental,4
+25,1,Rural,30-39, DAMAN & DIU,Diu ,Female,Mental,2
+25,1,Rural,40-49, DAMAN & DIU,Diu ,Female,Mental,2
+25,1,Rural,50-59, DAMAN & DIU,Diu ,Female,Mental,1
+25,1,Rural,60-69, DAMAN & DIU,Diu ,Female,Mental,3
+25,1,Rural,70-79, DAMAN & DIU,Diu ,Female,Mental,0
+25,1,Rural,80-89, DAMAN & DIU,Diu ,Female,Mental,0
+25,1,Rural,90+, DAMAN & DIU,Diu ,Female,Mental,1
+25,1,Rural,Age not stated, DAMAN & DIU,Diu ,Female,Mental,0
+25,1,Urban,0-4, DAMAN & DIU,Diu ,Female,Mental,1
+25,1,Urban,5-9, DAMAN & DIU,Diu ,Female,Mental,2
+25,1,Urban,10-19, DAMAN & DIU,Diu ,Female,Mental,3
+25,1,Urban,20-29, DAMAN & DIU,Diu ,Female,Mental,7
+25,1,Urban,30-39, DAMAN & DIU,Diu ,Female,Mental,6
+25,1,Urban,40-49, DAMAN & DIU,Diu ,Female,Mental,6
+25,1,Urban,50-59, DAMAN & DIU,Diu ,Female,Mental,0
+25,1,Urban,60-69, DAMAN & DIU,Diu ,Female,Mental,3
+25,1,Urban,70-79, DAMAN & DIU,Diu ,Female,Mental,2
+25,1,Urban,80-89, DAMAN & DIU,Diu ,Female,Mental,0
+25,1,Urban,90+, DAMAN & DIU,Diu ,Female,Mental,0
+25,1,Urban,Age not stated, DAMAN & DIU,Diu ,Female,Mental,0
+25,2,Rural,0-4, DAMAN & DIU,Daman ,Female,Mental,1
+25,2,Rural,5-9, DAMAN & DIU,Daman ,Female,Mental,3
+25,2,Rural,10-19, DAMAN & DIU,Daman ,Female,Mental,8
+25,2,Rural,20-29, DAMAN & DIU,Daman ,Female,Mental,11
+25,2,Rural,30-39, DAMAN & DIU,Daman ,Female,Mental,11
+25,2,Rural,40-49, DAMAN & DIU,Daman ,Female,Mental,3
+25,2,Rural,50-59, DAMAN & DIU,Daman ,Female,Mental,0
+25,2,Rural,60-69, DAMAN & DIU,Daman ,Female,Mental,2
+25,2,Rural,70-79, DAMAN & DIU,Daman ,Female,Mental,1
+25,2,Rural,80-89, DAMAN & DIU,Daman ,Female,Mental,0
+25,2,Rural,90+, DAMAN & DIU,Daman ,Female,Mental,0
+25,2,Rural,Age not stated, DAMAN & DIU,Daman ,Female,Mental,0
+25,2,Urban,0-4, DAMAN & DIU,Daman ,Female,Mental,3
+25,2,Urban,5-9, DAMAN & DIU,Daman ,Female,Mental,3
+25,2,Urban,10-19, DAMAN & DIU,Daman ,Female,Mental,6
+25,2,Urban,20-29, DAMAN & DIU,Daman ,Female,Mental,8
+25,2,Urban,30-39, DAMAN & DIU,Daman ,Female,Mental,7
+25,2,Urban,40-49, DAMAN & DIU,Daman ,Female,Mental,5
+25,2,Urban,50-59, DAMAN & DIU,Daman ,Female,Mental,3
+25,2,Urban,60-69, DAMAN & DIU,Daman ,Female,Mental,0
+25,2,Urban,70-79, DAMAN & DIU,Daman ,Female,Mental,2
+25,2,Urban,80-89, DAMAN & DIU,Daman ,Female,Mental,0
+25,2,Urban,90+, DAMAN & DIU,Daman ,Female,Mental,0
+25,2,Urban,Age not stated, DAMAN & DIU,Daman ,Female,Mental,0

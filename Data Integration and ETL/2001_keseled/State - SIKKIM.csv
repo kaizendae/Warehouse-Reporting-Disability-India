@@ -1,0 +1,961 @@
+State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
+11,1,Rural,0-4, SIKKIM,North ,Male,In seeing,32
+11,1,Rural,5-9, SIKKIM,North ,Male,In seeing,46
+11,1,Rural,10-19, SIKKIM,North ,Male,In seeing,83
+11,1,Rural,20-29, SIKKIM,North ,Male,In seeing,98
+11,1,Rural,30-39, SIKKIM,North ,Male,In seeing,88
+11,1,Rural,40-49, SIKKIM,North ,Male,In seeing,63
+11,1,Rural,50-59, SIKKIM,North ,Male,In seeing,39
+11,1,Rural,60-69, SIKKIM,North ,Male,In seeing,27
+11,1,Rural,70-79, SIKKIM,North ,Male,In seeing,19
+11,1,Rural,80-89, SIKKIM,North ,Male,In seeing,5
+11,1,Rural,90+, SIKKIM,North ,Male,In seeing,1
+11,1,Rural,Age not stated, SIKKIM,North ,Male,In seeing,18
+11,1,Urban,0-4, SIKKIM,North ,Male,In seeing,0
+11,1,Urban,5-9, SIKKIM,North ,Male,In seeing,1
+11,1,Urban,10-19, SIKKIM,North ,Male,In seeing,1
+11,1,Urban,20-29, SIKKIM,North ,Male,In seeing,1
+11,1,Urban,30-39, SIKKIM,North ,Male,In seeing,4
+11,1,Urban,40-49, SIKKIM,North ,Male,In seeing,1
+11,1,Urban,50-59, SIKKIM,North ,Male,In seeing,2
+11,1,Urban,60-69, SIKKIM,North ,Male,In seeing,0
+11,1,Urban,70-79, SIKKIM,North ,Male,In seeing,0
+11,1,Urban,80-89, SIKKIM,North ,Male,In seeing,0
+11,1,Urban,90+, SIKKIM,North ,Male,In seeing,0
+11,1,Urban,Age not stated, SIKKIM,North ,Male,In seeing,0
+11,2,Rural,0-4, SIKKIM,West ,Male,In seeing,111
+11,2,Rural,5-9, SIKKIM,West ,Male,In seeing,151
+11,2,Rural,10-19, SIKKIM,West ,Male,In seeing,276
+11,2,Rural,20-29, SIKKIM,West ,Male,In seeing,193
+11,2,Rural,30-39, SIKKIM,West ,Male,In seeing,164
+11,2,Rural,40-49, SIKKIM,West ,Male,In seeing,124
+11,2,Rural,50-59, SIKKIM,West ,Male,In seeing,109
+11,2,Rural,60-69, SIKKIM,West ,Male,In seeing,98
+11,2,Rural,70-79, SIKKIM,West ,Male,In seeing,55
+11,2,Rural,80-89, SIKKIM,West ,Male,In seeing,26
+11,2,Rural,90+, SIKKIM,West ,Male,In seeing,5
+11,2,Rural,Age not stated, SIKKIM,West ,Male,In seeing,4
+11,2,Urban,0-4, SIKKIM,West ,Male,In seeing,0
+11,2,Urban,5-9, SIKKIM,West ,Male,In seeing,7
+11,2,Urban,10-19, SIKKIM,West ,Male,In seeing,11
+11,2,Urban,20-29, SIKKIM,West ,Male,In seeing,15
+11,2,Urban,30-39, SIKKIM,West ,Male,In seeing,7
+11,2,Urban,40-49, SIKKIM,West ,Male,In seeing,6
+11,2,Urban,50-59, SIKKIM,West ,Male,In seeing,3
+11,2,Urban,60-69, SIKKIM,West ,Male,In seeing,1
+11,2,Urban,70-79, SIKKIM,West ,Male,In seeing,1
+11,2,Urban,80-89, SIKKIM,West ,Male,In seeing,1
+11,2,Urban,90+, SIKKIM,West ,Male,In seeing,0
+11,2,Urban,Age not stated, SIKKIM,West ,Male,In seeing,0
+11,3,Rural,0-4, SIKKIM,South ,Male,In seeing,107
+11,3,Rural,5-9, SIKKIM,South ,Male,In seeing,134
+11,3,Rural,10-19, SIKKIM,South ,Male,In seeing,295
+11,3,Rural,20-29, SIKKIM,South ,Male,In seeing,196
+11,3,Rural,30-39, SIKKIM,South ,Male,In seeing,184
+11,3,Rural,40-49, SIKKIM,South ,Male,In seeing,159
+11,3,Rural,50-59, SIKKIM,South ,Male,In seeing,150
+11,3,Rural,60-69, SIKKIM,South ,Male,In seeing,141
+11,3,Rural,70-79, SIKKIM,South ,Male,In seeing,94
+11,3,Rural,80-89, SIKKIM,South ,Male,In seeing,30
+11,3,Rural,90+, SIKKIM,South ,Male,In seeing,7
+11,3,Rural,Age not stated, SIKKIM,South ,Male,In seeing,2
+11,3,Urban,0-4, SIKKIM,South ,Male,In seeing,2
+11,3,Urban,5-9, SIKKIM,South ,Male,In seeing,3
+11,3,Urban,10-19, SIKKIM,South ,Male,In seeing,7
+11,3,Urban,20-29, SIKKIM,South ,Male,In seeing,8
+11,3,Urban,30-39, SIKKIM,South ,Male,In seeing,7
+11,3,Urban,40-49, SIKKIM,South ,Male,In seeing,10
+11,3,Urban,50-59, SIKKIM,South ,Male,In seeing,3
+11,3,Urban,60-69, SIKKIM,South ,Male,In seeing,2
+11,3,Urban,70-79, SIKKIM,South ,Male,In seeing,3
+11,3,Urban,80-89, SIKKIM,South ,Male,In seeing,0
+11,3,Urban,90+, SIKKIM,South ,Male,In seeing,0
+11,3,Urban,Age not stated, SIKKIM,South ,Male,In seeing,0
+11,4,Rural,0-4, SIKKIM,East ,Male,In seeing,105
+11,4,Rural,5-9, SIKKIM,East ,Male,In seeing,164
+11,4,Rural,10-19, SIKKIM,East ,Male,In seeing,349
+11,4,Rural,20-29, SIKKIM,East ,Male,In seeing,371
+11,4,Rural,30-39, SIKKIM,East ,Male,In seeing,327
+11,4,Rural,40-49, SIKKIM,East ,Male,In seeing,233
+11,4,Rural,50-59, SIKKIM,East ,Male,In seeing,181
+11,4,Rural,60-69, SIKKIM,East ,Male,In seeing,111
+11,4,Rural,70-79, SIKKIM,East ,Male,In seeing,93
+11,4,Rural,80-89, SIKKIM,East ,Male,In seeing,39
+11,4,Rural,90+, SIKKIM,East ,Male,In seeing,10
+11,4,Rural,Age not stated, SIKKIM,East ,Male,In seeing,2
+11,4,Urban,0-4, SIKKIM,East ,Male,In seeing,34
+11,4,Urban,5-9, SIKKIM,East ,Male,In seeing,48
+11,4,Urban,10-19, SIKKIM,East ,Male,In seeing,116
+11,4,Urban,20-29, SIKKIM,East ,Male,In seeing,146
+11,4,Urban,30-39, SIKKIM,East ,Male,In seeing,123
+11,4,Urban,40-49, SIKKIM,East ,Male,In seeing,122
+11,4,Urban,50-59, SIKKIM,East ,Male,In seeing,48
+11,4,Urban,60-69, SIKKIM,East ,Male,In seeing,20
+11,4,Urban,70-79, SIKKIM,East ,Male,In seeing,12
+11,4,Urban,80-89, SIKKIM,East ,Male,In seeing,3
+11,4,Urban,90+, SIKKIM,East ,Male,In seeing,2
+11,4,Urban,Age not stated, SIKKIM,East ,Male,In seeing,0
+11,1,Rural,0-4, SIKKIM,North ,Female,In seeing,32
+11,1,Rural,5-9, SIKKIM,North ,Female,In seeing,40
+11,1,Rural,10-19, SIKKIM,North ,Female,In seeing,82
+11,1,Rural,20-29, SIKKIM,North ,Female,In seeing,58
+11,1,Rural,30-39, SIKKIM,North ,Female,In seeing,36
+11,1,Rural,40-49, SIKKIM,North ,Female,In seeing,34
+11,1,Rural,50-59, SIKKIM,North ,Female,In seeing,21
+11,1,Rural,60-69, SIKKIM,North ,Female,In seeing,23
+11,1,Rural,70-79, SIKKIM,North ,Female,In seeing,12
+11,1,Rural,80-89, SIKKIM,North ,Female,In seeing,6
+11,1,Rural,90+, SIKKIM,North ,Female,In seeing,1
+11,1,Rural,Age not stated, SIKKIM,North ,Female,In seeing,16
+11,1,Urban,0-4, SIKKIM,North ,Female,In seeing,1
+11,1,Urban,5-9, SIKKIM,North ,Female,In seeing,0
+11,1,Urban,10-19, SIKKIM,North ,Female,In seeing,2
+11,1,Urban,20-29, SIKKIM,North ,Female,In seeing,2
+11,1,Urban,30-39, SIKKIM,North ,Female,In seeing,1
+11,1,Urban,40-49, SIKKIM,North ,Female,In seeing,0
+11,1,Urban,50-59, SIKKIM,North ,Female,In seeing,0
+11,1,Urban,60-69, SIKKIM,North ,Female,In seeing,0
+11,1,Urban,70-79, SIKKIM,North ,Female,In seeing,0
+11,1,Urban,80-89, SIKKIM,North ,Female,In seeing,0
+11,1,Urban,90+, SIKKIM,North ,Female,In seeing,0
+11,1,Urban,Age not stated, SIKKIM,North ,Female,In seeing,0
+11,2,Rural,0-4, SIKKIM,West ,Female,In seeing,101
+11,2,Rural,5-9, SIKKIM,West ,Female,In seeing,122
+11,2,Rural,10-19, SIKKIM,West ,Female,In seeing,226
+11,2,Rural,20-29, SIKKIM,West ,Female,In seeing,136
+11,2,Rural,30-39, SIKKIM,West ,Female,In seeing,107
+11,2,Rural,40-49, SIKKIM,West ,Female,In seeing,99
+11,2,Rural,50-59, SIKKIM,West ,Female,In seeing,80
+11,2,Rural,60-69, SIKKIM,West ,Female,In seeing,83
+11,2,Rural,70-79, SIKKIM,West ,Female,In seeing,53
+11,2,Rural,80-89, SIKKIM,West ,Female,In seeing,24
+11,2,Rural,90+, SIKKIM,West ,Female,In seeing,1
+11,2,Rural,Age not stated, SIKKIM,West ,Female,In seeing,4
+11,2,Urban,0-4, SIKKIM,West ,Female,In seeing,2
+11,2,Urban,5-9, SIKKIM,West ,Female,In seeing,2
+11,2,Urban,10-19, SIKKIM,West ,Female,In seeing,11
+11,2,Urban,20-29, SIKKIM,West ,Female,In seeing,4
+11,2,Urban,30-39, SIKKIM,West ,Female,In seeing,7
+11,2,Urban,40-49, SIKKIM,West ,Female,In seeing,1
+11,2,Urban,50-59, SIKKIM,West ,Female,In seeing,0
+11,2,Urban,60-69, SIKKIM,West ,Female,In seeing,2
+11,2,Urban,70-79, SIKKIM,West ,Female,In seeing,2
+11,2,Urban,80-89, SIKKIM,West ,Female,In seeing,0
+11,2,Urban,90+, SIKKIM,West ,Female,In seeing,0
+11,2,Urban,Age not stated, SIKKIM,West ,Female,In seeing,0
+11,3,Rural,0-4, SIKKIM,South ,Female,In seeing,90
+11,3,Rural,5-9, SIKKIM,South ,Female,In seeing,153
+11,3,Rural,10-19, SIKKIM,South ,Female,In seeing,251
+11,3,Rural,20-29, SIKKIM,South ,Female,In seeing,178
+11,3,Rural,30-39, SIKKIM,South ,Female,In seeing,140
+11,3,Rural,40-49, SIKKIM,South ,Female,In seeing,110
+11,3,Rural,50-59, SIKKIM,South ,Female,In seeing,90
+11,3,Rural,60-69, SIKKIM,South ,Female,In seeing,79
+11,3,Rural,70-79, SIKKIM,South ,Female,In seeing,74
+11,3,Rural,80-89, SIKKIM,South ,Female,In seeing,24
+11,3,Rural,90+, SIKKIM,South ,Female,In seeing,5
+11,3,Rural,Age not stated, SIKKIM,South ,Female,In seeing,1
+11,3,Urban,0-4, SIKKIM,South ,Female,In seeing,2
+11,3,Urban,5-9, SIKKIM,South ,Female,In seeing,3
+11,3,Urban,10-19, SIKKIM,South ,Female,In seeing,7
+11,3,Urban,20-29, SIKKIM,South ,Female,In seeing,9
+11,3,Urban,30-39, SIKKIM,South ,Female,In seeing,12
+11,3,Urban,40-49, SIKKIM,South ,Female,In seeing,5
+11,3,Urban,50-59, SIKKIM,South ,Female,In seeing,6
+11,3,Urban,60-69, SIKKIM,South ,Female,In seeing,1
+11,3,Urban,70-79, SIKKIM,South ,Female,In seeing,0
+11,3,Urban,80-89, SIKKIM,South ,Female,In seeing,0
+11,3,Urban,90+, SIKKIM,South ,Female,In seeing,0
+11,3,Urban,Age not stated, SIKKIM,South ,Female,In seeing,0
+11,4,Rural,0-4, SIKKIM,East ,Female,In seeing,140
+11,4,Rural,5-9, SIKKIM,East ,Female,In seeing,143
+11,4,Rural,10-19, SIKKIM,East ,Female,In seeing,335
+11,4,Rural,20-29, SIKKIM,East ,Female,In seeing,252
+11,4,Rural,30-39, SIKKIM,East ,Female,In seeing,190
+11,4,Rural,40-49, SIKKIM,East ,Female,In seeing,144
+11,4,Rural,50-59, SIKKIM,East ,Female,In seeing,108
+11,4,Rural,60-69, SIKKIM,East ,Female,In seeing,106
+11,4,Rural,70-79, SIKKIM,East ,Female,In seeing,81
+11,4,Rural,80-89, SIKKIM,East ,Female,In seeing,33
+11,4,Rural,90+, SIKKIM,East ,Female,In seeing,9
+11,4,Rural,Age not stated, SIKKIM,East ,Female,In seeing,2
+11,4,Urban,0-4, SIKKIM,East ,Female,In seeing,21
+11,4,Urban,5-9, SIKKIM,East ,Female,In seeing,58
+11,4,Urban,10-19, SIKKIM,East ,Female,In seeing,145
+11,4,Urban,20-29, SIKKIM,East ,Female,In seeing,89
+11,4,Urban,30-39, SIKKIM,East ,Female,In seeing,59
+11,4,Urban,40-49, SIKKIM,East ,Female,In seeing,39
+11,4,Urban,50-59, SIKKIM,East ,Female,In seeing,25
+11,4,Urban,60-69, SIKKIM,East ,Female,In seeing,16
+11,4,Urban,70-79, SIKKIM,East ,Female,In seeing,14
+11,4,Urban,80-89, SIKKIM,East ,Female,In seeing,6
+11,4,Urban,90+, SIKKIM,East ,Female,In seeing,1
+11,4,Urban,Age not stated, SIKKIM,East ,Female,In seeing,0
+11,1,Rural,0-4, SIKKIM,North ,Male,In speech,1
+11,1,Rural,5-9, SIKKIM,North ,Male,In speech,5
+11,1,Rural,10-19, SIKKIM,North ,Male,In speech,29
+11,1,Rural,20-29, SIKKIM,North ,Male,In speech,26
+11,1,Rural,30-39, SIKKIM,North ,Male,In speech,15
+11,1,Rural,40-49, SIKKIM,North ,Male,In speech,9
+11,1,Rural,50-59, SIKKIM,North ,Male,In speech,2
+11,1,Rural,60-69, SIKKIM,North ,Male,In speech,3
+11,1,Rural,70-79, SIKKIM,North ,Male,In speech,3
+11,1,Rural,80-89, SIKKIM,North ,Male,In speech,0
+11,1,Rural,90+, SIKKIM,North ,Male,In speech,0
+11,1,Rural,Age not stated, SIKKIM,North ,Male,In speech,2
+11,1,Urban,0-4, SIKKIM,North ,Male,In speech,0
+11,1,Urban,5-9, SIKKIM,North ,Male,In speech,0
+11,1,Urban,10-19, SIKKIM,North ,Male,In speech,1
+11,1,Urban,20-29, SIKKIM,North ,Male,In speech,1
+11,1,Urban,30-39, SIKKIM,North ,Male,In speech,0
+11,1,Urban,40-49, SIKKIM,North ,Male,In speech,0
+11,1,Urban,50-59, SIKKIM,North ,Male,In speech,0
+11,1,Urban,60-69, SIKKIM,North ,Male,In speech,1
+11,1,Urban,70-79, SIKKIM,North ,Male,In speech,0
+11,1,Urban,80-89, SIKKIM,North ,Male,In speech,0
+11,1,Urban,90+, SIKKIM,North ,Male,In speech,0
+11,1,Urban,Age not stated, SIKKIM,North ,Male,In speech,0
+11,2,Rural,0-4, SIKKIM,West ,Male,In speech,2
+11,2,Rural,5-9, SIKKIM,West ,Male,In speech,15
+11,2,Rural,10-19, SIKKIM,West ,Male,In speech,62
+11,2,Rural,20-29, SIKKIM,West ,Male,In speech,96
+11,2,Rural,30-39, SIKKIM,West ,Male,In speech,89
+11,2,Rural,40-49, SIKKIM,West ,Male,In speech,63
+11,2,Rural,50-59, SIKKIM,West ,Male,In speech,23
+11,2,Rural,60-69, SIKKIM,West ,Male,In speech,17
+11,2,Rural,70-79, SIKKIM,West ,Male,In speech,8
+11,2,Rural,80-89, SIKKIM,West ,Male,In speech,3
+11,2,Rural,90+, SIKKIM,West ,Male,In speech,0
+11,2,Rural,Age not stated, SIKKIM,West ,Male,In speech,1
+11,2,Urban,0-4, SIKKIM,West ,Male,In speech,0
+11,2,Urban,5-9, SIKKIM,West ,Male,In speech,0
+11,2,Urban,10-19, SIKKIM,West ,Male,In speech,0
+11,2,Urban,20-29, SIKKIM,West ,Male,In speech,2
+11,2,Urban,30-39, SIKKIM,West ,Male,In speech,1
+11,2,Urban,40-49, SIKKIM,West ,Male,In speech,3
+11,2,Urban,50-59, SIKKIM,West ,Male,In speech,0
+11,2,Urban,60-69, SIKKIM,West ,Male,In speech,0
+11,2,Urban,70-79, SIKKIM,West ,Male,In speech,0
+11,2,Urban,80-89, SIKKIM,West ,Male,In speech,0
+11,2,Urban,90+, SIKKIM,West ,Male,In speech,0
+11,2,Urban,Age not stated, SIKKIM,West ,Male,In speech,0
+11,3,Rural,0-4, SIKKIM,South ,Male,In speech,5
+11,3,Rural,5-9, SIKKIM,South ,Male,In speech,17
+11,3,Rural,10-19, SIKKIM,South ,Male,In speech,109
+11,3,Rural,20-29, SIKKIM,South ,Male,In speech,142
+11,3,Rural,30-39, SIKKIM,South ,Male,In speech,127
+11,3,Rural,40-49, SIKKIM,South ,Male,In speech,82
+11,3,Rural,50-59, SIKKIM,South ,Male,In speech,35
+11,3,Rural,60-69, SIKKIM,South ,Male,In speech,13
+11,3,Rural,70-79, SIKKIM,South ,Male,In speech,6
+11,3,Rural,80-89, SIKKIM,South ,Male,In speech,4
+11,3,Rural,90+, SIKKIM,South ,Male,In speech,1
+11,3,Rural,Age not stated, SIKKIM,South ,Male,In speech,0
+11,3,Urban,0-4, SIKKIM,South ,Male,In speech,0
+11,3,Urban,5-9, SIKKIM,South ,Male,In speech,0
+11,3,Urban,10-19, SIKKIM,South ,Male,In speech,0
+11,3,Urban,20-29, SIKKIM,South ,Male,In speech,2
+11,3,Urban,30-39, SIKKIM,South ,Male,In speech,6
+11,3,Urban,40-49, SIKKIM,South ,Male,In speech,0
+11,3,Urban,50-59, SIKKIM,South ,Male,In speech,0
+11,3,Urban,60-69, SIKKIM,South ,Male,In speech,0
+11,3,Urban,70-79, SIKKIM,South ,Male,In speech,0
+11,3,Urban,80-89, SIKKIM,South ,Male,In speech,0
+11,3,Urban,90+, SIKKIM,South ,Male,In speech,0
+11,3,Urban,Age not stated, SIKKIM,South ,Male,In speech,0
+11,4,Rural,0-4, SIKKIM,East ,Male,In speech,5
+11,4,Rural,5-9, SIKKIM,East ,Male,In speech,23
+11,4,Rural,10-19, SIKKIM,East ,Male,In speech,112
+11,4,Rural,20-29, SIKKIM,East ,Male,In speech,159
+11,4,Rural,30-39, SIKKIM,East ,Male,In speech,125
+11,4,Rural,40-49, SIKKIM,East ,Male,In speech,82
+11,4,Rural,50-59, SIKKIM,East ,Male,In speech,33
+11,4,Rural,60-69, SIKKIM,East ,Male,In speech,17
+11,4,Rural,70-79, SIKKIM,East ,Male,In speech,6
+11,4,Rural,80-89, SIKKIM,East ,Male,In speech,2
+11,4,Rural,90+, SIKKIM,East ,Male,In speech,0
+11,4,Rural,Age not stated, SIKKIM,East ,Male,In speech,1
+11,4,Urban,0-4, SIKKIM,East ,Male,In speech,0
+11,4,Urban,5-9, SIKKIM,East ,Male,In speech,4
+11,4,Urban,10-19, SIKKIM,East ,Male,In speech,16
+11,4,Urban,20-29, SIKKIM,East ,Male,In speech,11
+11,4,Urban,30-39, SIKKIM,East ,Male,In speech,8
+11,4,Urban,40-49, SIKKIM,East ,Male,In speech,10
+11,4,Urban,50-59, SIKKIM,East ,Male,In speech,4
+11,4,Urban,60-69, SIKKIM,East ,Male,In speech,3
+11,4,Urban,70-79, SIKKIM,East ,Male,In speech,0
+11,4,Urban,80-89, SIKKIM,East ,Male,In speech,1
+11,4,Urban,90+, SIKKIM,East ,Male,In speech,0
+11,4,Urban,Age not stated, SIKKIM,East ,Male,In speech,0
+11,1,Rural,0-4, SIKKIM,North ,Female,In speech,1
+11,1,Rural,5-9, SIKKIM,North ,Female,In speech,5
+11,1,Rural,10-19, SIKKIM,North ,Female,In speech,23
+11,1,Rural,20-29, SIKKIM,North ,Female,In speech,18
+11,1,Rural,30-39, SIKKIM,North ,Female,In speech,19
+11,1,Rural,40-49, SIKKIM,North ,Female,In speech,5
+11,1,Rural,50-59, SIKKIM,North ,Female,In speech,6
+11,1,Rural,60-69, SIKKIM,North ,Female,In speech,3
+11,1,Rural,70-79, SIKKIM,North ,Female,In speech,2
+11,1,Rural,80-89, SIKKIM,North ,Female,In speech,0
+11,1,Rural,90+, SIKKIM,North ,Female,In speech,0
+11,1,Rural,Age not stated, SIKKIM,North ,Female,In speech,1
+11,1,Urban,0-4, SIKKIM,North ,Female,In speech,0
+11,1,Urban,5-9, SIKKIM,North ,Female,In speech,0
+11,1,Urban,10-19, SIKKIM,North ,Female,In speech,0
+11,1,Urban,20-29, SIKKIM,North ,Female,In speech,0
+11,1,Urban,30-39, SIKKIM,North ,Female,In speech,0
+11,1,Urban,40-49, SIKKIM,North ,Female,In speech,1
+11,1,Urban,50-59, SIKKIM,North ,Female,In speech,0
+11,1,Urban,60-69, SIKKIM,North ,Female,In speech,0
+11,1,Urban,70-79, SIKKIM,North ,Female,In speech,0
+11,1,Urban,80-89, SIKKIM,North ,Female,In speech,0
+11,1,Urban,90+, SIKKIM,North ,Female,In speech,0
+11,1,Urban,Age not stated, SIKKIM,North ,Female,In speech,0
+11,2,Rural,0-4, SIKKIM,West ,Female,In speech,1
+11,2,Rural,5-9, SIKKIM,West ,Female,In speech,15
+11,2,Rural,10-19, SIKKIM,West ,Female,In speech,70
+11,2,Rural,20-29, SIKKIM,West ,Female,In speech,78
+11,2,Rural,30-39, SIKKIM,West ,Female,In speech,86
+11,2,Rural,40-49, SIKKIM,West ,Female,In speech,51
+11,2,Rural,50-59, SIKKIM,West ,Female,In speech,27
+11,2,Rural,60-69, SIKKIM,West ,Female,In speech,12
+11,2,Rural,70-79, SIKKIM,West ,Female,In speech,4
+11,2,Rural,80-89, SIKKIM,West ,Female,In speech,1
+11,2,Rural,90+, SIKKIM,West ,Female,In speech,0
+11,2,Rural,Age not stated, SIKKIM,West ,Female,In speech,0
+11,2,Urban,0-4, SIKKIM,West ,Female,In speech,0
+11,2,Urban,5-9, SIKKIM,West ,Female,In speech,0
+11,2,Urban,10-19, SIKKIM,West ,Female,In speech,0
+11,2,Urban,20-29, SIKKIM,West ,Female,In speech,1
+11,2,Urban,30-39, SIKKIM,West ,Female,In speech,2
+11,2,Urban,40-49, SIKKIM,West ,Female,In speech,1
+11,2,Urban,50-59, SIKKIM,West ,Female,In speech,0
+11,2,Urban,60-69, SIKKIM,West ,Female,In speech,0
+11,2,Urban,70-79, SIKKIM,West ,Female,In speech,0
+11,2,Urban,80-89, SIKKIM,West ,Female,In speech,0
+11,2,Urban,90+, SIKKIM,West ,Female,In speech,0
+11,2,Urban,Age not stated, SIKKIM,West ,Female,In speech,0
+11,3,Rural,0-4, SIKKIM,South ,Female,In speech,3
+11,3,Rural,5-9, SIKKIM,South ,Female,In speech,24
+11,3,Rural,10-19, SIKKIM,South ,Female,In speech,95
+11,3,Rural,20-29, SIKKIM,South ,Female,In speech,133
+11,3,Rural,30-39, SIKKIM,South ,Female,In speech,113
+11,3,Rural,40-49, SIKKIM,South ,Female,In speech,71
+11,3,Rural,50-59, SIKKIM,South ,Female,In speech,34
+11,3,Rural,60-69, SIKKIM,South ,Female,In speech,18
+11,3,Rural,70-79, SIKKIM,South ,Female,In speech,2
+11,3,Rural,80-89, SIKKIM,South ,Female,In speech,2
+11,3,Rural,90+, SIKKIM,South ,Female,In speech,0
+11,3,Rural,Age not stated, SIKKIM,South ,Female,In speech,0
+11,3,Urban,0-4, SIKKIM,South ,Female,In speech,0
+11,3,Urban,5-9, SIKKIM,South ,Female,In speech,2
+11,3,Urban,10-19, SIKKIM,South ,Female,In speech,0
+11,3,Urban,20-29, SIKKIM,South ,Female,In speech,2
+11,3,Urban,30-39, SIKKIM,South ,Female,In speech,3
+11,3,Urban,40-49, SIKKIM,South ,Female,In speech,0
+11,3,Urban,50-59, SIKKIM,South ,Female,In speech,0
+11,3,Urban,60-69, SIKKIM,South ,Female,In speech,0
+11,3,Urban,70-79, SIKKIM,South ,Female,In speech,0
+11,3,Urban,80-89, SIKKIM,South ,Female,In speech,0
+11,3,Urban,90+, SIKKIM,South ,Female,In speech,0
+11,3,Urban,Age not stated, SIKKIM,South ,Female,In speech,0
+11,4,Rural,0-4, SIKKIM,East ,Female,In speech,1
+11,4,Rural,5-9, SIKKIM,East ,Female,In speech,16
+11,4,Rural,10-19, SIKKIM,East ,Female,In speech,116
+11,4,Rural,20-29, SIKKIM,East ,Female,In speech,151
+11,4,Rural,30-39, SIKKIM,East ,Female,In speech,146
+11,4,Rural,40-49, SIKKIM,East ,Female,In speech,61
+11,4,Rural,50-59, SIKKIM,East ,Female,In speech,24
+11,4,Rural,60-69, SIKKIM,East ,Female,In speech,14
+11,4,Rural,70-79, SIKKIM,East ,Female,In speech,8
+11,4,Rural,80-89, SIKKIM,East ,Female,In speech,1
+11,4,Rural,90+, SIKKIM,East ,Female,In speech,1
+11,4,Rural,Age not stated, SIKKIM,East ,Female,In speech,2
+11,4,Urban,0-4, SIKKIM,East ,Female,In speech,0
+11,4,Urban,5-9, SIKKIM,East ,Female,In speech,2
+11,4,Urban,10-19, SIKKIM,East ,Female,In speech,6
+11,4,Urban,20-29, SIKKIM,East ,Female,In speech,11
+11,4,Urban,30-39, SIKKIM,East ,Female,In speech,11
+11,4,Urban,40-49, SIKKIM,East ,Female,In speech,8
+11,4,Urban,50-59, SIKKIM,East ,Female,In speech,4
+11,4,Urban,60-69, SIKKIM,East ,Female,In speech,2
+11,4,Urban,70-79, SIKKIM,East ,Female,In speech,0
+11,4,Urban,80-89, SIKKIM,East ,Female,In speech,0
+11,4,Urban,90+, SIKKIM,East ,Female,In speech,0
+11,4,Urban,Age not stated, SIKKIM,East ,Female,In speech,0
+11,1,Rural,0-4, SIKKIM,North ,Male,In hearing,2
+11,1,Rural,5-9, SIKKIM,North ,Male,In hearing,5
+11,1,Rural,10-19, SIKKIM,North ,Male,In hearing,20
+11,1,Rural,20-29, SIKKIM,North ,Male,In hearing,14
+11,1,Rural,30-39, SIKKIM,North ,Male,In hearing,14
+11,1,Rural,40-49, SIKKIM,North ,Male,In hearing,12
+11,1,Rural,50-59, SIKKIM,North ,Male,In hearing,18
+11,1,Rural,60-69, SIKKIM,North ,Male,In hearing,11
+11,1,Rural,70-79, SIKKIM,North ,Male,In hearing,12
+11,1,Rural,80-89, SIKKIM,North ,Male,In hearing,2
+11,1,Rural,90+, SIKKIM,North ,Male,In hearing,0
+11,1,Rural,Age not stated, SIKKIM,North ,Male,In hearing,0
+11,1,Urban,0-4, SIKKIM,North ,Male,In hearing,0
+11,1,Urban,5-9, SIKKIM,North ,Male,In hearing,0
+11,1,Urban,10-19, SIKKIM,North ,Male,In hearing,0
+11,1,Urban,20-29, SIKKIM,North ,Male,In hearing,0
+11,1,Urban,30-39, SIKKIM,North ,Male,In hearing,0
+11,1,Urban,40-49, SIKKIM,North ,Male,In hearing,0
+11,1,Urban,50-59, SIKKIM,North ,Male,In hearing,0
+11,1,Urban,60-69, SIKKIM,North ,Male,In hearing,0
+11,1,Urban,70-79, SIKKIM,North ,Male,In hearing,0
+11,1,Urban,80-89, SIKKIM,North ,Male,In hearing,0
+11,1,Urban,90+, SIKKIM,North ,Male,In hearing,0
+11,1,Urban,Age not stated, SIKKIM,North ,Male,In hearing,0
+11,2,Rural,0-4, SIKKIM,West ,Male,In hearing,3
+11,2,Rural,5-9, SIKKIM,West ,Male,In hearing,7
+11,2,Rural,10-19, SIKKIM,West ,Male,In hearing,42
+11,2,Rural,20-29, SIKKIM,West ,Male,In hearing,53
+11,2,Rural,30-39, SIKKIM,West ,Male,In hearing,65
+11,2,Rural,40-49, SIKKIM,West ,Male,In hearing,70
+11,2,Rural,50-59, SIKKIM,West ,Male,In hearing,64
+11,2,Rural,60-69, SIKKIM,West ,Male,In hearing,60
+11,2,Rural,70-79, SIKKIM,West ,Male,In hearing,51
+11,2,Rural,80-89, SIKKIM,West ,Male,In hearing,24
+11,2,Rural,90+, SIKKIM,West ,Male,In hearing,3
+11,2,Rural,Age not stated, SIKKIM,West ,Male,In hearing,0
+11,2,Urban,0-4, SIKKIM,West ,Male,In hearing,0
+11,2,Urban,5-9, SIKKIM,West ,Male,In hearing,0
+11,2,Urban,10-19, SIKKIM,West ,Male,In hearing,0
+11,2,Urban,20-29, SIKKIM,West ,Male,In hearing,0
+11,2,Urban,30-39, SIKKIM,West ,Male,In hearing,0
+11,2,Urban,40-49, SIKKIM,West ,Male,In hearing,0
+11,2,Urban,50-59, SIKKIM,West ,Male,In hearing,0
+11,2,Urban,60-69, SIKKIM,West ,Male,In hearing,0
+11,2,Urban,70-79, SIKKIM,West ,Male,In hearing,0
+11,2,Urban,80-89, SIKKIM,West ,Male,In hearing,1
+11,2,Urban,90+, SIKKIM,West ,Male,In hearing,0
+11,2,Urban,Age not stated, SIKKIM,West ,Male,In hearing,0
+11,3,Rural,0-4, SIKKIM,South ,Male,In hearing,6
+11,3,Rural,5-9, SIKKIM,South ,Male,In hearing,14
+11,3,Rural,10-19, SIKKIM,South ,Male,In hearing,52
+11,3,Rural,20-29, SIKKIM,South ,Male,In hearing,77
+11,3,Rural,30-39, SIKKIM,South ,Male,In hearing,73
+11,3,Rural,40-49, SIKKIM,South ,Male,In hearing,107
+11,3,Rural,50-59, SIKKIM,South ,Male,In hearing,92
+11,3,Rural,60-69, SIKKIM,South ,Male,In hearing,117
+11,3,Rural,70-79, SIKKIM,South ,Male,In hearing,75
+11,3,Rural,80-89, SIKKIM,South ,Male,In hearing,45
+11,3,Rural,90+, SIKKIM,South ,Male,In hearing,2
+11,3,Rural,Age not stated, SIKKIM,South ,Male,In hearing,0
+11,3,Urban,0-4, SIKKIM,South ,Male,In hearing,0
+11,3,Urban,5-9, SIKKIM,South ,Male,In hearing,2
+11,3,Urban,10-19, SIKKIM,South ,Male,In hearing,1
+11,3,Urban,20-29, SIKKIM,South ,Male,In hearing,1
+11,3,Urban,30-39, SIKKIM,South ,Male,In hearing,1
+11,3,Urban,40-49, SIKKIM,South ,Male,In hearing,2
+11,3,Urban,50-59, SIKKIM,South ,Male,In hearing,2
+11,3,Urban,60-69, SIKKIM,South ,Male,In hearing,2
+11,3,Urban,70-79, SIKKIM,South ,Male,In hearing,1
+11,3,Urban,80-89, SIKKIM,South ,Male,In hearing,0
+11,3,Urban,90+, SIKKIM,South ,Male,In hearing,0
+11,3,Urban,Age not stated, SIKKIM,South ,Male,In hearing,0
+11,4,Rural,0-4, SIKKIM,East ,Male,In hearing,1
+11,4,Rural,5-9, SIKKIM,East ,Male,In hearing,19
+11,4,Rural,10-19, SIKKIM,East ,Male,In hearing,75
+11,4,Rural,20-29, SIKKIM,East ,Male,In hearing,71
+11,4,Rural,30-39, SIKKIM,East ,Male,In hearing,103
+11,4,Rural,40-49, SIKKIM,East ,Male,In hearing,84
+11,4,Rural,50-59, SIKKIM,East ,Male,In hearing,88
+11,4,Rural,60-69, SIKKIM,East ,Male,In hearing,81
+11,4,Rural,70-79, SIKKIM,East ,Male,In hearing,78
+11,4,Rural,80-89, SIKKIM,East ,Male,In hearing,40
+11,4,Rural,90+, SIKKIM,East ,Male,In hearing,4
+11,4,Rural,Age not stated, SIKKIM,East ,Male,In hearing,0
+11,4,Urban,0-4, SIKKIM,East ,Male,In hearing,0
+11,4,Urban,5-9, SIKKIM,East ,Male,In hearing,1
+11,4,Urban,10-19, SIKKIM,East ,Male,In hearing,10
+11,4,Urban,20-29, SIKKIM,East ,Male,In hearing,4
+11,4,Urban,30-39, SIKKIM,East ,Male,In hearing,10
+11,4,Urban,40-49, SIKKIM,East ,Male,In hearing,10
+11,4,Urban,50-59, SIKKIM,East ,Male,In hearing,2
+11,4,Urban,60-69, SIKKIM,East ,Male,In hearing,4
+11,4,Urban,70-79, SIKKIM,East ,Male,In hearing,4
+11,4,Urban,80-89, SIKKIM,East ,Male,In hearing,5
+11,4,Urban,90+, SIKKIM,East ,Male,In hearing,0
+11,4,Urban,Age not stated, SIKKIM,East ,Male,In hearing,1
+11,1,Rural,0-4, SIKKIM,North ,Female,In hearing,0
+11,1,Rural,5-9, SIKKIM,North ,Female,In hearing,4
+11,1,Rural,10-19, SIKKIM,North ,Female,In hearing,30
+11,1,Rural,20-29, SIKKIM,North ,Female,In hearing,9
+11,1,Rural,30-39, SIKKIM,North ,Female,In hearing,5
+11,1,Rural,40-49, SIKKIM,North ,Female,In hearing,9
+11,1,Rural,50-59, SIKKIM,North ,Female,In hearing,8
+11,1,Rural,60-69, SIKKIM,North ,Female,In hearing,8
+11,1,Rural,70-79, SIKKIM,North ,Female,In hearing,9
+11,1,Rural,80-89, SIKKIM,North ,Female,In hearing,3
+11,1,Rural,90+, SIKKIM,North ,Female,In hearing,0
+11,1,Rural,Age not stated, SIKKIM,North ,Female,In hearing,2
+11,1,Urban,0-4, SIKKIM,North ,Female,In hearing,0
+11,1,Urban,5-9, SIKKIM,North ,Female,In hearing,0
+11,1,Urban,10-19, SIKKIM,North ,Female,In hearing,0
+11,1,Urban,20-29, SIKKIM,North ,Female,In hearing,0
+11,1,Urban,30-39, SIKKIM,North ,Female,In hearing,0
+11,1,Urban,40-49, SIKKIM,North ,Female,In hearing,0
+11,1,Urban,50-59, SIKKIM,North ,Female,In hearing,0
+11,1,Urban,60-69, SIKKIM,North ,Female,In hearing,0
+11,1,Urban,70-79, SIKKIM,North ,Female,In hearing,0
+11,1,Urban,80-89, SIKKIM,North ,Female,In hearing,0
+11,1,Urban,90+, SIKKIM,North ,Female,In hearing,0
+11,1,Urban,Age not stated, SIKKIM,North ,Female,In hearing,0
+11,2,Rural,0-4, SIKKIM,West ,Female,In hearing,2
+11,2,Rural,5-9, SIKKIM,West ,Female,In hearing,7
+11,2,Rural,10-19, SIKKIM,West ,Female,In hearing,42
+11,2,Rural,20-29, SIKKIM,West ,Female,In hearing,57
+11,2,Rural,30-39, SIKKIM,West ,Female,In hearing,60
+11,2,Rural,40-49, SIKKIM,West ,Female,In hearing,44
+11,2,Rural,50-59, SIKKIM,West ,Female,In hearing,48
+11,2,Rural,60-69, SIKKIM,West ,Female,In hearing,33
+11,2,Rural,70-79, SIKKIM,West ,Female,In hearing,25
+11,2,Rural,80-89, SIKKIM,West ,Female,In hearing,11
+11,2,Rural,90+, SIKKIM,West ,Female,In hearing,2
+11,2,Rural,Age not stated, SIKKIM,West ,Female,In hearing,0
+11,2,Urban,0-4, SIKKIM,West ,Female,In hearing,0
+11,2,Urban,5-9, SIKKIM,West ,Female,In hearing,0
+11,2,Urban,10-19, SIKKIM,West ,Female,In hearing,0
+11,2,Urban,20-29, SIKKIM,West ,Female,In hearing,0
+11,2,Urban,30-39, SIKKIM,West ,Female,In hearing,0
+11,2,Urban,40-49, SIKKIM,West ,Female,In hearing,1
+11,2,Urban,50-59, SIKKIM,West ,Female,In hearing,0
+11,2,Urban,60-69, SIKKIM,West ,Female,In hearing,0
+11,2,Urban,70-79, SIKKIM,West ,Female,In hearing,0
+11,2,Urban,80-89, SIKKIM,West ,Female,In hearing,0
+11,2,Urban,90+, SIKKIM,West ,Female,In hearing,0
+11,2,Urban,Age not stated, SIKKIM,West ,Female,In hearing,0
+11,3,Rural,0-4, SIKKIM,South ,Female,In hearing,7
+11,3,Rural,5-9, SIKKIM,South ,Female,In hearing,10
+11,3,Rural,10-19, SIKKIM,South ,Female,In hearing,40
+11,3,Rural,20-29, SIKKIM,South ,Female,In hearing,64
+11,3,Rural,30-39, SIKKIM,South ,Female,In hearing,68
+11,3,Rural,40-49, SIKKIM,South ,Female,In hearing,90
+11,3,Rural,50-59, SIKKIM,South ,Female,In hearing,71
+11,3,Rural,60-69, SIKKIM,South ,Female,In hearing,66
+11,3,Rural,70-79, SIKKIM,South ,Female,In hearing,40
+11,3,Rural,80-89, SIKKIM,South ,Female,In hearing,28
+11,3,Rural,90+, SIKKIM,South ,Female,In hearing,3
+11,3,Rural,Age not stated, SIKKIM,South ,Female,In hearing,2
+11,3,Urban,0-4, SIKKIM,South ,Female,In hearing,0
+11,3,Urban,5-9, SIKKIM,South ,Female,In hearing,0
+11,3,Urban,10-19, SIKKIM,South ,Female,In hearing,1
+11,3,Urban,20-29, SIKKIM,South ,Female,In hearing,1
+11,3,Urban,30-39, SIKKIM,South ,Female,In hearing,0
+11,3,Urban,40-49, SIKKIM,South ,Female,In hearing,1
+11,3,Urban,50-59, SIKKIM,South ,Female,In hearing,1
+11,3,Urban,60-69, SIKKIM,South ,Female,In hearing,0
+11,3,Urban,70-79, SIKKIM,South ,Female,In hearing,0
+11,3,Urban,80-89, SIKKIM,South ,Female,In hearing,0
+11,3,Urban,90+, SIKKIM,South ,Female,In hearing,0
+11,3,Urban,Age not stated, SIKKIM,South ,Female,In hearing,0
+11,4,Rural,0-4, SIKKIM,East ,Female,In hearing,1
+11,4,Rural,5-9, SIKKIM,East ,Female,In hearing,14
+11,4,Rural,10-19, SIKKIM,East ,Female,In hearing,87
+11,4,Rural,20-29, SIKKIM,East ,Female,In hearing,81
+11,4,Rural,30-39, SIKKIM,East ,Female,In hearing,91
+11,4,Rural,40-49, SIKKIM,East ,Female,In hearing,83
+11,4,Rural,50-59, SIKKIM,East ,Female,In hearing,70
+11,4,Rural,60-69, SIKKIM,East ,Female,In hearing,57
+11,4,Rural,70-79, SIKKIM,East ,Female,In hearing,45
+11,4,Rural,80-89, SIKKIM,East ,Female,In hearing,28
+11,4,Rural,90+, SIKKIM,East ,Female,In hearing,2
+11,4,Rural,Age not stated, SIKKIM,East ,Female,In hearing,1
+11,4,Urban,0-4, SIKKIM,East ,Female,In hearing,0
+11,4,Urban,5-9, SIKKIM,East ,Female,In hearing,1
+11,4,Urban,10-19, SIKKIM,East ,Female,In hearing,8
+11,4,Urban,20-29, SIKKIM,East ,Female,In hearing,4
+11,4,Urban,30-39, SIKKIM,East ,Female,In hearing,6
+11,4,Urban,40-49, SIKKIM,East ,Female,In hearing,9
+11,4,Urban,50-59, SIKKIM,East ,Female,In hearing,2
+11,4,Urban,60-69, SIKKIM,East ,Female,In hearing,3
+11,4,Urban,70-79, SIKKIM,East ,Female,In hearing,5
+11,4,Urban,80-89, SIKKIM,East ,Female,In hearing,2
+11,4,Urban,90+, SIKKIM,East ,Female,In hearing,0
+11,4,Urban,Age not stated, SIKKIM,East ,Female,In hearing,0
+11,1,Rural,0-4, SIKKIM,North ,Male,In movement,5
+11,1,Rural,5-9, SIKKIM,North ,Male,In movement,10
+11,1,Rural,10-19, SIKKIM,North ,Male,In movement,19
+11,1,Rural,20-29, SIKKIM,North ,Male,In movement,12
+11,1,Rural,30-39, SIKKIM,North ,Male,In movement,11
+11,1,Rural,40-49, SIKKIM,North ,Male,In movement,13
+11,1,Rural,50-59, SIKKIM,North ,Male,In movement,14
+11,1,Rural,60-69, SIKKIM,North ,Male,In movement,15
+11,1,Rural,70-79, SIKKIM,North ,Male,In movement,6
+11,1,Rural,80-89, SIKKIM,North ,Male,In movement,2
+11,1,Rural,90+, SIKKIM,North ,Male,In movement,1
+11,1,Rural,Age not stated, SIKKIM,North ,Male,In movement,3
+11,1,Urban,0-4, SIKKIM,North ,Male,In movement,0
+11,1,Urban,5-9, SIKKIM,North ,Male,In movement,3
+11,1,Urban,10-19, SIKKIM,North ,Male,In movement,1
+11,1,Urban,20-29, SIKKIM,North ,Male,In movement,0
+11,1,Urban,30-39, SIKKIM,North ,Male,In movement,0
+11,1,Urban,40-49, SIKKIM,North ,Male,In movement,1
+11,1,Urban,50-59, SIKKIM,North ,Male,In movement,0
+11,1,Urban,60-69, SIKKIM,North ,Male,In movement,0
+11,1,Urban,70-79, SIKKIM,North ,Male,In movement,0
+11,1,Urban,80-89, SIKKIM,North ,Male,In movement,0
+11,1,Urban,90+, SIKKIM,North ,Male,In movement,0
+11,1,Urban,Age not stated, SIKKIM,North ,Male,In movement,0
+11,2,Rural,0-4, SIKKIM,West ,Male,In movement,6
+11,2,Rural,5-9, SIKKIM,West ,Male,In movement,21
+11,2,Rural,10-19, SIKKIM,West ,Male,In movement,49
+11,2,Rural,20-29, SIKKIM,West ,Male,In movement,35
+11,2,Rural,30-39, SIKKIM,West ,Male,In movement,38
+11,2,Rural,40-49, SIKKIM,West ,Male,In movement,32
+11,2,Rural,50-59, SIKKIM,West ,Male,In movement,32
+11,2,Rural,60-69, SIKKIM,West ,Male,In movement,43
+11,2,Rural,70-79, SIKKIM,West ,Male,In movement,34
+11,2,Rural,80-89, SIKKIM,West ,Male,In movement,14
+11,2,Rural,90+, SIKKIM,West ,Male,In movement,2
+11,2,Rural,Age not stated, SIKKIM,West ,Male,In movement,0
+11,2,Urban,0-4, SIKKIM,West ,Male,In movement,0
+11,2,Urban,5-9, SIKKIM,West ,Male,In movement,1
+11,2,Urban,10-19, SIKKIM,West ,Male,In movement,1
+11,2,Urban,20-29, SIKKIM,West ,Male,In movement,0
+11,2,Urban,30-39, SIKKIM,West ,Male,In movement,0
+11,2,Urban,40-49, SIKKIM,West ,Male,In movement,0
+11,2,Urban,50-59, SIKKIM,West ,Male,In movement,0
+11,2,Urban,60-69, SIKKIM,West ,Male,In movement,0
+11,2,Urban,70-79, SIKKIM,West ,Male,In movement,0
+11,2,Urban,80-89, SIKKIM,West ,Male,In movement,0
+11,2,Urban,90+, SIKKIM,West ,Male,In movement,0
+11,2,Urban,Age not stated, SIKKIM,West ,Male,In movement,0
+11,3,Rural,0-4, SIKKIM,South ,Male,In movement,18
+11,3,Rural,5-9, SIKKIM,South ,Male,In movement,23
+11,3,Rural,10-19, SIKKIM,South ,Male,In movement,73
+11,3,Rural,20-29, SIKKIM,South ,Male,In movement,37
+11,3,Rural,30-39, SIKKIM,South ,Male,In movement,38
+11,3,Rural,40-49, SIKKIM,South ,Male,In movement,40
+11,3,Rural,50-59, SIKKIM,South ,Male,In movement,27
+11,3,Rural,60-69, SIKKIM,South ,Male,In movement,43
+11,3,Rural,70-79, SIKKIM,South ,Male,In movement,34
+11,3,Rural,80-89, SIKKIM,South ,Male,In movement,12
+11,3,Rural,90+, SIKKIM,South ,Male,In movement,1
+11,3,Rural,Age not stated, SIKKIM,South ,Male,In movement,1
+11,3,Urban,0-4, SIKKIM,South ,Male,In movement,0
+11,3,Urban,5-9, SIKKIM,South ,Male,In movement,0
+11,3,Urban,10-19, SIKKIM,South ,Male,In movement,0
+11,3,Urban,20-29, SIKKIM,South ,Male,In movement,1
+11,3,Urban,30-39, SIKKIM,South ,Male,In movement,0
+11,3,Urban,40-49, SIKKIM,South ,Male,In movement,1
+11,3,Urban,50-59, SIKKIM,South ,Male,In movement,2
+11,3,Urban,60-69, SIKKIM,South ,Male,In movement,0
+11,3,Urban,70-79, SIKKIM,South ,Male,In movement,0
+11,3,Urban,80-89, SIKKIM,South ,Male,In movement,0
+11,3,Urban,90+, SIKKIM,South ,Male,In movement,0
+11,3,Urban,Age not stated, SIKKIM,South ,Male,In movement,0
+11,4,Rural,0-4, SIKKIM,East ,Male,In movement,19
+11,4,Rural,5-9, SIKKIM,East ,Male,In movement,29
+11,4,Rural,10-19, SIKKIM,East ,Male,In movement,89
+11,4,Rural,20-29, SIKKIM,East ,Male,In movement,69
+11,4,Rural,30-39, SIKKIM,East ,Male,In movement,60
+11,4,Rural,40-49, SIKKIM,East ,Male,In movement,52
+11,4,Rural,50-59, SIKKIM,East ,Male,In movement,60
+11,4,Rural,60-69, SIKKIM,East ,Male,In movement,44
+11,4,Rural,70-79, SIKKIM,East ,Male,In movement,30
+11,4,Rural,80-89, SIKKIM,East ,Male,In movement,11
+11,4,Rural,90+, SIKKIM,East ,Male,In movement,2
+11,4,Rural,Age not stated, SIKKIM,East ,Male,In movement,2
+11,4,Urban,0-4, SIKKIM,East ,Male,In movement,5
+11,4,Urban,5-9, SIKKIM,East ,Male,In movement,6
+11,4,Urban,10-19, SIKKIM,East ,Male,In movement,13
+11,4,Urban,20-29, SIKKIM,East ,Male,In movement,12
+11,4,Urban,30-39, SIKKIM,East ,Male,In movement,6
+11,4,Urban,40-49, SIKKIM,East ,Male,In movement,9
+11,4,Urban,50-59, SIKKIM,East ,Male,In movement,6
+11,4,Urban,60-69, SIKKIM,East ,Male,In movement,4
+11,4,Urban,70-79, SIKKIM,East ,Male,In movement,2
+11,4,Urban,80-89, SIKKIM,East ,Male,In movement,0
+11,4,Urban,90+, SIKKIM,East ,Male,In movement,1
+11,4,Urban,Age not stated, SIKKIM,East ,Male,In movement,0
+11,1,Rural,0-4, SIKKIM,North ,Female,In movement,6
+11,1,Rural,5-9, SIKKIM,North ,Female,In movement,7
+11,1,Rural,10-19, SIKKIM,North ,Female,In movement,15
+11,1,Rural,20-29, SIKKIM,North ,Female,In movement,9
+11,1,Rural,30-39, SIKKIM,North ,Female,In movement,5
+11,1,Rural,40-49, SIKKIM,North ,Female,In movement,3
+11,1,Rural,50-59, SIKKIM,North ,Female,In movement,3
+11,1,Rural,60-69, SIKKIM,North ,Female,In movement,4
+11,1,Rural,70-79, SIKKIM,North ,Female,In movement,2
+11,1,Rural,80-89, SIKKIM,North ,Female,In movement,1
+11,1,Rural,90+, SIKKIM,North ,Female,In movement,2
+11,1,Rural,Age not stated, SIKKIM,North ,Female,In movement,4
+11,1,Urban,0-4, SIKKIM,North ,Female,In movement,0
+11,1,Urban,5-9, SIKKIM,North ,Female,In movement,0
+11,1,Urban,10-19, SIKKIM,North ,Female,In movement,0
+11,1,Urban,20-29, SIKKIM,North ,Female,In movement,1
+11,1,Urban,30-39, SIKKIM,North ,Female,In movement,0
+11,1,Urban,40-49, SIKKIM,North ,Female,In movement,0
+11,1,Urban,50-59, SIKKIM,North ,Female,In movement,0
+11,1,Urban,60-69, SIKKIM,North ,Female,In movement,0
+11,1,Urban,70-79, SIKKIM,North ,Female,In movement,0
+11,1,Urban,80-89, SIKKIM,North ,Female,In movement,0
+11,1,Urban,90+, SIKKIM,North ,Female,In movement,0
+11,1,Urban,Age not stated, SIKKIM,North ,Female,In movement,0
+11,2,Rural,0-4, SIKKIM,West ,Female,In movement,4
+11,2,Rural,5-9, SIKKIM,West ,Female,In movement,20
+11,2,Rural,10-19, SIKKIM,West ,Female,In movement,36
+11,2,Rural,20-29, SIKKIM,West ,Female,In movement,23
+11,2,Rural,30-39, SIKKIM,West ,Female,In movement,28
+11,2,Rural,40-49, SIKKIM,West ,Female,In movement,23
+11,2,Rural,50-59, SIKKIM,West ,Female,In movement,22
+11,2,Rural,60-69, SIKKIM,West ,Female,In movement,22
+11,2,Rural,70-79, SIKKIM,West ,Female,In movement,13
+11,2,Rural,80-89, SIKKIM,West ,Female,In movement,4
+11,2,Rural,90+, SIKKIM,West ,Female,In movement,4
+11,2,Rural,Age not stated, SIKKIM,West ,Female,In movement,0
+11,2,Urban,0-4, SIKKIM,West ,Female,In movement,0
+11,2,Urban,5-9, SIKKIM,West ,Female,In movement,0
+11,2,Urban,10-19, SIKKIM,West ,Female,In movement,0
+11,2,Urban,20-29, SIKKIM,West ,Female,In movement,0
+11,2,Urban,30-39, SIKKIM,West ,Female,In movement,0
+11,2,Urban,40-49, SIKKIM,West ,Female,In movement,0
+11,2,Urban,50-59, SIKKIM,West ,Female,In movement,0
+11,2,Urban,60-69, SIKKIM,West ,Female,In movement,0
+11,2,Urban,70-79, SIKKIM,West ,Female,In movement,0
+11,2,Urban,80-89, SIKKIM,West ,Female,In movement,1
+11,2,Urban,90+, SIKKIM,West ,Female,In movement,0
+11,2,Urban,Age not stated, SIKKIM,West ,Female,In movement,0
+11,3,Rural,0-4, SIKKIM,South ,Female,In movement,7
+11,3,Rural,5-9, SIKKIM,South ,Female,In movement,8
+11,3,Rural,10-19, SIKKIM,South ,Female,In movement,37
+11,3,Rural,20-29, SIKKIM,South ,Female,In movement,45
+11,3,Rural,30-39, SIKKIM,South ,Female,In movement,28
+11,3,Rural,40-49, SIKKIM,South ,Female,In movement,19
+11,3,Rural,50-59, SIKKIM,South ,Female,In movement,23
+11,3,Rural,60-69, SIKKIM,South ,Female,In movement,28
+11,3,Rural,70-79, SIKKIM,South ,Female,In movement,18
+11,3,Rural,80-89, SIKKIM,South ,Female,In movement,8
+11,3,Rural,90+, SIKKIM,South ,Female,In movement,2
+11,3,Rural,Age not stated, SIKKIM,South ,Female,In movement,0
+11,3,Urban,0-4, SIKKIM,South ,Female,In movement,0
+11,3,Urban,5-9, SIKKIM,South ,Female,In movement,0
+11,3,Urban,10-19, SIKKIM,South ,Female,In movement,1
+11,3,Urban,20-29, SIKKIM,South ,Female,In movement,2
+11,3,Urban,30-39, SIKKIM,South ,Female,In movement,0
+11,3,Urban,40-49, SIKKIM,South ,Female,In movement,0
+11,3,Urban,50-59, SIKKIM,South ,Female,In movement,0
+11,3,Urban,60-69, SIKKIM,South ,Female,In movement,0
+11,3,Urban,70-79, SIKKIM,South ,Female,In movement,0
+11,3,Urban,80-89, SIKKIM,South ,Female,In movement,0
+11,3,Urban,90+, SIKKIM,South ,Female,In movement,0
+11,3,Urban,Age not stated, SIKKIM,South ,Female,In movement,0
+11,4,Rural,0-4, SIKKIM,East ,Female,In movement,11
+11,4,Rural,5-9, SIKKIM,East ,Female,In movement,29
+11,4,Rural,10-19, SIKKIM,East ,Female,In movement,63
+11,4,Rural,20-29, SIKKIM,East ,Female,In movement,62
+11,4,Rural,30-39, SIKKIM,East ,Female,In movement,27
+11,4,Rural,40-49, SIKKIM,East ,Female,In movement,36
+11,4,Rural,50-59, SIKKIM,East ,Female,In movement,33
+11,4,Rural,60-69, SIKKIM,East ,Female,In movement,29
+11,4,Rural,70-79, SIKKIM,East ,Female,In movement,22
+11,4,Rural,80-89, SIKKIM,East ,Female,In movement,5
+11,4,Rural,90+, SIKKIM,East ,Female,In movement,3
+11,4,Rural,Age not stated, SIKKIM,East ,Female,In movement,1
+11,4,Urban,0-4, SIKKIM,East ,Female,In movement,1
+11,4,Urban,5-9, SIKKIM,East ,Female,In movement,5
+11,4,Urban,10-19, SIKKIM,East ,Female,In movement,12
+11,4,Urban,20-29, SIKKIM,East ,Female,In movement,9
+11,4,Urban,30-39, SIKKIM,East ,Female,In movement,8
+11,4,Urban,40-49, SIKKIM,East ,Female,In movement,8
+11,4,Urban,50-59, SIKKIM,East ,Female,In movement,0
+11,4,Urban,60-69, SIKKIM,East ,Female,In movement,9
+11,4,Urban,70-79, SIKKIM,East ,Female,In movement,5
+11,4,Urban,80-89, SIKKIM,East ,Female,In movement,0
+11,4,Urban,90+, SIKKIM,East ,Female,In movement,0
+11,4,Urban,Age not stated, SIKKIM,East ,Female,In movement,0
+11,1,Rural,0-4, SIKKIM,North ,Male,Mental,0
+11,1,Rural,5-9, SIKKIM,North ,Male,Mental,0
+11,1,Rural,10-19, SIKKIM,North ,Male,Mental,4
+11,1,Rural,20-29, SIKKIM,North ,Male,Mental,3
+11,1,Rural,30-39, SIKKIM,North ,Male,Mental,6
+11,1,Rural,40-49, SIKKIM,North ,Male,Mental,5
+11,1,Rural,50-59, SIKKIM,North ,Male,Mental,3
+11,1,Rural,60-69, SIKKIM,North ,Male,Mental,1
+11,1,Rural,70-79, SIKKIM,North ,Male,Mental,0
+11,1,Rural,80-89, SIKKIM,North ,Male,Mental,1
+11,1,Rural,90+, SIKKIM,North ,Male,Mental,0
+11,1,Rural,Age not stated, SIKKIM,North ,Male,Mental,1
+11,1,Urban,0-4, SIKKIM,North ,Male,Mental,0
+11,1,Urban,5-9, SIKKIM,North ,Male,Mental,0
+11,1,Urban,10-19, SIKKIM,North ,Male,Mental,0
+11,1,Urban,20-29, SIKKIM,North ,Male,Mental,0
+11,1,Urban,30-39, SIKKIM,North ,Male,Mental,0
+11,1,Urban,40-49, SIKKIM,North ,Male,Mental,0
+11,1,Urban,50-59, SIKKIM,North ,Male,Mental,0
+11,1,Urban,60-69, SIKKIM,North ,Male,Mental,0
+11,1,Urban,70-79, SIKKIM,North ,Male,Mental,0
+11,1,Urban,80-89, SIKKIM,North ,Male,Mental,0
+11,1,Urban,90+, SIKKIM,North ,Male,Mental,0
+11,1,Urban,Age not stated, SIKKIM,North ,Male,Mental,1
+11,2,Rural,0-4, SIKKIM,West ,Male,Mental,1
+11,2,Rural,5-9, SIKKIM,West ,Male,Mental,2
+11,2,Rural,10-19, SIKKIM,West ,Male,Mental,22
+11,2,Rural,20-29, SIKKIM,West ,Male,Mental,17
+11,2,Rural,30-39, SIKKIM,West ,Male,Mental,10
+11,2,Rural,40-49, SIKKIM,West ,Male,Mental,15
+11,2,Rural,50-59, SIKKIM,West ,Male,Mental,6
+11,2,Rural,60-69, SIKKIM,West ,Male,Mental,2
+11,2,Rural,70-79, SIKKIM,West ,Male,Mental,3
+11,2,Rural,80-89, SIKKIM,West ,Male,Mental,1
+11,2,Rural,90+, SIKKIM,West ,Male,Mental,0
+11,2,Rural,Age not stated, SIKKIM,West ,Male,Mental,2
+11,2,Urban,0-4, SIKKIM,West ,Male,Mental,0
+11,2,Urban,5-9, SIKKIM,West ,Male,Mental,0
+11,2,Urban,10-19, SIKKIM,West ,Male,Mental,0
+11,2,Urban,20-29, SIKKIM,West ,Male,Mental,0
+11,2,Urban,30-39, SIKKIM,West ,Male,Mental,0
+11,2,Urban,40-49, SIKKIM,West ,Male,Mental,1
+11,2,Urban,50-59, SIKKIM,West ,Male,Mental,0
+11,2,Urban,60-69, SIKKIM,West ,Male,Mental,0
+11,2,Urban,70-79, SIKKIM,West ,Male,Mental,0
+11,2,Urban,80-89, SIKKIM,West ,Male,Mental,0
+11,2,Urban,90+, SIKKIM,West ,Male,Mental,0
+11,2,Urban,Age not stated, SIKKIM,West ,Male,Mental,0
+11,3,Rural,0-4, SIKKIM,South ,Male,Mental,0
+11,3,Rural,5-9, SIKKIM,South ,Male,Mental,9
+11,3,Rural,10-19, SIKKIM,South ,Male,Mental,23
+11,3,Rural,20-29, SIKKIM,South ,Male,Mental,28
+11,3,Rural,30-39, SIKKIM,South ,Male,Mental,37
+11,3,Rural,40-49, SIKKIM,South ,Male,Mental,13
+11,3,Rural,50-59, SIKKIM,South ,Male,Mental,8
+11,3,Rural,60-69, SIKKIM,South ,Male,Mental,12
+11,3,Rural,70-79, SIKKIM,South ,Male,Mental,6
+11,3,Rural,80-89, SIKKIM,South ,Male,Mental,2
+11,3,Rural,90+, SIKKIM,South ,Male,Mental,1
+11,3,Rural,Age not stated, SIKKIM,South ,Male,Mental,1
+11,3,Urban,0-4, SIKKIM,South ,Male,Mental,0
+11,3,Urban,5-9, SIKKIM,South ,Male,Mental,1
+11,3,Urban,10-19, SIKKIM,South ,Male,Mental,3
+11,3,Urban,20-29, SIKKIM,South ,Male,Mental,1
+11,3,Urban,30-39, SIKKIM,South ,Male,Mental,0
+11,3,Urban,40-49, SIKKIM,South ,Male,Mental,1
+11,3,Urban,50-59, SIKKIM,South ,Male,Mental,0
+11,3,Urban,60-69, SIKKIM,South ,Male,Mental,0
+11,3,Urban,70-79, SIKKIM,South ,Male,Mental,0
+11,3,Urban,80-89, SIKKIM,South ,Male,Mental,0
+11,3,Urban,90+, SIKKIM,South ,Male,Mental,0
+11,3,Urban,Age not stated, SIKKIM,South ,Male,Mental,0
+11,4,Rural,0-4, SIKKIM,East ,Male,Mental,4
+11,4,Rural,5-9, SIKKIM,East ,Male,Mental,4
+11,4,Rural,10-19, SIKKIM,East ,Male,Mental,29
+11,4,Rural,20-29, SIKKIM,East ,Male,Mental,26
+11,4,Rural,30-39, SIKKIM,East ,Male,Mental,26
+11,4,Rural,40-49, SIKKIM,East ,Male,Mental,16
+11,4,Rural,50-59, SIKKIM,East ,Male,Mental,17
+11,4,Rural,60-69, SIKKIM,East ,Male,Mental,8
+11,4,Rural,70-79, SIKKIM,East ,Male,Mental,4
+11,4,Rural,80-89, SIKKIM,East ,Male,Mental,0
+11,4,Rural,90+, SIKKIM,East ,Male,Mental,0
+11,4,Rural,Age not stated, SIKKIM,East ,Male,Mental,0
+11,4,Urban,0-4, SIKKIM,East ,Male,Mental,1
+11,4,Urban,5-9, SIKKIM,East ,Male,Mental,3
+11,4,Urban,10-19, SIKKIM,East ,Male,Mental,6
+11,4,Urban,20-29, SIKKIM,East ,Male,Mental,12
+11,4,Urban,30-39, SIKKIM,East ,Male,Mental,12
+11,4,Urban,40-49, SIKKIM,East ,Male,Mental,5
+11,4,Urban,50-59, SIKKIM,East ,Male,Mental,3
+11,4,Urban,60-69, SIKKIM,East ,Male,Mental,0
+11,4,Urban,70-79, SIKKIM,East ,Male,Mental,0
+11,4,Urban,80-89, SIKKIM,East ,Male,Mental,0
+11,4,Urban,90+, SIKKIM,East ,Male,Mental,0
+11,4,Urban,Age not stated, SIKKIM,East ,Male,Mental,0
+11,1,Rural,0-4, SIKKIM,North ,Female,Mental,1
+11,1,Rural,5-9, SIKKIM,North ,Female,Mental,1
+11,1,Rural,10-19, SIKKIM,North ,Female,Mental,5
+11,1,Rural,20-29, SIKKIM,North ,Female,Mental,4
+11,1,Rural,30-39, SIKKIM,North ,Female,Mental,7
+11,1,Rural,40-49, SIKKIM,North ,Female,Mental,1
+11,1,Rural,50-59, SIKKIM,North ,Female,Mental,2
+11,1,Rural,60-69, SIKKIM,North ,Female,Mental,0
+11,1,Rural,70-79, SIKKIM,North ,Female,Mental,1
+11,1,Rural,80-89, SIKKIM,North ,Female,Mental,0
+11,1,Rural,90+, SIKKIM,North ,Female,Mental,0
+11,1,Rural,Age not stated, SIKKIM,North ,Female,Mental,1
+11,1,Urban,0-4, SIKKIM,North ,Female,Mental,0
+11,1,Urban,5-9, SIKKIM,North ,Female,Mental,0
+11,1,Urban,10-19, SIKKIM,North ,Female,Mental,0
+11,1,Urban,20-29, SIKKIM,North ,Female,Mental,0
+11,1,Urban,30-39, SIKKIM,North ,Female,Mental,0
+11,1,Urban,40-49, SIKKIM,North ,Female,Mental,0
+11,1,Urban,50-59, SIKKIM,North ,Female,Mental,0
+11,1,Urban,60-69, SIKKIM,North ,Female,Mental,0
+11,1,Urban,70-79, SIKKIM,North ,Female,Mental,0
+11,1,Urban,80-89, SIKKIM,North ,Female,Mental,0
+11,1,Urban,90+, SIKKIM,North ,Female,Mental,0
+11,1,Urban,Age not stated, SIKKIM,North ,Female,Mental,0
+11,2,Rural,0-4, SIKKIM,West ,Female,Mental,3
+11,2,Rural,5-9, SIKKIM,West ,Female,Mental,5
+11,2,Rural,10-19, SIKKIM,West ,Female,Mental,7
+11,2,Rural,20-29, SIKKIM,West ,Female,Mental,17
+11,2,Rural,30-39, SIKKIM,West ,Female,Mental,15
+11,2,Rural,40-49, SIKKIM,West ,Female,Mental,18
+11,2,Rural,50-59, SIKKIM,West ,Female,Mental,9
+11,2,Rural,60-69, SIKKIM,West ,Female,Mental,3
+11,2,Rural,70-79, SIKKIM,West ,Female,Mental,4
+11,2,Rural,80-89, SIKKIM,West ,Female,Mental,1
+11,2,Rural,90+, SIKKIM,West ,Female,Mental,1
+11,2,Rural,Age not stated, SIKKIM,West ,Female,Mental,0
+11,2,Urban,0-4, SIKKIM,West ,Female,Mental,0
+11,2,Urban,5-9, SIKKIM,West ,Female,Mental,0
+11,2,Urban,10-19, SIKKIM,West ,Female,Mental,0
+11,2,Urban,20-29, SIKKIM,West ,Female,Mental,0
+11,2,Urban,30-39, SIKKIM,West ,Female,Mental,0
+11,2,Urban,40-49, SIKKIM,West ,Female,Mental,1
+11,2,Urban,50-59, SIKKIM,West ,Female,Mental,0
+11,2,Urban,60-69, SIKKIM,West ,Female,Mental,0
+11,2,Urban,70-79, SIKKIM,West ,Female,Mental,0
+11,2,Urban,80-89, SIKKIM,West ,Female,Mental,0
+11,2,Urban,90+, SIKKIM,West ,Female,Mental,0
+11,2,Urban,Age not stated, SIKKIM,West ,Female,Mental,0
+11,3,Rural,0-4, SIKKIM,South ,Female,Mental,1
+11,3,Rural,5-9, SIKKIM,South ,Female,Mental,4
+11,3,Rural,10-19, SIKKIM,South ,Female,Mental,11
+11,3,Rural,20-29, SIKKIM,South ,Female,Mental,30
+11,3,Rural,30-39, SIKKIM,South ,Female,Mental,21
+11,3,Rural,40-49, SIKKIM,South ,Female,Mental,8
+11,3,Rural,50-59, SIKKIM,South ,Female,Mental,9
+11,3,Rural,60-69, SIKKIM,South ,Female,Mental,13
+11,3,Rural,70-79, SIKKIM,South ,Female,Mental,2
+11,3,Rural,80-89, SIKKIM,South ,Female,Mental,2
+11,3,Rural,90+, SIKKIM,South ,Female,Mental,0
+11,3,Rural,Age not stated, SIKKIM,South ,Female,Mental,0
+11,3,Urban,0-4, SIKKIM,South ,Female,Mental,0
+11,3,Urban,5-9, SIKKIM,South ,Female,Mental,0
+11,3,Urban,10-19, SIKKIM,South ,Female,Mental,1
+11,3,Urban,20-29, SIKKIM,South ,Female,Mental,1
+11,3,Urban,30-39, SIKKIM,South ,Female,Mental,1
+11,3,Urban,40-49, SIKKIM,South ,Female,Mental,0
+11,3,Urban,50-59, SIKKIM,South ,Female,Mental,0
+11,3,Urban,60-69, SIKKIM,South ,Female,Mental,1
+11,3,Urban,70-79, SIKKIM,South ,Female,Mental,0
+11,3,Urban,80-89, SIKKIM,South ,Female,Mental,0
+11,3,Urban,90+, SIKKIM,South ,Female,Mental,0
+11,3,Urban,Age not stated, SIKKIM,South ,Female,Mental,0
+11,4,Rural,0-4, SIKKIM,East ,Female,Mental,2
+11,4,Rural,5-9, SIKKIM,East ,Female,Mental,6
+11,4,Rural,10-19, SIKKIM,East ,Female,Mental,17
+11,4,Rural,20-29, SIKKIM,East ,Female,Mental,33
+11,4,Rural,30-39, SIKKIM,East ,Female,Mental,28
+11,4,Rural,40-49, SIKKIM,East ,Female,Mental,19
+11,4,Rural,50-59, SIKKIM,East ,Female,Mental,15
+11,4,Rural,60-69, SIKKIM,East ,Female,Mental,4
+11,4,Rural,70-79, SIKKIM,East ,Female,Mental,4
+11,4,Rural,80-89, SIKKIM,East ,Female,Mental,0
+11,4,Rural,90+, SIKKIM,East ,Female,Mental,0
+11,4,Rural,Age not stated, SIKKIM,East ,Female,Mental,1
+11,4,Urban,0-4, SIKKIM,East ,Female,Mental,0
+11,4,Urban,5-9, SIKKIM,East ,Female,Mental,0
+11,4,Urban,10-19, SIKKIM,East ,Female,Mental,11
+11,4,Urban,20-29, SIKKIM,East ,Female,Mental,8
+11,4,Urban,30-39, SIKKIM,East ,Female,Mental,5
+11,4,Urban,40-49, SIKKIM,East ,Female,Mental,0
+11,4,Urban,50-59, SIKKIM,East ,Female,Mental,2
+11,4,Urban,60-69, SIKKIM,East ,Female,Mental,1
+11,4,Urban,70-79, SIKKIM,East ,Female,Mental,2
+11,4,Urban,80-89, SIKKIM,East ,Female,Mental,0
+11,4,Urban,90+, SIKKIM,East ,Female,Mental,0
+11,4,Urban,Age not stated, SIKKIM,East ,Female,Mental,0

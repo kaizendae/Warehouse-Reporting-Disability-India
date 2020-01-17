@@ -1,0 +1,3361 @@
+State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
+32,1,Rural,0-4,KERALA,Kasaragod,Male,In seeing,22
+32,1,Rural,5-9,KERALA,Kasaragod,Male,In seeing,55
+32,1,Rural,10-19,KERALA,Kasaragod,Male,In seeing,194
+32,1,Rural,20-29,KERALA,Kasaragod,Male,In seeing,119
+32,1,Rural,30-39,KERALA,Kasaragod,Male,In seeing,116
+32,1,Rural,40-49,KERALA,Kasaragod,Male,In seeing,193
+32,1,Rural,50-59,KERALA,Kasaragod,Male,In seeing,228
+32,1,Rural,60-69,KERALA,Kasaragod,Male,In seeing,214
+32,1,Rural,70-79,KERALA,Kasaragod,Male,In seeing,173
+32,1,Rural,80-89,KERALA,Kasaragod,Male,In seeing,75
+32,1,Rural,90+,KERALA,Kasaragod,Male,In seeing,15
+32,1,Rural,Age Not Stated,KERALA,Kasaragod,Male,In seeing,0
+32,1,Urban,0-4,KERALA,Kasaragod,Male,In seeing,31
+32,1,Urban,5-9,KERALA,Kasaragod,Male,In seeing,35
+32,1,Urban,10-19,KERALA,Kasaragod,Male,In seeing,108
+32,1,Urban,20-29,KERALA,Kasaragod,Male,In seeing,91
+32,1,Urban,30-39,KERALA,Kasaragod,Male,In seeing,79
+32,1,Urban,40-49,KERALA,Kasaragod,Male,In seeing,68
+32,1,Urban,50-59,KERALA,Kasaragod,Male,In seeing,97
+32,1,Urban,60-69,KERALA,Kasaragod,Male,In seeing,117
+32,1,Urban,70-79,KERALA,Kasaragod,Male,In seeing,83
+32,1,Urban,80-89,KERALA,Kasaragod,Male,In seeing,30
+32,1,Urban,90+,KERALA,Kasaragod,Male,In seeing,4
+32,1,Urban,Age Not Stated,KERALA,Kasaragod,Male,In seeing,2
+32,2,Rural,0-4,KERALA,Kannur,Male,In seeing,19
+32,2,Rural,5-9,KERALA,Kannur,Male,In seeing,56
+32,2,Rural,10-19,KERALA,Kannur,Male,In seeing,163
+32,2,Rural,20-29,KERALA,Kannur,Male,In seeing,116
+32,2,Rural,30-39,KERALA,Kannur,Male,In seeing,111
+32,2,Rural,40-49,KERALA,Kannur,Male,In seeing,202
+32,2,Rural,50-59,KERALA,Kannur,Male,In seeing,226
+32,2,Rural,60-69,KERALA,Kannur,Male,In seeing,277
+32,2,Rural,70-79,KERALA,Kannur,Male,In seeing,207
+32,2,Rural,80-89,KERALA,Kannur,Male,In seeing,122
+32,2,Rural,90+,KERALA,Kannur,Male,In seeing,22
+32,2,Rural,Age Not Stated,KERALA,Kannur,Male,In seeing,0
+32,2,Urban,0-4,KERALA,Kannur,Male,In seeing,43
+32,2,Urban,5-9,KERALA,Kannur,Male,In seeing,88
+32,2,Urban,10-19,KERALA,Kannur,Male,In seeing,261
+32,2,Urban,20-29,KERALA,Kannur,Male,In seeing,200
+32,2,Urban,30-39,KERALA,Kannur,Male,In seeing,204
+32,2,Urban,40-49,KERALA,Kannur,Male,In seeing,298
+32,2,Urban,50-59,KERALA,Kannur,Male,In seeing,404
+32,2,Urban,60-69,KERALA,Kannur,Male,In seeing,435
+32,2,Urban,70-79,KERALA,Kannur,Male,In seeing,295
+32,2,Urban,80-89,KERALA,Kannur,Male,In seeing,137
+32,2,Urban,90+,KERALA,Kannur,Male,In seeing,19
+32,2,Urban,Age Not Stated,KERALA,Kannur,Male,In seeing,9
+32,3,Rural,0-4,KERALA,Wayanad,Male,In seeing,14
+32,3,Rural,5-9,KERALA,Wayanad,Male,In seeing,54
+32,3,Rural,10-19,KERALA,Wayanad,Male,In seeing,176
+32,3,Rural,20-29,KERALA,Wayanad,Male,In seeing,119
+32,3,Rural,30-39,KERALA,Wayanad,Male,In seeing,152
+32,3,Rural,40-49,KERALA,Wayanad,Male,In seeing,268
+32,3,Rural,50-59,KERALA,Wayanad,Male,In seeing,335
+32,3,Rural,60-69,KERALA,Wayanad,Male,In seeing,379
+32,3,Rural,70-79,KERALA,Wayanad,Male,In seeing,248
+32,3,Rural,80-89,KERALA,Wayanad,Male,In seeing,123
+32,3,Rural,90+,KERALA,Wayanad,Male,In seeing,11
+32,3,Rural,Age Not Stated,KERALA,Wayanad,Male,In seeing,0
+32,3,Urban,0-4,KERALA,Wayanad,Male,In seeing,1
+32,3,Urban,5-9,KERALA,Wayanad,Male,In seeing,0
+32,3,Urban,10-19,KERALA,Wayanad,Male,In seeing,9
+32,3,Urban,20-29,KERALA,Wayanad,Male,In seeing,5
+32,3,Urban,30-39,KERALA,Wayanad,Male,In seeing,4
+32,3,Urban,40-49,KERALA,Wayanad,Male,In seeing,9
+32,3,Urban,50-59,KERALA,Wayanad,Male,In seeing,13
+32,3,Urban,60-69,KERALA,Wayanad,Male,In seeing,14
+32,3,Urban,70-79,KERALA,Wayanad,Male,In seeing,8
+32,3,Urban,80-89,KERALA,Wayanad,Male,In seeing,1
+32,3,Urban,90+,KERALA,Wayanad,Male,In seeing,0
+32,3,Urban,Age Not Stated,KERALA,Wayanad,Male,In seeing,0
+32,4,Rural,0-4,KERALA,Kozhikode,Male,In seeing,26
+32,4,Rural,5-9,KERALA,Kozhikode,Male,In seeing,67
+32,4,Rural,10-19,KERALA,Kozhikode,Male,In seeing,243
+32,4,Rural,20-29,KERALA,Kozhikode,Male,In seeing,169
+32,4,Rural,30-39,KERALA,Kozhikode,Male,In seeing,183
+32,4,Rural,40-49,KERALA,Kozhikode,Male,In seeing,392
+32,4,Rural,50-59,KERALA,Kozhikode,Male,In seeing,572
+32,4,Rural,60-69,KERALA,Kozhikode,Male,In seeing,574
+32,4,Rural,70-79,KERALA,Kozhikode,Male,In seeing,418
+32,4,Rural,80-89,KERALA,Kozhikode,Male,In seeing,236
+32,4,Rural,90+,KERALA,Kozhikode,Male,In seeing,44
+32,4,Rural,Age Not Stated,KERALA,Kozhikode,Male,In seeing,3
+32,4,Urban,0-4,KERALA,Kozhikode,Male,In seeing,53
+32,4,Urban,5-9,KERALA,Kozhikode,Male,In seeing,146
+32,4,Urban,10-19,KERALA,Kozhikode,Male,In seeing,516
+32,4,Urban,20-29,KERALA,Kozhikode,Male,In seeing,263
+32,4,Urban,30-39,KERALA,Kozhikode,Male,In seeing,290
+32,4,Urban,40-49,KERALA,Kozhikode,Male,In seeing,594
+32,4,Urban,50-59,KERALA,Kozhikode,Male,In seeing,797
+32,4,Urban,60-69,KERALA,Kozhikode,Male,In seeing,891
+32,4,Urban,70-79,KERALA,Kozhikode,Male,In seeing,642
+32,4,Urban,80-89,KERALA,Kozhikode,Male,In seeing,280
+32,4,Urban,90+,KERALA,Kozhikode,Male,In seeing,51
+32,4,Urban,Age Not Stated,KERALA,Kozhikode,Male,In seeing,4
+32,5,Rural,0-4,KERALA,Malappuram,Male,In seeing,66
+32,5,Rural,5-9,KERALA,Malappuram,Male,In seeing,134
+32,5,Rural,10-19,KERALA,Malappuram,Male,In seeing,385
+32,5,Rural,20-29,KERALA,Malappuram,Male,In seeing,307
+32,5,Rural,30-39,KERALA,Malappuram,Male,In seeing,252
+32,5,Rural,40-49,KERALA,Malappuram,Male,In seeing,397
+32,5,Rural,50-59,KERALA,Malappuram,Male,In seeing,519
+32,5,Rural,60-69,KERALA,Malappuram,Male,In seeing,612
+32,5,Rural,70-79,KERALA,Malappuram,Male,In seeing,404
+32,5,Rural,80-89,KERALA,Malappuram,Male,In seeing,145
+32,5,Rural,90+,KERALA,Malappuram,Male,In seeing,23
+32,5,Rural,Age Not Stated,KERALA,Malappuram,Male,In seeing,5
+32,5,Urban,0-4,KERALA,Malappuram,Male,In seeing,54
+32,5,Urban,5-9,KERALA,Malappuram,Male,In seeing,83
+32,5,Urban,10-19,KERALA,Malappuram,Male,In seeing,338
+32,5,Urban,20-29,KERALA,Malappuram,Male,In seeing,265
+32,5,Urban,30-39,KERALA,Malappuram,Male,In seeing,191
+32,5,Urban,40-49,KERALA,Malappuram,Male,In seeing,349
+32,5,Urban,50-59,KERALA,Malappuram,Male,In seeing,399
+32,5,Urban,60-69,KERALA,Malappuram,Male,In seeing,408
+32,5,Urban,70-79,KERALA,Malappuram,Male,In seeing,279
+32,5,Urban,80-89,KERALA,Malappuram,Male,In seeing,86
+32,5,Urban,90+,KERALA,Malappuram,Male,In seeing,17
+32,5,Urban,Age Not Stated,KERALA,Malappuram,Male,In seeing,1
+32,6,Rural,0-4,KERALA,Palakkad,Male,In seeing,40
+32,6,Rural,5-9,KERALA,Palakkad,Male,In seeing,85
+32,6,Rural,10-19,KERALA,Palakkad,Male,In seeing,270
+32,6,Rural,20-29,KERALA,Palakkad,Male,In seeing,201
+32,6,Rural,30-39,KERALA,Palakkad,Male,In seeing,243
+32,6,Rural,40-49,KERALA,Palakkad,Male,In seeing,389
+32,6,Rural,50-59,KERALA,Palakkad,Male,In seeing,439
+32,6,Rural,60-69,KERALA,Palakkad,Male,In seeing,522
+32,6,Rural,70-79,KERALA,Palakkad,Male,In seeing,464
+32,6,Rural,80-89,KERALA,Palakkad,Male,In seeing,214
+32,6,Rural,90+,KERALA,Palakkad,Male,In seeing,29
+32,6,Rural,Age Not Stated,KERALA,Palakkad,Male,In seeing,2
+32,6,Urban,0-4,KERALA,Palakkad,Male,In seeing,8
+32,6,Urban,5-9,KERALA,Palakkad,Male,In seeing,19
+32,6,Urban,10-19,KERALA,Palakkad,Male,In seeing,78
+32,6,Urban,20-29,KERALA,Palakkad,Male,In seeing,66
+32,6,Urban,30-39,KERALA,Palakkad,Male,In seeing,62
+32,6,Urban,40-49,KERALA,Palakkad,Male,In seeing,112
+32,6,Urban,50-59,KERALA,Palakkad,Male,In seeing,120
+32,6,Urban,60-69,KERALA,Palakkad,Male,In seeing,142
+32,6,Urban,70-79,KERALA,Palakkad,Male,In seeing,129
+32,6,Urban,80-89,KERALA,Palakkad,Male,In seeing,50
+32,6,Urban,90+,KERALA,Palakkad,Male,In seeing,5
+32,6,Urban,Age Not Stated,KERALA,Palakkad,Male,In seeing,0
+32,7,Rural,0-4,KERALA,Thrissur,Male,In seeing,19
+32,7,Rural,5-9,KERALA,Thrissur,Male,In seeing,45
+32,7,Rural,10-19,KERALA,Thrissur,Male,In seeing,109
+32,7,Rural,20-29,KERALA,Thrissur,Male,In seeing,93
+32,7,Rural,30-39,KERALA,Thrissur,Male,In seeing,122
+32,7,Rural,40-49,KERALA,Thrissur,Male,In seeing,160
+32,7,Rural,50-59,KERALA,Thrissur,Male,In seeing,246
+32,7,Rural,60-69,KERALA,Thrissur,Male,In seeing,252
+32,7,Rural,70-79,KERALA,Thrissur,Male,In seeing,227
+32,7,Rural,80-89,KERALA,Thrissur,Male,In seeing,112
+32,7,Rural,90+,KERALA,Thrissur,Male,In seeing,24
+32,7,Rural,Age Not Stated,KERALA,Thrissur,Male,In seeing,1
+32,7,Urban,0-4,KERALA,Thrissur,Male,In seeing,33
+32,7,Urban,5-9,KERALA,Thrissur,Male,In seeing,62
+32,7,Urban,10-19,KERALA,Thrissur,Male,In seeing,205
+32,7,Urban,20-29,KERALA,Thrissur,Male,In seeing,162
+32,7,Urban,30-39,KERALA,Thrissur,Male,In seeing,187
+32,7,Urban,40-49,KERALA,Thrissur,Male,In seeing,342
+32,7,Urban,50-59,KERALA,Thrissur,Male,In seeing,439
+32,7,Urban,60-69,KERALA,Thrissur,Male,In seeing,431
+32,7,Urban,70-79,KERALA,Thrissur,Male,In seeing,440
+32,7,Urban,80-89,KERALA,Thrissur,Male,In seeing,218
+32,7,Urban,90+,KERALA,Thrissur,Male,In seeing,24
+32,7,Urban,Age Not Stated,KERALA,Thrissur,Male,In seeing,2
+32,8,Rural,0-4,KERALA,Ernakulam,Male,In seeing,16
+32,8,Rural,5-9,KERALA,Ernakulam,Male,In seeing,40
+32,8,Rural,10-19,KERALA,Ernakulam,Male,In seeing,123
+32,8,Rural,20-29,KERALA,Ernakulam,Male,In seeing,71
+32,8,Rural,30-39,KERALA,Ernakulam,Male,In seeing,94
+32,8,Rural,40-49,KERALA,Ernakulam,Male,In seeing,173
+32,8,Rural,50-59,KERALA,Ernakulam,Male,In seeing,200
+32,8,Rural,60-69,KERALA,Ernakulam,Male,In seeing,213
+32,8,Rural,70-79,KERALA,Ernakulam,Male,In seeing,215
+32,8,Rural,80-89,KERALA,Ernakulam,Male,In seeing,137
+32,8,Rural,90+,KERALA,Ernakulam,Male,In seeing,19
+32,8,Rural,Age Not Stated,KERALA,Ernakulam,Male,In seeing,2
+32,8,Urban,0-4,KERALA,Ernakulam,Male,In seeing,32
+32,8,Urban,5-9,KERALA,Ernakulam,Male,In seeing,85
+32,8,Urban,10-19,KERALA,Ernakulam,Male,In seeing,259
+32,8,Urban,20-29,KERALA,Ernakulam,Male,In seeing,228
+32,8,Urban,30-39,KERALA,Ernakulam,Male,In seeing,226
+32,8,Urban,40-49,KERALA,Ernakulam,Male,In seeing,470
+32,8,Urban,50-59,KERALA,Ernakulam,Male,In seeing,596
+32,8,Urban,60-69,KERALA,Ernakulam,Male,In seeing,553
+32,8,Urban,70-79,KERALA,Ernakulam,Male,In seeing,485
+32,8,Urban,80-89,KERALA,Ernakulam,Male,In seeing,191
+32,8,Urban,90+,KERALA,Ernakulam,Male,In seeing,37
+32,8,Urban,Age Not Stated,KERALA,Ernakulam,Male,In seeing,3
+32,9,Rural,0-4,KERALA,Idukki ,Male,In seeing,14
+32,9,Rural,5-9,KERALA,Idukki ,Male,In seeing,56
+32,9,Rural,10-19,KERALA,Idukki ,Male,In seeing,162
+32,9,Rural,20-29,KERALA,Idukki ,Male,In seeing,116
+32,9,Rural,30-39,KERALA,Idukki ,Male,In seeing,139
+32,9,Rural,40-49,KERALA,Idukki ,Male,In seeing,218
+32,9,Rural,50-59,KERALA,Idukki ,Male,In seeing,292
+32,9,Rural,60-69,KERALA,Idukki ,Male,In seeing,233
+32,9,Rural,70-79,KERALA,Idukki ,Male,In seeing,224
+32,9,Rural,80-89,KERALA,Idukki ,Male,In seeing,99
+32,9,Rural,90+,KERALA,Idukki ,Male,In seeing,21
+32,9,Rural,Age Not Stated,KERALA,Idukki ,Male,In seeing,0
+32,9,Urban,0-4,KERALA,Idukki ,Male,In seeing,0
+32,9,Urban,5-9,KERALA,Idukki ,Male,In seeing,0
+32,9,Urban,10-19,KERALA,Idukki ,Male,In seeing,8
+32,9,Urban,20-29,KERALA,Idukki ,Male,In seeing,5
+32,9,Urban,30-39,KERALA,Idukki ,Male,In seeing,6
+32,9,Urban,40-49,KERALA,Idukki ,Male,In seeing,10
+32,9,Urban,50-59,KERALA,Idukki ,Male,In seeing,4
+32,9,Urban,60-69,KERALA,Idukki ,Male,In seeing,7
+32,9,Urban,70-79,KERALA,Idukki ,Male,In seeing,3
+32,9,Urban,80-89,KERALA,Idukki ,Male,In seeing,7
+32,9,Urban,90+,KERALA,Idukki ,Male,In seeing,0
+32,9,Urban,Age Not Stated,KERALA,Idukki ,Male,In seeing,0
+32,10,Rural,0-4,KERALA,Kottayam,Male,In seeing,23
+32,10,Rural,5-9,KERALA,Kottayam,Male,In seeing,66
+32,10,Rural,10-19,KERALA,Kottayam,Male,In seeing,210
+32,10,Rural,20-29,KERALA,Kottayam,Male,In seeing,128
+32,10,Rural,30-39,KERALA,Kottayam,Male,In seeing,165
+32,10,Rural,40-49,KERALA,Kottayam,Male,In seeing,303
+32,10,Rural,50-59,KERALA,Kottayam,Male,In seeing,440
+32,10,Rural,60-69,KERALA,Kottayam,Male,In seeing,422
+32,10,Rural,70-79,KERALA,Kottayam,Male,In seeing,359
+32,10,Rural,80-89,KERALA,Kottayam,Male,In seeing,211
+32,10,Rural,90+,KERALA,Kottayam,Male,In seeing,32
+32,10,Rural,Age Not Stated,KERALA,Kottayam,Male,In seeing,0
+32,10,Urban,0-4,KERALA,Kottayam,Male,In seeing,6
+32,10,Urban,5-9,KERALA,Kottayam,Male,In seeing,13
+32,10,Urban,10-19,KERALA,Kottayam,Male,In seeing,75
+32,10,Urban,20-29,KERALA,Kottayam,Male,In seeing,50
+32,10,Urban,30-39,KERALA,Kottayam,Male,In seeing,75
+32,10,Urban,40-49,KERALA,Kottayam,Male,In seeing,116
+32,10,Urban,50-59,KERALA,Kottayam,Male,In seeing,176
+32,10,Urban,60-69,KERALA,Kottayam,Male,In seeing,158
+32,10,Urban,70-79,KERALA,Kottayam,Male,In seeing,142
+32,10,Urban,80-89,KERALA,Kottayam,Male,In seeing,80
+32,10,Urban,90+,KERALA,Kottayam,Male,In seeing,13
+32,10,Urban,Age Not Stated,KERALA,Kottayam,Male,In seeing,0
+32,11,Rural,0-4,KERALA,Alappuzha,Male,In seeing,16
+32,11,Rural,5-9,KERALA,Alappuzha,Male,In seeing,34
+32,11,Rural,10-19,KERALA,Alappuzha,Male,In seeing,121
+32,11,Rural,20-29,KERALA,Alappuzha,Male,In seeing,95
+32,11,Rural,30-39,KERALA,Alappuzha,Male,In seeing,104
+32,11,Rural,40-49,KERALA,Alappuzha,Male,In seeing,220
+32,11,Rural,50-59,KERALA,Alappuzha,Male,In seeing,299
+32,11,Rural,60-69,KERALA,Alappuzha,Male,In seeing,339
+32,11,Rural,70-79,KERALA,Alappuzha,Male,In seeing,331
+32,11,Rural,80-89,KERALA,Alappuzha,Male,In seeing,179
+32,11,Rural,90+,KERALA,Alappuzha,Male,In seeing,28
+32,11,Rural,Age Not Stated,KERALA,Alappuzha,Male,In seeing,2
+32,11,Urban,0-4,KERALA,Alappuzha,Male,In seeing,21
+32,11,Urban,5-9,KERALA,Alappuzha,Male,In seeing,54
+32,11,Urban,10-19,KERALA,Alappuzha,Male,In seeing,183
+32,11,Urban,20-29,KERALA,Alappuzha,Male,In seeing,133
+32,11,Urban,30-39,KERALA,Alappuzha,Male,In seeing,160
+32,11,Urban,40-49,KERALA,Alappuzha,Male,In seeing,283
+32,11,Urban,50-59,KERALA,Alappuzha,Male,In seeing,382
+32,11,Urban,60-69,KERALA,Alappuzha,Male,In seeing,374
+32,11,Urban,70-79,KERALA,Alappuzha,Male,In seeing,351
+32,11,Urban,80-89,KERALA,Alappuzha,Male,In seeing,163
+32,11,Urban,90+,KERALA,Alappuzha,Male,In seeing,17
+32,11,Urban,Age Not Stated,KERALA,Alappuzha,Male,In seeing,1
+32,12,Rural,0-4,KERALA,Pathanamthitta,Male,In seeing,9
+32,12,Rural,5-9,KERALA,Pathanamthitta,Male,In seeing,33
+32,12,Rural,10-19,KERALA,Pathanamthitta,Male,In seeing,109
+32,12,Rural,20-29,KERALA,Pathanamthitta,Male,In seeing,74
+32,12,Rural,30-39,KERALA,Pathanamthitta,Male,In seeing,112
+32,12,Rural,40-49,KERALA,Pathanamthitta,Male,In seeing,193
+32,12,Rural,50-59,KERALA,Pathanamthitta,Male,In seeing,272
+32,12,Rural,60-69,KERALA,Pathanamthitta,Male,In seeing,291
+32,12,Rural,70-79,KERALA,Pathanamthitta,Male,In seeing,280
+32,12,Rural,80-89,KERALA,Pathanamthitta,Male,In seeing,191
+32,12,Rural,90+,KERALA,Pathanamthitta,Male,In seeing,37
+32,12,Rural,Age Not Stated,KERALA,Pathanamthitta,Male,In seeing,2
+32,12,Urban,0-4,KERALA,Pathanamthitta,Male,In seeing,3
+32,12,Urban,5-9,KERALA,Pathanamthitta,Male,In seeing,3
+32,12,Urban,10-19,KERALA,Pathanamthitta,Male,In seeing,8
+32,12,Urban,20-29,KERALA,Pathanamthitta,Male,In seeing,13
+32,12,Urban,30-39,KERALA,Pathanamthitta,Male,In seeing,15
+32,12,Urban,40-49,KERALA,Pathanamthitta,Male,In seeing,21
+32,12,Urban,50-59,KERALA,Pathanamthitta,Male,In seeing,22
+32,12,Urban,60-69,KERALA,Pathanamthitta,Male,In seeing,21
+32,12,Urban,70-79,KERALA,Pathanamthitta,Male,In seeing,15
+32,12,Urban,80-89,KERALA,Pathanamthitta,Male,In seeing,10
+32,12,Urban,90+,KERALA,Pathanamthitta,Male,In seeing,3
+32,12,Urban,Age Not Stated,KERALA,Pathanamthitta,Male,In seeing,1
+32,13,Rural,0-4,KERALA,Kollam,Male,In seeing,19
+32,13,Rural,5-9,KERALA,Kollam,Male,In seeing,64
+32,13,Rural,10-19,KERALA,Kollam,Male,In seeing,160
+32,13,Rural,20-29,KERALA,Kollam,Male,In seeing,137
+32,13,Rural,30-39,KERALA,Kollam,Male,In seeing,172
+32,13,Rural,40-49,KERALA,Kollam,Male,In seeing,329
+32,13,Rural,50-59,KERALA,Kollam,Male,In seeing,459
+32,13,Rural,60-69,KERALA,Kollam,Male,In seeing,507
+32,13,Rural,70-79,KERALA,Kollam,Male,In seeing,435
+32,13,Rural,80-89,KERALA,Kollam,Male,In seeing,181
+32,13,Rural,90+,KERALA,Kollam,Male,In seeing,48
+32,13,Rural,Age Not Stated,KERALA,Kollam,Male,In seeing,2
+32,13,Urban,0-4,KERALA,Kollam,Male,In seeing,22
+32,13,Urban,5-9,KERALA,Kollam,Male,In seeing,63
+32,13,Urban,10-19,KERALA,Kollam,Male,In seeing,121
+32,13,Urban,20-29,KERALA,Kollam,Male,In seeing,99
+32,13,Urban,30-39,KERALA,Kollam,Male,In seeing,116
+32,13,Urban,40-49,KERALA,Kollam,Male,In seeing,184
+32,13,Urban,50-59,KERALA,Kollam,Male,In seeing,246
+32,13,Urban,60-69,KERALA,Kollam,Male,In seeing,229
+32,13,Urban,70-79,KERALA,Kollam,Male,In seeing,197
+32,13,Urban,80-89,KERALA,Kollam,Male,In seeing,90
+32,13,Urban,90+,KERALA,Kollam,Male,In seeing,13
+32,13,Urban,Age Not Stated,KERALA,Kollam,Male,In seeing,1
+32,14,Rural,0-4,KERALA,Thiruvananthapuram,Male,In seeing,46
+32,14,Rural,5-9,KERALA,Thiruvananthapuram,Male,In seeing,76
+32,14,Rural,10-19,KERALA,Thiruvananthapuram,Male,In seeing,260
+32,14,Rural,20-29,KERALA,Thiruvananthapuram,Male,In seeing,214
+32,14,Rural,30-39,KERALA,Thiruvananthapuram,Male,In seeing,198
+32,14,Rural,40-49,KERALA,Thiruvananthapuram,Male,In seeing,348
+32,14,Rural,50-59,KERALA,Thiruvananthapuram,Male,In seeing,458
+32,14,Rural,60-69,KERALA,Thiruvananthapuram,Male,In seeing,530
+32,14,Rural,70-79,KERALA,Thiruvananthapuram,Male,In seeing,399
+32,14,Rural,80-89,KERALA,Thiruvananthapuram,Male,In seeing,180
+32,14,Rural,90+,KERALA,Thiruvananthapuram,Male,In seeing,36
+32,14,Rural,Age Not Stated,KERALA,Thiruvananthapuram,Male,In seeing,2
+32,14,Urban,0-4,KERALA,Thiruvananthapuram,Male,In seeing,33
+32,14,Urban,5-9,KERALA,Thiruvananthapuram,Male,In seeing,85
+32,14,Urban,10-19,KERALA,Thiruvananthapuram,Male,In seeing,273
+32,14,Urban,20-29,KERALA,Thiruvananthapuram,Male,In seeing,232
+32,14,Urban,30-39,KERALA,Thiruvananthapuram,Male,In seeing,264
+32,14,Urban,40-49,KERALA,Thiruvananthapuram,Male,In seeing,345
+32,14,Urban,50-59,KERALA,Thiruvananthapuram,Male,In seeing,450
+32,14,Urban,60-69,KERALA,Thiruvananthapuram,Male,In seeing,505
+32,14,Urban,70-79,KERALA,Thiruvananthapuram,Male,In seeing,353
+32,14,Urban,80-89,KERALA,Thiruvananthapuram,Male,In seeing,163
+32,14,Urban,90+,KERALA,Thiruvananthapuram,Male,In seeing,15
+32,14,Urban,Age Not Stated,KERALA,Thiruvananthapuram,Male,In seeing,2
+32,1,Rural,0-4,KERALA,Kasaragod,Female,In seeing,18
+32,1,Rural,5-9,KERALA,Kasaragod,Female,In seeing,42
+32,1,Rural,10-19,KERALA,Kasaragod,Female,In seeing,131
+32,1,Rural,20-29,KERALA,Kasaragod,Female,In seeing,109
+32,1,Rural,30-39,KERALA,Kasaragod,Female,In seeing,124
+32,1,Rural,40-49,KERALA,Kasaragod,Female,In seeing,181
+32,1,Rural,50-59,KERALA,Kasaragod,Female,In seeing,215
+32,1,Rural,60-69,KERALA,Kasaragod,Female,In seeing,273
+32,1,Rural,70-79,KERALA,Kasaragod,Female,In seeing,226
+32,1,Rural,80-89,KERALA,Kasaragod,Female,In seeing,116
+32,1,Rural,90+,KERALA,Kasaragod,Female,In seeing,28
+32,1,Rural,Age Not Stated,KERALA,Kasaragod,Female,In seeing,2
+32,1,Urban,0-4,KERALA,Kasaragod,Female,In seeing,11
+32,1,Urban,5-9,KERALA,Kasaragod,Female,In seeing,27
+32,1,Urban,10-19,KERALA,Kasaragod,Female,In seeing,99
+32,1,Urban,20-29,KERALA,Kasaragod,Female,In seeing,63
+32,1,Urban,30-39,KERALA,Kasaragod,Female,In seeing,65
+32,1,Urban,40-49,KERALA,Kasaragod,Female,In seeing,93
+32,1,Urban,50-59,KERALA,Kasaragod,Female,In seeing,120
+32,1,Urban,60-69,KERALA,Kasaragod,Female,In seeing,160
+32,1,Urban,70-79,KERALA,Kasaragod,Female,In seeing,121
+32,1,Urban,80-89,KERALA,Kasaragod,Female,In seeing,59
+32,1,Urban,90+,KERALA,Kasaragod,Female,In seeing,12
+32,1,Urban,Age Not Stated,KERALA,Kasaragod,Female,In seeing,1
+32,2,Rural,0-4,KERALA,Kannur,Female,In seeing,20
+32,2,Rural,5-9,KERALA,Kannur,Female,In seeing,39
+32,2,Rural,10-19,KERALA,Kannur,Female,In seeing,120
+32,2,Rural,20-29,KERALA,Kannur,Female,In seeing,83
+32,2,Rural,30-39,KERALA,Kannur,Female,In seeing,118
+32,2,Rural,40-49,KERALA,Kannur,Female,In seeing,193
+32,2,Rural,50-59,KERALA,Kannur,Female,In seeing,276
+32,2,Rural,60-69,KERALA,Kannur,Female,In seeing,328
+32,2,Rural,70-79,KERALA,Kannur,Female,In seeing,329
+32,2,Rural,80-89,KERALA,Kannur,Female,In seeing,169
+32,2,Rural,90+,KERALA,Kannur,Female,In seeing,33
+32,2,Rural,Age Not Stated,KERALA,Kannur,Female,In seeing,1
+32,2,Urban,0-4,KERALA,Kannur,Female,In seeing,45
+32,2,Urban,5-9,KERALA,Kannur,Female,In seeing,71
+32,2,Urban,10-19,KERALA,Kannur,Female,In seeing,184
+32,2,Urban,20-29,KERALA,Kannur,Female,In seeing,141
+32,2,Urban,30-39,KERALA,Kannur,Female,In seeing,193
+32,2,Urban,40-49,KERALA,Kannur,Female,In seeing,321
+32,2,Urban,50-59,KERALA,Kannur,Female,In seeing,460
+32,2,Urban,60-69,KERALA,Kannur,Female,In seeing,578
+32,2,Urban,70-79,KERALA,Kannur,Female,In seeing,529
+32,2,Urban,80-89,KERALA,Kannur,Female,In seeing,249
+32,2,Urban,90+,KERALA,Kannur,Female,In seeing,36
+32,2,Urban,Age Not Stated,KERALA,Kannur,Female,In seeing,3
+32,3,Rural,0-4,KERALA,Wayanad,Female,In seeing,16
+32,3,Rural,5-9,KERALA,Wayanad,Female,In seeing,44
+32,3,Rural,10-19,KERALA,Wayanad,Female,In seeing,158
+32,3,Rural,20-29,KERALA,Wayanad,Female,In seeing,88
+32,3,Rural,30-39,KERALA,Wayanad,Female,In seeing,150
+32,3,Rural,40-49,KERALA,Wayanad,Female,In seeing,324
+32,3,Rural,50-59,KERALA,Wayanad,Female,In seeing,398
+32,3,Rural,60-69,KERALA,Wayanad,Female,In seeing,465
+32,3,Rural,70-79,KERALA,Wayanad,Female,In seeing,344
+32,3,Rural,80-89,KERALA,Wayanad,Female,In seeing,161
+32,3,Rural,90+,KERALA,Wayanad,Female,In seeing,33
+32,3,Rural,Age Not Stated,KERALA,Wayanad,Female,In seeing,0
+32,3,Urban,0-4,KERALA,Wayanad,Female,In seeing,0
+32,3,Urban,5-9,KERALA,Wayanad,Female,In seeing,0
+32,3,Urban,10-19,KERALA,Wayanad,Female,In seeing,6
+32,3,Urban,20-29,KERALA,Wayanad,Female,In seeing,7
+32,3,Urban,30-39,KERALA,Wayanad,Female,In seeing,5
+32,3,Urban,40-49,KERALA,Wayanad,Female,In seeing,10
+32,3,Urban,50-59,KERALA,Wayanad,Female,In seeing,8
+32,3,Urban,60-69,KERALA,Wayanad,Female,In seeing,18
+32,3,Urban,70-79,KERALA,Wayanad,Female,In seeing,9
+32,3,Urban,80-89,KERALA,Wayanad,Female,In seeing,3
+32,3,Urban,90+,KERALA,Wayanad,Female,In seeing,1
+32,3,Urban,Age Not Stated,KERALA,Wayanad,Female,In seeing,0
+32,4,Rural,0-4,KERALA,Kozhikode,Female,In seeing,33
+32,4,Rural,5-9,KERALA,Kozhikode,Female,In seeing,64
+32,4,Rural,10-19,KERALA,Kozhikode,Female,In seeing,175
+32,4,Rural,20-29,KERALA,Kozhikode,Female,In seeing,127
+32,4,Rural,30-39,KERALA,Kozhikode,Female,In seeing,214
+32,4,Rural,40-49,KERALA,Kozhikode,Female,In seeing,503
+32,4,Rural,50-59,KERALA,Kozhikode,Female,In seeing,641
+32,4,Rural,60-69,KERALA,Kozhikode,Female,In seeing,802
+32,4,Rural,70-79,KERALA,Kozhikode,Female,In seeing,631
+32,4,Rural,80-89,KERALA,Kozhikode,Female,In seeing,289
+32,4,Rural,90+,KERALA,Kozhikode,Female,In seeing,58
+32,4,Rural,Age Not Stated,KERALA,Kozhikode,Female,In seeing,5
+32,4,Urban,0-4,KERALA,Kozhikode,Female,In seeing,59
+32,4,Urban,5-9,KERALA,Kozhikode,Female,In seeing,127
+32,4,Urban,10-19,KERALA,Kozhikode,Female,In seeing,394
+32,4,Urban,20-29,KERALA,Kozhikode,Female,In seeing,224
+32,4,Urban,30-39,KERALA,Kozhikode,Female,In seeing,335
+32,4,Urban,40-49,KERALA,Kozhikode,Female,In seeing,719
+32,4,Urban,50-59,KERALA,Kozhikode,Female,In seeing,961
+32,4,Urban,60-69,KERALA,Kozhikode,Female,In seeing,1213
+32,4,Urban,70-79,KERALA,Kozhikode,Female,In seeing,912
+32,4,Urban,80-89,KERALA,Kozhikode,Female,In seeing,495
+32,4,Urban,90+,KERALA,Kozhikode,Female,In seeing,77
+32,4,Urban,Age Not Stated,KERALA,Kozhikode,Female,In seeing,4
+32,5,Rural,0-4,KERALA,Malappuram,Female,In seeing,54
+32,5,Rural,5-9,KERALA,Malappuram,Female,In seeing,119
+32,5,Rural,10-19,KERALA,Malappuram,Female,In seeing,311
+32,5,Rural,20-29,KERALA,Malappuram,Female,In seeing,223
+32,5,Rural,30-39,KERALA,Malappuram,Female,In seeing,342
+32,5,Rural,40-49,KERALA,Malappuram,Female,In seeing,523
+32,5,Rural,50-59,KERALA,Malappuram,Female,In seeing,585
+32,5,Rural,60-69,KERALA,Malappuram,Female,In seeing,765
+32,5,Rural,70-79,KERALA,Malappuram,Female,In seeing,606
+32,5,Rural,80-89,KERALA,Malappuram,Female,In seeing,247
+32,5,Rural,90+,KERALA,Malappuram,Female,In seeing,41
+32,5,Rural,Age Not Stated,KERALA,Malappuram,Female,In seeing,2
+32,5,Urban,0-4,KERALA,Malappuram,Female,In seeing,47
+32,5,Urban,5-9,KERALA,Malappuram,Female,In seeing,101
+32,5,Urban,10-19,KERALA,Malappuram,Female,In seeing,268
+32,5,Urban,20-29,KERALA,Malappuram,Female,In seeing,194
+32,5,Urban,30-39,KERALA,Malappuram,Female,In seeing,218
+32,5,Urban,40-49,KERALA,Malappuram,Female,In seeing,371
+32,5,Urban,50-59,KERALA,Malappuram,Female,In seeing,454
+32,5,Urban,60-69,KERALA,Malappuram,Female,In seeing,622
+32,5,Urban,70-79,KERALA,Malappuram,Female,In seeing,416
+32,5,Urban,80-89,KERALA,Malappuram,Female,In seeing,163
+32,5,Urban,90+,KERALA,Malappuram,Female,In seeing,20
+32,5,Urban,Age Not Stated,KERALA,Malappuram,Female,In seeing,1
+32,6,Rural,0-4,KERALA,Palakkad,Female,In seeing,44
+32,6,Rural,5-9,KERALA,Palakkad,Female,In seeing,66
+32,6,Rural,10-19,KERALA,Palakkad,Female,In seeing,216
+32,6,Rural,20-29,KERALA,Palakkad,Female,In seeing,227
+32,6,Rural,30-39,KERALA,Palakkad,Female,In seeing,284
+32,6,Rural,40-49,KERALA,Palakkad,Female,In seeing,369
+32,6,Rural,50-59,KERALA,Palakkad,Female,In seeing,458
+32,6,Rural,60-69,KERALA,Palakkad,Female,In seeing,822
+32,6,Rural,70-79,KERALA,Palakkad,Female,In seeing,754
+32,6,Rural,80-89,KERALA,Palakkad,Female,In seeing,388
+32,6,Rural,90+,KERALA,Palakkad,Female,In seeing,59
+32,6,Rural,Age Not Stated,KERALA,Palakkad,Female,In seeing,1
+32,6,Urban,0-4,KERALA,Palakkad,Female,In seeing,10
+32,6,Urban,5-9,KERALA,Palakkad,Female,In seeing,29
+32,6,Urban,10-19,KERALA,Palakkad,Female,In seeing,49
+32,6,Urban,20-29,KERALA,Palakkad,Female,In seeing,46
+32,6,Urban,30-39,KERALA,Palakkad,Female,In seeing,76
+32,6,Urban,40-49,KERALA,Palakkad,Female,In seeing,117
+32,6,Urban,50-59,KERALA,Palakkad,Female,In seeing,135
+32,6,Urban,60-69,KERALA,Palakkad,Female,In seeing,199
+32,6,Urban,70-79,KERALA,Palakkad,Female,In seeing,222
+32,6,Urban,80-89,KERALA,Palakkad,Female,In seeing,111
+32,6,Urban,90+,KERALA,Palakkad,Female,In seeing,20
+32,6,Urban,Age Not Stated,KERALA,Palakkad,Female,In seeing,1
+32,7,Rural,0-4,KERALA,Thrissur,Female,In seeing,12
+32,7,Rural,5-9,KERALA,Thrissur,Female,In seeing,24
+32,7,Rural,10-19,KERALA,Thrissur,Female,In seeing,77
+32,7,Rural,20-29,KERALA,Thrissur,Female,In seeing,65
+32,7,Rural,30-39,KERALA,Thrissur,Female,In seeing,96
+32,7,Rural,40-49,KERALA,Thrissur,Female,In seeing,204
+32,7,Rural,50-59,KERALA,Thrissur,Female,In seeing,248
+32,7,Rural,60-69,KERALA,Thrissur,Female,In seeing,347
+32,7,Rural,70-79,KERALA,Thrissur,Female,In seeing,396
+32,7,Rural,80-89,KERALA,Thrissur,Female,In seeing,219
+32,7,Rural,90+,KERALA,Thrissur,Female,In seeing,58
+32,7,Rural,Age Not Stated,KERALA,Thrissur,Female,In seeing,1
+32,7,Urban,0-4,KERALA,Thrissur,Female,In seeing,26
+32,7,Urban,5-9,KERALA,Thrissur,Female,In seeing,49
+32,7,Urban,10-19,KERALA,Thrissur,Female,In seeing,150
+32,7,Urban,20-29,KERALA,Thrissur,Female,In seeing,102
+32,7,Urban,30-39,KERALA,Thrissur,Female,In seeing,192
+32,7,Urban,40-49,KERALA,Thrissur,Female,In seeing,352
+32,7,Urban,50-59,KERALA,Thrissur,Female,In seeing,400
+32,7,Urban,60-69,KERALA,Thrissur,Female,In seeing,641
+32,7,Urban,70-79,KERALA,Thrissur,Female,In seeing,753
+32,7,Urban,80-89,KERALA,Thrissur,Female,In seeing,425
+32,7,Urban,90+,KERALA,Thrissur,Female,In seeing,67
+32,7,Urban,Age Not Stated,KERALA,Thrissur,Female,In seeing,5
+32,8,Rural,0-4,KERALA,Ernakulam,Female,In seeing,17
+32,8,Rural,5-9,KERALA,Ernakulam,Female,In seeing,37
+32,8,Rural,10-19,KERALA,Ernakulam,Female,In seeing,70
+32,8,Rural,20-29,KERALA,Ernakulam,Female,In seeing,41
+32,8,Rural,30-39,KERALA,Ernakulam,Female,In seeing,91
+32,8,Rural,40-49,KERALA,Ernakulam,Female,In seeing,140
+32,8,Rural,50-59,KERALA,Ernakulam,Female,In seeing,184
+32,8,Rural,60-69,KERALA,Ernakulam,Female,In seeing,266
+32,8,Rural,70-79,KERALA,Ernakulam,Female,In seeing,317
+32,8,Rural,80-89,KERALA,Ernakulam,Female,In seeing,226
+32,8,Rural,90+,KERALA,Ernakulam,Female,In seeing,42
+32,8,Rural,Age Not Stated,KERALA,Ernakulam,Female,In seeing,3
+32,8,Urban,0-4,KERALA,Ernakulam,Female,In seeing,39
+32,8,Urban,5-9,KERALA,Ernakulam,Female,In seeing,79
+32,8,Urban,10-19,KERALA,Ernakulam,Female,In seeing,197
+32,8,Urban,20-29,KERALA,Ernakulam,Female,In seeing,137
+32,8,Urban,30-39,KERALA,Ernakulam,Female,In seeing,243
+32,8,Urban,40-49,KERALA,Ernakulam,Female,In seeing,439
+32,8,Urban,50-59,KERALA,Ernakulam,Female,In seeing,570
+32,8,Urban,60-69,KERALA,Ernakulam,Female,In seeing,709
+32,8,Urban,70-79,KERALA,Ernakulam,Female,In seeing,679
+32,8,Urban,80-89,KERALA,Ernakulam,Female,In seeing,393
+32,8,Urban,90+,KERALA,Ernakulam,Female,In seeing,65
+32,8,Urban,Age Not Stated,KERALA,Ernakulam,Female,In seeing,2
+32,9,Rural,0-4,KERALA,Idukki ,Female,In seeing,23
+32,9,Rural,5-9,KERALA,Idukki ,Female,In seeing,50
+32,9,Rural,10-19,KERALA,Idukki ,Female,In seeing,155
+32,9,Rural,20-29,KERALA,Idukki ,Female,In seeing,92
+32,9,Rural,30-39,KERALA,Idukki ,Female,In seeing,110
+32,9,Rural,40-49,KERALA,Idukki ,Female,In seeing,191
+32,9,Rural,50-59,KERALA,Idukki ,Female,In seeing,251
+32,9,Rural,60-69,KERALA,Idukki ,Female,In seeing,280
+32,9,Rural,70-79,KERALA,Idukki ,Female,In seeing,265
+32,9,Rural,80-89,KERALA,Idukki ,Female,In seeing,128
+32,9,Rural,90+,KERALA,Idukki ,Female,In seeing,26
+32,9,Rural,Age Not Stated,KERALA,Idukki ,Female,In seeing,0
+32,9,Urban,0-4,KERALA,Idukki ,Female,In seeing,0
+32,9,Urban,5-9,KERALA,Idukki ,Female,In seeing,0
+32,9,Urban,10-19,KERALA,Idukki ,Female,In seeing,5
+32,9,Urban,20-29,KERALA,Idukki ,Female,In seeing,4
+32,9,Urban,30-39,KERALA,Idukki ,Female,In seeing,3
+32,9,Urban,40-49,KERALA,Idukki ,Female,In seeing,4
+32,9,Urban,50-59,KERALA,Idukki ,Female,In seeing,4
+32,9,Urban,60-69,KERALA,Idukki ,Female,In seeing,4
+32,9,Urban,70-79,KERALA,Idukki ,Female,In seeing,3
+32,9,Urban,80-89,KERALA,Idukki ,Female,In seeing,1
+32,9,Urban,90+,KERALA,Idukki ,Female,In seeing,1
+32,9,Urban,Age Not Stated,KERALA,Idukki ,Female,In seeing,0
+32,10,Rural,0-4,KERALA,Kottayam,Female,In seeing,26
+32,10,Rural,5-9,KERALA,Kottayam,Female,In seeing,54
+32,10,Rural,10-19,KERALA,Kottayam,Female,In seeing,137
+32,10,Rural,20-29,KERALA,Kottayam,Female,In seeing,85
+32,10,Rural,30-39,KERALA,Kottayam,Female,In seeing,127
+32,10,Rural,40-49,KERALA,Kottayam,Female,In seeing,344
+32,10,Rural,50-59,KERALA,Kottayam,Female,In seeing,390
+32,10,Rural,60-69,KERALA,Kottayam,Female,In seeing,484
+32,10,Rural,70-79,KERALA,Kottayam,Female,In seeing,529
+32,10,Rural,80-89,KERALA,Kottayam,Female,In seeing,304
+32,10,Rural,90+,KERALA,Kottayam,Female,In seeing,65
+32,10,Rural,Age Not Stated,KERALA,Kottayam,Female,In seeing,1
+32,10,Urban,0-4,KERALA,Kottayam,Female,In seeing,6
+32,10,Urban,5-9,KERALA,Kottayam,Female,In seeing,15
+32,10,Urban,10-19,KERALA,Kottayam,Female,In seeing,43
+32,10,Urban,20-29,KERALA,Kottayam,Female,In seeing,30
+32,10,Urban,30-39,KERALA,Kottayam,Female,In seeing,62
+32,10,Urban,40-49,KERALA,Kottayam,Female,In seeing,132
+32,10,Urban,50-59,KERALA,Kottayam,Female,In seeing,181
+32,10,Urban,60-69,KERALA,Kottayam,Female,In seeing,219
+32,10,Urban,70-79,KERALA,Kottayam,Female,In seeing,212
+32,10,Urban,80-89,KERALA,Kottayam,Female,In seeing,145
+32,10,Urban,90+,KERALA,Kottayam,Female,In seeing,26
+32,10,Urban,Age Not Stated,KERALA,Kottayam,Female,In seeing,1
+32,11,Rural,0-4,KERALA,Alappuzha,Female,In seeing,26
+32,11,Rural,5-9,KERALA,Alappuzha,Female,In seeing,35
+32,11,Rural,10-19,KERALA,Alappuzha,Female,In seeing,95
+32,11,Rural,20-29,KERALA,Alappuzha,Female,In seeing,81
+32,11,Rural,30-39,KERALA,Alappuzha,Female,In seeing,133
+32,11,Rural,40-49,KERALA,Alappuzha,Female,In seeing,239
+32,11,Rural,50-59,KERALA,Alappuzha,Female,In seeing,326
+32,11,Rural,60-69,KERALA,Alappuzha,Female,In seeing,534
+32,11,Rural,70-79,KERALA,Alappuzha,Female,In seeing,498
+32,11,Rural,80-89,KERALA,Alappuzha,Female,In seeing,322
+32,11,Rural,90+,KERALA,Alappuzha,Female,In seeing,81
+32,11,Rural,Age Not Stated,KERALA,Alappuzha,Female,In seeing,2
+32,11,Urban,0-4,KERALA,Alappuzha,Female,In seeing,33
+32,11,Urban,5-9,KERALA,Alappuzha,Female,In seeing,48
+32,11,Urban,10-19,KERALA,Alappuzha,Female,In seeing,144
+32,11,Urban,20-29,KERALA,Alappuzha,Female,In seeing,79
+32,11,Urban,30-39,KERALA,Alappuzha,Female,In seeing,128
+32,11,Urban,40-49,KERALA,Alappuzha,Female,In seeing,282
+32,11,Urban,50-59,KERALA,Alappuzha,Female,In seeing,369
+32,11,Urban,60-69,KERALA,Alappuzha,Female,In seeing,508
+32,11,Urban,70-79,KERALA,Alappuzha,Female,In seeing,469
+32,11,Urban,80-89,KERALA,Alappuzha,Female,In seeing,285
+32,11,Urban,90+,KERALA,Alappuzha,Female,In seeing,50
+32,11,Urban,Age Not Stated,KERALA,Alappuzha,Female,In seeing,3
+32,12,Rural,0-4,KERALA,Pathanamthitta,Female,In seeing,15
+32,12,Rural,5-9,KERALA,Pathanamthitta,Female,In seeing,29
+32,12,Rural,10-19,KERALA,Pathanamthitta,Female,In seeing,96
+32,12,Rural,20-29,KERALA,Pathanamthitta,Female,In seeing,61
+32,12,Rural,30-39,KERALA,Pathanamthitta,Female,In seeing,90
+32,12,Rural,40-49,KERALA,Pathanamthitta,Female,In seeing,176
+32,12,Rural,50-59,KERALA,Pathanamthitta,Female,In seeing,229
+32,12,Rural,60-69,KERALA,Pathanamthitta,Female,In seeing,357
+32,12,Rural,70-79,KERALA,Pathanamthitta,Female,In seeing,395
+32,12,Rural,80-89,KERALA,Pathanamthitta,Female,In seeing,253
+32,12,Rural,90+,KERALA,Pathanamthitta,Female,In seeing,54
+32,12,Rural,Age Not Stated,KERALA,Pathanamthitta,Female,In seeing,1
+32,12,Urban,0-4,KERALA,Pathanamthitta,Female,In seeing,4
+32,12,Urban,5-9,KERALA,Pathanamthitta,Female,In seeing,2
+32,12,Urban,10-19,KERALA,Pathanamthitta,Female,In seeing,12
+32,12,Urban,20-29,KERALA,Pathanamthitta,Female,In seeing,9
+32,12,Urban,30-39,KERALA,Pathanamthitta,Female,In seeing,8
+32,12,Urban,40-49,KERALA,Pathanamthitta,Female,In seeing,16
+32,12,Urban,50-59,KERALA,Pathanamthitta,Female,In seeing,14
+32,12,Urban,60-69,KERALA,Pathanamthitta,Female,In seeing,22
+32,12,Urban,70-79,KERALA,Pathanamthitta,Female,In seeing,27
+32,12,Urban,80-89,KERALA,Pathanamthitta,Female,In seeing,23
+32,12,Urban,90+,KERALA,Pathanamthitta,Female,In seeing,5
+32,12,Urban,Age Not Stated,KERALA,Pathanamthitta,Female,In seeing,0
+32,13,Rural,0-4,KERALA,Kollam,Female,In seeing,34
+32,13,Rural,5-9,KERALA,Kollam,Female,In seeing,54
+32,13,Rural,10-19,KERALA,Kollam,Female,In seeing,147
+32,13,Rural,20-29,KERALA,Kollam,Female,In seeing,103
+32,13,Rural,30-39,KERALA,Kollam,Female,In seeing,184
+32,13,Rural,40-49,KERALA,Kollam,Female,In seeing,342
+32,13,Rural,50-59,KERALA,Kollam,Female,In seeing,492
+32,13,Rural,60-69,KERALA,Kollam,Female,In seeing,664
+32,13,Rural,70-79,KERALA,Kollam,Female,In seeing,656
+32,13,Rural,80-89,KERALA,Kollam,Female,In seeing,387
+32,13,Rural,90+,KERALA,Kollam,Female,In seeing,62
+32,13,Rural,Age Not Stated,KERALA,Kollam,Female,In seeing,1
+32,13,Urban,0-4,KERALA,Kollam,Female,In seeing,12
+32,13,Urban,5-9,KERALA,Kollam,Female,In seeing,35
+32,13,Urban,10-19,KERALA,Kollam,Female,In seeing,96
+32,13,Urban,20-29,KERALA,Kollam,Female,In seeing,95
+32,13,Urban,30-39,KERALA,Kollam,Female,In seeing,103
+32,13,Urban,40-49,KERALA,Kollam,Female,In seeing,180
+32,13,Urban,50-59,KERALA,Kollam,Female,In seeing,260
+32,13,Urban,60-69,KERALA,Kollam,Female,In seeing,281
+32,13,Urban,70-79,KERALA,Kollam,Female,In seeing,327
+32,13,Urban,80-89,KERALA,Kollam,Female,In seeing,202
+32,13,Urban,90+,KERALA,Kollam,Female,In seeing,35
+32,13,Urban,Age Not Stated,KERALA,Kollam,Female,In seeing,2
+32,14,Rural,0-4,KERALA,Thiruvananthapuram,Female,In seeing,40
+32,14,Rural,5-9,KERALA,Thiruvananthapuram,Female,In seeing,65
+32,14,Rural,10-19,KERALA,Thiruvananthapuram,Female,In seeing,213
+32,14,Rural,20-29,KERALA,Thiruvananthapuram,Female,In seeing,184
+32,14,Rural,30-39,KERALA,Thiruvananthapuram,Female,In seeing,223
+32,14,Rural,40-49,KERALA,Thiruvananthapuram,Female,In seeing,390
+32,14,Rural,50-59,KERALA,Thiruvananthapuram,Female,In seeing,514
+32,14,Rural,60-69,KERALA,Thiruvananthapuram,Female,In seeing,716
+32,14,Rural,70-79,KERALA,Thiruvananthapuram,Female,In seeing,604
+32,14,Rural,80-89,KERALA,Thiruvananthapuram,Female,In seeing,276
+32,14,Rural,90+,KERALA,Thiruvananthapuram,Female,In seeing,74
+32,14,Rural,Age Not Stated,KERALA,Thiruvananthapuram,Female,In seeing,0
+32,14,Urban,0-4,KERALA,Thiruvananthapuram,Female,In seeing,31
+32,14,Urban,5-9,KERALA,Thiruvananthapuram,Female,In seeing,73
+32,14,Urban,10-19,KERALA,Thiruvananthapuram,Female,In seeing,226
+32,14,Urban,20-29,KERALA,Thiruvananthapuram,Female,In seeing,159
+32,14,Urban,30-39,KERALA,Thiruvananthapuram,Female,In seeing,225
+32,14,Urban,40-49,KERALA,Thiruvananthapuram,Female,In seeing,339
+32,14,Urban,50-59,KERALA,Thiruvananthapuram,Female,In seeing,454
+32,14,Urban,60-69,KERALA,Thiruvananthapuram,Female,In seeing,611
+32,14,Urban,70-79,KERALA,Thiruvananthapuram,Female,In seeing,520
+32,14,Urban,80-89,KERALA,Thiruvananthapuram,Female,In seeing,295
+32,14,Urban,90+,KERALA,Thiruvananthapuram,Female,In seeing,52
+32,14,Urban,Age Not Stated,KERALA,Thiruvananthapuram,Female,In seeing,6
+32,1,Rural,0-4,KERALA,Kasaragod,Male,In Speech,16
+32,1,Rural,5-9,KERALA,Kasaragod,Male,In Speech,76
+32,1,Rural,10-19,KERALA,Kasaragod,Male,In Speech,158
+32,1,Rural,20-29,KERALA,Kasaragod,Male,In Speech,139
+32,1,Rural,30-39,KERALA,Kasaragod,Male,In Speech,114
+32,1,Rural,40-49,KERALA,Kasaragod,Male,In Speech,88
+32,1,Rural,50-59,KERALA,Kasaragod,Male,In Speech,76
+32,1,Rural,60-69,KERALA,Kasaragod,Male,In Speech,50
+32,1,Rural,70-79,KERALA,Kasaragod,Male,In Speech,21
+32,1,Rural,80-89,KERALA,Kasaragod,Male,In Speech,8
+32,1,Rural,90+,KERALA,Kasaragod,Male,In Speech,0
+32,1,Rural,Age Not Stated,KERALA,Kasaragod,Male,In Speech,0
+32,1,Urban,0-4,KERALA,Kasaragod,Male,In Speech,4
+32,1,Urban,5-9,KERALA,Kasaragod,Male,In Speech,33
+32,1,Urban,10-19,KERALA,Kasaragod,Male,In Speech,69
+32,1,Urban,20-29,KERALA,Kasaragod,Male,In Speech,61
+32,1,Urban,30-39,KERALA,Kasaragod,Male,In Speech,40
+32,1,Urban,40-49,KERALA,Kasaragod,Male,In Speech,49
+32,1,Urban,50-59,KERALA,Kasaragod,Male,In Speech,33
+32,1,Urban,60-69,KERALA,Kasaragod,Male,In Speech,29
+32,1,Urban,70-79,KERALA,Kasaragod,Male,In Speech,14
+32,1,Urban,80-89,KERALA,Kasaragod,Male,In Speech,2
+32,1,Urban,90+,KERALA,Kasaragod,Male,In Speech,0
+32,1,Urban,Age Not Stated,KERALA,Kasaragod,Male,In Speech,0
+32,2,Rural,0-4,KERALA,Kannur,Male,In Speech,8
+32,2,Rural,5-9,KERALA,Kannur,Male,In Speech,56
+32,2,Rural,10-19,KERALA,Kannur,Male,In Speech,114
+32,2,Rural,20-29,KERALA,Kannur,Male,In Speech,94
+32,2,Rural,30-39,KERALA,Kannur,Male,In Speech,88
+32,2,Rural,40-49,KERALA,Kannur,Male,In Speech,97
+32,2,Rural,50-59,KERALA,Kannur,Male,In Speech,75
+32,2,Rural,60-69,KERALA,Kannur,Male,In Speech,58
+32,2,Rural,70-79,KERALA,Kannur,Male,In Speech,15
+32,2,Rural,80-89,KERALA,Kannur,Male,In Speech,7
+32,2,Rural,90+,KERALA,Kannur,Male,In Speech,1
+32,2,Rural,Age Not Stated,KERALA,Kannur,Male,In Speech,0
+32,2,Urban,0-4,KERALA,Kannur,Male,In Speech,10
+32,2,Urban,5-9,KERALA,Kannur,Male,In Speech,103
+32,2,Urban,10-19,KERALA,Kannur,Male,In Speech,183
+32,2,Urban,20-29,KERALA,Kannur,Male,In Speech,171
+32,2,Urban,30-39,KERALA,Kannur,Male,In Speech,143
+32,2,Urban,40-49,KERALA,Kannur,Male,In Speech,145
+32,2,Urban,50-59,KERALA,Kannur,Male,In Speech,125
+32,2,Urban,60-69,KERALA,Kannur,Male,In Speech,91
+32,2,Urban,70-79,KERALA,Kannur,Male,In Speech,50
+32,2,Urban,80-89,KERALA,Kannur,Male,In Speech,12
+32,2,Urban,90+,KERALA,Kannur,Male,In Speech,2
+32,2,Urban,Age Not Stated,KERALA,Kannur,Male,In Speech,4
+32,3,Rural,0-4,KERALA,Wayanad,Male,In Speech,10
+32,3,Rural,5-9,KERALA,Wayanad,Male,In Speech,69
+32,3,Rural,10-19,KERALA,Wayanad,Male,In Speech,114
+32,3,Rural,20-29,KERALA,Wayanad,Male,In Speech,91
+32,3,Rural,30-39,KERALA,Wayanad,Male,In Speech,82
+32,3,Rural,40-49,KERALA,Wayanad,Male,In Speech,85
+32,3,Rural,50-59,KERALA,Wayanad,Male,In Speech,73
+32,3,Rural,60-69,KERALA,Wayanad,Male,In Speech,39
+32,3,Rural,70-79,KERALA,Wayanad,Male,In Speech,21
+32,3,Rural,80-89,KERALA,Wayanad,Male,In Speech,2
+32,3,Rural,90+,KERALA,Wayanad,Male,In Speech,0
+32,3,Rural,Age Not Stated,KERALA,Wayanad,Male,In Speech,1
+32,3,Urban,0-4,KERALA,Wayanad,Male,In Speech,2
+32,3,Urban,5-9,KERALA,Wayanad,Male,In Speech,1
+32,3,Urban,10-19,KERALA,Wayanad,Male,In Speech,5
+32,3,Urban,20-29,KERALA,Wayanad,Male,In Speech,5
+32,3,Urban,30-39,KERALA,Wayanad,Male,In Speech,3
+32,3,Urban,40-49,KERALA,Wayanad,Male,In Speech,1
+32,3,Urban,50-59,KERALA,Wayanad,Male,In Speech,3
+32,3,Urban,60-69,KERALA,Wayanad,Male,In Speech,3
+32,3,Urban,70-79,KERALA,Wayanad,Male,In Speech,0
+32,3,Urban,80-89,KERALA,Wayanad,Male,In Speech,0
+32,3,Urban,90+,KERALA,Wayanad,Male,In Speech,0
+32,3,Urban,Age Not Stated,KERALA,Wayanad,Male,In Speech,0
+32,4,Rural,0-4,KERALA,Kozhikode,Male,In Speech,17
+32,4,Rural,5-9,KERALA,Kozhikode,Male,In Speech,90
+32,4,Rural,10-19,KERALA,Kozhikode,Male,In Speech,167
+32,4,Rural,20-29,KERALA,Kozhikode,Male,In Speech,114
+32,4,Rural,30-39,KERALA,Kozhikode,Male,In Speech,114
+32,4,Rural,40-49,KERALA,Kozhikode,Male,In Speech,131
+32,4,Rural,50-59,KERALA,Kozhikode,Male,In Speech,90
+32,4,Rural,60-69,KERALA,Kozhikode,Male,In Speech,56
+32,4,Rural,70-79,KERALA,Kozhikode,Male,In Speech,42
+32,4,Rural,80-89,KERALA,Kozhikode,Male,In Speech,14
+32,4,Rural,90+,KERALA,Kozhikode,Male,In Speech,2
+32,4,Rural,Age Not Stated,KERALA,Kozhikode,Male,In Speech,0
+32,4,Urban,0-4,KERALA,Kozhikode,Male,In Speech,25
+32,4,Urban,5-9,KERALA,Kozhikode,Male,In Speech,152
+32,4,Urban,10-19,KERALA,Kozhikode,Male,In Speech,272
+32,4,Urban,20-29,KERALA,Kozhikode,Male,In Speech,235
+32,4,Urban,30-39,KERALA,Kozhikode,Male,In Speech,217
+32,4,Urban,40-49,KERALA,Kozhikode,Male,In Speech,242
+32,4,Urban,50-59,KERALA,Kozhikode,Male,In Speech,174
+32,4,Urban,60-69,KERALA,Kozhikode,Male,In Speech,157
+32,4,Urban,70-79,KERALA,Kozhikode,Male,In Speech,62
+32,4,Urban,80-89,KERALA,Kozhikode,Male,In Speech,25
+32,4,Urban,90+,KERALA,Kozhikode,Male,In Speech,0
+32,4,Urban,Age Not Stated,KERALA,Kozhikode,Male,In Speech,2
+32,5,Rural,0-4,KERALA,Malappuram,Male,In Speech,17
+32,5,Rural,5-9,KERALA,Malappuram,Male,In Speech,158
+32,5,Rural,10-19,KERALA,Malappuram,Male,In Speech,296
+32,5,Rural,20-29,KERALA,Malappuram,Male,In Speech,232
+32,5,Rural,30-39,KERALA,Malappuram,Male,In Speech,171
+32,5,Rural,40-49,KERALA,Malappuram,Male,In Speech,139
+32,5,Rural,50-59,KERALA,Malappuram,Male,In Speech,108
+32,5,Rural,60-69,KERALA,Malappuram,Male,In Speech,76
+32,5,Rural,70-79,KERALA,Malappuram,Male,In Speech,30
+32,5,Rural,80-89,KERALA,Malappuram,Male,In Speech,12
+32,5,Rural,90+,KERALA,Malappuram,Male,In Speech,3
+32,5,Rural,Age Not Stated,KERALA,Malappuram,Male,In Speech,1
+32,5,Urban,0-4,KERALA,Malappuram,Male,In Speech,19
+32,5,Urban,5-9,KERALA,Malappuram,Male,In Speech,106
+32,5,Urban,10-19,KERALA,Malappuram,Male,In Speech,201
+32,5,Urban,20-29,KERALA,Malappuram,Male,In Speech,142
+32,5,Urban,30-39,KERALA,Malappuram,Male,In Speech,111
+32,5,Urban,40-49,KERALA,Malappuram,Male,In Speech,113
+32,5,Urban,50-59,KERALA,Malappuram,Male,In Speech,79
+32,5,Urban,60-69,KERALA,Malappuram,Male,In Speech,59
+32,5,Urban,70-79,KERALA,Malappuram,Male,In Speech,33
+32,5,Urban,80-89,KERALA,Malappuram,Male,In Speech,10
+32,5,Urban,90+,KERALA,Malappuram,Male,In Speech,4
+32,5,Urban,Age Not Stated,KERALA,Malappuram,Male,In Speech,0
+32,6,Rural,0-4,KERALA,Palakkad,Male,In Speech,23
+32,6,Rural,5-9,KERALA,Palakkad,Male,In Speech,148
+32,6,Rural,10-19,KERALA,Palakkad,Male,In Speech,260
+32,6,Rural,20-29,KERALA,Palakkad,Male,In Speech,227
+32,6,Rural,30-39,KERALA,Palakkad,Male,In Speech,216
+32,6,Rural,40-49,KERALA,Palakkad,Male,In Speech,202
+32,6,Rural,50-59,KERALA,Palakkad,Male,In Speech,148
+32,6,Rural,60-69,KERALA,Palakkad,Male,In Speech,113
+32,6,Rural,70-79,KERALA,Palakkad,Male,In Speech,53
+32,6,Rural,80-89,KERALA,Palakkad,Male,In Speech,14
+32,6,Rural,90+,KERALA,Palakkad,Male,In Speech,3
+32,6,Rural,Age Not Stated,KERALA,Palakkad,Male,In Speech,0
+32,6,Urban,0-4,KERALA,Palakkad,Male,In Speech,6
+32,6,Urban,5-9,KERALA,Palakkad,Male,In Speech,41
+32,6,Urban,10-19,KERALA,Palakkad,Male,In Speech,80
+32,6,Urban,20-29,KERALA,Palakkad,Male,In Speech,68
+32,6,Urban,30-39,KERALA,Palakkad,Male,In Speech,74
+32,6,Urban,40-49,KERALA,Palakkad,Male,In Speech,58
+32,6,Urban,50-59,KERALA,Palakkad,Male,In Speech,35
+32,6,Urban,60-69,KERALA,Palakkad,Male,In Speech,37
+32,6,Urban,70-79,KERALA,Palakkad,Male,In Speech,7
+32,6,Urban,80-89,KERALA,Palakkad,Male,In Speech,4
+32,6,Urban,90+,KERALA,Palakkad,Male,In Speech,0
+32,6,Urban,Age Not Stated,KERALA,Palakkad,Male,In Speech,1
+32,7,Rural,0-4,KERALA,Thrissur,Male,In Speech,6
+32,7,Rural,5-9,KERALA,Thrissur,Male,In Speech,63
+32,7,Rural,10-19,KERALA,Thrissur,Male,In Speech,101
+32,7,Rural,20-29,KERALA,Thrissur,Male,In Speech,71
+32,7,Rural,30-39,KERALA,Thrissur,Male,In Speech,92
+32,7,Rural,40-49,KERALA,Thrissur,Male,In Speech,111
+32,7,Rural,50-59,KERALA,Thrissur,Male,In Speech,91
+32,7,Rural,60-69,KERALA,Thrissur,Male,In Speech,55
+32,7,Rural,70-79,KERALA,Thrissur,Male,In Speech,32
+32,7,Rural,80-89,KERALA,Thrissur,Male,In Speech,16
+32,7,Rural,90+,KERALA,Thrissur,Male,In Speech,1
+32,7,Rural,Age Not Stated,KERALA,Thrissur,Male,In Speech,1
+32,7,Urban,0-4,KERALA,Thrissur,Male,In Speech,17
+32,7,Urban,5-9,KERALA,Thrissur,Male,In Speech,102
+32,7,Urban,10-19,KERALA,Thrissur,Male,In Speech,158
+32,7,Urban,20-29,KERALA,Thrissur,Male,In Speech,153
+32,7,Urban,30-39,KERALA,Thrissur,Male,In Speech,167
+32,7,Urban,40-49,KERALA,Thrissur,Male,In Speech,213
+32,7,Urban,50-59,KERALA,Thrissur,Male,In Speech,161
+32,7,Urban,60-69,KERALA,Thrissur,Male,In Speech,111
+32,7,Urban,70-79,KERALA,Thrissur,Male,In Speech,66
+32,7,Urban,80-89,KERALA,Thrissur,Male,In Speech,17
+32,7,Urban,90+,KERALA,Thrissur,Male,In Speech,2
+32,7,Urban,Age Not Stated,KERALA,Thrissur,Male,In Speech,3
+32,8,Rural,0-4,KERALA,Ernakulam,Male,In Speech,8
+32,8,Rural,5-9,KERALA,Ernakulam,Male,In Speech,49
+32,8,Rural,10-19,KERALA,Ernakulam,Male,In Speech,86
+32,8,Rural,20-29,KERALA,Ernakulam,Male,In Speech,82
+32,8,Rural,30-39,KERALA,Ernakulam,Male,In Speech,83
+32,8,Rural,40-49,KERALA,Ernakulam,Male,In Speech,91
+32,8,Rural,50-59,KERALA,Ernakulam,Male,In Speech,86
+32,8,Rural,60-69,KERALA,Ernakulam,Male,In Speech,58
+32,8,Rural,70-79,KERALA,Ernakulam,Male,In Speech,33
+32,8,Rural,80-89,KERALA,Ernakulam,Male,In Speech,9
+32,8,Rural,90+,KERALA,Ernakulam,Male,In Speech,0
+32,8,Rural,Age Not Stated,KERALA,Ernakulam,Male,In Speech,0
+32,8,Urban,0-4,KERALA,Ernakulam,Male,In Speech,20
+32,8,Urban,5-9,KERALA,Ernakulam,Male,In Speech,82
+32,8,Urban,10-19,KERALA,Ernakulam,Male,In Speech,175
+32,8,Urban,20-29,KERALA,Ernakulam,Male,In Speech,136
+32,8,Urban,30-39,KERALA,Ernakulam,Male,In Speech,168
+32,8,Urban,40-49,KERALA,Ernakulam,Male,In Speech,178
+32,8,Urban,50-59,KERALA,Ernakulam,Male,In Speech,141
+32,8,Urban,60-69,KERALA,Ernakulam,Male,In Speech,96
+32,8,Urban,70-79,KERALA,Ernakulam,Male,In Speech,50
+32,8,Urban,80-89,KERALA,Ernakulam,Male,In Speech,26
+32,8,Urban,90+,KERALA,Ernakulam,Male,In Speech,1
+32,8,Urban,Age Not Stated,KERALA,Ernakulam,Male,In Speech,1
+32,9,Rural,0-4,KERALA,Idukki ,Male,In Speech,8
+32,9,Rural,5-9,KERALA,Idukki ,Male,In Speech,46
+32,9,Rural,10-19,KERALA,Idukki ,Male,In Speech,115
+32,9,Rural,20-29,KERALA,Idukki ,Male,In Speech,94
+32,9,Rural,30-39,KERALA,Idukki ,Male,In Speech,87
+32,9,Rural,40-49,KERALA,Idukki ,Male,In Speech,111
+32,9,Rural,50-59,KERALA,Idukki ,Male,In Speech,95
+32,9,Rural,60-69,KERALA,Idukki ,Male,In Speech,62
+32,9,Rural,70-79,KERALA,Idukki ,Male,In Speech,30
+32,9,Rural,80-89,KERALA,Idukki ,Male,In Speech,5
+32,9,Rural,90+,KERALA,Idukki ,Male,In Speech,1
+32,9,Rural,Age Not Stated,KERALA,Idukki ,Male,In Speech,2
+32,9,Urban,0-4,KERALA,Idukki ,Male,In Speech,1
+32,9,Urban,5-9,KERALA,Idukki ,Male,In Speech,3
+32,9,Urban,10-19,KERALA,Idukki ,Male,In Speech,3
+32,9,Urban,20-29,KERALA,Idukki ,Male,In Speech,3
+32,9,Urban,30-39,KERALA,Idukki ,Male,In Speech,4
+32,9,Urban,40-49,KERALA,Idukki ,Male,In Speech,7
+32,9,Urban,50-59,KERALA,Idukki ,Male,In Speech,3
+32,9,Urban,60-69,KERALA,Idukki ,Male,In Speech,1
+32,9,Urban,70-79,KERALA,Idukki ,Male,In Speech,2
+32,9,Urban,80-89,KERALA,Idukki ,Male,In Speech,0
+32,9,Urban,90+,KERALA,Idukki ,Male,In Speech,0
+32,9,Urban,Age Not Stated,KERALA,Idukki ,Male,In Speech,0
+32,10,Rural,0-4,KERALA,Kottayam,Male,In Speech,10
+32,10,Rural,5-9,KERALA,Kottayam,Male,In Speech,84
+32,10,Rural,10-19,KERALA,Kottayam,Male,In Speech,154
+32,10,Rural,20-29,KERALA,Kottayam,Male,In Speech,111
+32,10,Rural,30-39,KERALA,Kottayam,Male,In Speech,155
+32,10,Rural,40-49,KERALA,Kottayam,Male,In Speech,163
+32,10,Rural,50-59,KERALA,Kottayam,Male,In Speech,124
+32,10,Rural,60-69,KERALA,Kottayam,Male,In Speech,92
+32,10,Rural,70-79,KERALA,Kottayam,Male,In Speech,56
+32,10,Rural,80-89,KERALA,Kottayam,Male,In Speech,16
+32,10,Rural,90+,KERALA,Kottayam,Male,In Speech,2
+32,10,Rural,Age Not Stated,KERALA,Kottayam,Male,In Speech,3
+32,10,Urban,0-4,KERALA,Kottayam,Male,In Speech,8
+32,10,Urban,5-9,KERALA,Kottayam,Male,In Speech,40
+32,10,Urban,10-19,KERALA,Kottayam,Male,In Speech,49
+32,10,Urban,20-29,KERALA,Kottayam,Male,In Speech,30
+32,10,Urban,30-39,KERALA,Kottayam,Male,In Speech,58
+32,10,Urban,40-49,KERALA,Kottayam,Male,In Speech,68
+32,10,Urban,50-59,KERALA,Kottayam,Male,In Speech,44
+32,10,Urban,60-69,KERALA,Kottayam,Male,In Speech,33
+32,10,Urban,70-79,KERALA,Kottayam,Male,In Speech,14
+32,10,Urban,80-89,KERALA,Kottayam,Male,In Speech,6
+32,10,Urban,90+,KERALA,Kottayam,Male,In Speech,0
+32,10,Urban,Age Not Stated,KERALA,Kottayam,Male,In Speech,0
+32,11,Rural,0-4,KERALA,Alappuzha,Male,In Speech,6
+32,11,Rural,5-9,KERALA,Alappuzha,Male,In Speech,61
+32,11,Rural,10-19,KERALA,Alappuzha,Male,In Speech,113
+32,11,Rural,20-29,KERALA,Alappuzha,Male,In Speech,95
+32,11,Rural,30-39,KERALA,Alappuzha,Male,In Speech,111
+32,11,Rural,40-49,KERALA,Alappuzha,Male,In Speech,125
+32,11,Rural,50-59,KERALA,Alappuzha,Male,In Speech,122
+32,11,Rural,60-69,KERALA,Alappuzha,Male,In Speech,86
+32,11,Rural,70-79,KERALA,Alappuzha,Male,In Speech,43
+32,11,Rural,80-89,KERALA,Alappuzha,Male,In Speech,12
+32,11,Rural,90+,KERALA,Alappuzha,Male,In Speech,3
+32,11,Rural,Age Not Stated,KERALA,Alappuzha,Male,In Speech,3
+32,11,Urban,0-4,KERALA,Alappuzha,Male,In Speech,17
+32,11,Urban,5-9,KERALA,Alappuzha,Male,In Speech,73
+32,11,Urban,10-19,KERALA,Alappuzha,Male,In Speech,125
+32,11,Urban,20-29,KERALA,Alappuzha,Male,In Speech,120
+32,11,Urban,30-39,KERALA,Alappuzha,Male,In Speech,124
+32,11,Urban,40-49,KERALA,Alappuzha,Male,In Speech,121
+32,11,Urban,50-59,KERALA,Alappuzha,Male,In Speech,98
+32,11,Urban,60-69,KERALA,Alappuzha,Male,In Speech,109
+32,11,Urban,70-79,KERALA,Alappuzha,Male,In Speech,48
+32,11,Urban,80-89,KERALA,Alappuzha,Male,In Speech,19
+32,11,Urban,90+,KERALA,Alappuzha,Male,In Speech,3
+32,11,Urban,Age Not Stated,KERALA,Alappuzha,Male,In Speech,0
+32,12,Rural,0-4,KERALA,Pathanamthitta,Male,In Speech,9
+32,12,Rural,5-9,KERALA,Pathanamthitta,Male,In Speech,63
+32,12,Rural,10-19,KERALA,Pathanamthitta,Male,In Speech,154
+32,12,Rural,20-29,KERALA,Pathanamthitta,Male,In Speech,122
+32,12,Rural,30-39,KERALA,Pathanamthitta,Male,In Speech,115
+32,12,Rural,40-49,KERALA,Pathanamthitta,Male,In Speech,144
+32,12,Rural,50-59,KERALA,Pathanamthitta,Male,In Speech,132
+32,12,Rural,60-69,KERALA,Pathanamthitta,Male,In Speech,105
+32,12,Rural,70-79,KERALA,Pathanamthitta,Male,In Speech,72
+32,12,Rural,80-89,KERALA,Pathanamthitta,Male,In Speech,25
+32,12,Rural,90+,KERALA,Pathanamthitta,Male,In Speech,4
+32,12,Rural,Age Not Stated,KERALA,Pathanamthitta,Male,In Speech,1
+32,12,Urban,0-4,KERALA,Pathanamthitta,Male,In Speech,1
+32,12,Urban,5-9,KERALA,Pathanamthitta,Male,In Speech,5
+32,12,Urban,10-19,KERALA,Pathanamthitta,Male,In Speech,15
+32,12,Urban,20-29,KERALA,Pathanamthitta,Male,In Speech,12
+32,12,Urban,30-39,KERALA,Pathanamthitta,Male,In Speech,14
+32,12,Urban,40-49,KERALA,Pathanamthitta,Male,In Speech,18
+32,12,Urban,50-59,KERALA,Pathanamthitta,Male,In Speech,17
+32,12,Urban,60-69,KERALA,Pathanamthitta,Male,In Speech,4
+32,12,Urban,70-79,KERALA,Pathanamthitta,Male,In Speech,6
+32,12,Urban,80-89,KERALA,Pathanamthitta,Male,In Speech,2
+32,12,Urban,90+,KERALA,Pathanamthitta,Male,In Speech,0
+32,12,Urban,Age Not Stated,KERALA,Pathanamthitta,Male,In Speech,0
+32,13,Rural,0-4,KERALA,Kollam,Male,In Speech,15
+32,13,Rural,5-9,KERALA,Kollam,Male,In Speech,92
+32,13,Rural,10-19,KERALA,Kollam,Male,In Speech,165
+32,13,Rural,20-29,KERALA,Kollam,Male,In Speech,148
+32,13,Rural,30-39,KERALA,Kollam,Male,In Speech,164
+32,13,Rural,40-49,KERALA,Kollam,Male,In Speech,176
+32,13,Rural,50-59,KERALA,Kollam,Male,In Speech,170
+32,13,Rural,60-69,KERALA,Kollam,Male,In Speech,128
+32,13,Rural,70-79,KERALA,Kollam,Male,In Speech,41
+32,13,Rural,80-89,KERALA,Kollam,Male,In Speech,25
+32,13,Rural,90+,KERALA,Kollam,Male,In Speech,1
+32,13,Rural,Age Not Stated,KERALA,Kollam,Male,In Speech,3
+32,13,Urban,0-4,KERALA,Kollam,Male,In Speech,11
+32,13,Urban,5-9,KERALA,Kollam,Male,In Speech,42
+32,13,Urban,10-19,KERALA,Kollam,Male,In Speech,144
+32,13,Urban,20-29,KERALA,Kollam,Male,In Speech,132
+32,13,Urban,30-39,KERALA,Kollam,Male,In Speech,107
+32,13,Urban,40-49,KERALA,Kollam,Male,In Speech,130
+32,13,Urban,50-59,KERALA,Kollam,Male,In Speech,125
+32,13,Urban,60-69,KERALA,Kollam,Male,In Speech,75
+32,13,Urban,70-79,KERALA,Kollam,Male,In Speech,44
+32,13,Urban,80-89,KERALA,Kollam,Male,In Speech,13
+32,13,Urban,90+,KERALA,Kollam,Male,In Speech,4
+32,13,Urban,Age Not Stated,KERALA,Kollam,Male,In Speech,1
+32,14,Rural,0-4,KERALA,Thiruvananthapuram,Male,In Speech,20
+32,14,Rural,5-9,KERALA,Thiruvananthapuram,Male,In Speech,96
+32,14,Rural,10-19,KERALA,Thiruvananthapuram,Male,In Speech,170
+32,14,Rural,20-29,KERALA,Thiruvananthapuram,Male,In Speech,146
+32,14,Rural,30-39,KERALA,Thiruvananthapuram,Male,In Speech,186
+32,14,Rural,40-49,KERALA,Thiruvananthapuram,Male,In Speech,155
+32,14,Rural,50-59,KERALA,Thiruvananthapuram,Male,In Speech,163
+32,14,Rural,60-69,KERALA,Thiruvananthapuram,Male,In Speech,130
+32,14,Rural,70-79,KERALA,Thiruvananthapuram,Male,In Speech,51
+32,14,Rural,80-89,KERALA,Thiruvananthapuram,Male,In Speech,8
+32,14,Rural,90+,KERALA,Thiruvananthapuram,Male,In Speech,1
+32,14,Rural,Age Not Stated,KERALA,Thiruvananthapuram,Male,In Speech,3
+32,14,Urban,0-4,KERALA,Thiruvananthapuram,Male,In Speech,19
+32,14,Urban,5-9,KERALA,Thiruvananthapuram,Male,In Speech,110
+32,14,Urban,10-19,KERALA,Thiruvananthapuram,Male,In Speech,254
+32,14,Urban,20-29,KERALA,Thiruvananthapuram,Male,In Speech,220
+32,14,Urban,30-39,KERALA,Thiruvananthapuram,Male,In Speech,189
+32,14,Urban,40-49,KERALA,Thiruvananthapuram,Male,In Speech,208
+32,14,Urban,50-59,KERALA,Thiruvananthapuram,Male,In Speech,177
+32,14,Urban,60-69,KERALA,Thiruvananthapuram,Male,In Speech,128
+32,14,Urban,70-79,KERALA,Thiruvananthapuram,Male,In Speech,75
+32,14,Urban,80-89,KERALA,Thiruvananthapuram,Male,In Speech,22
+32,14,Urban,90+,KERALA,Thiruvananthapuram,Male,In Speech,0
+32,14,Urban,Age Not Stated,KERALA,Thiruvananthapuram,Male,In Speech,3
+32,1,Rural,0-4,KERALA,Kasaragod,Female,In Speech,12
+32,1,Rural,5-9,KERALA,Kasaragod,Female,In Speech,60
+32,1,Rural,10-19,KERALA,Kasaragod,Female,In Speech,125
+32,1,Rural,20-29,KERALA,Kasaragod,Female,In Speech,141
+32,1,Rural,30-39,KERALA,Kasaragod,Female,In Speech,110
+32,1,Rural,40-49,KERALA,Kasaragod,Female,In Speech,101
+32,1,Rural,50-59,KERALA,Kasaragod,Female,In Speech,60
+32,1,Rural,60-69,KERALA,Kasaragod,Female,In Speech,27
+32,1,Rural,70-79,KERALA,Kasaragod,Female,In Speech,22
+32,1,Rural,80-89,KERALA,Kasaragod,Female,In Speech,8
+32,1,Rural,90+,KERALA,Kasaragod,Female,In Speech,0
+32,1,Rural,Age Not Stated,KERALA,Kasaragod,Female,In Speech,0
+32,1,Urban,0-4,KERALA,Kasaragod,Female,In Speech,1
+32,1,Urban,5-9,KERALA,Kasaragod,Female,In Speech,24
+32,1,Urban,10-19,KERALA,Kasaragod,Female,In Speech,39
+32,1,Urban,20-29,KERALA,Kasaragod,Female,In Speech,67
+32,1,Urban,30-39,KERALA,Kasaragod,Female,In Speech,57
+32,1,Urban,40-49,KERALA,Kasaragod,Female,In Speech,47
+32,1,Urban,50-59,KERALA,Kasaragod,Female,In Speech,27
+32,1,Urban,60-69,KERALA,Kasaragod,Female,In Speech,31
+32,1,Urban,70-79,KERALA,Kasaragod,Female,In Speech,16
+32,1,Urban,80-89,KERALA,Kasaragod,Female,In Speech,2
+32,1,Urban,90+,KERALA,Kasaragod,Female,In Speech,0
+32,1,Urban,Age Not Stated,KERALA,Kasaragod,Female,In Speech,0
+32,2,Rural,0-4,KERALA,Kannur,Female,In Speech,7
+32,2,Rural,5-9,KERALA,Kannur,Female,In Speech,31
+32,2,Rural,10-19,KERALA,Kannur,Female,In Speech,74
+32,2,Rural,20-29,KERALA,Kannur,Female,In Speech,82
+32,2,Rural,30-39,KERALA,Kannur,Female,In Speech,103
+32,2,Rural,40-49,KERALA,Kannur,Female,In Speech,65
+32,2,Rural,50-59,KERALA,Kannur,Female,In Speech,47
+32,2,Rural,60-69,KERALA,Kannur,Female,In Speech,29
+32,2,Rural,70-79,KERALA,Kannur,Female,In Speech,17
+32,2,Rural,80-89,KERALA,Kannur,Female,In Speech,9
+32,2,Rural,90+,KERALA,Kannur,Female,In Speech,3
+32,2,Rural,Age Not Stated,KERALA,Kannur,Female,In Speech,1
+32,2,Urban,0-4,KERALA,Kannur,Female,In Speech,18
+32,2,Urban,5-9,KERALA,Kannur,Female,In Speech,73
+32,2,Urban,10-19,KERALA,Kannur,Female,In Speech,136
+32,2,Urban,20-29,KERALA,Kannur,Female,In Speech,167
+32,2,Urban,30-39,KERALA,Kannur,Female,In Speech,161
+32,2,Urban,40-49,KERALA,Kannur,Female,In Speech,142
+32,2,Urban,50-59,KERALA,Kannur,Female,In Speech,113
+32,2,Urban,60-69,KERALA,Kannur,Female,In Speech,90
+32,2,Urban,70-79,KERALA,Kannur,Female,In Speech,61
+32,2,Urban,80-89,KERALA,Kannur,Female,In Speech,15
+32,2,Urban,90+,KERALA,Kannur,Female,In Speech,3
+32,2,Urban,Age Not Stated,KERALA,Kannur,Female,In Speech,3
+32,3,Rural,0-4,KERALA,Wayanad,Female,In Speech,5
+32,3,Rural,5-9,KERALA,Wayanad,Female,In Speech,40
+32,3,Rural,10-19,KERALA,Wayanad,Female,In Speech,89
+32,3,Rural,20-29,KERALA,Wayanad,Female,In Speech,90
+32,3,Rural,30-39,KERALA,Wayanad,Female,In Speech,92
+32,3,Rural,40-49,KERALA,Wayanad,Female,In Speech,71
+32,3,Rural,50-59,KERALA,Wayanad,Female,In Speech,44
+32,3,Rural,60-69,KERALA,Wayanad,Female,In Speech,34
+32,3,Rural,70-79,KERALA,Wayanad,Female,In Speech,18
+32,3,Rural,80-89,KERALA,Wayanad,Female,In Speech,10
+32,3,Rural,90+,KERALA,Wayanad,Female,In Speech,2
+32,3,Rural,Age Not Stated,KERALA,Wayanad,Female,In Speech,0
+32,3,Urban,0-4,KERALA,Wayanad,Female,In Speech,0
+32,3,Urban,5-9,KERALA,Wayanad,Female,In Speech,2
+32,3,Urban,10-19,KERALA,Wayanad,Female,In Speech,3
+32,3,Urban,20-29,KERALA,Wayanad,Female,In Speech,2
+32,3,Urban,30-39,KERALA,Wayanad,Female,In Speech,3
+32,3,Urban,40-49,KERALA,Wayanad,Female,In Speech,2
+32,3,Urban,50-59,KERALA,Wayanad,Female,In Speech,3
+32,3,Urban,60-69,KERALA,Wayanad,Female,In Speech,0
+32,3,Urban,70-79,KERALA,Wayanad,Female,In Speech,0
+32,3,Urban,80-89,KERALA,Wayanad,Female,In Speech,0
+32,3,Urban,90+,KERALA,Wayanad,Female,In Speech,0
+32,3,Urban,Age Not Stated,KERALA,Wayanad,Female,In Speech,0
+32,4,Rural,0-4,KERALA,Kozhikode,Female,In Speech,5
+32,4,Rural,5-9,KERALA,Kozhikode,Female,In Speech,57
+32,4,Rural,10-19,KERALA,Kozhikode,Female,In Speech,97
+32,4,Rural,20-29,KERALA,Kozhikode,Female,In Speech,103
+32,4,Rural,30-39,KERALA,Kozhikode,Female,In Speech,105
+32,4,Rural,40-49,KERALA,Kozhikode,Female,In Speech,99
+32,4,Rural,50-59,KERALA,Kozhikode,Female,In Speech,73
+32,4,Rural,60-69,KERALA,Kozhikode,Female,In Speech,49
+32,4,Rural,70-79,KERALA,Kozhikode,Female,In Speech,27
+32,4,Rural,80-89,KERALA,Kozhikode,Female,In Speech,21
+32,4,Rural,90+,KERALA,Kozhikode,Female,In Speech,1
+32,4,Rural,Age Not Stated,KERALA,Kozhikode,Female,In Speech,0
+32,4,Urban,0-4,KERALA,Kozhikode,Female,In Speech,24
+32,4,Urban,5-9,KERALA,Kozhikode,Female,In Speech,106
+32,4,Urban,10-19,KERALA,Kozhikode,Female,In Speech,199
+32,4,Urban,20-29,KERALA,Kozhikode,Female,In Speech,210
+32,4,Urban,30-39,KERALA,Kozhikode,Female,In Speech,237
+32,4,Urban,40-49,KERALA,Kozhikode,Female,In Speech,217
+32,4,Urban,50-59,KERALA,Kozhikode,Female,In Speech,144
+32,4,Urban,60-69,KERALA,Kozhikode,Female,In Speech,136
+32,4,Urban,70-79,KERALA,Kozhikode,Female,In Speech,82
+32,4,Urban,80-89,KERALA,Kozhikode,Female,In Speech,31
+32,4,Urban,90+,KERALA,Kozhikode,Female,In Speech,1
+32,4,Urban,Age Not Stated,KERALA,Kozhikode,Female,In Speech,4
+32,5,Rural,0-4,KERALA,Malappuram,Female,In Speech,21
+32,5,Rural,5-9,KERALA,Malappuram,Female,In Speech,88
+32,5,Rural,10-19,KERALA,Malappuram,Female,In Speech,157
+32,5,Rural,20-29,KERALA,Malappuram,Female,In Speech,192
+32,5,Rural,30-39,KERALA,Malappuram,Female,In Speech,146
+32,5,Rural,40-49,KERALA,Malappuram,Female,In Speech,108
+32,5,Rural,50-59,KERALA,Malappuram,Female,In Speech,85
+32,5,Rural,60-69,KERALA,Malappuram,Female,In Speech,67
+32,5,Rural,70-79,KERALA,Malappuram,Female,In Speech,24
+32,5,Rural,80-89,KERALA,Malappuram,Female,In Speech,15
+32,5,Rural,90+,KERALA,Malappuram,Female,In Speech,2
+32,5,Rural,Age Not Stated,KERALA,Malappuram,Female,In Speech,1
+32,5,Urban,0-4,KERALA,Malappuram,Female,In Speech,11
+32,5,Urban,5-9,KERALA,Malappuram,Female,In Speech,69
+32,5,Urban,10-19,KERALA,Malappuram,Female,In Speech,131
+32,5,Urban,20-29,KERALA,Malappuram,Female,In Speech,146
+32,5,Urban,30-39,KERALA,Malappuram,Female,In Speech,106
+32,5,Urban,40-49,KERALA,Malappuram,Female,In Speech,84
+32,5,Urban,50-59,KERALA,Malappuram,Female,In Speech,44
+32,5,Urban,60-69,KERALA,Malappuram,Female,In Speech,33
+32,5,Urban,70-79,KERALA,Malappuram,Female,In Speech,20
+32,5,Urban,80-89,KERALA,Malappuram,Female,In Speech,8
+32,5,Urban,90+,KERALA,Malappuram,Female,In Speech,1
+32,5,Urban,Age Not Stated,KERALA,Malappuram,Female,In Speech,1
+32,6,Rural,0-4,KERALA,Palakkad,Female,In Speech,9
+32,6,Rural,5-9,KERALA,Palakkad,Female,In Speech,104
+32,6,Rural,10-19,KERALA,Palakkad,Female,In Speech,177
+32,6,Rural,20-29,KERALA,Palakkad,Female,In Speech,227
+32,6,Rural,30-39,KERALA,Palakkad,Female,In Speech,220
+32,6,Rural,40-49,KERALA,Palakkad,Female,In Speech,179
+32,6,Rural,50-59,KERALA,Palakkad,Female,In Speech,109
+32,6,Rural,60-69,KERALA,Palakkad,Female,In Speech,77
+32,6,Rural,70-79,KERALA,Palakkad,Female,In Speech,63
+32,6,Rural,80-89,KERALA,Palakkad,Female,In Speech,17
+32,6,Rural,90+,KERALA,Palakkad,Female,In Speech,5
+32,6,Rural,Age Not Stated,KERALA,Palakkad,Female,In Speech,0
+32,6,Urban,0-4,KERALA,Palakkad,Female,In Speech,6
+32,6,Urban,5-9,KERALA,Palakkad,Female,In Speech,24
+32,6,Urban,10-19,KERALA,Palakkad,Female,In Speech,40
+32,6,Urban,20-29,KERALA,Palakkad,Female,In Speech,74
+32,6,Urban,30-39,KERALA,Palakkad,Female,In Speech,76
+32,6,Urban,40-49,KERALA,Palakkad,Female,In Speech,47
+32,6,Urban,50-59,KERALA,Palakkad,Female,In Speech,41
+32,6,Urban,60-69,KERALA,Palakkad,Female,In Speech,21
+32,6,Urban,70-79,KERALA,Palakkad,Female,In Speech,11
+32,6,Urban,80-89,KERALA,Palakkad,Female,In Speech,2
+32,6,Urban,90+,KERALA,Palakkad,Female,In Speech,0
+32,6,Urban,Age Not Stated,KERALA,Palakkad,Female,In Speech,0
+32,7,Rural,0-4,KERALA,Thrissur,Female,In Speech,7
+32,7,Rural,5-9,KERALA,Thrissur,Female,In Speech,30
+32,7,Rural,10-19,KERALA,Thrissur,Female,In Speech,88
+32,7,Rural,20-29,KERALA,Thrissur,Female,In Speech,71
+32,7,Rural,30-39,KERALA,Thrissur,Female,In Speech,88
+32,7,Rural,40-49,KERALA,Thrissur,Female,In Speech,94
+32,7,Rural,50-59,KERALA,Thrissur,Female,In Speech,66
+32,7,Rural,60-69,KERALA,Thrissur,Female,In Speech,52
+32,7,Rural,70-79,KERALA,Thrissur,Female,In Speech,22
+32,7,Rural,80-89,KERALA,Thrissur,Female,In Speech,17
+32,7,Rural,90+,KERALA,Thrissur,Female,In Speech,2
+32,7,Rural,Age Not Stated,KERALA,Thrissur,Female,In Speech,2
+32,7,Urban,0-4,KERALA,Thrissur,Female,In Speech,7
+32,7,Urban,5-9,KERALA,Thrissur,Female,In Speech,73
+32,7,Urban,10-19,KERALA,Thrissur,Female,In Speech,137
+32,7,Urban,20-29,KERALA,Thrissur,Female,In Speech,163
+32,7,Urban,30-39,KERALA,Thrissur,Female,In Speech,195
+32,7,Urban,40-49,KERALA,Thrissur,Female,In Speech,192
+32,7,Urban,50-59,KERALA,Thrissur,Female,In Speech,137
+32,7,Urban,60-69,KERALA,Thrissur,Female,In Speech,112
+32,7,Urban,70-79,KERALA,Thrissur,Female,In Speech,71
+32,7,Urban,80-89,KERALA,Thrissur,Female,In Speech,14
+32,7,Urban,90+,KERALA,Thrissur,Female,In Speech,2
+32,7,Urban,Age Not Stated,KERALA,Thrissur,Female,In Speech,8
+32,8,Rural,0-4,KERALA,Ernakulam,Female,In Speech,6
+32,8,Rural,5-9,KERALA,Ernakulam,Female,In Speech,44
+32,8,Rural,10-19,KERALA,Ernakulam,Female,In Speech,58
+32,8,Rural,20-29,KERALA,Ernakulam,Female,In Speech,53
+32,8,Rural,30-39,KERALA,Ernakulam,Female,In Speech,86
+32,8,Rural,40-49,KERALA,Ernakulam,Female,In Speech,88
+32,8,Rural,50-59,KERALA,Ernakulam,Female,In Speech,58
+32,8,Rural,60-69,KERALA,Ernakulam,Female,In Speech,39
+32,8,Rural,70-79,KERALA,Ernakulam,Female,In Speech,27
+32,8,Rural,80-89,KERALA,Ernakulam,Female,In Speech,11
+32,8,Rural,90+,KERALA,Ernakulam,Female,In Speech,0
+32,8,Rural,Age Not Stated,KERALA,Ernakulam,Female,In Speech,0
+32,8,Urban,0-4,KERALA,Ernakulam,Female,In Speech,9
+32,8,Urban,5-9,KERALA,Ernakulam,Female,In Speech,56
+32,8,Urban,10-19,KERALA,Ernakulam,Female,In Speech,97
+32,8,Urban,20-29,KERALA,Ernakulam,Female,In Speech,120
+32,8,Urban,30-39,KERALA,Ernakulam,Female,In Speech,182
+32,8,Urban,40-49,KERALA,Ernakulam,Female,In Speech,154
+32,8,Urban,50-59,KERALA,Ernakulam,Female,In Speech,101
+32,8,Urban,60-69,KERALA,Ernakulam,Female,In Speech,72
+32,8,Urban,70-79,KERALA,Ernakulam,Female,In Speech,39
+32,8,Urban,80-89,KERALA,Ernakulam,Female,In Speech,28
+32,8,Urban,90+,KERALA,Ernakulam,Female,In Speech,5
+32,8,Urban,Age Not Stated,KERALA,Ernakulam,Female,In Speech,2
+32,9,Rural,0-4,KERALA,Idukki ,Female,In Speech,6
+32,9,Rural,5-9,KERALA,Idukki ,Female,In Speech,34
+32,9,Rural,10-19,KERALA,Idukki ,Female,In Speech,73
+32,9,Rural,20-29,KERALA,Idukki ,Female,In Speech,70
+32,9,Rural,30-39,KERALA,Idukki ,Female,In Speech,90
+32,9,Rural,40-49,KERALA,Idukki ,Female,In Speech,69
+32,9,Rural,50-59,KERALA,Idukki ,Female,In Speech,48
+32,9,Rural,60-69,KERALA,Idukki ,Female,In Speech,34
+32,9,Rural,70-79,KERALA,Idukki ,Female,In Speech,24
+32,9,Rural,80-89,KERALA,Idukki ,Female,In Speech,8
+32,9,Rural,90+,KERALA,Idukki ,Female,In Speech,5
+32,9,Rural,Age Not Stated,KERALA,Idukki ,Female,In Speech,3
+32,9,Urban,0-4,KERALA,Idukki ,Female,In Speech,0
+32,9,Urban,5-9,KERALA,Idukki ,Female,In Speech,0
+32,9,Urban,10-19,KERALA,Idukki ,Female,In Speech,1
+32,9,Urban,20-29,KERALA,Idukki ,Female,In Speech,3
+32,9,Urban,30-39,KERALA,Idukki ,Female,In Speech,7
+32,9,Urban,40-49,KERALA,Idukki ,Female,In Speech,4
+32,9,Urban,50-59,KERALA,Idukki ,Female,In Speech,3
+32,9,Urban,60-69,KERALA,Idukki ,Female,In Speech,4
+32,9,Urban,70-79,KERALA,Idukki ,Female,In Speech,0
+32,9,Urban,80-89,KERALA,Idukki ,Female,In Speech,0
+32,9,Urban,90+,KERALA,Idukki ,Female,In Speech,0
+32,9,Urban,Age Not Stated,KERALA,Idukki ,Female,In Speech,0
+32,10,Rural,0-4,KERALA,Kottayam,Female,In Speech,10
+32,10,Rural,5-9,KERALA,Kottayam,Female,In Speech,54
+32,10,Rural,10-19,KERALA,Kottayam,Female,In Speech,112
+32,10,Rural,20-29,KERALA,Kottayam,Female,In Speech,93
+32,10,Rural,30-39,KERALA,Kottayam,Female,In Speech,151
+32,10,Rural,40-49,KERALA,Kottayam,Female,In Speech,155
+32,10,Rural,50-59,KERALA,Kottayam,Female,In Speech,94
+32,10,Rural,60-69,KERALA,Kottayam,Female,In Speech,84
+32,10,Rural,70-79,KERALA,Kottayam,Female,In Speech,48
+32,10,Rural,80-89,KERALA,Kottayam,Female,In Speech,24
+32,10,Rural,90+,KERALA,Kottayam,Female,In Speech,0
+32,10,Rural,Age Not Stated,KERALA,Kottayam,Female,In Speech,3
+32,10,Urban,0-4,KERALA,Kottayam,Female,In Speech,5
+32,10,Urban,5-9,KERALA,Kottayam,Female,In Speech,25
+32,10,Urban,10-19,KERALA,Kottayam,Female,In Speech,31
+32,10,Urban,20-29,KERALA,Kottayam,Female,In Speech,38
+32,10,Urban,30-39,KERALA,Kottayam,Female,In Speech,49
+32,10,Urban,40-49,KERALA,Kottayam,Female,In Speech,39
+32,10,Urban,50-59,KERALA,Kottayam,Female,In Speech,33
+32,10,Urban,60-69,KERALA,Kottayam,Female,In Speech,32
+32,10,Urban,70-79,KERALA,Kottayam,Female,In Speech,10
+32,10,Urban,80-89,KERALA,Kottayam,Female,In Speech,11
+32,10,Urban,90+,KERALA,Kottayam,Female,In Speech,3
+32,10,Urban,Age Not Stated,KERALA,Kottayam,Female,In Speech,0
+32,11,Rural,0-4,KERALA,Alappuzha,Female,In Speech,8
+32,11,Rural,5-9,KERALA,Alappuzha,Female,In Speech,57
+32,11,Rural,10-19,KERALA,Alappuzha,Female,In Speech,92
+32,11,Rural,20-29,KERALA,Alappuzha,Female,In Speech,112
+32,11,Rural,30-39,KERALA,Alappuzha,Female,In Speech,114
+32,11,Rural,40-49,KERALA,Alappuzha,Female,In Speech,104
+32,11,Rural,50-59,KERALA,Alappuzha,Female,In Speech,102
+32,11,Rural,60-69,KERALA,Alappuzha,Female,In Speech,63
+32,11,Rural,70-79,KERALA,Alappuzha,Female,In Speech,37
+32,11,Rural,80-89,KERALA,Alappuzha,Female,In Speech,15
+32,11,Rural,90+,KERALA,Alappuzha,Female,In Speech,2
+32,11,Rural,Age Not Stated,KERALA,Alappuzha,Female,In Speech,5
+32,11,Urban,0-4,KERALA,Alappuzha,Female,In Speech,8
+32,11,Urban,5-9,KERALA,Alappuzha,Female,In Speech,49
+32,11,Urban,10-19,KERALA,Alappuzha,Female,In Speech,107
+32,11,Urban,20-29,KERALA,Alappuzha,Female,In Speech,116
+32,11,Urban,30-39,KERALA,Alappuzha,Female,In Speech,135
+32,11,Urban,40-49,KERALA,Alappuzha,Female,In Speech,128
+32,11,Urban,50-59,KERALA,Alappuzha,Female,In Speech,85
+32,11,Urban,60-69,KERALA,Alappuzha,Female,In Speech,57
+32,11,Urban,70-79,KERALA,Alappuzha,Female,In Speech,44
+32,11,Urban,80-89,KERALA,Alappuzha,Female,In Speech,21
+32,11,Urban,90+,KERALA,Alappuzha,Female,In Speech,1
+32,11,Urban,Age Not Stated,KERALA,Alappuzha,Female,In Speech,2
+32,12,Rural,0-4,KERALA,Pathanamthitta,Female,In Speech,4
+32,12,Rural,5-9,KERALA,Pathanamthitta,Female,In Speech,56
+32,12,Rural,10-19,KERALA,Pathanamthitta,Female,In Speech,97
+32,12,Rural,20-29,KERALA,Pathanamthitta,Female,In Speech,98
+32,12,Rural,30-39,KERALA,Pathanamthitta,Female,In Speech,124
+32,12,Rural,40-49,KERALA,Pathanamthitta,Female,In Speech,150
+32,12,Rural,50-59,KERALA,Pathanamthitta,Female,In Speech,104
+32,12,Rural,60-69,KERALA,Pathanamthitta,Female,In Speech,85
+32,12,Rural,70-79,KERALA,Pathanamthitta,Female,In Speech,53
+32,12,Rural,80-89,KERALA,Pathanamthitta,Female,In Speech,19
+32,12,Rural,90+,KERALA,Pathanamthitta,Female,In Speech,8
+32,12,Rural,Age Not Stated,KERALA,Pathanamthitta,Female,In Speech,0
+32,12,Urban,0-4,KERALA,Pathanamthitta,Female,In Speech,2
+32,12,Urban,5-9,KERALA,Pathanamthitta,Female,In Speech,3
+32,12,Urban,10-19,KERALA,Pathanamthitta,Female,In Speech,6
+32,12,Urban,20-29,KERALA,Pathanamthitta,Female,In Speech,17
+32,12,Urban,30-39,KERALA,Pathanamthitta,Female,In Speech,11
+32,12,Urban,40-49,KERALA,Pathanamthitta,Female,In Speech,16
+32,12,Urban,50-59,KERALA,Pathanamthitta,Female,In Speech,9
+32,12,Urban,60-69,KERALA,Pathanamthitta,Female,In Speech,14
+32,12,Urban,70-79,KERALA,Pathanamthitta,Female,In Speech,4
+32,12,Urban,80-89,KERALA,Pathanamthitta,Female,In Speech,4
+32,12,Urban,90+,KERALA,Pathanamthitta,Female,In Speech,1
+32,12,Urban,Age Not Stated,KERALA,Pathanamthitta,Female,In Speech,0
+32,13,Rural,0-4,KERALA,Kollam,Female,In Speech,10
+32,13,Rural,5-9,KERALA,Kollam,Female,In Speech,63
+32,13,Rural,10-19,KERALA,Kollam,Female,In Speech,166
+32,13,Rural,20-29,KERALA,Kollam,Female,In Speech,175
+32,13,Rural,30-39,KERALA,Kollam,Female,In Speech,191
+32,13,Rural,40-49,KERALA,Kollam,Female,In Speech,184
+32,13,Rural,50-59,KERALA,Kollam,Female,In Speech,129
+32,13,Rural,60-69,KERALA,Kollam,Female,In Speech,84
+32,13,Rural,70-79,KERALA,Kollam,Female,In Speech,62
+32,13,Rural,80-89,KERALA,Kollam,Female,In Speech,29
+32,13,Rural,90+,KERALA,Kollam,Female,In Speech,2
+32,13,Rural,Age Not Stated,KERALA,Kollam,Female,In Speech,3
+32,13,Urban,0-4,KERALA,Kollam,Female,In Speech,17
+32,13,Urban,5-9,KERALA,Kollam,Female,In Speech,55
+32,13,Urban,10-19,KERALA,Kollam,Female,In Speech,111
+32,13,Urban,20-29,KERALA,Kollam,Female,In Speech,130
+32,13,Urban,30-39,KERALA,Kollam,Female,In Speech,129
+32,13,Urban,40-49,KERALA,Kollam,Female,In Speech,121
+32,13,Urban,50-59,KERALA,Kollam,Female,In Speech,110
+32,13,Urban,60-69,KERALA,Kollam,Female,In Speech,65
+32,13,Urban,70-79,KERALA,Kollam,Female,In Speech,27
+32,13,Urban,80-89,KERALA,Kollam,Female,In Speech,20
+32,13,Urban,90+,KERALA,Kollam,Female,In Speech,2
+32,13,Urban,Age Not Stated,KERALA,Kollam,Female,In Speech,0
+32,14,Rural,0-4,KERALA,Thiruvananthapuram,Female,In Speech,16
+32,14,Rural,5-9,KERALA,Thiruvananthapuram,Female,In Speech,55
+32,14,Rural,10-19,KERALA,Thiruvananthapuram,Female,In Speech,127
+32,14,Rural,20-29,KERALA,Thiruvananthapuram,Female,In Speech,168
+32,14,Rural,30-39,KERALA,Thiruvananthapuram,Female,In Speech,180
+32,14,Rural,40-49,KERALA,Thiruvananthapuram,Female,In Speech,154
+32,14,Rural,50-59,KERALA,Thiruvananthapuram,Female,In Speech,133
+32,14,Rural,60-69,KERALA,Thiruvananthapuram,Female,In Speech,98
+32,14,Rural,70-79,KERALA,Thiruvananthapuram,Female,In Speech,47
+32,14,Rural,80-89,KERALA,Thiruvananthapuram,Female,In Speech,14
+32,14,Rural,90+,KERALA,Thiruvananthapuram,Female,In Speech,4
+32,14,Rural,Age Not Stated,KERALA,Thiruvananthapuram,Female,In Speech,4
+32,14,Urban,0-4,KERALA,Thiruvananthapuram,Female,In Speech,17
+32,14,Urban,5-9,KERALA,Thiruvananthapuram,Female,In Speech,73
+32,14,Urban,10-19,KERALA,Thiruvananthapuram,Female,In Speech,163
+32,14,Urban,20-29,KERALA,Thiruvananthapuram,Female,In Speech,183
+32,14,Urban,30-39,KERALA,Thiruvananthapuram,Female,In Speech,196
+32,14,Urban,40-49,KERALA,Thiruvananthapuram,Female,In Speech,191
+32,14,Urban,50-59,KERALA,Thiruvananthapuram,Female,In Speech,147
+32,14,Urban,60-69,KERALA,Thiruvananthapuram,Female,In Speech,110
+32,14,Urban,70-79,KERALA,Thiruvananthapuram,Female,In Speech,56
+32,14,Urban,80-89,KERALA,Thiruvananthapuram,Female,In Speech,22
+32,14,Urban,90+,KERALA,Thiruvananthapuram,Female,In Speech,3
+32,14,Urban,Age Not Stated,KERALA,Thiruvananthapuram,Female,In Speech,3
+32,1,Rural,0-4,KERALA,Kasaragod,Male,In Hearing,60
+32,1,Rural,5-9,KERALA,Kasaragod,Male,In Hearing,85
+32,1,Rural,10-19,KERALA,Kasaragod,Male,In Hearing,181
+32,1,Rural,20-29,KERALA,Kasaragod,Male,In Hearing,174
+32,1,Rural,30-39,KERALA,Kasaragod,Male,In Hearing,184
+32,1,Rural,40-49,KERALA,Kasaragod,Male,In Hearing,192
+32,1,Rural,50-59,KERALA,Kasaragod,Male,In Hearing,195
+32,1,Rural,60-69,KERALA,Kasaragod,Male,In Hearing,144
+32,1,Rural,70-79,KERALA,Kasaragod,Male,In Hearing,113
+32,1,Rural,80-89,KERALA,Kasaragod,Male,In Hearing,78
+32,1,Rural,90+,KERALA,Kasaragod,Male,In Hearing,18
+32,1,Rural,Age Not Stated,KERALA,Kasaragod,Male,In Hearing,0
+32,1,Urban,0-4,KERALA,Kasaragod,Male,In Hearing,34
+32,1,Urban,5-9,KERALA,Kasaragod,Male,In Hearing,32
+32,1,Urban,10-19,KERALA,Kasaragod,Male,In Hearing,99
+32,1,Urban,20-29,KERALA,Kasaragod,Male,In Hearing,80
+32,1,Urban,30-39,KERALA,Kasaragod,Male,In Hearing,79
+32,1,Urban,40-49,KERALA,Kasaragod,Male,In Hearing,65
+32,1,Urban,50-59,KERALA,Kasaragod,Male,In Hearing,72
+32,1,Urban,60-69,KERALA,Kasaragod,Male,In Hearing,65
+32,1,Urban,70-79,KERALA,Kasaragod,Male,In Hearing,43
+32,1,Urban,80-89,KERALA,Kasaragod,Male,In Hearing,26
+32,1,Urban,90+,KERALA,Kasaragod,Male,In Hearing,8
+32,1,Urban,Age Not Stated,KERALA,Kasaragod,Male,In Hearing,2
+32,2,Rural,0-4,KERALA,Kannur,Male,In Hearing,59
+32,2,Rural,5-9,KERALA,Kannur,Male,In Hearing,68
+32,2,Rural,10-19,KERALA,Kannur,Male,In Hearing,226
+32,2,Rural,20-29,KERALA,Kannur,Male,In Hearing,194
+32,2,Rural,30-39,KERALA,Kannur,Male,In Hearing,204
+32,2,Rural,40-49,KERALA,Kannur,Male,In Hearing,214
+32,2,Rural,50-59,KERALA,Kannur,Male,In Hearing,228
+32,2,Rural,60-69,KERALA,Kannur,Male,In Hearing,198
+32,2,Rural,70-79,KERALA,Kannur,Male,In Hearing,171
+32,2,Rural,80-89,KERALA,Kannur,Male,In Hearing,145
+32,2,Rural,90+,KERALA,Kannur,Male,In Hearing,34
+32,2,Rural,Age Not Stated,KERALA,Kannur,Male,In Hearing,1
+32,2,Urban,0-4,KERALA,Kannur,Male,In Hearing,120
+32,2,Urban,5-9,KERALA,Kannur,Male,In Hearing,128
+32,2,Urban,10-19,KERALA,Kannur,Male,In Hearing,328
+32,2,Urban,20-29,KERALA,Kannur,Male,In Hearing,331
+32,2,Urban,30-39,KERALA,Kannur,Male,In Hearing,312
+32,2,Urban,40-49,KERALA,Kannur,Male,In Hearing,330
+32,2,Urban,50-59,KERALA,Kannur,Male,In Hearing,318
+32,2,Urban,60-69,KERALA,Kannur,Male,In Hearing,277
+32,2,Urban,70-79,KERALA,Kannur,Male,In Hearing,289
+32,2,Urban,80-89,KERALA,Kannur,Male,In Hearing,162
+32,2,Urban,90+,KERALA,Kannur,Male,In Hearing,23
+32,2,Urban,Age Not Stated,KERALA,Kannur,Male,In Hearing,4
+32,3,Rural,0-4,KERALA,Wayanad,Male,In Hearing,38
+32,3,Rural,5-9,KERALA,Wayanad,Male,In Hearing,64
+32,3,Rural,10-19,KERALA,Wayanad,Male,In Hearing,195
+32,3,Rural,20-29,KERALA,Wayanad,Male,In Hearing,134
+32,3,Rural,30-39,KERALA,Wayanad,Male,In Hearing,154
+32,3,Rural,40-49,KERALA,Wayanad,Male,In Hearing,172
+32,3,Rural,50-59,KERALA,Wayanad,Male,In Hearing,170
+32,3,Rural,60-69,KERALA,Wayanad,Male,In Hearing,192
+32,3,Rural,70-79,KERALA,Wayanad,Male,In Hearing,136
+32,3,Rural,80-89,KERALA,Wayanad,Male,In Hearing,110
+32,3,Rural,90+,KERALA,Wayanad,Male,In Hearing,16
+32,3,Rural,Age Not Stated,KERALA,Wayanad,Male,In Hearing,2
+32,3,Urban,0-4,KERALA,Wayanad,Male,In Hearing,0
+32,3,Urban,5-9,KERALA,Wayanad,Male,In Hearing,4
+32,3,Urban,10-19,KERALA,Wayanad,Male,In Hearing,9
+32,3,Urban,20-29,KERALA,Wayanad,Male,In Hearing,8
+32,3,Urban,30-39,KERALA,Wayanad,Male,In Hearing,5
+32,3,Urban,40-49,KERALA,Wayanad,Male,In Hearing,5
+32,3,Urban,50-59,KERALA,Wayanad,Male,In Hearing,4
+32,3,Urban,60-69,KERALA,Wayanad,Male,In Hearing,1
+32,3,Urban,70-79,KERALA,Wayanad,Male,In Hearing,3
+32,3,Urban,80-89,KERALA,Wayanad,Male,In Hearing,3
+32,3,Urban,90+,KERALA,Wayanad,Male,In Hearing,0
+32,3,Urban,Age Not Stated,KERALA,Wayanad,Male,In Hearing,1
+32,4,Rural,0-4,KERALA,Kozhikode,Male,In Hearing,54
+32,4,Rural,5-9,KERALA,Kozhikode,Male,In Hearing,75
+32,4,Rural,10-19,KERALA,Kozhikode,Male,In Hearing,231
+32,4,Rural,20-29,KERALA,Kozhikode,Male,In Hearing,185
+32,4,Rural,30-39,KERALA,Kozhikode,Male,In Hearing,168
+32,4,Rural,40-49,KERALA,Kozhikode,Male,In Hearing,201
+32,4,Rural,50-59,KERALA,Kozhikode,Male,In Hearing,230
+32,4,Rural,60-69,KERALA,Kozhikode,Male,In Hearing,237
+32,4,Rural,70-79,KERALA,Kozhikode,Male,In Hearing,242
+32,4,Rural,80-89,KERALA,Kozhikode,Male,In Hearing,125
+32,4,Rural,90+,KERALA,Kozhikode,Male,In Hearing,59
+32,4,Rural,Age Not Stated,KERALA,Kozhikode,Male,In Hearing,0
+32,4,Urban,0-4,KERALA,Kozhikode,Male,In Hearing,120
+32,4,Urban,5-9,KERALA,Kozhikode,Male,In Hearing,190
+32,4,Urban,10-19,KERALA,Kozhikode,Male,In Hearing,574
+32,4,Urban,20-29,KERALA,Kozhikode,Male,In Hearing,353
+32,4,Urban,30-39,KERALA,Kozhikode,Male,In Hearing,302
+32,4,Urban,40-49,KERALA,Kozhikode,Male,In Hearing,360
+32,4,Urban,50-59,KERALA,Kozhikode,Male,In Hearing,347
+32,4,Urban,60-69,KERALA,Kozhikode,Male,In Hearing,373
+32,4,Urban,70-79,KERALA,Kozhikode,Male,In Hearing,389
+32,4,Urban,80-89,KERALA,Kozhikode,Male,In Hearing,233
+32,4,Urban,90+,KERALA,Kozhikode,Male,In Hearing,41
+32,4,Urban,Age Not Stated,KERALA,Kozhikode,Male,In Hearing,2
+32,5,Rural,0-4,KERALA,Malappuram,Male,In Hearing,110
+32,5,Rural,5-9,KERALA,Malappuram,Male,In Hearing,154
+32,5,Rural,10-19,KERALA,Malappuram,Male,In Hearing,335
+32,5,Rural,20-29,KERALA,Malappuram,Male,In Hearing,314
+32,5,Rural,30-39,KERALA,Malappuram,Male,In Hearing,245
+32,5,Rural,40-49,KERALA,Malappuram,Male,In Hearing,264
+32,5,Rural,50-59,KERALA,Malappuram,Male,In Hearing,248
+32,5,Rural,60-69,KERALA,Malappuram,Male,In Hearing,251
+32,5,Rural,70-79,KERALA,Malappuram,Male,In Hearing,234
+32,5,Rural,80-89,KERALA,Malappuram,Male,In Hearing,128
+32,5,Rural,90+,KERALA,Malappuram,Male,In Hearing,33
+32,5,Rural,Age Not Stated,KERALA,Malappuram,Male,In Hearing,4
+32,5,Urban,0-4,KERALA,Malappuram,Male,In Hearing,107
+32,5,Urban,5-9,KERALA,Malappuram,Male,In Hearing,134
+32,5,Urban,10-19,KERALA,Malappuram,Male,In Hearing,339
+32,5,Urban,20-29,KERALA,Malappuram,Male,In Hearing,297
+32,5,Urban,30-39,KERALA,Malappuram,Male,In Hearing,257
+32,5,Urban,40-49,KERALA,Malappuram,Male,In Hearing,240
+32,5,Urban,50-59,KERALA,Malappuram,Male,In Hearing,227
+32,5,Urban,60-69,KERALA,Malappuram,Male,In Hearing,185
+32,5,Urban,70-79,KERALA,Malappuram,Male,In Hearing,167
+32,5,Urban,80-89,KERALA,Malappuram,Male,In Hearing,88
+32,5,Urban,90+,KERALA,Malappuram,Male,In Hearing,17
+32,5,Urban,Age Not Stated,KERALA,Malappuram,Male,In Hearing,2
+32,6,Rural,0-4,KERALA,Palakkad,Male,In Hearing,82
+32,6,Rural,5-9,KERALA,Palakkad,Male,In Hearing,87
+32,6,Rural,10-19,KERALA,Palakkad,Male,In Hearing,302
+32,6,Rural,20-29,KERALA,Palakkad,Male,In Hearing,307
+32,6,Rural,30-39,KERALA,Palakkad,Male,In Hearing,298
+32,6,Rural,40-49,KERALA,Palakkad,Male,In Hearing,317
+32,6,Rural,50-59,KERALA,Palakkad,Male,In Hearing,309
+32,6,Rural,60-69,KERALA,Palakkad,Male,In Hearing,382
+32,6,Rural,70-79,KERALA,Palakkad,Male,In Hearing,401
+32,6,Rural,80-89,KERALA,Palakkad,Male,In Hearing,249
+32,6,Rural,90+,KERALA,Palakkad,Male,In Hearing,40
+32,6,Rural,Age Not Stated,KERALA,Palakkad,Male,In Hearing,3
+32,6,Urban,0-4,KERALA,Palakkad,Male,In Hearing,28
+32,6,Urban,5-9,KERALA,Palakkad,Male,In Hearing,28
+32,6,Urban,10-19,KERALA,Palakkad,Male,In Hearing,84
+32,6,Urban,20-29,KERALA,Palakkad,Male,In Hearing,100
+32,6,Urban,30-39,KERALA,Palakkad,Male,In Hearing,79
+32,6,Urban,40-49,KERALA,Palakkad,Male,In Hearing,99
+32,6,Urban,50-59,KERALA,Palakkad,Male,In Hearing,92
+32,6,Urban,60-69,KERALA,Palakkad,Male,In Hearing,96
+32,6,Urban,70-79,KERALA,Palakkad,Male,In Hearing,112
+32,6,Urban,80-89,KERALA,Palakkad,Male,In Hearing,82
+32,6,Urban,90+,KERALA,Palakkad,Male,In Hearing,12
+32,6,Urban,Age Not Stated,KERALA,Palakkad,Male,In Hearing,0
+32,7,Rural,0-4,KERALA,Thrissur,Male,In Hearing,32
+32,7,Rural,5-9,KERALA,Thrissur,Male,In Hearing,46
+32,7,Rural,10-19,KERALA,Thrissur,Male,In Hearing,110
+32,7,Rural,20-29,KERALA,Thrissur,Male,In Hearing,107
+32,7,Rural,30-39,KERALA,Thrissur,Male,In Hearing,100
+32,7,Rural,40-49,KERALA,Thrissur,Male,In Hearing,145
+32,7,Rural,50-59,KERALA,Thrissur,Male,In Hearing,178
+32,7,Rural,60-69,KERALA,Thrissur,Male,In Hearing,151
+32,7,Rural,70-79,KERALA,Thrissur,Male,In Hearing,186
+32,7,Rural,80-89,KERALA,Thrissur,Male,In Hearing,144
+32,7,Rural,90+,KERALA,Thrissur,Male,In Hearing,26
+32,7,Rural,Age Not Stated,KERALA,Thrissur,Male,In Hearing,2
+32,7,Urban,0-4,KERALA,Thrissur,Male,In Hearing,74
+32,7,Urban,5-9,KERALA,Thrissur,Male,In Hearing,95
+32,7,Urban,10-19,KERALA,Thrissur,Male,In Hearing,227
+32,7,Urban,20-29,KERALA,Thrissur,Male,In Hearing,229
+32,7,Urban,30-39,KERALA,Thrissur,Male,In Hearing,240
+32,7,Urban,40-49,KERALA,Thrissur,Male,In Hearing,307
+32,7,Urban,50-59,KERALA,Thrissur,Male,In Hearing,317
+32,7,Urban,60-69,KERALA,Thrissur,Male,In Hearing,315
+32,7,Urban,70-79,KERALA,Thrissur,Male,In Hearing,407
+32,7,Urban,80-89,KERALA,Thrissur,Male,In Hearing,254
+32,7,Urban,90+,KERALA,Thrissur,Male,In Hearing,49
+32,7,Urban,Age Not Stated,KERALA,Thrissur,Male,In Hearing,2
+32,8,Rural,0-4,KERALA,Ernakulam,Male,In Hearing,40
+32,8,Rural,5-9,KERALA,Ernakulam,Male,In Hearing,61
+32,8,Rural,10-19,KERALA,Ernakulam,Male,In Hearing,111
+32,8,Rural,20-29,KERALA,Ernakulam,Male,In Hearing,109
+32,8,Rural,30-39,KERALA,Ernakulam,Male,In Hearing,130
+32,8,Rural,40-49,KERALA,Ernakulam,Male,In Hearing,164
+32,8,Rural,50-59,KERALA,Ernakulam,Male,In Hearing,172
+32,8,Rural,60-69,KERALA,Ernakulam,Male,In Hearing,169
+32,8,Rural,70-79,KERALA,Ernakulam,Male,In Hearing,198
+32,8,Rural,80-89,KERALA,Ernakulam,Male,In Hearing,151
+32,8,Rural,90+,KERALA,Ernakulam,Male,In Hearing,42
+32,8,Rural,Age Not Stated,KERALA,Ernakulam,Male,In Hearing,1
+32,8,Urban,0-4,KERALA,Ernakulam,Male,In Hearing,122
+32,8,Urban,5-9,KERALA,Ernakulam,Male,In Hearing,146
+32,8,Urban,10-19,KERALA,Ernakulam,Male,In Hearing,332
+32,8,Urban,20-29,KERALA,Ernakulam,Male,In Hearing,318
+32,8,Urban,30-39,KERALA,Ernakulam,Male,In Hearing,368
+32,8,Urban,40-49,KERALA,Ernakulam,Male,In Hearing,432
+32,8,Urban,50-59,KERALA,Ernakulam,Male,In Hearing,387
+32,8,Urban,60-69,KERALA,Ernakulam,Male,In Hearing,388
+32,8,Urban,70-79,KERALA,Ernakulam,Male,In Hearing,318
+32,8,Urban,80-89,KERALA,Ernakulam,Male,In Hearing,236
+32,8,Urban,90+,KERALA,Ernakulam,Male,In Hearing,44
+32,8,Urban,Age Not Stated,KERALA,Ernakulam,Male,In Hearing,3
+32,9,Rural,0-4,KERALA,Idukki ,Male,In Hearing,37
+32,9,Rural,5-9,KERALA,Idukki ,Male,In Hearing,53
+32,9,Rural,10-19,KERALA,Idukki ,Male,In Hearing,153
+32,9,Rural,20-29,KERALA,Idukki ,Male,In Hearing,155
+32,9,Rural,30-39,KERALA,Idukki ,Male,In Hearing,141
+32,9,Rural,40-49,KERALA,Idukki ,Male,In Hearing,185
+32,9,Rural,50-59,KERALA,Idukki ,Male,In Hearing,191
+32,9,Rural,60-69,KERALA,Idukki ,Male,In Hearing,197
+32,9,Rural,70-79,KERALA,Idukki ,Male,In Hearing,150
+32,9,Rural,80-89,KERALA,Idukki ,Male,In Hearing,113
+32,9,Rural,90+,KERALA,Idukki ,Male,In Hearing,27
+32,9,Rural,Age Not Stated,KERALA,Idukki ,Male,In Hearing,2
+32,9,Urban,0-4,KERALA,Idukki ,Male,In Hearing,1
+32,9,Urban,5-9,KERALA,Idukki ,Male,In Hearing,5
+32,9,Urban,10-19,KERALA,Idukki ,Male,In Hearing,1
+32,9,Urban,20-29,KERALA,Idukki ,Male,In Hearing,3
+32,9,Urban,30-39,KERALA,Idukki ,Male,In Hearing,7
+32,9,Urban,40-49,KERALA,Idukki ,Male,In Hearing,8
+32,9,Urban,50-59,KERALA,Idukki ,Male,In Hearing,1
+32,9,Urban,60-69,KERALA,Idukki ,Male,In Hearing,6
+32,9,Urban,70-79,KERALA,Idukki ,Male,In Hearing,9
+32,9,Urban,80-89,KERALA,Idukki ,Male,In Hearing,2
+32,9,Urban,90+,KERALA,Idukki ,Male,In Hearing,0
+32,9,Urban,Age Not Stated,KERALA,Idukki ,Male,In Hearing,0
+32,10,Rural,0-4,KERALA,Kottayam,Male,In Hearing,66
+32,10,Rural,5-9,KERALA,Kottayam,Male,In Hearing,72
+32,10,Rural,10-19,KERALA,Kottayam,Male,In Hearing,231
+32,10,Rural,20-29,KERALA,Kottayam,Male,In Hearing,183
+32,10,Rural,30-39,KERALA,Kottayam,Male,In Hearing,215
+32,10,Rural,40-49,KERALA,Kottayam,Male,In Hearing,285
+32,10,Rural,50-59,KERALA,Kottayam,Male,In Hearing,267
+32,10,Rural,60-69,KERALA,Kottayam,Male,In Hearing,261
+32,10,Rural,70-79,KERALA,Kottayam,Male,In Hearing,272
+32,10,Rural,80-89,KERALA,Kottayam,Male,In Hearing,277
+32,10,Rural,90+,KERALA,Kottayam,Male,In Hearing,64
+32,10,Rural,Age Not Stated,KERALA,Kottayam,Male,In Hearing,1
+32,10,Urban,0-4,KERALA,Kottayam,Male,In Hearing,31
+32,10,Urban,5-9,KERALA,Kottayam,Male,In Hearing,39
+32,10,Urban,10-19,KERALA,Kottayam,Male,In Hearing,61
+32,10,Urban,20-29,KERALA,Kottayam,Male,In Hearing,77
+32,10,Urban,30-39,KERALA,Kottayam,Male,In Hearing,83
+32,10,Urban,40-49,KERALA,Kottayam,Male,In Hearing,107
+32,10,Urban,50-59,KERALA,Kottayam,Male,In Hearing,108
+32,10,Urban,60-69,KERALA,Kottayam,Male,In Hearing,122
+32,10,Urban,70-79,KERALA,Kottayam,Male,In Hearing,113
+32,10,Urban,80-89,KERALA,Kottayam,Male,In Hearing,108
+32,10,Urban,90+,KERALA,Kottayam,Male,In Hearing,14
+32,10,Urban,Age Not Stated,KERALA,Kottayam,Male,In Hearing,9
+32,11,Rural,0-4,KERALA,Alappuzha,Male,In Hearing,49
+32,11,Rural,5-9,KERALA,Alappuzha,Male,In Hearing,66
+32,11,Rural,10-19,KERALA,Alappuzha,Male,In Hearing,178
+32,11,Rural,20-29,KERALA,Alappuzha,Male,In Hearing,152
+32,11,Rural,30-39,KERALA,Alappuzha,Male,In Hearing,178
+32,11,Rural,40-49,KERALA,Alappuzha,Male,In Hearing,206
+32,11,Rural,50-59,KERALA,Alappuzha,Male,In Hearing,205
+32,11,Rural,60-69,KERALA,Alappuzha,Male,In Hearing,234
+32,11,Rural,70-79,KERALA,Alappuzha,Male,In Hearing,202
+32,11,Rural,80-89,KERALA,Alappuzha,Male,In Hearing,158
+32,11,Rural,90+,KERALA,Alappuzha,Male,In Hearing,32
+32,11,Rural,Age Not Stated,KERALA,Alappuzha,Male,In Hearing,57
+32,11,Urban,0-4,KERALA,Alappuzha,Male,In Hearing,80
+32,11,Urban,5-9,KERALA,Alappuzha,Male,In Hearing,111
+32,11,Urban,10-19,KERALA,Alappuzha,Male,In Hearing,231
+32,11,Urban,20-29,KERALA,Alappuzha,Male,In Hearing,205
+32,11,Urban,30-39,KERALA,Alappuzha,Male,In Hearing,228
+32,11,Urban,40-49,KERALA,Alappuzha,Male,In Hearing,249
+32,11,Urban,50-59,KERALA,Alappuzha,Male,In Hearing,277
+32,11,Urban,60-69,KERALA,Alappuzha,Male,In Hearing,206
+32,11,Urban,70-79,KERALA,Alappuzha,Male,In Hearing,231
+32,11,Urban,80-89,KERALA,Alappuzha,Male,In Hearing,139
+32,11,Urban,90+,KERALA,Alappuzha,Male,In Hearing,28
+32,11,Urban,Age Not Stated,KERALA,Alappuzha,Male,In Hearing,2
+32,12,Rural,0-4,KERALA,Pathanamthitta,Male,In Hearing,35
+32,12,Rural,5-9,KERALA,Pathanamthitta,Male,In Hearing,62
+32,12,Rural,10-19,KERALA,Pathanamthitta,Male,In Hearing,142
+32,12,Rural,20-29,KERALA,Pathanamthitta,Male,In Hearing,145
+32,12,Rural,30-39,KERALA,Pathanamthitta,Male,In Hearing,124
+32,12,Rural,40-49,KERALA,Pathanamthitta,Male,In Hearing,223
+32,12,Rural,50-59,KERALA,Pathanamthitta,Male,In Hearing,231
+32,12,Rural,60-69,KERALA,Pathanamthitta,Male,In Hearing,214
+32,12,Rural,70-79,KERALA,Pathanamthitta,Male,In Hearing,244
+32,12,Rural,80-89,KERALA,Pathanamthitta,Male,In Hearing,200
+32,12,Rural,90+,KERALA,Pathanamthitta,Male,In Hearing,43
+32,12,Rural,Age Not Stated,KERALA,Pathanamthitta,Male,In Hearing,1
+32,12,Urban,0-4,KERALA,Pathanamthitta,Male,In Hearing,3
+32,12,Urban,5-9,KERALA,Pathanamthitta,Male,In Hearing,9
+32,12,Urban,10-19,KERALA,Pathanamthitta,Male,In Hearing,16
+32,12,Urban,20-29,KERALA,Pathanamthitta,Male,In Hearing,10
+32,12,Urban,30-39,KERALA,Pathanamthitta,Male,In Hearing,23
+32,12,Urban,40-49,KERALA,Pathanamthitta,Male,In Hearing,20
+32,12,Urban,50-59,KERALA,Pathanamthitta,Male,In Hearing,18
+32,12,Urban,60-69,KERALA,Pathanamthitta,Male,In Hearing,25
+32,12,Urban,70-79,KERALA,Pathanamthitta,Male,In Hearing,27
+32,12,Urban,80-89,KERALA,Pathanamthitta,Male,In Hearing,12
+32,12,Urban,90+,KERALA,Pathanamthitta,Male,In Hearing,7
+32,12,Urban,Age Not Stated,KERALA,Pathanamthitta,Male,In Hearing,0
+32,13,Rural,0-4,KERALA,Kollam,Male,In Hearing,89
+32,13,Rural,5-9,KERALA,Kollam,Male,In Hearing,132
+32,13,Rural,10-19,KERALA,Kollam,Male,In Hearing,267
+32,13,Rural,20-29,KERALA,Kollam,Male,In Hearing,245
+32,13,Rural,30-39,KERALA,Kollam,Male,In Hearing,235
+32,13,Rural,40-49,KERALA,Kollam,Male,In Hearing,284
+32,13,Rural,50-59,KERALA,Kollam,Male,In Hearing,285
+32,13,Rural,60-69,KERALA,Kollam,Male,In Hearing,259
+32,13,Rural,70-79,KERALA,Kollam,Male,In Hearing,229
+32,13,Rural,80-89,KERALA,Kollam,Male,In Hearing,174
+32,13,Rural,90+,KERALA,Kollam,Male,In Hearing,39
+32,13,Rural,Age Not Stated,KERALA,Kollam,Male,In Hearing,0
+32,13,Urban,0-4,KERALA,Kollam,Male,In Hearing,58
+32,13,Urban,5-9,KERALA,Kollam,Male,In Hearing,82
+32,13,Urban,10-19,KERALA,Kollam,Male,In Hearing,197
+32,13,Urban,20-29,KERALA,Kollam,Male,In Hearing,176
+32,13,Urban,30-39,KERALA,Kollam,Male,In Hearing,221
+32,13,Urban,40-49,KERALA,Kollam,Male,In Hearing,204
+32,13,Urban,50-59,KERALA,Kollam,Male,In Hearing,219
+32,13,Urban,60-69,KERALA,Kollam,Male,In Hearing,158
+32,13,Urban,70-79,KERALA,Kollam,Male,In Hearing,158
+32,13,Urban,80-89,KERALA,Kollam,Male,In Hearing,93
+32,13,Urban,90+,KERALA,Kollam,Male,In Hearing,18
+32,13,Urban,Age Not Stated,KERALA,Kollam,Male,In Hearing,2
+32,14,Rural,0-4,KERALA,Thiruvananthapuram,Male,In Hearing,106
+32,14,Rural,5-9,KERALA,Thiruvananthapuram,Male,In Hearing,119
+32,14,Rural,10-19,KERALA,Thiruvananthapuram,Male,In Hearing,306
+32,14,Rural,20-29,KERALA,Thiruvananthapuram,Male,In Hearing,287
+32,14,Rural,30-39,KERALA,Thiruvananthapuram,Male,In Hearing,283
+32,14,Rural,40-49,KERALA,Thiruvananthapuram,Male,In Hearing,313
+32,14,Rural,50-59,KERALA,Thiruvananthapuram,Male,In Hearing,308
+32,14,Rural,60-69,KERALA,Thiruvananthapuram,Male,In Hearing,262
+32,14,Rural,70-79,KERALA,Thiruvananthapuram,Male,In Hearing,216
+32,14,Rural,80-89,KERALA,Thiruvananthapuram,Male,In Hearing,144
+32,14,Rural,90+,KERALA,Thiruvananthapuram,Male,In Hearing,18
+32,14,Rural,Age Not Stated,KERALA,Thiruvananthapuram,Male,In Hearing,10
+32,14,Urban,0-4,KERALA,Thiruvananthapuram,Male,In Hearing,121
+32,14,Urban,5-9,KERALA,Thiruvananthapuram,Male,In Hearing,120
+32,14,Urban,10-19,KERALA,Thiruvananthapuram,Male,In Hearing,365
+32,14,Urban,20-29,KERALA,Thiruvananthapuram,Male,In Hearing,339
+32,14,Urban,30-39,KERALA,Thiruvananthapuram,Male,In Hearing,368
+32,14,Urban,40-49,KERALA,Thiruvananthapuram,Male,In Hearing,385
+32,14,Urban,50-59,KERALA,Thiruvananthapuram,Male,In Hearing,348
+32,14,Urban,60-69,KERALA,Thiruvananthapuram,Male,In Hearing,334
+32,14,Urban,70-79,KERALA,Thiruvananthapuram,Male,In Hearing,232
+32,14,Urban,80-89,KERALA,Thiruvananthapuram,Male,In Hearing,133
+32,14,Urban,90+,KERALA,Thiruvananthapuram,Male,In Hearing,31
+32,14,Urban,Age Not Stated,KERALA,Thiruvananthapuram,Male,In Hearing,0
+32,1,Rural,0-4,KERALA,Kasaragod,Female,In Hearing,61
+32,1,Rural,5-9,KERALA,Kasaragod,Female,In Hearing,71
+32,1,Rural,10-19,KERALA,Kasaragod,Female,In Hearing,187
+32,1,Rural,20-29,KERALA,Kasaragod,Female,In Hearing,168
+32,1,Rural,30-39,KERALA,Kasaragod,Female,In Hearing,189
+32,1,Rural,40-49,KERALA,Kasaragod,Female,In Hearing,174
+32,1,Rural,50-59,KERALA,Kasaragod,Female,In Hearing,175
+32,1,Rural,60-69,KERALA,Kasaragod,Female,In Hearing,157
+32,1,Rural,70-79,KERALA,Kasaragod,Female,In Hearing,131
+32,1,Rural,80-89,KERALA,Kasaragod,Female,In Hearing,102
+32,1,Rural,90+,KERALA,Kasaragod,Female,In Hearing,20
+32,1,Rural,Age Not Stated,KERALA,Kasaragod,Female,In Hearing,2
+32,1,Urban,0-4,KERALA,Kasaragod,Female,In Hearing,26
+32,1,Urban,5-9,KERALA,Kasaragod,Female,In Hearing,26
+32,1,Urban,10-19,KERALA,Kasaragod,Female,In Hearing,67
+32,1,Urban,20-29,KERALA,Kasaragod,Female,In Hearing,87
+32,1,Urban,30-39,KERALA,Kasaragod,Female,In Hearing,91
+32,1,Urban,40-49,KERALA,Kasaragod,Female,In Hearing,75
+32,1,Urban,50-59,KERALA,Kasaragod,Female,In Hearing,88
+32,1,Urban,60-69,KERALA,Kasaragod,Female,In Hearing,89
+32,1,Urban,70-79,KERALA,Kasaragod,Female,In Hearing,87
+32,1,Urban,80-89,KERALA,Kasaragod,Female,In Hearing,43
+32,1,Urban,90+,KERALA,Kasaragod,Female,In Hearing,5
+32,1,Urban,Age Not Stated,KERALA,Kasaragod,Female,In Hearing,0
+32,2,Rural,0-4,KERALA,Kannur,Female,In Hearing,70
+32,2,Rural,5-9,KERALA,Kannur,Female,In Hearing,70
+32,2,Rural,10-19,KERALA,Kannur,Female,In Hearing,169
+32,2,Rural,20-29,KERALA,Kannur,Female,In Hearing,214
+32,2,Rural,30-39,KERALA,Kannur,Female,In Hearing,220
+32,2,Rural,40-49,KERALA,Kannur,Female,In Hearing,239
+32,2,Rural,50-59,KERALA,Kannur,Female,In Hearing,202
+32,2,Rural,60-69,KERALA,Kannur,Female,In Hearing,221
+32,2,Rural,70-79,KERALA,Kannur,Female,In Hearing,262
+32,2,Rural,80-89,KERALA,Kannur,Female,In Hearing,191
+32,2,Rural,90+,KERALA,Kannur,Female,In Hearing,51
+32,2,Rural,Age Not Stated,KERALA,Kannur,Female,In Hearing,1
+32,2,Urban,0-4,KERALA,Kannur,Female,In Hearing,113
+32,2,Urban,5-9,KERALA,Kannur,Female,In Hearing,117
+32,2,Urban,10-19,KERALA,Kannur,Female,In Hearing,309
+32,2,Urban,20-29,KERALA,Kannur,Female,In Hearing,356
+32,2,Urban,30-39,KERALA,Kannur,Female,In Hearing,339
+32,2,Urban,40-49,KERALA,Kannur,Female,In Hearing,384
+32,2,Urban,50-59,KERALA,Kannur,Female,In Hearing,343
+32,2,Urban,60-69,KERALA,Kannur,Female,In Hearing,346
+32,2,Urban,70-79,KERALA,Kannur,Female,In Hearing,434
+32,2,Urban,80-89,KERALA,Kannur,Female,In Hearing,259
+32,2,Urban,90+,KERALA,Kannur,Female,In Hearing,56
+32,2,Urban,Age Not Stated,KERALA,Kannur,Female,In Hearing,6
+32,3,Rural,0-4,KERALA,Wayanad,Female,In Hearing,45
+32,3,Rural,5-9,KERALA,Wayanad,Female,In Hearing,72
+32,3,Rural,10-19,KERALA,Wayanad,Female,In Hearing,154
+32,3,Rural,20-29,KERALA,Wayanad,Female,In Hearing,131
+32,3,Rural,30-39,KERALA,Wayanad,Female,In Hearing,179
+32,3,Rural,40-49,KERALA,Wayanad,Female,In Hearing,204
+32,3,Rural,50-59,KERALA,Wayanad,Female,In Hearing,169
+32,3,Rural,60-69,KERALA,Wayanad,Female,In Hearing,190
+32,3,Rural,70-79,KERALA,Wayanad,Female,In Hearing,206
+32,3,Rural,80-89,KERALA,Wayanad,Female,In Hearing,127
+32,3,Rural,90+,KERALA,Wayanad,Female,In Hearing,38
+32,3,Rural,Age Not Stated,KERALA,Wayanad,Female,In Hearing,0
+32,3,Urban,0-4,KERALA,Wayanad,Female,In Hearing,0
+32,3,Urban,5-9,KERALA,Wayanad,Female,In Hearing,1
+32,3,Urban,10-19,KERALA,Wayanad,Female,In Hearing,4
+32,3,Urban,20-29,KERALA,Wayanad,Female,In Hearing,5
+32,3,Urban,30-39,KERALA,Wayanad,Female,In Hearing,6
+32,3,Urban,40-49,KERALA,Wayanad,Female,In Hearing,9
+32,3,Urban,50-59,KERALA,Wayanad,Female,In Hearing,3
+32,3,Urban,60-69,KERALA,Wayanad,Female,In Hearing,8
+32,3,Urban,70-79,KERALA,Wayanad,Female,In Hearing,7
+32,3,Urban,80-89,KERALA,Wayanad,Female,In Hearing,4
+32,3,Urban,90+,KERALA,Wayanad,Female,In Hearing,0
+32,3,Urban,Age Not Stated,KERALA,Wayanad,Female,In Hearing,0
+32,4,Rural,0-4,KERALA,Kozhikode,Female,In Hearing,62
+32,4,Rural,5-9,KERALA,Kozhikode,Female,In Hearing,88
+32,4,Rural,10-19,KERALA,Kozhikode,Female,In Hearing,191
+32,4,Rural,20-29,KERALA,Kozhikode,Female,In Hearing,219
+32,4,Rural,30-39,KERALA,Kozhikode,Female,In Hearing,207
+32,4,Rural,40-49,KERALA,Kozhikode,Female,In Hearing,267
+32,4,Rural,50-59,KERALA,Kozhikode,Female,In Hearing,249
+32,4,Rural,60-69,KERALA,Kozhikode,Female,In Hearing,311
+32,4,Rural,70-79,KERALA,Kozhikode,Female,In Hearing,294
+32,4,Rural,80-89,KERALA,Kozhikode,Female,In Hearing,237
+32,4,Rural,90+,KERALA,Kozhikode,Female,In Hearing,50
+32,4,Rural,Age Not Stated,KERALA,Kozhikode,Female,In Hearing,0
+32,4,Urban,0-4,KERALA,Kozhikode,Female,In Hearing,113
+32,4,Urban,5-9,KERALA,Kozhikode,Female,In Hearing,172
+32,4,Urban,10-19,KERALA,Kozhikode,Female,In Hearing,458
+32,4,Urban,20-29,KERALA,Kozhikode,Female,In Hearing,336
+32,4,Urban,30-39,KERALA,Kozhikode,Female,In Hearing,397
+32,4,Urban,40-49,KERALA,Kozhikode,Female,In Hearing,443
+32,4,Urban,50-59,KERALA,Kozhikode,Female,In Hearing,449
+32,4,Urban,60-69,KERALA,Kozhikode,Female,In Hearing,508
+32,4,Urban,70-79,KERALA,Kozhikode,Female,In Hearing,488
+32,4,Urban,80-89,KERALA,Kozhikode,Female,In Hearing,333
+32,4,Urban,90+,KERALA,Kozhikode,Female,In Hearing,54
+32,4,Urban,Age Not Stated,KERALA,Kozhikode,Female,In Hearing,3
+32,5,Rural,0-4,KERALA,Malappuram,Female,In Hearing,103
+32,5,Rural,5-9,KERALA,Malappuram,Female,In Hearing,112
+32,5,Rural,10-19,KERALA,Malappuram,Female,In Hearing,267
+32,5,Rural,20-29,KERALA,Malappuram,Female,In Hearing,343
+32,5,Rural,30-39,KERALA,Malappuram,Female,In Hearing,313
+32,5,Rural,40-49,KERALA,Malappuram,Female,In Hearing,339
+32,5,Rural,50-59,KERALA,Malappuram,Female,In Hearing,293
+32,5,Rural,60-69,KERALA,Malappuram,Female,In Hearing,349
+32,5,Rural,70-79,KERALA,Malappuram,Female,In Hearing,382
+32,5,Rural,80-89,KERALA,Malappuram,Female,In Hearing,189
+32,5,Rural,90+,KERALA,Malappuram,Female,In Hearing,45
+32,5,Rural,Age Not Stated,KERALA,Malappuram,Female,In Hearing,2
+32,5,Urban,0-4,KERALA,Malappuram,Female,In Hearing,133
+32,5,Urban,5-9,KERALA,Malappuram,Female,In Hearing,122
+32,5,Urban,10-19,KERALA,Malappuram,Female,In Hearing,268
+32,5,Urban,20-29,KERALA,Malappuram,Female,In Hearing,319
+32,5,Urban,30-39,KERALA,Malappuram,Female,In Hearing,302
+32,5,Urban,40-49,KERALA,Malappuram,Female,In Hearing,270
+32,5,Urban,50-59,KERALA,Malappuram,Female,In Hearing,225
+32,5,Urban,60-69,KERALA,Malappuram,Female,In Hearing,281
+32,5,Urban,70-79,KERALA,Malappuram,Female,In Hearing,258
+32,5,Urban,80-89,KERALA,Malappuram,Female,In Hearing,100
+32,5,Urban,90+,KERALA,Malappuram,Female,In Hearing,31
+32,5,Urban,Age Not Stated,KERALA,Malappuram,Female,In Hearing,4
+32,6,Rural,0-4,KERALA,Palakkad,Female,In Hearing,95
+32,6,Rural,5-9,KERALA,Palakkad,Female,In Hearing,99
+32,6,Rural,10-19,KERALA,Palakkad,Female,In Hearing,246
+32,6,Rural,20-29,KERALA,Palakkad,Female,In Hearing,283
+32,6,Rural,30-39,KERALA,Palakkad,Female,In Hearing,315
+32,6,Rural,40-49,KERALA,Palakkad,Female,In Hearing,370
+32,6,Rural,50-59,KERALA,Palakkad,Female,In Hearing,372
+32,6,Rural,60-69,KERALA,Palakkad,Female,In Hearing,576
+32,6,Rural,70-79,KERALA,Palakkad,Female,In Hearing,630
+32,6,Rural,80-89,KERALA,Palakkad,Female,In Hearing,415
+32,6,Rural,90+,KERALA,Palakkad,Female,In Hearing,78
+32,6,Rural,Age Not Stated,KERALA,Palakkad,Female,In Hearing,5
+32,6,Urban,0-4,KERALA,Palakkad,Female,In Hearing,25
+32,6,Urban,5-9,KERALA,Palakkad,Female,In Hearing,39
+32,6,Urban,10-19,KERALA,Palakkad,Female,In Hearing,85
+32,6,Urban,20-29,KERALA,Palakkad,Female,In Hearing,97
+32,6,Urban,30-39,KERALA,Palakkad,Female,In Hearing,92
+32,6,Urban,40-49,KERALA,Palakkad,Female,In Hearing,125
+32,6,Urban,50-59,KERALA,Palakkad,Female,In Hearing,121
+32,6,Urban,60-69,KERALA,Palakkad,Female,In Hearing,162
+32,6,Urban,70-79,KERALA,Palakkad,Female,In Hearing,180
+32,6,Urban,80-89,KERALA,Palakkad,Female,In Hearing,118
+32,6,Urban,90+,KERALA,Palakkad,Female,In Hearing,27
+32,6,Urban,Age Not Stated,KERALA,Palakkad,Female,In Hearing,0
+32,7,Rural,0-4,KERALA,Thrissur,Female,In Hearing,25
+32,7,Rural,5-9,KERALA,Thrissur,Female,In Hearing,35
+32,7,Rural,10-19,KERALA,Thrissur,Female,In Hearing,101
+32,7,Rural,20-29,KERALA,Thrissur,Female,In Hearing,114
+32,7,Rural,30-39,KERALA,Thrissur,Female,In Hearing,165
+32,7,Rural,40-49,KERALA,Thrissur,Female,In Hearing,208
+32,7,Rural,50-59,KERALA,Thrissur,Female,In Hearing,180
+32,7,Rural,60-69,KERALA,Thrissur,Female,In Hearing,226
+32,7,Rural,70-79,KERALA,Thrissur,Female,In Hearing,298
+32,7,Rural,80-89,KERALA,Thrissur,Female,In Hearing,242
+32,7,Rural,90+,KERALA,Thrissur,Female,In Hearing,69
+32,7,Rural,Age Not Stated,KERALA,Thrissur,Female,In Hearing,4
+32,7,Urban,0-4,KERALA,Thrissur,Female,In Hearing,57
+32,7,Urban,5-9,KERALA,Thrissur,Female,In Hearing,84
+32,7,Urban,10-19,KERALA,Thrissur,Female,In Hearing,225
+32,7,Urban,20-29,KERALA,Thrissur,Female,In Hearing,232
+32,7,Urban,30-39,KERALA,Thrissur,Female,In Hearing,289
+32,7,Urban,40-49,KERALA,Thrissur,Female,In Hearing,367
+32,7,Urban,50-59,KERALA,Thrissur,Female,In Hearing,430
+32,7,Urban,60-69,KERALA,Thrissur,Female,In Hearing,467
+32,7,Urban,70-79,KERALA,Thrissur,Female,In Hearing,624
+32,7,Urban,80-89,KERALA,Thrissur,Female,In Hearing,422
+32,7,Urban,90+,KERALA,Thrissur,Female,In Hearing,96
+32,7,Urban,Age Not Stated,KERALA,Thrissur,Female,In Hearing,4
+32,8,Rural,0-4,KERALA,Ernakulam,Female,In Hearing,28
+32,8,Rural,5-9,KERALA,Ernakulam,Female,In Hearing,27
+32,8,Rural,10-19,KERALA,Ernakulam,Female,In Hearing,94
+32,8,Rural,20-29,KERALA,Ernakulam,Female,In Hearing,112
+32,8,Rural,30-39,KERALA,Ernakulam,Female,In Hearing,135
+32,8,Rural,40-49,KERALA,Ernakulam,Female,In Hearing,180
+32,8,Rural,50-59,KERALA,Ernakulam,Female,In Hearing,182
+32,8,Rural,60-69,KERALA,Ernakulam,Female,In Hearing,201
+32,8,Rural,70-79,KERALA,Ernakulam,Female,In Hearing,299
+32,8,Rural,80-89,KERALA,Ernakulam,Female,In Hearing,266
+32,8,Rural,90+,KERALA,Ernakulam,Female,In Hearing,68
+32,8,Rural,Age Not Stated,KERALA,Ernakulam,Female,In Hearing,3
+32,8,Urban,0-4,KERALA,Ernakulam,Female,In Hearing,101
+32,8,Urban,5-9,KERALA,Ernakulam,Female,In Hearing,136
+32,8,Urban,10-19,KERALA,Ernakulam,Female,In Hearing,292
+32,8,Urban,20-29,KERALA,Ernakulam,Female,In Hearing,351
+32,8,Urban,30-39,KERALA,Ernakulam,Female,In Hearing,408
+32,8,Urban,40-49,KERALA,Ernakulam,Female,In Hearing,496
+32,8,Urban,50-59,KERALA,Ernakulam,Female,In Hearing,483
+32,8,Urban,60-69,KERALA,Ernakulam,Female,In Hearing,486
+32,8,Urban,70-79,KERALA,Ernakulam,Female,In Hearing,513
+32,8,Urban,80-89,KERALA,Ernakulam,Female,In Hearing,419
+32,8,Urban,90+,KERALA,Ernakulam,Female,In Hearing,81
+32,8,Urban,Age Not Stated,KERALA,Ernakulam,Female,In Hearing,5
+32,9,Rural,0-4,KERALA,Idukki ,Female,In Hearing,37
+32,9,Rural,5-9,KERALA,Idukki ,Female,In Hearing,60
+32,9,Rural,10-19,KERALA,Idukki ,Female,In Hearing,146
+32,9,Rural,20-29,KERALA,Idukki ,Female,In Hearing,160
+32,9,Rural,30-39,KERALA,Idukki ,Female,In Hearing,206
+32,9,Rural,40-49,KERALA,Idukki ,Female,In Hearing,221
+32,9,Rural,50-59,KERALA,Idukki ,Female,In Hearing,207
+32,9,Rural,60-69,KERALA,Idukki ,Female,In Hearing,188
+32,9,Rural,70-79,KERALA,Idukki ,Female,In Hearing,205
+32,9,Rural,80-89,KERALA,Idukki ,Female,In Hearing,165
+32,9,Rural,90+,KERALA,Idukki ,Female,In Hearing,51
+32,9,Rural,Age Not Stated,KERALA,Idukki ,Female,In Hearing,4
+32,9,Urban,0-4,KERALA,Idukki ,Female,In Hearing,0
+32,9,Urban,5-9,KERALA,Idukki ,Female,In Hearing,3
+32,9,Urban,10-19,KERALA,Idukki ,Female,In Hearing,5
+32,9,Urban,20-29,KERALA,Idukki ,Female,In Hearing,4
+32,9,Urban,30-39,KERALA,Idukki ,Female,In Hearing,9
+32,9,Urban,40-49,KERALA,Idukki ,Female,In Hearing,4
+32,9,Urban,50-59,KERALA,Idukki ,Female,In Hearing,6
+32,9,Urban,60-69,KERALA,Idukki ,Female,In Hearing,6
+32,9,Urban,70-79,KERALA,Idukki ,Female,In Hearing,9
+32,9,Urban,80-89,KERALA,Idukki ,Female,In Hearing,8
+32,9,Urban,90+,KERALA,Idukki ,Female,In Hearing,2
+32,9,Urban,Age Not Stated,KERALA,Idukki ,Female,In Hearing,0
+32,10,Rural,0-4,KERALA,Kottayam,Female,In Hearing,62
+32,10,Rural,5-9,KERALA,Kottayam,Female,In Hearing,82
+32,10,Rural,10-19,KERALA,Kottayam,Female,In Hearing,166
+32,10,Rural,20-29,KERALA,Kottayam,Female,In Hearing,177
+32,10,Rural,30-39,KERALA,Kottayam,Female,In Hearing,256
+32,10,Rural,40-49,KERALA,Kottayam,Female,In Hearing,293
+32,10,Rural,50-59,KERALA,Kottayam,Female,In Hearing,326
+32,10,Rural,60-69,KERALA,Kottayam,Female,In Hearing,346
+32,10,Rural,70-79,KERALA,Kottayam,Female,In Hearing,416
+32,10,Rural,80-89,KERALA,Kottayam,Female,In Hearing,355
+32,10,Rural,90+,KERALA,Kottayam,Female,In Hearing,90
+32,10,Rural,Age Not Stated,KERALA,Kottayam,Female,In Hearing,1
+32,10,Urban,0-4,KERALA,Kottayam,Female,In Hearing,16
+32,10,Urban,5-9,KERALA,Kottayam,Female,In Hearing,26
+32,10,Urban,10-19,KERALA,Kottayam,Female,In Hearing,58
+32,10,Urban,20-29,KERALA,Kottayam,Female,In Hearing,75
+32,10,Urban,30-39,KERALA,Kottayam,Female,In Hearing,94
+32,10,Urban,40-49,KERALA,Kottayam,Female,In Hearing,132
+32,10,Urban,50-59,KERALA,Kottayam,Female,In Hearing,139
+32,10,Urban,60-69,KERALA,Kottayam,Female,In Hearing,141
+32,10,Urban,70-79,KERALA,Kottayam,Female,In Hearing,185
+32,10,Urban,80-89,KERALA,Kottayam,Female,In Hearing,149
+32,10,Urban,90+,KERALA,Kottayam,Female,In Hearing,35
+32,10,Urban,Age Not Stated,KERALA,Kottayam,Female,In Hearing,8
+32,11,Rural,0-4,KERALA,Alappuzha,Female,In Hearing,53
+32,11,Rural,5-9,KERALA,Alappuzha,Female,In Hearing,77
+32,11,Rural,10-19,KERALA,Alappuzha,Female,In Hearing,161
+32,11,Rural,20-29,KERALA,Alappuzha,Female,In Hearing,174
+32,11,Rural,30-39,KERALA,Alappuzha,Female,In Hearing,192
+32,11,Rural,40-49,KERALA,Alappuzha,Female,In Hearing,281
+32,11,Rural,50-59,KERALA,Alappuzha,Female,In Hearing,258
+32,11,Rural,60-69,KERALA,Alappuzha,Female,In Hearing,284
+32,11,Rural,70-79,KERALA,Alappuzha,Female,In Hearing,322
+32,11,Rural,80-89,KERALA,Alappuzha,Female,In Hearing,278
+32,11,Rural,90+,KERALA,Alappuzha,Female,In Hearing,63
+32,11,Rural,Age Not Stated,KERALA,Alappuzha,Female,In Hearing,62
+32,11,Urban,0-4,KERALA,Alappuzha,Female,In Hearing,66
+32,11,Urban,5-9,KERALA,Alappuzha,Female,In Hearing,84
+32,11,Urban,10-19,KERALA,Alappuzha,Female,In Hearing,187
+32,11,Urban,20-29,KERALA,Alappuzha,Female,In Hearing,218
+32,11,Urban,30-39,KERALA,Alappuzha,Female,In Hearing,299
+32,11,Urban,40-49,KERALA,Alappuzha,Female,In Hearing,309
+32,11,Urban,50-59,KERALA,Alappuzha,Female,In Hearing,328
+32,11,Urban,60-69,KERALA,Alappuzha,Female,In Hearing,334
+32,11,Urban,70-79,KERALA,Alappuzha,Female,In Hearing,348
+32,11,Urban,80-89,KERALA,Alappuzha,Female,In Hearing,267
+32,11,Urban,90+,KERALA,Alappuzha,Female,In Hearing,53
+32,11,Urban,Age Not Stated,KERALA,Alappuzha,Female,In Hearing,5
+32,12,Rural,0-4,KERALA,Pathanamthitta,Female,In Hearing,37
+32,12,Rural,5-9,KERALA,Pathanamthitta,Female,In Hearing,59
+32,12,Rural,10-19,KERALA,Pathanamthitta,Female,In Hearing,144
+32,12,Rural,20-29,KERALA,Pathanamthitta,Female,In Hearing,171
+32,12,Rural,30-39,KERALA,Pathanamthitta,Female,In Hearing,198
+32,12,Rural,40-49,KERALA,Pathanamthitta,Female,In Hearing,296
+32,12,Rural,50-59,KERALA,Pathanamthitta,Female,In Hearing,256
+32,12,Rural,60-69,KERALA,Pathanamthitta,Female,In Hearing,282
+32,12,Rural,70-79,KERALA,Pathanamthitta,Female,In Hearing,313
+32,12,Rural,80-89,KERALA,Pathanamthitta,Female,In Hearing,291
+32,12,Rural,90+,KERALA,Pathanamthitta,Female,In Hearing,85
+32,12,Rural,Age Not Stated,KERALA,Pathanamthitta,Female,In Hearing,0
+32,12,Urban,0-4,KERALA,Pathanamthitta,Female,In Hearing,4
+32,12,Urban,5-9,KERALA,Pathanamthitta,Female,In Hearing,5
+32,12,Urban,10-19,KERALA,Pathanamthitta,Female,In Hearing,11
+32,12,Urban,20-29,KERALA,Pathanamthitta,Female,In Hearing,12
+32,12,Urban,30-39,KERALA,Pathanamthitta,Female,In Hearing,15
+32,12,Urban,40-49,KERALA,Pathanamthitta,Female,In Hearing,22
+32,12,Urban,50-59,KERALA,Pathanamthitta,Female,In Hearing,17
+32,12,Urban,60-69,KERALA,Pathanamthitta,Female,In Hearing,22
+32,12,Urban,70-79,KERALA,Pathanamthitta,Female,In Hearing,27
+32,12,Urban,80-89,KERALA,Pathanamthitta,Female,In Hearing,23
+32,12,Urban,90+,KERALA,Pathanamthitta,Female,In Hearing,9
+32,12,Urban,Age Not Stated,KERALA,Pathanamthitta,Female,In Hearing,0
+32,13,Rural,0-4,KERALA,Kollam,Female,In Hearing,71
+32,13,Rural,5-9,KERALA,Kollam,Female,In Hearing,100
+32,13,Rural,10-19,KERALA,Kollam,Female,In Hearing,233
+32,13,Rural,20-29,KERALA,Kollam,Female,In Hearing,269
+32,13,Rural,30-39,KERALA,Kollam,Female,In Hearing,337
+32,13,Rural,40-49,KERALA,Kollam,Female,In Hearing,374
+32,13,Rural,50-59,KERALA,Kollam,Female,In Hearing,298
+32,13,Rural,60-69,KERALA,Kollam,Female,In Hearing,356
+32,13,Rural,70-79,KERALA,Kollam,Female,In Hearing,335
+32,13,Rural,80-89,KERALA,Kollam,Female,In Hearing,256
+32,13,Rural,90+,KERALA,Kollam,Female,In Hearing,66
+32,13,Rural,Age Not Stated,KERALA,Kollam,Female,In Hearing,0
+32,13,Urban,0-4,KERALA,Kollam,Female,In Hearing,69
+32,13,Urban,5-9,KERALA,Kollam,Female,In Hearing,74
+32,13,Urban,10-19,KERALA,Kollam,Female,In Hearing,160
+32,13,Urban,20-29,KERALA,Kollam,Female,In Hearing,209
+32,13,Urban,30-39,KERALA,Kollam,Female,In Hearing,234
+32,13,Urban,40-49,KERALA,Kollam,Female,In Hearing,281
+32,13,Urban,50-59,KERALA,Kollam,Female,In Hearing,249
+32,13,Urban,60-69,KERALA,Kollam,Female,In Hearing,225
+32,13,Urban,70-79,KERALA,Kollam,Female,In Hearing,181
+32,13,Urban,80-89,KERALA,Kollam,Female,In Hearing,141
+32,13,Urban,90+,KERALA,Kollam,Female,In Hearing,39
+32,13,Urban,Age Not Stated,KERALA,Kollam,Female,In Hearing,3
+32,14,Rural,0-4,KERALA,Thiruvananthapuram,Female,In Hearing,96
+32,14,Rural,5-9,KERALA,Thiruvananthapuram,Female,In Hearing,104
+32,14,Rural,10-19,KERALA,Thiruvananthapuram,Female,In Hearing,263
+32,14,Rural,20-29,KERALA,Thiruvananthapuram,Female,In Hearing,349
+32,14,Rural,30-39,KERALA,Thiruvananthapuram,Female,In Hearing,323
+32,14,Rural,40-49,KERALA,Thiruvananthapuram,Female,In Hearing,346
+32,14,Rural,50-59,KERALA,Thiruvananthapuram,Female,In Hearing,328
+32,14,Rural,60-69,KERALA,Thiruvananthapuram,Female,In Hearing,344
+32,14,Rural,70-79,KERALA,Thiruvananthapuram,Female,In Hearing,305
+32,14,Rural,80-89,KERALA,Thiruvananthapuram,Female,In Hearing,210
+32,14,Rural,90+,KERALA,Thiruvananthapuram,Female,In Hearing,46
+32,14,Rural,Age Not Stated,KERALA,Thiruvananthapuram,Female,In Hearing,7
+32,14,Urban,0-4,KERALA,Thiruvananthapuram,Female,In Hearing,104
+32,14,Urban,5-9,KERALA,Thiruvananthapuram,Female,In Hearing,147
+32,14,Urban,10-19,KERALA,Thiruvananthapuram,Female,In Hearing,299
+32,14,Urban,20-29,KERALA,Thiruvananthapuram,Female,In Hearing,353
+32,14,Urban,30-39,KERALA,Thiruvananthapuram,Female,In Hearing,425
+32,14,Urban,40-49,KERALA,Thiruvananthapuram,Female,In Hearing,434
+32,14,Urban,50-59,KERALA,Thiruvananthapuram,Female,In Hearing,436
+32,14,Urban,60-69,KERALA,Thiruvananthapuram,Female,In Hearing,346
+32,14,Urban,70-79,KERALA,Thiruvananthapuram,Female,In Hearing,328
+32,14,Urban,80-89,KERALA,Thiruvananthapuram,Female,In Hearing,221
+32,14,Urban,90+,KERALA,Thiruvananthapuram,Female,In Hearing,39
+32,14,Urban,Age Not Stated,KERALA,Thiruvananthapuram,Female,In Hearing,11
+32,1,Rural,0-4,KERALA,Kasaragod,Male,In Movement,59
+32,1,Rural,5-9,KERALA,Kasaragod,Male,In Movement,88
+32,1,Rural,10-19,KERALA,Kasaragod,Male,In Movement,189
+32,1,Rural,20-29,KERALA,Kasaragod,Male,In Movement,285
+32,1,Rural,30-39,KERALA,Kasaragod,Male,In Movement,383
+32,1,Rural,40-49,KERALA,Kasaragod,Male,In Movement,462
+32,1,Rural,50-59,KERALA,Kasaragod,Male,In Movement,458
+32,1,Rural,60-69,KERALA,Kasaragod,Male,In Movement,393
+32,1,Rural,70-79,KERALA,Kasaragod,Male,In Movement,179
+32,1,Rural,80-89,KERALA,Kasaragod,Male,In Movement,54
+32,1,Rural,90+,KERALA,Kasaragod,Male,In Movement,10
+32,1,Rural,Age Not Stated,KERALA,Kasaragod,Male,In Movement,4
+32,1,Urban,0-4,KERALA,Kasaragod,Male,In Movement,30
+32,1,Urban,5-9,KERALA,Kasaragod,Male,In Movement,49
+32,1,Urban,10-19,KERALA,Kasaragod,Male,In Movement,79
+32,1,Urban,20-29,KERALA,Kasaragod,Male,In Movement,157
+32,1,Urban,30-39,KERALA,Kasaragod,Male,In Movement,234
+32,1,Urban,40-49,KERALA,Kasaragod,Male,In Movement,254
+32,1,Urban,50-59,KERALA,Kasaragod,Male,In Movement,229
+32,1,Urban,60-69,KERALA,Kasaragod,Male,In Movement,217
+32,1,Urban,70-79,KERALA,Kasaragod,Male,In Movement,106
+32,1,Urban,80-89,KERALA,Kasaragod,Male,In Movement,40
+32,1,Urban,90+,KERALA,Kasaragod,Male,In Movement,8
+32,1,Urban,Age Not Stated,KERALA,Kasaragod,Male,In Movement,3
+32,2,Rural,0-4,KERALA,Kannur,Male,In Movement,47
+32,2,Rural,5-9,KERALA,Kannur,Male,In Movement,54
+32,2,Rural,10-19,KERALA,Kannur,Male,In Movement,151
+32,2,Rural,20-29,KERALA,Kannur,Male,In Movement,254
+32,2,Rural,30-39,KERALA,Kannur,Male,In Movement,381
+32,2,Rural,40-49,KERALA,Kannur,Male,In Movement,478
+32,2,Rural,50-59,KERALA,Kannur,Male,In Movement,485
+32,2,Rural,60-69,KERALA,Kannur,Male,In Movement,404
+32,2,Rural,70-79,KERALA,Kannur,Male,In Movement,191
+32,2,Rural,80-89,KERALA,Kannur,Male,In Movement,98
+32,2,Rural,90+,KERALA,Kannur,Male,In Movement,19
+32,2,Rural,Age Not Stated,KERALA,Kannur,Male,In Movement,3
+32,2,Urban,0-4,KERALA,Kannur,Male,In Movement,68
+32,2,Urban,5-9,KERALA,Kannur,Male,In Movement,102
+32,2,Urban,10-19,KERALA,Kannur,Male,In Movement,269
+32,2,Urban,20-29,KERALA,Kannur,Male,In Movement,343
+32,2,Urban,30-39,KERALA,Kannur,Male,In Movement,559
+32,2,Urban,40-49,KERALA,Kannur,Male,In Movement,629
+32,2,Urban,50-59,KERALA,Kannur,Male,In Movement,731
+32,2,Urban,60-69,KERALA,Kannur,Male,In Movement,619
+32,2,Urban,70-79,KERALA,Kannur,Male,In Movement,370
+32,2,Urban,80-89,KERALA,Kannur,Male,In Movement,121
+32,2,Urban,90+,KERALA,Kannur,Male,In Movement,11
+32,2,Urban,Age Not Stated,KERALA,Kannur,Male,In Movement,4
+32,3,Rural,0-4,KERALA,Wayanad,Male,In Movement,52
+32,3,Rural,5-9,KERALA,Wayanad,Male,In Movement,58
+32,3,Rural,10-19,KERALA,Wayanad,Male,In Movement,147
+32,3,Rural,20-29,KERALA,Wayanad,Male,In Movement,245
+32,3,Rural,30-39,KERALA,Wayanad,Male,In Movement,368
+32,3,Rural,40-49,KERALA,Wayanad,Male,In Movement,459
+32,3,Rural,50-59,KERALA,Wayanad,Male,In Movement,463
+32,3,Rural,60-69,KERALA,Wayanad,Male,In Movement,383
+32,3,Rural,70-79,KERALA,Wayanad,Male,In Movement,177
+32,3,Rural,80-89,KERALA,Wayanad,Male,In Movement,69
+32,3,Rural,90+,KERALA,Wayanad,Male,In Movement,15
+32,3,Rural,Age Not Stated,KERALA,Wayanad,Male,In Movement,0
+32,3,Urban,0-4,KERALA,Wayanad,Male,In Movement,1
+32,3,Urban,5-9,KERALA,Wayanad,Male,In Movement,4
+32,3,Urban,10-19,KERALA,Wayanad,Male,In Movement,5
+32,3,Urban,20-29,KERALA,Wayanad,Male,In Movement,8
+32,3,Urban,30-39,KERALA,Wayanad,Male,In Movement,19
+32,3,Urban,40-49,KERALA,Wayanad,Male,In Movement,17
+32,3,Urban,50-59,KERALA,Wayanad,Male,In Movement,25
+32,3,Urban,60-69,KERALA,Wayanad,Male,In Movement,22
+32,3,Urban,70-79,KERALA,Wayanad,Male,In Movement,9
+32,3,Urban,80-89,KERALA,Wayanad,Male,In Movement,6
+32,3,Urban,90+,KERALA,Wayanad,Male,In Movement,0
+32,3,Urban,Age Not Stated,KERALA,Wayanad,Male,In Movement,1
+32,4,Rural,0-4,KERALA,Kozhikode,Male,In Movement,36
+32,4,Rural,5-9,KERALA,Kozhikode,Male,In Movement,84
+32,4,Rural,10-19,KERALA,Kozhikode,Male,In Movement,167
+32,4,Rural,20-29,KERALA,Kozhikode,Male,In Movement,317
+32,4,Rural,30-39,KERALA,Kozhikode,Male,In Movement,541
+32,4,Rural,40-49,KERALA,Kozhikode,Male,In Movement,679
+32,4,Rural,50-59,KERALA,Kozhikode,Male,In Movement,698
+32,4,Rural,60-69,KERALA,Kozhikode,Male,In Movement,616
+32,4,Rural,70-79,KERALA,Kozhikode,Male,In Movement,391
+32,4,Rural,80-89,KERALA,Kozhikode,Male,In Movement,150
+32,4,Rural,90+,KERALA,Kozhikode,Male,In Movement,33
+32,4,Rural,Age Not Stated,KERALA,Kozhikode,Male,In Movement,2
+32,4,Urban,0-4,KERALA,Kozhikode,Male,In Movement,90
+32,4,Urban,5-9,KERALA,Kozhikode,Male,In Movement,115
+32,4,Urban,10-19,KERALA,Kozhikode,Male,In Movement,311
+32,4,Urban,20-29,KERALA,Kozhikode,Male,In Movement,494
+32,4,Urban,30-39,KERALA,Kozhikode,Male,In Movement,899
+32,4,Urban,40-49,KERALA,Kozhikode,Male,In Movement,1241
+32,4,Urban,50-59,KERALA,Kozhikode,Male,In Movement,1281
+32,4,Urban,60-69,KERALA,Kozhikode,Male,In Movement,1281
+32,4,Urban,70-79,KERALA,Kozhikode,Male,In Movement,665
+32,4,Urban,80-89,KERALA,Kozhikode,Male,In Movement,256
+32,4,Urban,90+,KERALA,Kozhikode,Male,In Movement,38
+32,4,Urban,Age Not Stated,KERALA,Kozhikode,Male,In Movement,6
+32,5,Rural,0-4,KERALA,Malappuram,Male,In Movement,147
+32,5,Rural,5-9,KERALA,Malappuram,Male,In Movement,182
+32,5,Rural,10-19,KERALA,Malappuram,Male,In Movement,435
+32,5,Rural,20-29,KERALA,Malappuram,Male,In Movement,765
+32,5,Rural,30-39,KERALA,Malappuram,Male,In Movement,906
+32,5,Rural,40-49,KERALA,Malappuram,Male,In Movement,977
+32,5,Rural,50-59,KERALA,Malappuram,Male,In Movement,875
+32,5,Rural,60-69,KERALA,Malappuram,Male,In Movement,815
+32,5,Rural,70-79,KERALA,Malappuram,Male,In Movement,374
+32,5,Rural,80-89,KERALA,Malappuram,Male,In Movement,156
+32,5,Rural,90+,KERALA,Malappuram,Male,In Movement,18
+32,5,Rural,Age Not Stated,KERALA,Malappuram,Male,In Movement,2
+32,5,Urban,0-4,KERALA,Malappuram,Male,In Movement,71
+32,5,Urban,5-9,KERALA,Malappuram,Male,In Movement,112
+32,5,Urban,10-19,KERALA,Malappuram,Male,In Movement,353
+32,5,Urban,20-29,KERALA,Malappuram,Male,In Movement,633
+32,5,Urban,30-39,KERALA,Malappuram,Male,In Movement,700
+32,5,Urban,40-49,KERALA,Malappuram,Male,In Movement,754
+32,5,Urban,50-59,KERALA,Malappuram,Male,In Movement,693
+32,5,Urban,60-69,KERALA,Malappuram,Male,In Movement,610
+32,5,Urban,70-79,KERALA,Malappuram,Male,In Movement,349
+32,5,Urban,80-89,KERALA,Malappuram,Male,In Movement,99
+32,5,Urban,90+,KERALA,Malappuram,Male,In Movement,16
+32,5,Urban,Age Not Stated,KERALA,Malappuram,Male,In Movement,0
+32,6,Rural,0-4,KERALA,Palakkad,Male,In Movement,77
+32,6,Rural,5-9,KERALA,Palakkad,Male,In Movement,130
+32,6,Rural,10-19,KERALA,Palakkad,Male,In Movement,364
+32,6,Rural,20-29,KERALA,Palakkad,Male,In Movement,718
+32,6,Rural,30-39,KERALA,Palakkad,Male,In Movement,918
+32,6,Rural,40-49,KERALA,Palakkad,Male,In Movement,940
+32,6,Rural,50-59,KERALA,Palakkad,Male,In Movement,994
+32,6,Rural,60-69,KERALA,Palakkad,Male,In Movement,898
+32,6,Rural,70-79,KERALA,Palakkad,Male,In Movement,550
+32,6,Rural,80-89,KERALA,Palakkad,Male,In Movement,190
+32,6,Rural,90+,KERALA,Palakkad,Male,In Movement,27
+32,6,Rural,Age Not Stated,KERALA,Palakkad,Male,In Movement,6
+32,6,Urban,0-4,KERALA,Palakkad,Male,In Movement,20
+32,6,Urban,5-9,KERALA,Palakkad,Male,In Movement,22
+32,6,Urban,10-19,KERALA,Palakkad,Male,In Movement,93
+32,6,Urban,20-29,KERALA,Palakkad,Male,In Movement,188
+32,6,Urban,30-39,KERALA,Palakkad,Male,In Movement,245
+32,6,Urban,40-49,KERALA,Palakkad,Male,In Movement,327
+32,6,Urban,50-59,KERALA,Palakkad,Male,In Movement,321
+32,6,Urban,60-69,KERALA,Palakkad,Male,In Movement,267
+32,6,Urban,70-79,KERALA,Palakkad,Male,In Movement,156
+32,6,Urban,80-89,KERALA,Palakkad,Male,In Movement,62
+32,6,Urban,90+,KERALA,Palakkad,Male,In Movement,5
+32,6,Urban,Age Not Stated,KERALA,Palakkad,Male,In Movement,0
+32,7,Rural,0-4,KERALA,Thrissur,Male,In Movement,37
+32,7,Rural,5-9,KERALA,Thrissur,Male,In Movement,59
+32,7,Rural,10-19,KERALA,Thrissur,Male,In Movement,155
+32,7,Rural,20-29,KERALA,Thrissur,Male,In Movement,236
+32,7,Rural,30-39,KERALA,Thrissur,Male,In Movement,429
+32,7,Rural,40-49,KERALA,Thrissur,Male,In Movement,549
+32,7,Rural,50-59,KERALA,Thrissur,Male,In Movement,642
+32,7,Rural,60-69,KERALA,Thrissur,Male,In Movement,564
+32,7,Rural,70-79,KERALA,Thrissur,Male,In Movement,333
+32,7,Rural,80-89,KERALA,Thrissur,Male,In Movement,127
+32,7,Rural,90+,KERALA,Thrissur,Male,In Movement,9
+32,7,Rural,Age Not Stated,KERALA,Thrissur,Male,In Movement,0
+32,7,Urban,0-4,KERALA,Thrissur,Male,In Movement,73
+32,7,Urban,5-9,KERALA,Thrissur,Male,In Movement,88
+32,7,Urban,10-19,KERALA,Thrissur,Male,In Movement,269
+32,7,Urban,20-29,KERALA,Thrissur,Male,In Movement,450
+32,7,Urban,30-39,KERALA,Thrissur,Male,In Movement,788
+32,7,Urban,40-49,KERALA,Thrissur,Male,In Movement,1100
+32,7,Urban,50-59,KERALA,Thrissur,Male,In Movement,1171
+32,7,Urban,60-69,KERALA,Thrissur,Male,In Movement,982
+32,7,Urban,70-79,KERALA,Thrissur,Male,In Movement,591
+32,7,Urban,80-89,KERALA,Thrissur,Male,In Movement,209
+32,7,Urban,90+,KERALA,Thrissur,Male,In Movement,25
+32,7,Urban,Age Not Stated,KERALA,Thrissur,Male,In Movement,9
+32,8,Rural,0-4,KERALA,Ernakulam,Male,In Movement,34
+32,8,Rural,5-9,KERALA,Ernakulam,Male,In Movement,58
+32,8,Rural,10-19,KERALA,Ernakulam,Male,In Movement,158
+32,8,Rural,20-29,KERALA,Ernakulam,Male,In Movement,191
+32,8,Rural,30-39,KERALA,Ernakulam,Male,In Movement,399
+32,8,Rural,40-49,KERALA,Ernakulam,Male,In Movement,599
+32,8,Rural,50-59,KERALA,Ernakulam,Male,In Movement,659
+32,8,Rural,60-69,KERALA,Ernakulam,Male,In Movement,504
+32,8,Rural,70-79,KERALA,Ernakulam,Male,In Movement,310
+32,8,Rural,80-89,KERALA,Ernakulam,Male,In Movement,157
+32,8,Rural,90+,KERALA,Ernakulam,Male,In Movement,36
+32,8,Rural,Age Not Stated,KERALA,Ernakulam,Male,In Movement,2
+32,8,Urban,0-4,KERALA,Ernakulam,Male,In Movement,72
+32,8,Urban,5-9,KERALA,Ernakulam,Male,In Movement,90
+32,8,Urban,10-19,KERALA,Ernakulam,Male,In Movement,273
+32,8,Urban,20-29,KERALA,Ernakulam,Male,In Movement,416
+32,8,Urban,30-39,KERALA,Ernakulam,Male,In Movement,811
+32,8,Urban,40-49,KERALA,Ernakulam,Male,In Movement,1148
+32,8,Urban,50-59,KERALA,Ernakulam,Male,In Movement,1131
+32,8,Urban,60-69,KERALA,Ernakulam,Male,In Movement,953
+32,8,Urban,70-79,KERALA,Ernakulam,Male,In Movement,541
+32,8,Urban,80-89,KERALA,Ernakulam,Male,In Movement,217
+32,8,Urban,90+,KERALA,Ernakulam,Male,In Movement,39
+32,8,Urban,Age Not Stated,KERALA,Ernakulam,Male,In Movement,7
+32,9,Rural,0-4,KERALA,Idukki ,Male,In Movement,44
+32,9,Rural,5-9,KERALA,Idukki ,Male,In Movement,71
+32,9,Rural,10-19,KERALA,Idukki ,Male,In Movement,180
+32,9,Rural,20-29,KERALA,Idukki ,Male,In Movement,292
+32,9,Rural,30-39,KERALA,Idukki ,Male,In Movement,569
+32,9,Rural,40-49,KERALA,Idukki ,Male,In Movement,638
+32,9,Rural,50-59,KERALA,Idukki ,Male,In Movement,664
+32,9,Rural,60-69,KERALA,Idukki ,Male,In Movement,484
+32,9,Rural,70-79,KERALA,Idukki ,Male,In Movement,264
+32,9,Rural,80-89,KERALA,Idukki ,Male,In Movement,119
+32,9,Rural,90+,KERALA,Idukki ,Male,In Movement,16
+32,9,Rural,Age Not Stated,KERALA,Idukki ,Male,In Movement,1
+32,9,Urban,0-4,KERALA,Idukki ,Male,In Movement,0
+32,9,Urban,5-9,KERALA,Idukki ,Male,In Movement,4
+32,9,Urban,10-19,KERALA,Idukki ,Male,In Movement,10
+32,9,Urban,20-29,KERALA,Idukki ,Male,In Movement,4
+32,9,Urban,30-39,KERALA,Idukki ,Male,In Movement,14
+32,9,Urban,40-49,KERALA,Idukki ,Male,In Movement,35
+32,9,Urban,50-59,KERALA,Idukki ,Male,In Movement,19
+32,9,Urban,60-69,KERALA,Idukki ,Male,In Movement,24
+32,9,Urban,70-79,KERALA,Idukki ,Male,In Movement,10
+32,9,Urban,80-89,KERALA,Idukki ,Male,In Movement,3
+32,9,Urban,90+,KERALA,Idukki ,Male,In Movement,2
+32,9,Urban,Age Not Stated,KERALA,Idukki ,Male,In Movement,0
+32,10,Rural,0-4,KERALA,Kottayam,Male,In Movement,43
+32,10,Rural,5-9,KERALA,Kottayam,Male,In Movement,83
+32,10,Rural,10-19,KERALA,Kottayam,Male,In Movement,219
+32,10,Rural,20-29,KERALA,Kottayam,Male,In Movement,286
+32,10,Rural,30-39,KERALA,Kottayam,Male,In Movement,607
+32,10,Rural,40-49,KERALA,Kottayam,Male,In Movement,906
+32,10,Rural,50-59,KERALA,Kottayam,Male,In Movement,920
+32,10,Rural,60-69,KERALA,Kottayam,Male,In Movement,790
+32,10,Rural,70-79,KERALA,Kottayam,Male,In Movement,531
+32,10,Rural,80-89,KERALA,Kottayam,Male,In Movement,275
+32,10,Rural,90+,KERALA,Kottayam,Male,In Movement,43
+32,10,Rural,Age Not Stated,KERALA,Kottayam,Male,In Movement,4
+32,10,Urban,0-4,KERALA,Kottayam,Male,In Movement,13
+32,10,Urban,5-9,KERALA,Kottayam,Male,In Movement,29
+32,10,Urban,10-19,KERALA,Kottayam,Male,In Movement,67
+32,10,Urban,20-29,KERALA,Kottayam,Male,In Movement,114
+32,10,Urban,30-39,KERALA,Kottayam,Male,In Movement,232
+32,10,Urban,40-49,KERALA,Kottayam,Male,In Movement,337
+32,10,Urban,50-59,KERALA,Kottayam,Male,In Movement,344
+32,10,Urban,60-69,KERALA,Kottayam,Male,In Movement,329
+32,10,Urban,70-79,KERALA,Kottayam,Male,In Movement,206
+32,10,Urban,80-89,KERALA,Kottayam,Male,In Movement,88
+32,10,Urban,90+,KERALA,Kottayam,Male,In Movement,23
+32,10,Urban,Age Not Stated,KERALA,Kottayam,Male,In Movement,1
+32,11,Rural,0-4,KERALA,Alappuzha,Male,In Movement,42
+32,11,Rural,5-9,KERALA,Alappuzha,Male,In Movement,57
+32,11,Rural,10-19,KERALA,Alappuzha,Male,In Movement,168
+32,11,Rural,20-29,KERALA,Alappuzha,Male,In Movement,258
+32,11,Rural,30-39,KERALA,Alappuzha,Male,In Movement,620
+32,11,Rural,40-49,KERALA,Alappuzha,Male,In Movement,714
+32,11,Rural,50-59,KERALA,Alappuzha,Male,In Movement,716
+32,11,Rural,60-69,KERALA,Alappuzha,Male,In Movement,701
+32,11,Rural,70-79,KERALA,Alappuzha,Male,In Movement,380
+32,11,Rural,80-89,KERALA,Alappuzha,Male,In Movement,159
+32,11,Rural,90+,KERALA,Alappuzha,Male,In Movement,41
+32,11,Rural,Age Not Stated,KERALA,Alappuzha,Male,In Movement,5
+32,11,Urban,0-4,KERALA,Alappuzha,Male,In Movement,34
+32,11,Urban,5-9,KERALA,Alappuzha,Male,In Movement,62
+32,11,Urban,10-19,KERALA,Alappuzha,Male,In Movement,176
+32,11,Urban,20-29,KERALA,Alappuzha,Male,In Movement,257
+32,11,Urban,30-39,KERALA,Alappuzha,Male,In Movement,541
+32,11,Urban,40-49,KERALA,Alappuzha,Male,In Movement,765
+32,11,Urban,50-59,KERALA,Alappuzha,Male,In Movement,869
+32,11,Urban,60-69,KERALA,Alappuzha,Male,In Movement,720
+32,11,Urban,70-79,KERALA,Alappuzha,Male,In Movement,468
+32,11,Urban,80-89,KERALA,Alappuzha,Male,In Movement,175
+32,11,Urban,90+,KERALA,Alappuzha,Male,In Movement,21
+32,11,Urban,Age Not Stated,KERALA,Alappuzha,Male,In Movement,5
+32,12,Rural,0-4,KERALA,Pathanamthitta,Male,In Movement,43
+32,12,Rural,5-9,KERALA,Pathanamthitta,Male,In Movement,49
+32,12,Rural,10-19,KERALA,Pathanamthitta,Male,In Movement,162
+32,12,Rural,20-29,KERALA,Pathanamthitta,Male,In Movement,240
+32,12,Rural,30-39,KERALA,Pathanamthitta,Male,In Movement,514
+32,12,Rural,40-49,KERALA,Pathanamthitta,Male,In Movement,717
+32,12,Rural,50-59,KERALA,Pathanamthitta,Male,In Movement,814
+32,12,Rural,60-69,KERALA,Pathanamthitta,Male,In Movement,695
+32,12,Rural,70-79,KERALA,Pathanamthitta,Male,In Movement,437
+32,12,Rural,80-89,KERALA,Pathanamthitta,Male,In Movement,179
+32,12,Rural,90+,KERALA,Pathanamthitta,Male,In Movement,33
+32,12,Rural,Age Not Stated,KERALA,Pathanamthitta,Male,In Movement,4
+32,12,Urban,0-4,KERALA,Pathanamthitta,Male,In Movement,3
+32,12,Urban,5-9,KERALA,Pathanamthitta,Male,In Movement,5
+32,12,Urban,10-19,KERALA,Pathanamthitta,Male,In Movement,15
+32,12,Urban,20-29,KERALA,Pathanamthitta,Male,In Movement,34
+32,12,Urban,30-39,KERALA,Pathanamthitta,Male,In Movement,43
+32,12,Urban,40-49,KERALA,Pathanamthitta,Male,In Movement,78
+32,12,Urban,50-59,KERALA,Pathanamthitta,Male,In Movement,80
+32,12,Urban,60-69,KERALA,Pathanamthitta,Male,In Movement,64
+32,12,Urban,70-79,KERALA,Pathanamthitta,Male,In Movement,40
+32,12,Urban,80-89,KERALA,Pathanamthitta,Male,In Movement,18
+32,12,Urban,90+,KERALA,Pathanamthitta,Male,In Movement,3
+32,12,Urban,Age Not Stated,KERALA,Pathanamthitta,Male,In Movement,0
+32,13,Rural,0-4,KERALA,Kollam,Male,In Movement,58
+32,13,Rural,5-9,KERALA,Kollam,Male,In Movement,84
+32,13,Rural,10-19,KERALA,Kollam,Male,In Movement,240
+32,13,Rural,20-29,KERALA,Kollam,Male,In Movement,488
+32,13,Rural,30-39,KERALA,Kollam,Male,In Movement,813
+32,13,Rural,40-49,KERALA,Kollam,Male,In Movement,982
+32,13,Rural,50-59,KERALA,Kollam,Male,In Movement,1069
+32,13,Rural,60-69,KERALA,Kollam,Male,In Movement,844
+32,13,Rural,70-79,KERALA,Kollam,Male,In Movement,497
+32,13,Rural,80-89,KERALA,Kollam,Male,In Movement,173
+32,13,Rural,90+,KERALA,Kollam,Male,In Movement,24
+32,13,Rural,Age Not Stated,KERALA,Kollam,Male,In Movement,6
+32,13,Urban,0-4,KERALA,Kollam,Male,In Movement,44
+32,13,Urban,5-9,KERALA,Kollam,Male,In Movement,65
+32,13,Urban,10-19,KERALA,Kollam,Male,In Movement,183
+32,13,Urban,20-29,KERALA,Kollam,Male,In Movement,338
+32,13,Urban,30-39,KERALA,Kollam,Male,In Movement,623
+32,13,Urban,40-49,KERALA,Kollam,Male,In Movement,669
+32,13,Urban,50-59,KERALA,Kollam,Male,In Movement,775
+32,13,Urban,60-69,KERALA,Kollam,Male,In Movement,611
+32,13,Urban,70-79,KERALA,Kollam,Male,In Movement,309
+32,13,Urban,80-89,KERALA,Kollam,Male,In Movement,111
+32,13,Urban,90+,KERALA,Kollam,Male,In Movement,14
+32,13,Urban,Age Not Stated,KERALA,Kollam,Male,In Movement,2
+32,14,Rural,0-4,KERALA,Thiruvananthapuram,Male,In Movement,64
+32,14,Rural,5-9,KERALA,Thiruvananthapuram,Male,In Movement,96
+32,14,Rural,10-19,KERALA,Thiruvananthapuram,Male,In Movement,299
+32,14,Rural,20-29,KERALA,Thiruvananthapuram,Male,In Movement,589
+32,14,Rural,30-39,KERALA,Thiruvananthapuram,Male,In Movement,786
+32,14,Rural,40-49,KERALA,Thiruvananthapuram,Male,In Movement,1035
+32,14,Rural,50-59,KERALA,Thiruvananthapuram,Male,In Movement,1054
+32,14,Rural,60-69,KERALA,Thiruvananthapuram,Male,In Movement,911
+32,14,Rural,70-79,KERALA,Thiruvananthapuram,Male,In Movement,419
+32,14,Rural,80-89,KERALA,Thiruvananthapuram,Male,In Movement,162
+32,14,Rural,90+,KERALA,Thiruvananthapuram,Male,In Movement,24
+32,14,Rural,Age Not Stated,KERALA,Thiruvananthapuram,Male,In Movement,7
+32,14,Urban,0-4,KERALA,Thiruvananthapuram,Male,In Movement,62
+32,14,Urban,5-9,KERALA,Thiruvananthapuram,Male,In Movement,69
+32,14,Urban,10-19,KERALA,Thiruvananthapuram,Male,In Movement,293
+32,14,Urban,20-29,KERALA,Thiruvananthapuram,Male,In Movement,568
+32,14,Urban,30-39,KERALA,Thiruvananthapuram,Male,In Movement,905
+32,14,Urban,40-49,KERALA,Thiruvananthapuram,Male,In Movement,1054
+32,14,Urban,50-59,KERALA,Thiruvananthapuram,Male,In Movement,1156
+32,14,Urban,60-69,KERALA,Thiruvananthapuram,Male,In Movement,939
+32,14,Urban,70-79,KERALA,Thiruvananthapuram,Male,In Movement,437
+32,14,Urban,80-89,KERALA,Thiruvananthapuram,Male,In Movement,167
+32,14,Urban,90+,KERALA,Thiruvananthapuram,Male,In Movement,25
+32,14,Urban,Age Not Stated,KERALA,Thiruvananthapuram,Male,In Movement,5
+32,1,Rural,0-4,KERALA,Kasaragod,Female,In Movement,37
+32,1,Rural,5-9,KERALA,Kasaragod,Female,In Movement,50
+32,1,Rural,10-19,KERALA,Kasaragod,Female,In Movement,133
+32,1,Rural,20-29,KERALA,Kasaragod,Female,In Movement,174
+32,1,Rural,30-39,KERALA,Kasaragod,Female,In Movement,228
+32,1,Rural,40-49,KERALA,Kasaragod,Female,In Movement,230
+32,1,Rural,50-59,KERALA,Kasaragod,Female,In Movement,220
+32,1,Rural,60-69,KERALA,Kasaragod,Female,In Movement,212
+32,1,Rural,70-79,KERALA,Kasaragod,Female,In Movement,122
+32,1,Rural,80-89,KERALA,Kasaragod,Female,In Movement,86
+32,1,Rural,90+,KERALA,Kasaragod,Female,In Movement,16
+32,1,Rural,Age Not Stated,KERALA,Kasaragod,Female,In Movement,0
+32,1,Urban,0-4,KERALA,Kasaragod,Female,In Movement,13
+32,1,Urban,5-9,KERALA,Kasaragod,Female,In Movement,30
+32,1,Urban,10-19,KERALA,Kasaragod,Female,In Movement,63
+32,1,Urban,20-29,KERALA,Kasaragod,Female,In Movement,103
+32,1,Urban,30-39,KERALA,Kasaragod,Female,In Movement,153
+32,1,Urban,40-49,KERALA,Kasaragod,Female,In Movement,138
+32,1,Urban,50-59,KERALA,Kasaragod,Female,In Movement,126
+32,1,Urban,60-69,KERALA,Kasaragod,Female,In Movement,139
+32,1,Urban,70-79,KERALA,Kasaragod,Female,In Movement,100
+32,1,Urban,80-89,KERALA,Kasaragod,Female,In Movement,50
+32,1,Urban,90+,KERALA,Kasaragod,Female,In Movement,9
+32,1,Urban,Age Not Stated,KERALA,Kasaragod,Female,In Movement,0
+32,2,Rural,0-4,KERALA,Kannur,Female,In Movement,24
+32,2,Rural,5-9,KERALA,Kannur,Female,In Movement,37
+32,2,Rural,10-19,KERALA,Kannur,Female,In Movement,118
+32,2,Rural,20-29,KERALA,Kannur,Female,In Movement,167
+32,2,Rural,30-39,KERALA,Kannur,Female,In Movement,263
+32,2,Rural,40-49,KERALA,Kannur,Female,In Movement,258
+32,2,Rural,50-59,KERALA,Kannur,Female,In Movement,259
+32,2,Rural,60-69,KERALA,Kannur,Female,In Movement,227
+32,2,Rural,70-79,KERALA,Kannur,Female,In Movement,200
+32,2,Rural,80-89,KERALA,Kannur,Female,In Movement,106
+32,2,Rural,90+,KERALA,Kannur,Female,In Movement,30
+32,2,Rural,Age Not Stated,KERALA,Kannur,Female,In Movement,3
+32,2,Urban,0-4,KERALA,Kannur,Female,In Movement,47
+32,2,Urban,5-9,KERALA,Kannur,Female,In Movement,85
+32,2,Urban,10-19,KERALA,Kannur,Female,In Movement,177
+32,2,Urban,20-29,KERALA,Kannur,Female,In Movement,220
+32,2,Urban,30-39,KERALA,Kannur,Female,In Movement,412
+32,2,Urban,40-49,KERALA,Kannur,Female,In Movement,479
+32,2,Urban,50-59,KERALA,Kannur,Female,In Movement,442
+32,2,Urban,60-69,KERALA,Kannur,Female,In Movement,419
+32,2,Urban,70-79,KERALA,Kannur,Female,In Movement,375
+32,2,Urban,80-89,KERALA,Kannur,Female,In Movement,196
+32,2,Urban,90+,KERALA,Kannur,Female,In Movement,34
+32,2,Urban,Age Not Stated,KERALA,Kannur,Female,In Movement,3
+32,3,Rural,0-4,KERALA,Wayanad,Female,In Movement,32
+32,3,Rural,5-9,KERALA,Wayanad,Female,In Movement,51
+32,3,Rural,10-19,KERALA,Wayanad,Female,In Movement,107
+32,3,Rural,20-29,KERALA,Wayanad,Female,In Movement,154
+32,3,Rural,30-39,KERALA,Wayanad,Female,In Movement,258
+32,3,Rural,40-49,KERALA,Wayanad,Female,In Movement,268
+32,3,Rural,50-59,KERALA,Wayanad,Female,In Movement,237
+32,3,Rural,60-69,KERALA,Wayanad,Female,In Movement,220
+32,3,Rural,70-79,KERALA,Wayanad,Female,In Movement,152
+32,3,Rural,80-89,KERALA,Wayanad,Female,In Movement,87
+32,3,Rural,90+,KERALA,Wayanad,Female,In Movement,13
+32,3,Rural,Age Not Stated,KERALA,Wayanad,Female,In Movement,3
+32,3,Urban,0-4,KERALA,Wayanad,Female,In Movement,3
+32,3,Urban,5-9,KERALA,Wayanad,Female,In Movement,4
+32,3,Urban,10-19,KERALA,Wayanad,Female,In Movement,5
+32,3,Urban,20-29,KERALA,Wayanad,Female,In Movement,9
+32,3,Urban,30-39,KERALA,Wayanad,Female,In Movement,13
+32,3,Urban,40-49,KERALA,Wayanad,Female,In Movement,16
+32,3,Urban,50-59,KERALA,Wayanad,Female,In Movement,8
+32,3,Urban,60-69,KERALA,Wayanad,Female,In Movement,12
+32,3,Urban,70-79,KERALA,Wayanad,Female,In Movement,10
+32,3,Urban,80-89,KERALA,Wayanad,Female,In Movement,2
+32,3,Urban,90+,KERALA,Wayanad,Female,In Movement,0
+32,3,Urban,Age Not Stated,KERALA,Wayanad,Female,In Movement,0
+32,4,Rural,0-4,KERALA,Kozhikode,Female,In Movement,33
+32,4,Rural,5-9,KERALA,Kozhikode,Female,In Movement,49
+32,4,Rural,10-19,KERALA,Kozhikode,Female,In Movement,104
+32,4,Rural,20-29,KERALA,Kozhikode,Female,In Movement,179
+32,4,Rural,30-39,KERALA,Kozhikode,Female,In Movement,321
+32,4,Rural,40-49,KERALA,Kozhikode,Female,In Movement,375
+32,4,Rural,50-59,KERALA,Kozhikode,Female,In Movement,437
+32,4,Rural,60-69,KERALA,Kozhikode,Female,In Movement,383
+32,4,Rural,70-79,KERALA,Kozhikode,Female,In Movement,377
+32,4,Rural,80-89,KERALA,Kozhikode,Female,In Movement,161
+32,4,Rural,90+,KERALA,Kozhikode,Female,In Movement,47
+32,4,Rural,Age Not Stated,KERALA,Kozhikode,Female,In Movement,3
+32,4,Urban,0-4,KERALA,Kozhikode,Female,In Movement,57
+32,4,Urban,5-9,KERALA,Kozhikode,Female,In Movement,88
+32,4,Urban,10-19,KERALA,Kozhikode,Female,In Movement,196
+32,4,Urban,20-29,KERALA,Kozhikode,Female,In Movement,328
+32,4,Urban,30-39,KERALA,Kozhikode,Female,In Movement,635
+32,4,Urban,40-49,KERALA,Kozhikode,Female,In Movement,748
+32,4,Urban,50-59,KERALA,Kozhikode,Female,In Movement,758
+32,4,Urban,60-69,KERALA,Kozhikode,Female,In Movement,833
+32,4,Urban,70-79,KERALA,Kozhikode,Female,In Movement,707
+32,4,Urban,80-89,KERALA,Kozhikode,Female,In Movement,345
+32,4,Urban,90+,KERALA,Kozhikode,Female,In Movement,82
+32,4,Urban,Age Not Stated,KERALA,Kozhikode,Female,In Movement,3
+32,5,Rural,0-4,KERALA,Malappuram,Female,In Movement,88
+32,5,Rural,5-9,KERALA,Malappuram,Female,In Movement,102
+32,5,Rural,10-19,KERALA,Malappuram,Female,In Movement,259
+32,5,Rural,20-29,KERALA,Malappuram,Female,In Movement,492
+32,5,Rural,30-39,KERALA,Malappuram,Female,In Movement,543
+32,5,Rural,40-49,KERALA,Malappuram,Female,In Movement,575
+32,5,Rural,50-59,KERALA,Malappuram,Female,In Movement,462
+32,5,Rural,60-69,KERALA,Malappuram,Female,In Movement,522
+32,5,Rural,70-79,KERALA,Malappuram,Female,In Movement,346
+32,5,Rural,80-89,KERALA,Malappuram,Female,In Movement,188
+32,5,Rural,90+,KERALA,Malappuram,Female,In Movement,58
+32,5,Rural,Age Not Stated,KERALA,Malappuram,Female,In Movement,0
+32,5,Urban,0-4,KERALA,Malappuram,Female,In Movement,73
+32,5,Urban,5-9,KERALA,Malappuram,Female,In Movement,82
+32,5,Urban,10-19,KERALA,Malappuram,Female,In Movement,204
+32,5,Urban,20-29,KERALA,Malappuram,Female,In Movement,448
+32,5,Urban,30-39,KERALA,Malappuram,Female,In Movement,405
+32,5,Urban,40-49,KERALA,Malappuram,Female,In Movement,411
+32,5,Urban,50-59,KERALA,Malappuram,Female,In Movement,386
+32,5,Urban,60-69,KERALA,Malappuram,Female,In Movement,407
+32,5,Urban,70-79,KERALA,Malappuram,Female,In Movement,263
+32,5,Urban,80-89,KERALA,Malappuram,Female,In Movement,133
+32,5,Urban,90+,KERALA,Malappuram,Female,In Movement,29
+32,5,Urban,Age Not Stated,KERALA,Malappuram,Female,In Movement,0
+32,6,Rural,0-4,KERALA,Palakkad,Female,In Movement,48
+32,6,Rural,5-9,KERALA,Palakkad,Female,In Movement,79
+32,6,Rural,10-19,KERALA,Palakkad,Female,In Movement,229
+32,6,Rural,20-29,KERALA,Palakkad,Female,In Movement,487
+32,6,Rural,30-39,KERALA,Palakkad,Female,In Movement,596
+32,6,Rural,40-49,KERALA,Palakkad,Female,In Movement,592
+32,6,Rural,50-59,KERALA,Palakkad,Female,In Movement,586
+32,6,Rural,60-69,KERALA,Palakkad,Female,In Movement,647
+32,6,Rural,70-79,KERALA,Palakkad,Female,In Movement,548
+32,6,Rural,80-89,KERALA,Palakkad,Female,In Movement,305
+32,6,Rural,90+,KERALA,Palakkad,Female,In Movement,68
+32,6,Rural,Age Not Stated,KERALA,Palakkad,Female,In Movement,5
+32,6,Urban,0-4,KERALA,Palakkad,Female,In Movement,17
+32,6,Urban,5-9,KERALA,Palakkad,Female,In Movement,22
+32,6,Urban,10-19,KERALA,Palakkad,Female,In Movement,73
+32,6,Urban,20-29,KERALA,Palakkad,Female,In Movement,126
+32,6,Urban,30-39,KERALA,Palakkad,Female,In Movement,178
+32,6,Urban,40-49,KERALA,Palakkad,Female,In Movement,191
+32,6,Urban,50-59,KERALA,Palakkad,Female,In Movement,200
+32,6,Urban,60-69,KERALA,Palakkad,Female,In Movement,199
+32,6,Urban,70-79,KERALA,Palakkad,Female,In Movement,164
+32,6,Urban,80-89,KERALA,Palakkad,Female,In Movement,90
+32,6,Urban,90+,KERALA,Palakkad,Female,In Movement,27
+32,6,Urban,Age Not Stated,KERALA,Palakkad,Female,In Movement,2
+32,7,Rural,0-4,KERALA,Thrissur,Female,In Movement,29
+32,7,Rural,5-9,KERALA,Thrissur,Female,In Movement,35
+32,7,Rural,10-19,KERALA,Thrissur,Female,In Movement,118
+32,7,Rural,20-29,KERALA,Thrissur,Female,In Movement,172
+32,7,Rural,30-39,KERALA,Thrissur,Female,In Movement,290
+32,7,Rural,40-49,KERALA,Thrissur,Female,In Movement,377
+32,7,Rural,50-59,KERALA,Thrissur,Female,In Movement,368
+32,7,Rural,60-69,KERALA,Thrissur,Female,In Movement,376
+32,7,Rural,70-79,KERALA,Thrissur,Female,In Movement,321
+32,7,Rural,80-89,KERALA,Thrissur,Female,In Movement,180
+32,7,Rural,90+,KERALA,Thrissur,Female,In Movement,35
+32,7,Rural,Age Not Stated,KERALA,Thrissur,Female,In Movement,3
+32,7,Urban,0-4,KERALA,Thrissur,Female,In Movement,50
+32,7,Urban,5-9,KERALA,Thrissur,Female,In Movement,68
+32,7,Urban,10-19,KERALA,Thrissur,Female,In Movement,191
+32,7,Urban,20-29,KERALA,Thrissur,Female,In Movement,351
+32,7,Urban,30-39,KERALA,Thrissur,Female,In Movement,568
+32,7,Urban,40-49,KERALA,Thrissur,Female,In Movement,666
+32,7,Urban,50-59,KERALA,Thrissur,Female,In Movement,751
+32,7,Urban,60-69,KERALA,Thrissur,Female,In Movement,771
+32,7,Urban,70-79,KERALA,Thrissur,Female,In Movement,642
+32,7,Urban,80-89,KERALA,Thrissur,Female,In Movement,382
+32,7,Urban,90+,KERALA,Thrissur,Female,In Movement,83
+32,7,Urban,Age Not Stated,KERALA,Thrissur,Female,In Movement,6
+32,8,Rural,0-4,KERALA,Ernakulam,Female,In Movement,24
+32,8,Rural,5-9,KERALA,Ernakulam,Female,In Movement,46
+32,8,Rural,10-19,KERALA,Ernakulam,Female,In Movement,90
+32,8,Rural,20-29,KERALA,Ernakulam,Female,In Movement,121
+32,8,Rural,30-39,KERALA,Ernakulam,Female,In Movement,258
+32,8,Rural,40-49,KERALA,Ernakulam,Female,In Movement,341
+32,8,Rural,50-59,KERALA,Ernakulam,Female,In Movement,374
+32,8,Rural,60-69,KERALA,Ernakulam,Female,In Movement,345
+32,8,Rural,70-79,KERALA,Ernakulam,Female,In Movement,310
+32,8,Rural,80-89,KERALA,Ernakulam,Female,In Movement,237
+32,8,Rural,90+,KERALA,Ernakulam,Female,In Movement,57
+32,8,Rural,Age Not Stated,KERALA,Ernakulam,Female,In Movement,2
+32,8,Urban,0-4,KERALA,Ernakulam,Female,In Movement,43
+32,8,Urban,5-9,KERALA,Ernakulam,Female,In Movement,84
+32,8,Urban,10-19,KERALA,Ernakulam,Female,In Movement,203
+32,8,Urban,20-29,KERALA,Ernakulam,Female,In Movement,297
+32,8,Urban,30-39,KERALA,Ernakulam,Female,In Movement,507
+32,8,Urban,40-49,KERALA,Ernakulam,Female,In Movement,723
+32,8,Urban,50-59,KERALA,Ernakulam,Female,In Movement,715
+32,8,Urban,60-69,KERALA,Ernakulam,Female,In Movement,628
+32,8,Urban,70-79,KERALA,Ernakulam,Female,In Movement,551
+32,8,Urban,80-89,KERALA,Ernakulam,Female,In Movement,358
+32,8,Urban,90+,KERALA,Ernakulam,Female,In Movement,59
+32,8,Urban,Age Not Stated,KERALA,Ernakulam,Female,In Movement,8
+32,9,Rural,0-4,KERALA,Idukki ,Female,In Movement,29
+32,9,Rural,5-9,KERALA,Idukki ,Female,In Movement,44
+32,9,Rural,10-19,KERALA,Idukki ,Female,In Movement,135
+32,9,Rural,20-29,KERALA,Idukki ,Female,In Movement,208
+32,9,Rural,30-39,KERALA,Idukki ,Female,In Movement,346
+32,9,Rural,40-49,KERALA,Idukki ,Female,In Movement,345
+32,9,Rural,50-59,KERALA,Idukki ,Female,In Movement,402
+32,9,Rural,60-69,KERALA,Idukki ,Female,In Movement,285
+32,9,Rural,70-79,KERALA,Idukki ,Female,In Movement,231
+32,9,Rural,80-89,KERALA,Idukki ,Female,In Movement,116
+32,9,Rural,90+,KERALA,Idukki ,Female,In Movement,25
+32,9,Rural,Age Not Stated,KERALA,Idukki ,Female,In Movement,2
+32,9,Urban,0-4,KERALA,Idukki ,Female,In Movement,1
+32,9,Urban,5-9,KERALA,Idukki ,Female,In Movement,2
+32,9,Urban,10-19,KERALA,Idukki ,Female,In Movement,2
+32,9,Urban,20-29,KERALA,Idukki ,Female,In Movement,9
+32,9,Urban,30-39,KERALA,Idukki ,Female,In Movement,13
+32,9,Urban,40-49,KERALA,Idukki ,Female,In Movement,11
+32,9,Urban,50-59,KERALA,Idukki ,Female,In Movement,19
+32,9,Urban,60-69,KERALA,Idukki ,Female,In Movement,13
+32,9,Urban,70-79,KERALA,Idukki ,Female,In Movement,12
+32,9,Urban,80-89,KERALA,Idukki ,Female,In Movement,3
+32,9,Urban,90+,KERALA,Idukki ,Female,In Movement,0
+32,9,Urban,Age Not Stated,KERALA,Idukki ,Female,In Movement,0
+32,10,Rural,0-4,KERALA,Kottayam,Female,In Movement,37
+32,10,Rural,5-9,KERALA,Kottayam,Female,In Movement,40
+32,10,Rural,10-19,KERALA,Kottayam,Female,In Movement,122
+32,10,Rural,20-29,KERALA,Kottayam,Female,In Movement,177
+32,10,Rural,30-39,KERALA,Kottayam,Female,In Movement,400
+32,10,Rural,40-49,KERALA,Kottayam,Female,In Movement,517
+32,10,Rural,50-59,KERALA,Kottayam,Female,In Movement,506
+32,10,Rural,60-69,KERALA,Kottayam,Female,In Movement,580
+32,10,Rural,70-79,KERALA,Kottayam,Female,In Movement,500
+32,10,Rural,80-89,KERALA,Kottayam,Female,In Movement,368
+32,10,Rural,90+,KERALA,Kottayam,Female,In Movement,80
+32,10,Rural,Age Not Stated,KERALA,Kottayam,Female,In Movement,9
+32,10,Urban,0-4,KERALA,Kottayam,Female,In Movement,13
+32,10,Urban,5-9,KERALA,Kottayam,Female,In Movement,11
+32,10,Urban,10-19,KERALA,Kottayam,Female,In Movement,53
+32,10,Urban,20-29,KERALA,Kottayam,Female,In Movement,89
+32,10,Urban,30-39,KERALA,Kottayam,Female,In Movement,158
+32,10,Urban,40-49,KERALA,Kottayam,Female,In Movement,185
+32,10,Urban,50-59,KERALA,Kottayam,Female,In Movement,245
+32,10,Urban,60-69,KERALA,Kottayam,Female,In Movement,245
+32,10,Urban,70-79,KERALA,Kottayam,Female,In Movement,212
+32,10,Urban,80-89,KERALA,Kottayam,Female,In Movement,142
+32,10,Urban,90+,KERALA,Kottayam,Female,In Movement,39
+32,10,Urban,Age Not Stated,KERALA,Kottayam,Female,In Movement,1
+32,11,Rural,0-4,KERALA,Alappuzha,Female,In Movement,29
+32,11,Rural,5-9,KERALA,Alappuzha,Female,In Movement,41
+32,11,Rural,10-19,KERALA,Alappuzha,Female,In Movement,93
+32,11,Rural,20-29,KERALA,Alappuzha,Female,In Movement,157
+32,11,Rural,30-39,KERALA,Alappuzha,Female,In Movement,381
+32,11,Rural,40-49,KERALA,Alappuzha,Female,In Movement,408
+32,11,Rural,50-59,KERALA,Alappuzha,Female,In Movement,422
+32,11,Rural,60-69,KERALA,Alappuzha,Female,In Movement,468
+32,11,Rural,70-79,KERALA,Alappuzha,Female,In Movement,377
+32,11,Rural,80-89,KERALA,Alappuzha,Female,In Movement,242
+32,11,Rural,90+,KERALA,Alappuzha,Female,In Movement,52
+32,11,Rural,Age Not Stated,KERALA,Alappuzha,Female,In Movement,2
+32,11,Urban,0-4,KERALA,Alappuzha,Female,In Movement,27
+32,11,Urban,5-9,KERALA,Alappuzha,Female,In Movement,32
+32,11,Urban,10-19,KERALA,Alappuzha,Female,In Movement,119
+32,11,Urban,20-29,KERALA,Alappuzha,Female,In Movement,206
+32,11,Urban,30-39,KERALA,Alappuzha,Female,In Movement,373
+32,11,Urban,40-49,KERALA,Alappuzha,Female,In Movement,459
+32,11,Urban,50-59,KERALA,Alappuzha,Female,In Movement,505
+32,11,Urban,60-69,KERALA,Alappuzha,Female,In Movement,546
+32,11,Urban,70-79,KERALA,Alappuzha,Female,In Movement,433
+32,11,Urban,80-89,KERALA,Alappuzha,Female,In Movement,251
+32,11,Urban,90+,KERALA,Alappuzha,Female,In Movement,40
+32,11,Urban,Age Not Stated,KERALA,Alappuzha,Female,In Movement,5
+32,12,Rural,0-4,KERALA,Pathanamthitta,Female,In Movement,26
+32,12,Rural,5-9,KERALA,Pathanamthitta,Female,In Movement,31
+32,12,Rural,10-19,KERALA,Pathanamthitta,Female,In Movement,86
+32,12,Rural,20-29,KERALA,Pathanamthitta,Female,In Movement,162
+32,12,Rural,30-39,KERALA,Pathanamthitta,Female,In Movement,285
+32,12,Rural,40-49,KERALA,Pathanamthitta,Female,In Movement,399
+32,12,Rural,50-59,KERALA,Pathanamthitta,Female,In Movement,457
+32,12,Rural,60-69,KERALA,Pathanamthitta,Female,In Movement,421
+32,12,Rural,70-79,KERALA,Pathanamthitta,Female,In Movement,388
+32,12,Rural,80-89,KERALA,Pathanamthitta,Female,In Movement,240
+32,12,Rural,90+,KERALA,Pathanamthitta,Female,In Movement,51
+32,12,Rural,Age Not Stated,KERALA,Pathanamthitta,Female,In Movement,5
+32,12,Urban,0-4,KERALA,Pathanamthitta,Female,In Movement,5
+32,12,Urban,5-9,KERALA,Pathanamthitta,Female,In Movement,2
+32,12,Urban,10-19,KERALA,Pathanamthitta,Female,In Movement,11
+32,12,Urban,20-29,KERALA,Pathanamthitta,Female,In Movement,16
+32,12,Urban,30-39,KERALA,Pathanamthitta,Female,In Movement,36
+32,12,Urban,40-49,KERALA,Pathanamthitta,Female,In Movement,44
+32,12,Urban,50-59,KERALA,Pathanamthitta,Female,In Movement,46
+32,12,Urban,60-69,KERALA,Pathanamthitta,Female,In Movement,54
+32,12,Urban,70-79,KERALA,Pathanamthitta,Female,In Movement,49
+32,12,Urban,80-89,KERALA,Pathanamthitta,Female,In Movement,26
+32,12,Urban,90+,KERALA,Pathanamthitta,Female,In Movement,3
+32,12,Urban,Age Not Stated,KERALA,Pathanamthitta,Female,In Movement,0
+32,13,Rural,0-4,KERALA,Kollam,Female,In Movement,24
+32,13,Rural,5-9,KERALA,Kollam,Female,In Movement,40
+32,13,Rural,10-19,KERALA,Kollam,Female,In Movement,150
+32,13,Rural,20-29,KERALA,Kollam,Female,In Movement,319
+32,13,Rural,30-39,KERALA,Kollam,Female,In Movement,571
+32,13,Rural,40-49,KERALA,Kollam,Female,In Movement,547
+32,13,Rural,50-59,KERALA,Kollam,Female,In Movement,635
+32,13,Rural,60-69,KERALA,Kollam,Female,In Movement,556
+32,13,Rural,70-79,KERALA,Kollam,Female,In Movement,435
+32,13,Rural,80-89,KERALA,Kollam,Female,In Movement,237
+32,13,Rural,90+,KERALA,Kollam,Female,In Movement,70
+32,13,Rural,Age Not Stated,KERALA,Kollam,Female,In Movement,3
+32,13,Urban,0-4,KERALA,Kollam,Female,In Movement,22
+32,13,Urban,5-9,KERALA,Kollam,Female,In Movement,43
+32,13,Urban,10-19,KERALA,Kollam,Female,In Movement,133
+32,13,Urban,20-29,KERALA,Kollam,Female,In Movement,263
+32,13,Urban,30-39,KERALA,Kollam,Female,In Movement,433
+32,13,Urban,40-49,KERALA,Kollam,Female,In Movement,410
+32,13,Urban,50-59,KERALA,Kollam,Female,In Movement,452
+32,13,Urban,60-69,KERALA,Kollam,Female,In Movement,343
+32,13,Urban,70-79,KERALA,Kollam,Female,In Movement,290
+32,13,Urban,80-89,KERALA,Kollam,Female,In Movement,168
+32,13,Urban,90+,KERALA,Kollam,Female,In Movement,32
+32,13,Urban,Age Not Stated,KERALA,Kollam,Female,In Movement,3
+32,14,Rural,0-4,KERALA,Thiruvananthapuram,Female,In Movement,49
+32,14,Rural,5-9,KERALA,Thiruvananthapuram,Female,In Movement,64
+32,14,Rural,10-19,KERALA,Thiruvananthapuram,Female,In Movement,191
+32,14,Rural,20-29,KERALA,Thiruvananthapuram,Female,In Movement,406
+32,14,Rural,30-39,KERALA,Thiruvananthapuram,Female,In Movement,603
+32,14,Rural,40-49,KERALA,Thiruvananthapuram,Female,In Movement,639
+32,14,Rural,50-59,KERALA,Thiruvananthapuram,Female,In Movement,608
+32,14,Rural,60-69,KERALA,Thiruvananthapuram,Female,In Movement,639
+32,14,Rural,70-79,KERALA,Thiruvananthapuram,Female,In Movement,393
+32,14,Rural,80-89,KERALA,Thiruvananthapuram,Female,In Movement,224
+32,14,Rural,90+,KERALA,Thiruvananthapuram,Female,In Movement,63
+32,14,Rural,Age Not Stated,KERALA,Thiruvananthapuram,Female,In Movement,8
+32,14,Urban,0-4,KERALA,Thiruvananthapuram,Female,In Movement,49
+32,14,Urban,5-9,KERALA,Thiruvananthapuram,Female,In Movement,69
+32,14,Urban,10-19,KERALA,Thiruvananthapuram,Female,In Movement,175
+32,14,Urban,20-29,KERALA,Thiruvananthapuram,Female,In Movement,392
+32,14,Urban,30-39,KERALA,Thiruvananthapuram,Female,In Movement,595
+32,14,Urban,40-49,KERALA,Thiruvananthapuram,Female,In Movement,628
+32,14,Urban,50-59,KERALA,Thiruvananthapuram,Female,In Movement,763
+32,14,Urban,60-69,KERALA,Thiruvananthapuram,Female,In Movement,672
+32,14,Urban,70-79,KERALA,Thiruvananthapuram,Female,In Movement,461
+32,14,Urban,80-89,KERALA,Thiruvananthapuram,Female,In Movement,224
+32,14,Urban,90+,KERALA,Thiruvananthapuram,Female,In Movement,54
+32,14,Urban,Age Not Stated,KERALA,Thiruvananthapuram,Female,In Movement,0
+32,1,Rural,0-4,KERALA,Kasaragod,Male,Mental,13
+32,1,Rural,5-9,KERALA,Kasaragod,Male,Mental,65
+32,1,Rural,10-19,KERALA,Kasaragod,Male,Mental,241
+32,1,Rural,20-29,KERALA,Kasaragod,Male,Mental,343
+32,1,Rural,30-39,KERALA,Kasaragod,Male,Mental,301
+32,1,Rural,40-49,KERALA,Kasaragod,Male,Mental,264
+32,1,Rural,50-59,KERALA,Kasaragod,Male,Mental,192
+32,1,Rural,60-69,KERALA,Kasaragod,Male,Mental,77
+32,1,Rural,70-79,KERALA,Kasaragod,Male,Mental,37
+32,1,Rural,80-89,KERALA,Kasaragod,Male,Mental,7
+32,1,Rural,90+,KERALA,Kasaragod,Male,Mental,2
+32,1,Rural,Age Not Stated,KERALA,Kasaragod,Male,Mental,3
+32,1,Urban,0-4,KERALA,Kasaragod,Male,Mental,12
+32,1,Urban,5-9,KERALA,Kasaragod,Male,Mental,38
+32,1,Urban,10-19,KERALA,Kasaragod,Male,Mental,175
+32,1,Urban,20-29,KERALA,Kasaragod,Male,Mental,211
+32,1,Urban,30-39,KERALA,Kasaragod,Male,Mental,186
+32,1,Urban,40-49,KERALA,Kasaragod,Male,Mental,123
+32,1,Urban,50-59,KERALA,Kasaragod,Male,Mental,93
+32,1,Urban,60-69,KERALA,Kasaragod,Male,Mental,59
+32,1,Urban,70-79,KERALA,Kasaragod,Male,Mental,18
+32,1,Urban,80-89,KERALA,Kasaragod,Male,Mental,5
+32,1,Urban,90+,KERALA,Kasaragod,Male,Mental,3
+32,1,Urban,Age Not Stated,KERALA,Kasaragod,Male,Mental,10
+32,2,Rural,0-4,KERALA,Kannur,Male,Mental,14
+32,2,Rural,5-9,KERALA,Kannur,Male,Mental,54
+32,2,Rural,10-19,KERALA,Kannur,Male,Mental,232
+32,2,Rural,20-29,KERALA,Kannur,Male,Mental,303
+32,2,Rural,30-39,KERALA,Kannur,Male,Mental,421
+32,2,Rural,40-49,KERALA,Kannur,Male,Mental,369
+32,2,Rural,50-59,KERALA,Kannur,Male,Mental,251
+32,2,Rural,60-69,KERALA,Kannur,Male,Mental,146
+32,2,Rural,70-79,KERALA,Kannur,Male,Mental,61
+32,2,Rural,80-89,KERALA,Kannur,Male,Mental,16
+32,2,Rural,90+,KERALA,Kannur,Male,Mental,3
+32,2,Rural,Age Not Stated,KERALA,Kannur,Male,Mental,2
+32,2,Urban,0-4,KERALA,Kannur,Male,Mental,20
+32,2,Urban,5-9,KERALA,Kannur,Male,Mental,98
+32,2,Urban,10-19,KERALA,Kannur,Male,Mental,391
+32,2,Urban,20-29,KERALA,Kannur,Male,Mental,536
+32,2,Urban,30-39,KERALA,Kannur,Male,Mental,628
+32,2,Urban,40-49,KERALA,Kannur,Male,Mental,573
+32,2,Urban,50-59,KERALA,Kannur,Male,Mental,342
+32,2,Urban,60-69,KERALA,Kannur,Male,Mental,161
+32,2,Urban,70-79,KERALA,Kannur,Male,Mental,57
+32,2,Urban,80-89,KERALA,Kannur,Male,Mental,12
+32,2,Urban,90+,KERALA,Kannur,Male,Mental,4
+32,2,Urban,Age Not Stated,KERALA,Kannur,Male,Mental,6
+32,3,Rural,0-4,KERALA,Wayanad,Male,Mental,18
+32,3,Rural,5-9,KERALA,Wayanad,Male,Mental,61
+32,3,Rural,10-19,KERALA,Wayanad,Male,Mental,230
+32,3,Rural,20-29,KERALA,Wayanad,Male,Mental,253
+32,3,Rural,30-39,KERALA,Wayanad,Male,Mental,279
+32,3,Rural,40-49,KERALA,Wayanad,Male,Mental,270
+32,3,Rural,50-59,KERALA,Wayanad,Male,Mental,184
+32,3,Rural,60-69,KERALA,Wayanad,Male,Mental,92
+32,3,Rural,70-79,KERALA,Wayanad,Male,Mental,25
+32,3,Rural,80-89,KERALA,Wayanad,Male,Mental,8
+32,3,Rural,90+,KERALA,Wayanad,Male,Mental,3
+32,3,Rural,Age Not Stated,KERALA,Wayanad,Male,Mental,2
+32,3,Urban,0-4,KERALA,Wayanad,Male,Mental,0
+32,3,Urban,5-9,KERALA,Wayanad,Male,Mental,1
+32,3,Urban,10-19,KERALA,Wayanad,Male,Mental,11
+32,3,Urban,20-29,KERALA,Wayanad,Male,Mental,9
+32,3,Urban,30-39,KERALA,Wayanad,Male,Mental,15
+32,3,Urban,40-49,KERALA,Wayanad,Male,Mental,11
+32,3,Urban,50-59,KERALA,Wayanad,Male,Mental,5
+32,3,Urban,60-69,KERALA,Wayanad,Male,Mental,1
+32,3,Urban,70-79,KERALA,Wayanad,Male,Mental,1
+32,3,Urban,80-89,KERALA,Wayanad,Male,Mental,0
+32,3,Urban,90+,KERALA,Wayanad,Male,Mental,0
+32,3,Urban,Age Not Stated,KERALA,Wayanad,Male,Mental,0
+32,4,Rural,0-4,KERALA,Kozhikode,Male,Mental,11
+32,4,Rural,5-9,KERALA,Kozhikode,Male,Mental,78
+32,4,Rural,10-19,KERALA,Kozhikode,Male,Mental,306
+32,4,Rural,20-29,KERALA,Kozhikode,Male,Mental,454
+32,4,Rural,30-39,KERALA,Kozhikode,Male,Mental,503
+32,4,Rural,40-49,KERALA,Kozhikode,Male,Mental,405
+32,4,Rural,50-59,KERALA,Kozhikode,Male,Mental,328
+32,4,Rural,60-69,KERALA,Kozhikode,Male,Mental,168
+32,4,Rural,70-79,KERALA,Kozhikode,Male,Mental,77
+32,4,Rural,80-89,KERALA,Kozhikode,Male,Mental,30
+32,4,Rural,90+,KERALA,Kozhikode,Male,Mental,7
+32,4,Rural,Age Not Stated,KERALA,Kozhikode,Male,Mental,2
+32,4,Urban,0-4,KERALA,Kozhikode,Male,Mental,29
+32,4,Urban,5-9,KERALA,Kozhikode,Male,Mental,132
+32,4,Urban,10-19,KERALA,Kozhikode,Male,Mental,622
+32,4,Urban,20-29,KERALA,Kozhikode,Male,Mental,825
+32,4,Urban,30-39,KERALA,Kozhikode,Male,Mental,1048
+32,4,Urban,40-49,KERALA,Kozhikode,Male,Mental,1054
+32,4,Urban,50-59,KERALA,Kozhikode,Male,Mental,687
+32,4,Urban,60-69,KERALA,Kozhikode,Male,Mental,312
+32,4,Urban,70-79,KERALA,Kozhikode,Male,Mental,141
+32,4,Urban,80-89,KERALA,Kozhikode,Male,Mental,34
+32,4,Urban,90+,KERALA,Kozhikode,Male,Mental,8
+32,4,Urban,Age Not Stated,KERALA,Kozhikode,Male,Mental,7
+32,5,Rural,0-4,KERALA,Malappuram,Male,Mental,43
+32,5,Rural,5-9,KERALA,Malappuram,Male,Mental,195
+32,5,Rural,10-19,KERALA,Malappuram,Male,Mental,843
+32,5,Rural,20-29,KERALA,Malappuram,Male,Mental,1048
+32,5,Rural,30-39,KERALA,Malappuram,Male,Mental,985
+32,5,Rural,40-49,KERALA,Malappuram,Male,Mental,775
+32,5,Rural,50-59,KERALA,Malappuram,Male,Mental,506
+32,5,Rural,60-69,KERALA,Malappuram,Male,Mental,296
+32,5,Rural,70-79,KERALA,Malappuram,Male,Mental,96
+32,5,Rural,80-89,KERALA,Malappuram,Male,Mental,28
+32,5,Rural,90+,KERALA,Malappuram,Male,Mental,3
+32,5,Rural,Age Not Stated,KERALA,Malappuram,Male,Mental,158
+32,5,Urban,0-4,KERALA,Malappuram,Male,Mental,37
+32,5,Urban,5-9,KERALA,Malappuram,Male,Mental,145
+32,5,Urban,10-19,KERALA,Malappuram,Male,Mental,651
+32,5,Urban,20-29,KERALA,Malappuram,Male,Mental,828
+32,5,Urban,30-39,KERALA,Malappuram,Male,Mental,750
+32,5,Urban,40-49,KERALA,Malappuram,Male,Mental,664
+32,5,Urban,50-59,KERALA,Malappuram,Male,Mental,398
+32,5,Urban,60-69,KERALA,Malappuram,Male,Mental,224
+32,5,Urban,70-79,KERALA,Malappuram,Male,Mental,68
+32,5,Urban,80-89,KERALA,Malappuram,Male,Mental,22
+32,5,Urban,90+,KERALA,Malappuram,Male,Mental,2
+32,5,Urban,Age Not Stated,KERALA,Malappuram,Male,Mental,4
+32,6,Rural,0-4,KERALA,Palakkad,Male,Mental,26
+32,6,Rural,5-9,KERALA,Palakkad,Male,Mental,121
+32,6,Rural,10-19,KERALA,Palakkad,Male,Mental,506
+32,6,Rural,20-29,KERALA,Palakkad,Male,Mental,747
+32,6,Rural,30-39,KERALA,Palakkad,Male,Mental,827
+32,6,Rural,40-49,KERALA,Palakkad,Male,Mental,768
+32,6,Rural,50-59,KERALA,Palakkad,Male,Mental,451
+32,6,Rural,60-69,KERALA,Palakkad,Male,Mental,233
+32,6,Rural,70-79,KERALA,Palakkad,Male,Mental,75
+32,6,Rural,80-89,KERALA,Palakkad,Male,Mental,27
+32,6,Rural,90+,KERALA,Palakkad,Male,Mental,5
+32,6,Rural,Age Not Stated,KERALA,Palakkad,Male,Mental,15
+32,6,Urban,0-4,KERALA,Palakkad,Male,Mental,4
+32,6,Urban,5-9,KERALA,Palakkad,Male,Mental,47
+32,6,Urban,10-19,KERALA,Palakkad,Male,Mental,158
+32,6,Urban,20-29,KERALA,Palakkad,Male,Mental,220
+32,6,Urban,30-39,KERALA,Palakkad,Male,Mental,244
+32,6,Urban,40-49,KERALA,Palakkad,Male,Mental,232
+32,6,Urban,50-59,KERALA,Palakkad,Male,Mental,144
+32,6,Urban,60-69,KERALA,Palakkad,Male,Mental,57
+32,6,Urban,70-79,KERALA,Palakkad,Male,Mental,20
+32,6,Urban,80-89,KERALA,Palakkad,Male,Mental,4
+32,6,Urban,90+,KERALA,Palakkad,Male,Mental,1
+32,6,Urban,Age Not Stated,KERALA,Palakkad,Male,Mental,1
+32,7,Rural,0-4,KERALA,Thrissur,Male,Mental,24
+32,7,Rural,5-9,KERALA,Thrissur,Male,Mental,71
+32,7,Rural,10-19,KERALA,Thrissur,Male,Mental,314
+32,7,Rural,20-29,KERALA,Thrissur,Male,Mental,374
+32,7,Rural,30-39,KERALA,Thrissur,Male,Mental,484
+32,7,Rural,40-49,KERALA,Thrissur,Male,Mental,537
+32,7,Rural,50-59,KERALA,Thrissur,Male,Mental,337
+32,7,Rural,60-69,KERALA,Thrissur,Male,Mental,170
+32,7,Rural,70-79,KERALA,Thrissur,Male,Mental,67
+32,7,Rural,80-89,KERALA,Thrissur,Male,Mental,15
+32,7,Rural,90+,KERALA,Thrissur,Male,Mental,1
+32,7,Rural,Age Not Stated,KERALA,Thrissur,Male,Mental,4
+32,7,Urban,0-4,KERALA,Thrissur,Male,Mental,32
+32,7,Urban,5-9,KERALA,Thrissur,Male,Mental,139
+32,7,Urban,10-19,KERALA,Thrissur,Male,Mental,580
+32,7,Urban,20-29,KERALA,Thrissur,Male,Mental,665
+32,7,Urban,30-39,KERALA,Thrissur,Male,Mental,847
+32,7,Urban,40-49,KERALA,Thrissur,Male,Mental,943
+32,7,Urban,50-59,KERALA,Thrissur,Male,Mental,582
+32,7,Urban,60-69,KERALA,Thrissur,Male,Mental,271
+32,7,Urban,70-79,KERALA,Thrissur,Male,Mental,105
+32,7,Urban,80-89,KERALA,Thrissur,Male,Mental,25
+32,7,Urban,90+,KERALA,Thrissur,Male,Mental,3
+32,7,Urban,Age Not Stated,KERALA,Thrissur,Male,Mental,25
+32,8,Rural,0-4,KERALA,Ernakulam,Male,Mental,20
+32,8,Rural,5-9,KERALA,Ernakulam,Male,Mental,82
+32,8,Rural,10-19,KERALA,Ernakulam,Male,Mental,276
+32,8,Rural,20-29,KERALA,Ernakulam,Male,Mental,324
+32,8,Rural,30-39,KERALA,Ernakulam,Male,Mental,421
+32,8,Rural,40-49,KERALA,Ernakulam,Male,Mental,530
+32,8,Rural,50-59,KERALA,Ernakulam,Male,Mental,367
+32,8,Rural,60-69,KERALA,Ernakulam,Male,Mental,168
+32,8,Rural,70-79,KERALA,Ernakulam,Male,Mental,57
+32,8,Rural,80-89,KERALA,Ernakulam,Male,Mental,22
+32,8,Rural,90+,KERALA,Ernakulam,Male,Mental,0
+32,8,Rural,Age Not Stated,KERALA,Ernakulam,Male,Mental,3
+32,8,Urban,0-4,KERALA,Ernakulam,Male,Mental,35
+32,8,Urban,5-9,KERALA,Ernakulam,Male,Mental,139
+32,8,Urban,10-19,KERALA,Ernakulam,Male,Mental,539
+32,8,Urban,20-29,KERALA,Ernakulam,Male,Mental,631
+32,8,Urban,30-39,KERALA,Ernakulam,Male,Mental,807
+32,8,Urban,40-49,KERALA,Ernakulam,Male,Mental,790
+32,8,Urban,50-59,KERALA,Ernakulam,Male,Mental,503
+32,8,Urban,60-69,KERALA,Ernakulam,Male,Mental,257
+32,8,Urban,70-79,KERALA,Ernakulam,Male,Mental,78
+32,8,Urban,80-89,KERALA,Ernakulam,Male,Mental,16
+32,8,Urban,90+,KERALA,Ernakulam,Male,Mental,6
+32,8,Urban,Age Not Stated,KERALA,Ernakulam,Male,Mental,5
+32,9,Rural,0-4,KERALA,Idukki ,Male,Mental,16
+32,9,Rural,5-9,KERALA,Idukki ,Male,Mental,89
+32,9,Rural,10-19,KERALA,Idukki ,Male,Mental,265
+32,9,Rural,20-29,KERALA,Idukki ,Male,Mental,389
+32,9,Rural,30-39,KERALA,Idukki ,Male,Mental,415
+32,9,Rural,40-49,KERALA,Idukki ,Male,Mental,485
+32,9,Rural,50-59,KERALA,Idukki ,Male,Mental,379
+32,9,Rural,60-69,KERALA,Idukki ,Male,Mental,195
+32,9,Rural,70-79,KERALA,Idukki ,Male,Mental,64
+32,9,Rural,80-89,KERALA,Idukki ,Male,Mental,25
+32,9,Rural,90+,KERALA,Idukki ,Male,Mental,3
+32,9,Rural,Age Not Stated,KERALA,Idukki ,Male,Mental,3
+32,9,Urban,0-4,KERALA,Idukki ,Male,Mental,1
+32,9,Urban,5-9,KERALA,Idukki ,Male,Mental,3
+32,9,Urban,10-19,KERALA,Idukki ,Male,Mental,17
+32,9,Urban,20-29,KERALA,Idukki ,Male,Mental,17
+32,9,Urban,30-39,KERALA,Idukki ,Male,Mental,12
+32,9,Urban,40-49,KERALA,Idukki ,Male,Mental,13
+32,9,Urban,50-59,KERALA,Idukki ,Male,Mental,15
+32,9,Urban,60-69,KERALA,Idukki ,Male,Mental,5
+32,9,Urban,70-79,KERALA,Idukki ,Male,Mental,1
+32,9,Urban,80-89,KERALA,Idukki ,Male,Mental,1
+32,9,Urban,90+,KERALA,Idukki ,Male,Mental,0
+32,9,Urban,Age Not Stated,KERALA,Idukki ,Male,Mental,0
+32,10,Rural,0-4,KERALA,Kottayam,Male,Mental,32
+32,10,Rural,5-9,KERALA,Kottayam,Male,Mental,127
+32,10,Rural,10-19,KERALA,Kottayam,Male,Mental,474
+32,10,Rural,20-29,KERALA,Kottayam,Male,Mental,541
+32,10,Rural,30-39,KERALA,Kottayam,Male,Mental,661
+32,10,Rural,40-49,KERALA,Kottayam,Male,Mental,785
+32,10,Rural,50-59,KERALA,Kottayam,Male,Mental,566
+32,10,Rural,60-69,KERALA,Kottayam,Male,Mental,293
+32,10,Rural,70-79,KERALA,Kottayam,Male,Mental,134
+32,10,Rural,80-89,KERALA,Kottayam,Male,Mental,40
+32,10,Rural,90+,KERALA,Kottayam,Male,Mental,7
+32,10,Rural,Age Not Stated,KERALA,Kottayam,Male,Mental,4
+32,10,Urban,0-4,KERALA,Kottayam,Male,Mental,6
+32,10,Urban,5-9,KERALA,Kottayam,Male,Mental,30
+32,10,Urban,10-19,KERALA,Kottayam,Male,Mental,181
+32,10,Urban,20-29,KERALA,Kottayam,Male,Mental,178
+32,10,Urban,30-39,KERALA,Kottayam,Male,Mental,260
+32,10,Urban,40-49,KERALA,Kottayam,Male,Mental,283
+32,10,Urban,50-59,KERALA,Kottayam,Male,Mental,206
+32,10,Urban,60-69,KERALA,Kottayam,Male,Mental,86
+32,10,Urban,70-79,KERALA,Kottayam,Male,Mental,23
+32,10,Urban,80-89,KERALA,Kottayam,Male,Mental,13
+32,10,Urban,90+,KERALA,Kottayam,Male,Mental,2
+32,10,Urban,Age Not Stated,KERALA,Kottayam,Male,Mental,1
+32,11,Rural,0-4,KERALA,Alappuzha,Male,Mental,16
+32,11,Rural,5-9,KERALA,Alappuzha,Male,Mental,73
+32,11,Rural,10-19,KERALA,Alappuzha,Male,Mental,287
+32,11,Rural,20-29,KERALA,Alappuzha,Male,Mental,329
+32,11,Rural,30-39,KERALA,Alappuzha,Male,Mental,484
+32,11,Rural,40-49,KERALA,Alappuzha,Male,Mental,489
+32,11,Rural,50-59,KERALA,Alappuzha,Male,Mental,324
+32,11,Rural,60-69,KERALA,Alappuzha,Male,Mental,174
+32,11,Rural,70-79,KERALA,Alappuzha,Male,Mental,62
+32,11,Rural,80-89,KERALA,Alappuzha,Male,Mental,17
+32,11,Rural,90+,KERALA,Alappuzha,Male,Mental,1
+32,11,Rural,Age Not Stated,KERALA,Alappuzha,Male,Mental,1
+32,11,Urban,0-4,KERALA,Alappuzha,Male,Mental,25
+32,11,Urban,5-9,KERALA,Alappuzha,Male,Mental,85
+32,11,Urban,10-19,KERALA,Alappuzha,Male,Mental,353
+32,11,Urban,20-29,KERALA,Alappuzha,Male,Mental,396
+32,11,Urban,30-39,KERALA,Alappuzha,Male,Mental,474
+32,11,Urban,40-49,KERALA,Alappuzha,Male,Mental,501
+32,11,Urban,50-59,KERALA,Alappuzha,Male,Mental,319
+32,11,Urban,60-69,KERALA,Alappuzha,Male,Mental,149
+32,11,Urban,70-79,KERALA,Alappuzha,Male,Mental,55
+32,11,Urban,80-89,KERALA,Alappuzha,Male,Mental,23
+32,11,Urban,90+,KERALA,Alappuzha,Male,Mental,3
+32,11,Urban,Age Not Stated,KERALA,Alappuzha,Male,Mental,8
+32,12,Rural,0-4,KERALA,Pathanamthitta,Male,Mental,15
+32,12,Rural,5-9,KERALA,Pathanamthitta,Male,Mental,77
+32,12,Rural,10-19,KERALA,Pathanamthitta,Male,Mental,291
+32,12,Rural,20-29,KERALA,Pathanamthitta,Male,Mental,384
+32,12,Rural,30-39,KERALA,Pathanamthitta,Male,Mental,461
+32,12,Rural,40-49,KERALA,Pathanamthitta,Male,Mental,510
+32,12,Rural,50-59,KERALA,Pathanamthitta,Male,Mental,377
+32,12,Rural,60-69,KERALA,Pathanamthitta,Male,Mental,172
+32,12,Rural,70-79,KERALA,Pathanamthitta,Male,Mental,70
+32,12,Rural,80-89,KERALA,Pathanamthitta,Male,Mental,23
+32,12,Rural,90+,KERALA,Pathanamthitta,Male,Mental,2
+32,12,Rural,Age Not Stated,KERALA,Pathanamthitta,Male,Mental,2
+32,12,Urban,0-4,KERALA,Pathanamthitta,Male,Mental,1
+32,12,Urban,5-9,KERALA,Pathanamthitta,Male,Mental,4
+32,12,Urban,10-19,KERALA,Pathanamthitta,Male,Mental,30
+32,12,Urban,20-29,KERALA,Pathanamthitta,Male,Mental,38
+32,12,Urban,30-39,KERALA,Pathanamthitta,Male,Mental,50
+32,12,Urban,40-49,KERALA,Pathanamthitta,Male,Mental,49
+32,12,Urban,50-59,KERALA,Pathanamthitta,Male,Mental,37
+32,12,Urban,60-69,KERALA,Pathanamthitta,Male,Mental,15
+32,12,Urban,70-79,KERALA,Pathanamthitta,Male,Mental,3
+32,12,Urban,80-89,KERALA,Pathanamthitta,Male,Mental,2
+32,12,Urban,90+,KERALA,Pathanamthitta,Male,Mental,0
+32,12,Urban,Age Not Stated,KERALA,Pathanamthitta,Male,Mental,2
+32,13,Rural,0-4,KERALA,Kollam,Male,Mental,19
+32,13,Rural,5-9,KERALA,Kollam,Male,Mental,102
+32,13,Rural,10-19,KERALA,Kollam,Male,Mental,423
+32,13,Rural,20-29,KERALA,Kollam,Male,Mental,503
+32,13,Rural,30-39,KERALA,Kollam,Male,Mental,659
+32,13,Rural,40-49,KERALA,Kollam,Male,Mental,667
+32,13,Rural,50-59,KERALA,Kollam,Male,Mental,479
+32,13,Rural,60-69,KERALA,Kollam,Male,Mental,206
+32,13,Rural,70-79,KERALA,Kollam,Male,Mental,84
+32,13,Rural,80-89,KERALA,Kollam,Male,Mental,25
+32,13,Rural,90+,KERALA,Kollam,Male,Mental,4
+32,13,Rural,Age Not Stated,KERALA,Kollam,Male,Mental,4
+32,13,Urban,0-4,KERALA,Kollam,Male,Mental,13
+32,13,Urban,5-9,KERALA,Kollam,Male,Mental,65
+32,13,Urban,10-19,KERALA,Kollam,Male,Mental,319
+32,13,Urban,20-29,KERALA,Kollam,Male,Mental,460
+32,13,Urban,30-39,KERALA,Kollam,Male,Mental,550
+32,13,Urban,40-49,KERALA,Kollam,Male,Mental,533
+32,13,Urban,50-59,KERALA,Kollam,Male,Mental,324
+32,13,Urban,60-69,KERALA,Kollam,Male,Mental,172
+32,13,Urban,70-79,KERALA,Kollam,Male,Mental,39
+32,13,Urban,80-89,KERALA,Kollam,Male,Mental,23
+32,13,Urban,90+,KERALA,Kollam,Male,Mental,5
+32,13,Urban,Age Not Stated,KERALA,Kollam,Male,Mental,3
+32,14,Rural,0-4,KERALA,Thiruvananthapuram,Male,Mental,25
+32,14,Rural,5-9,KERALA,Thiruvananthapuram,Male,Mental,123
+32,14,Rural,10-19,KERALA,Thiruvananthapuram,Male,Mental,471
+32,14,Rural,20-29,KERALA,Thiruvananthapuram,Male,Mental,559
+32,14,Rural,30-39,KERALA,Thiruvananthapuram,Male,Mental,679
+32,14,Rural,40-49,KERALA,Thiruvananthapuram,Male,Mental,671
+32,14,Rural,50-59,KERALA,Thiruvananthapuram,Male,Mental,519
+32,14,Rural,60-69,KERALA,Thiruvananthapuram,Male,Mental,238
+32,14,Rural,70-79,KERALA,Thiruvananthapuram,Male,Mental,88
+32,14,Rural,80-89,KERALA,Thiruvananthapuram,Male,Mental,19
+32,14,Rural,90+,KERALA,Thiruvananthapuram,Male,Mental,4
+32,14,Rural,Age Not Stated,KERALA,Thiruvananthapuram,Male,Mental,7
+32,14,Urban,0-4,KERALA,Thiruvananthapuram,Male,Mental,34
+32,14,Urban,5-9,KERALA,Thiruvananthapuram,Male,Mental,119
+32,14,Urban,10-19,KERALA,Thiruvananthapuram,Male,Mental,534
+32,14,Urban,20-29,KERALA,Thiruvananthapuram,Male,Mental,588
+32,14,Urban,30-39,KERALA,Thiruvananthapuram,Male,Mental,666
+32,14,Urban,40-49,KERALA,Thiruvananthapuram,Male,Mental,705
+32,14,Urban,50-59,KERALA,Thiruvananthapuram,Male,Mental,435
+32,14,Urban,60-69,KERALA,Thiruvananthapuram,Male,Mental,230
+32,14,Urban,70-79,KERALA,Thiruvananthapuram,Male,Mental,81
+32,14,Urban,80-89,KERALA,Thiruvananthapuram,Male,Mental,15
+32,14,Urban,90+,KERALA,Thiruvananthapuram,Male,Mental,7
+32,14,Urban,Age Not Stated,KERALA,Thiruvananthapuram,Male,Mental,8
+32,1,Rural,0-4,KERALA,Kasaragod,Female,Mental,15
+32,1,Rural,5-9,KERALA,Kasaragod,Female,Mental,47
+32,1,Rural,10-19,KERALA,Kasaragod,Female,Mental,191
+32,1,Rural,20-29,KERALA,Kasaragod,Female,Mental,245
+32,1,Rural,30-39,KERALA,Kasaragod,Female,Mental,267
+32,1,Rural,40-49,KERALA,Kasaragod,Female,Mental,222
+32,1,Rural,50-59,KERALA,Kasaragod,Female,Mental,149
+32,1,Rural,60-69,KERALA,Kasaragod,Female,Mental,88
+32,1,Rural,70-79,KERALA,Kasaragod,Female,Mental,41
+32,1,Rural,80-89,KERALA,Kasaragod,Female,Mental,11
+32,1,Rural,90+,KERALA,Kasaragod,Female,Mental,5
+32,1,Rural,Age Not Stated,KERALA,Kasaragod,Female,Mental,0
+32,1,Urban,0-4,KERALA,Kasaragod,Female,Mental,8
+32,1,Urban,5-9,KERALA,Kasaragod,Female,Mental,42
+32,1,Urban,10-19,KERALA,Kasaragod,Female,Mental,121
+32,1,Urban,20-29,KERALA,Kasaragod,Female,Mental,160
+32,1,Urban,30-39,KERALA,Kasaragod,Female,Mental,144
+32,1,Urban,40-49,KERALA,Kasaragod,Female,Mental,102
+32,1,Urban,50-59,KERALA,Kasaragod,Female,Mental,65
+32,1,Urban,60-69,KERALA,Kasaragod,Female,Mental,56
+32,1,Urban,70-79,KERALA,Kasaragod,Female,Mental,27
+32,1,Urban,80-89,KERALA,Kasaragod,Female,Mental,8
+32,1,Urban,90+,KERALA,Kasaragod,Female,Mental,2
+32,1,Urban,Age Not Stated,KERALA,Kasaragod,Female,Mental,0
+32,2,Rural,0-4,KERALA,Kannur,Female,Mental,7
+32,2,Rural,5-9,KERALA,Kannur,Female,Mental,34
+32,2,Rural,10-19,KERALA,Kannur,Female,Mental,174
+32,2,Rural,20-29,KERALA,Kannur,Female,Mental,268
+32,2,Rural,30-39,KERALA,Kannur,Female,Mental,333
+32,2,Rural,40-49,KERALA,Kannur,Female,Mental,329
+32,2,Rural,50-59,KERALA,Kannur,Female,Mental,235
+32,2,Rural,60-69,KERALA,Kannur,Female,Mental,154
+32,2,Rural,70-79,KERALA,Kannur,Female,Mental,96
+32,2,Rural,80-89,KERALA,Kannur,Female,Mental,29
+32,2,Rural,90+,KERALA,Kannur,Female,Mental,4
+32,2,Rural,Age Not Stated,KERALA,Kannur,Female,Mental,10
+32,2,Urban,0-4,KERALA,Kannur,Female,Mental,21
+32,2,Urban,5-9,KERALA,Kannur,Female,Mental,60
+32,2,Urban,10-19,KERALA,Kannur,Female,Mental,309
+32,2,Urban,20-29,KERALA,Kannur,Female,Mental,400
+32,2,Urban,30-39,KERALA,Kannur,Female,Mental,513
+32,2,Urban,40-49,KERALA,Kannur,Female,Mental,460
+32,2,Urban,50-59,KERALA,Kannur,Female,Mental,314
+32,2,Urban,60-69,KERALA,Kannur,Female,Mental,238
+32,2,Urban,70-79,KERALA,Kannur,Female,Mental,143
+32,2,Urban,80-89,KERALA,Kannur,Female,Mental,58
+32,2,Urban,90+,KERALA,Kannur,Female,Mental,8
+32,2,Urban,Age Not Stated,KERALA,Kannur,Female,Mental,3
+32,3,Rural,0-4,KERALA,Wayanad,Female,Mental,9
+32,3,Rural,5-9,KERALA,Wayanad,Female,Mental,31
+32,3,Rural,10-19,KERALA,Wayanad,Female,Mental,138
+32,3,Rural,20-29,KERALA,Wayanad,Female,Mental,233
+32,3,Rural,30-39,KERALA,Wayanad,Female,Mental,303
+32,3,Rural,40-49,KERALA,Wayanad,Female,Mental,256
+32,3,Rural,50-59,KERALA,Wayanad,Female,Mental,203
+32,3,Rural,60-69,KERALA,Wayanad,Female,Mental,143
+32,3,Rural,70-79,KERALA,Wayanad,Female,Mental,62
+32,3,Rural,80-89,KERALA,Wayanad,Female,Mental,32
+32,3,Rural,90+,KERALA,Wayanad,Female,Mental,3
+32,3,Rural,Age Not Stated,KERALA,Wayanad,Female,Mental,0
+32,3,Urban,0-4,KERALA,Wayanad,Female,Mental,1
+32,3,Urban,5-9,KERALA,Wayanad,Female,Mental,2
+32,3,Urban,10-19,KERALA,Wayanad,Female,Mental,9
+32,3,Urban,20-29,KERALA,Wayanad,Female,Mental,10
+32,3,Urban,30-39,KERALA,Wayanad,Female,Mental,12
+32,3,Urban,40-49,KERALA,Wayanad,Female,Mental,4
+32,3,Urban,50-59,KERALA,Wayanad,Female,Mental,14
+32,3,Urban,60-69,KERALA,Wayanad,Female,Mental,5
+32,3,Urban,70-79,KERALA,Wayanad,Female,Mental,1
+32,3,Urban,80-89,KERALA,Wayanad,Female,Mental,0
+32,3,Urban,90+,KERALA,Wayanad,Female,Mental,0
+32,3,Urban,Age Not Stated,KERALA,Wayanad,Female,Mental,0
+32,4,Rural,0-4,KERALA,Kozhikode,Female,Mental,19
+32,4,Rural,5-9,KERALA,Kozhikode,Female,Mental,47
+32,4,Rural,10-19,KERALA,Kozhikode,Female,Mental,223
+32,4,Rural,20-29,KERALA,Kozhikode,Female,Mental,339
+32,4,Rural,30-39,KERALA,Kozhikode,Female,Mental,437
+32,4,Rural,40-49,KERALA,Kozhikode,Female,Mental,463
+32,4,Rural,50-59,KERALA,Kozhikode,Female,Mental,305
+32,4,Rural,60-69,KERALA,Kozhikode,Female,Mental,226
+32,4,Rural,70-79,KERALA,Kozhikode,Female,Mental,112
+32,4,Rural,80-89,KERALA,Kozhikode,Female,Mental,49
+32,4,Rural,90+,KERALA,Kozhikode,Female,Mental,9
+32,4,Rural,Age Not Stated,KERALA,Kozhikode,Female,Mental,2
+32,4,Urban,0-4,KERALA,Kozhikode,Female,Mental,15
+32,4,Urban,5-9,KERALA,Kozhikode,Female,Mental,88
+32,4,Urban,10-19,KERALA,Kozhikode,Female,Mental,372
+32,4,Urban,20-29,KERALA,Kozhikode,Female,Mental,602
+32,4,Urban,30-39,KERALA,Kozhikode,Female,Mental,845
+32,4,Urban,40-49,KERALA,Kozhikode,Female,Mental,911
+32,4,Urban,50-59,KERALA,Kozhikode,Female,Mental,641
+32,4,Urban,60-69,KERALA,Kozhikode,Female,Mental,440
+32,4,Urban,70-79,KERALA,Kozhikode,Female,Mental,230
+32,4,Urban,80-89,KERALA,Kozhikode,Female,Mental,99
+32,4,Urban,90+,KERALA,Kozhikode,Female,Mental,16
+32,4,Urban,Age Not Stated,KERALA,Kozhikode,Female,Mental,6
+32,5,Rural,0-4,KERALA,Malappuram,Female,Mental,40
+32,5,Rural,5-9,KERALA,Malappuram,Female,Mental,117
+32,5,Rural,10-19,KERALA,Malappuram,Female,Mental,597
+32,5,Rural,20-29,KERALA,Malappuram,Female,Mental,809
+32,5,Rural,30-39,KERALA,Malappuram,Female,Mental,839
+32,5,Rural,40-49,KERALA,Malappuram,Female,Mental,733
+32,5,Rural,50-59,KERALA,Malappuram,Female,Mental,537
+32,5,Rural,60-69,KERALA,Malappuram,Female,Mental,399
+32,5,Rural,70-79,KERALA,Malappuram,Female,Mental,178
+32,5,Rural,80-89,KERALA,Malappuram,Female,Mental,76
+32,5,Rural,90+,KERALA,Malappuram,Female,Mental,5
+32,5,Rural,Age Not Stated,KERALA,Malappuram,Female,Mental,170
+32,5,Urban,0-4,KERALA,Malappuram,Female,Mental,32
+32,5,Urban,5-9,KERALA,Malappuram,Female,Mental,97
+32,5,Urban,10-19,KERALA,Malappuram,Female,Mental,447
+32,5,Urban,20-29,KERALA,Malappuram,Female,Mental,672
+32,5,Urban,30-39,KERALA,Malappuram,Female,Mental,612
+32,5,Urban,40-49,KERALA,Malappuram,Female,Mental,513
+32,5,Urban,50-59,KERALA,Malappuram,Female,Mental,341
+32,5,Urban,60-69,KERALA,Malappuram,Female,Mental,290
+32,5,Urban,70-79,KERALA,Malappuram,Female,Mental,133
+32,5,Urban,80-89,KERALA,Malappuram,Female,Mental,47
+32,5,Urban,90+,KERALA,Malappuram,Female,Mental,8
+32,5,Urban,Age Not Stated,KERALA,Malappuram,Female,Mental,2
+32,6,Rural,0-4,KERALA,Palakkad,Female,Mental,19
+32,6,Rural,5-9,KERALA,Palakkad,Female,Mental,77
+32,6,Rural,10-19,KERALA,Palakkad,Female,Mental,370
+32,6,Rural,20-29,KERALA,Palakkad,Female,Mental,553
+32,6,Rural,30-39,KERALA,Palakkad,Female,Mental,699
+32,6,Rural,40-49,KERALA,Palakkad,Female,Mental,673
+32,6,Rural,50-59,KERALA,Palakkad,Female,Mental,474
+32,6,Rural,60-69,KERALA,Palakkad,Female,Mental,336
+32,6,Rural,70-79,KERALA,Palakkad,Female,Mental,174
+32,6,Rural,80-89,KERALA,Palakkad,Female,Mental,64
+32,6,Rural,90+,KERALA,Palakkad,Female,Mental,6
+32,6,Rural,Age Not Stated,KERALA,Palakkad,Female,Mental,2
+32,6,Urban,0-4,KERALA,Palakkad,Female,Mental,8
+32,6,Urban,5-9,KERALA,Palakkad,Female,Mental,18
+32,6,Urban,10-19,KERALA,Palakkad,Female,Mental,106
+32,6,Urban,20-29,KERALA,Palakkad,Female,Mental,172
+32,6,Urban,30-39,KERALA,Palakkad,Female,Mental,187
+32,6,Urban,40-49,KERALA,Palakkad,Female,Mental,182
+32,6,Urban,50-59,KERALA,Palakkad,Female,Mental,140
+32,6,Urban,60-69,KERALA,Palakkad,Female,Mental,75
+32,6,Urban,70-79,KERALA,Palakkad,Female,Mental,57
+32,6,Urban,80-89,KERALA,Palakkad,Female,Mental,17
+32,6,Urban,90+,KERALA,Palakkad,Female,Mental,2
+32,6,Urban,Age Not Stated,KERALA,Palakkad,Female,Mental,3
+32,7,Rural,0-4,KERALA,Thrissur,Female,Mental,20
+32,7,Rural,5-9,KERALA,Thrissur,Female,Mental,60
+32,7,Rural,10-19,KERALA,Thrissur,Female,Mental,225
+32,7,Rural,20-29,KERALA,Thrissur,Female,Mental,277
+32,7,Rural,30-39,KERALA,Thrissur,Female,Mental,446
+32,7,Rural,40-49,KERALA,Thrissur,Female,Mental,563
+32,7,Rural,50-59,KERALA,Thrissur,Female,Mental,377
+32,7,Rural,60-69,KERALA,Thrissur,Female,Mental,178
+32,7,Rural,70-79,KERALA,Thrissur,Female,Mental,128
+32,7,Rural,80-89,KERALA,Thrissur,Female,Mental,47
+32,7,Rural,90+,KERALA,Thrissur,Female,Mental,12
+32,7,Rural,Age Not Stated,KERALA,Thrissur,Female,Mental,5
+32,7,Urban,0-4,KERALA,Thrissur,Female,Mental,26
+32,7,Urban,5-9,KERALA,Thrissur,Female,Mental,100
+32,7,Urban,10-19,KERALA,Thrissur,Female,Mental,394
+32,7,Urban,20-29,KERALA,Thrissur,Female,Mental,524
+32,7,Urban,30-39,KERALA,Thrissur,Female,Mental,732
+32,7,Urban,40-49,KERALA,Thrissur,Female,Mental,832
+32,7,Urban,50-59,KERALA,Thrissur,Female,Mental,583
+32,7,Urban,60-69,KERALA,Thrissur,Female,Mental,439
+32,7,Urban,70-79,KERALA,Thrissur,Female,Mental,207
+32,7,Urban,80-89,KERALA,Thrissur,Female,Mental,81
+32,7,Urban,90+,KERALA,Thrissur,Female,Mental,7
+32,7,Urban,Age Not Stated,KERALA,Thrissur,Female,Mental,129
+32,8,Rural,0-4,KERALA,Ernakulam,Female,Mental,15
+32,8,Rural,5-9,KERALA,Ernakulam,Female,Mental,45
+32,8,Rural,10-19,KERALA,Ernakulam,Female,Mental,209
+32,8,Rural,20-29,KERALA,Ernakulam,Female,Mental,311
+32,8,Rural,30-39,KERALA,Ernakulam,Female,Mental,469
+32,8,Rural,40-49,KERALA,Ernakulam,Female,Mental,562
+32,8,Rural,50-59,KERALA,Ernakulam,Female,Mental,386
+32,8,Rural,60-69,KERALA,Ernakulam,Female,Mental,225
+32,8,Rural,70-79,KERALA,Ernakulam,Female,Mental,121
+32,8,Rural,80-89,KERALA,Ernakulam,Female,Mental,55
+32,8,Rural,90+,KERALA,Ernakulam,Female,Mental,4
+32,8,Rural,Age Not Stated,KERALA,Ernakulam,Female,Mental,18
+32,8,Urban,0-4,KERALA,Ernakulam,Female,Mental,20
+32,8,Urban,5-9,KERALA,Ernakulam,Female,Mental,108
+32,8,Urban,10-19,KERALA,Ernakulam,Female,Mental,363
+32,8,Urban,20-29,KERALA,Ernakulam,Female,Mental,464
+32,8,Urban,30-39,KERALA,Ernakulam,Female,Mental,701
+32,8,Urban,40-49,KERALA,Ernakulam,Female,Mental,691
+32,8,Urban,50-59,KERALA,Ernakulam,Female,Mental,533
+32,8,Urban,60-69,KERALA,Ernakulam,Female,Mental,351
+32,8,Urban,70-79,KERALA,Ernakulam,Female,Mental,174
+32,8,Urban,80-89,KERALA,Ernakulam,Female,Mental,73
+32,8,Urban,90+,KERALA,Ernakulam,Female,Mental,5
+32,8,Urban,Age Not Stated,KERALA,Ernakulam,Female,Mental,13
+32,9,Rural,0-4,KERALA,Idukki ,Female,Mental,7
+32,9,Rural,5-9,KERALA,Idukki ,Female,Mental,67
+32,9,Rural,10-19,KERALA,Idukki ,Female,Mental,205
+32,9,Rural,20-29,KERALA,Idukki ,Female,Mental,282
+32,9,Rural,30-39,KERALA,Idukki ,Female,Mental,387
+32,9,Rural,40-49,KERALA,Idukki ,Female,Mental,394
+32,9,Rural,50-59,KERALA,Idukki ,Female,Mental,282
+32,9,Rural,60-69,KERALA,Idukki ,Female,Mental,188
+32,9,Rural,70-79,KERALA,Idukki ,Female,Mental,111
+32,9,Rural,80-89,KERALA,Idukki ,Female,Mental,34
+32,9,Rural,90+,KERALA,Idukki ,Female,Mental,2
+32,9,Rural,Age Not Stated,KERALA,Idukki ,Female,Mental,3
+32,9,Urban,0-4,KERALA,Idukki ,Female,Mental,1
+32,9,Urban,5-9,KERALA,Idukki ,Female,Mental,3
+32,9,Urban,10-19,KERALA,Idukki ,Female,Mental,8
+32,9,Urban,20-29,KERALA,Idukki ,Female,Mental,10
+32,9,Urban,30-39,KERALA,Idukki ,Female,Mental,11
+32,9,Urban,40-49,KERALA,Idukki ,Female,Mental,8
+32,9,Urban,50-59,KERALA,Idukki ,Female,Mental,6
+32,9,Urban,60-69,KERALA,Idukki ,Female,Mental,6
+32,9,Urban,70-79,KERALA,Idukki ,Female,Mental,2
+32,9,Urban,80-89,KERALA,Idukki ,Female,Mental,3
+32,9,Urban,90+,KERALA,Idukki ,Female,Mental,0
+32,9,Urban,Age Not Stated,KERALA,Idukki ,Female,Mental,0
+32,10,Rural,0-4,KERALA,Kottayam,Female,Mental,22
+32,10,Rural,5-9,KERALA,Kottayam,Female,Mental,70
+32,10,Rural,10-19,KERALA,Kottayam,Female,Mental,298
+32,10,Rural,20-29,KERALA,Kottayam,Female,Mental,405
+32,10,Rural,30-39,KERALA,Kottayam,Female,Mental,611
+32,10,Rural,40-49,KERALA,Kottayam,Female,Mental,648
+32,10,Rural,50-59,KERALA,Kottayam,Female,Mental,518
+32,10,Rural,60-69,KERALA,Kottayam,Female,Mental,311
+32,10,Rural,70-79,KERALA,Kottayam,Female,Mental,175
+32,10,Rural,80-89,KERALA,Kottayam,Female,Mental,90
+32,10,Rural,90+,KERALA,Kottayam,Female,Mental,13
+32,10,Rural,Age Not Stated,KERALA,Kottayam,Female,Mental,10
+32,10,Urban,0-4,KERALA,Kottayam,Female,Mental,7
+32,10,Urban,5-9,KERALA,Kottayam,Female,Mental,33
+32,10,Urban,10-19,KERALA,Kottayam,Female,Mental,127
+32,10,Urban,20-29,KERALA,Kottayam,Female,Mental,155
+32,10,Urban,30-39,KERALA,Kottayam,Female,Mental,257
+32,10,Urban,40-49,KERALA,Kottayam,Female,Mental,256
+32,10,Urban,50-59,KERALA,Kottayam,Female,Mental,151
+32,10,Urban,60-69,KERALA,Kottayam,Female,Mental,112
+32,10,Urban,70-79,KERALA,Kottayam,Female,Mental,67
+32,10,Urban,80-89,KERALA,Kottayam,Female,Mental,21
+32,10,Urban,90+,KERALA,Kottayam,Female,Mental,4
+32,10,Urban,Age Not Stated,KERALA,Kottayam,Female,Mental,2
+32,11,Rural,0-4,KERALA,Alappuzha,Female,Mental,27
+32,11,Rural,5-9,KERALA,Alappuzha,Female,Mental,55
+32,11,Rural,10-19,KERALA,Alappuzha,Female,Mental,223
+32,11,Rural,20-29,KERALA,Alappuzha,Female,Mental,258
+32,11,Rural,30-39,KERALA,Alappuzha,Female,Mental,363
+32,11,Rural,40-49,KERALA,Alappuzha,Female,Mental,398
+32,11,Rural,50-59,KERALA,Alappuzha,Female,Mental,334
+32,11,Rural,60-69,KERALA,Alappuzha,Female,Mental,228
+32,11,Rural,70-79,KERALA,Alappuzha,Female,Mental,128
+32,11,Rural,80-89,KERALA,Alappuzha,Female,Mental,50
+32,11,Rural,90+,KERALA,Alappuzha,Female,Mental,14
+32,11,Rural,Age Not Stated,KERALA,Alappuzha,Female,Mental,4
+32,11,Urban,0-4,KERALA,Alappuzha,Female,Mental,20
+32,11,Urban,5-9,KERALA,Alappuzha,Female,Mental,59
+32,11,Urban,10-19,KERALA,Alappuzha,Female,Mental,248
+32,11,Urban,20-29,KERALA,Alappuzha,Female,Mental,278
+32,11,Urban,30-39,KERALA,Alappuzha,Female,Mental,440
+32,11,Urban,40-49,KERALA,Alappuzha,Female,Mental,496
+32,11,Urban,50-59,KERALA,Alappuzha,Female,Mental,354
+32,11,Urban,60-69,KERALA,Alappuzha,Female,Mental,226
+32,11,Urban,70-79,KERALA,Alappuzha,Female,Mental,149
+32,11,Urban,80-89,KERALA,Alappuzha,Female,Mental,54
+32,11,Urban,90+,KERALA,Alappuzha,Female,Mental,6
+32,11,Urban,Age Not Stated,KERALA,Alappuzha,Female,Mental,6
+32,12,Rural,0-4,KERALA,Pathanamthitta,Female,Mental,15
+32,12,Rural,5-9,KERALA,Pathanamthitta,Female,Mental,44
+32,12,Rural,10-19,KERALA,Pathanamthitta,Female,Mental,207
+32,12,Rural,20-29,KERALA,Pathanamthitta,Female,Mental,300
+32,12,Rural,30-39,KERALA,Pathanamthitta,Female,Mental,425
+32,12,Rural,40-49,KERALA,Pathanamthitta,Female,Mental,411
+32,12,Rural,50-59,KERALA,Pathanamthitta,Female,Mental,311
+32,12,Rural,60-69,KERALA,Pathanamthitta,Female,Mental,186
+32,12,Rural,70-79,KERALA,Pathanamthitta,Female,Mental,102
+32,12,Rural,80-89,KERALA,Pathanamthitta,Female,Mental,34
+32,12,Rural,90+,KERALA,Pathanamthitta,Female,Mental,10
+32,12,Rural,Age Not Stated,KERALA,Pathanamthitta,Female,Mental,1
+32,12,Urban,0-4,KERALA,Pathanamthitta,Female,Mental,2
+32,12,Urban,5-9,KERALA,Pathanamthitta,Female,Mental,6
+32,12,Urban,10-19,KERALA,Pathanamthitta,Female,Mental,17
+32,12,Urban,20-29,KERALA,Pathanamthitta,Female,Mental,31
+32,12,Urban,30-39,KERALA,Pathanamthitta,Female,Mental,32
+32,12,Urban,40-49,KERALA,Pathanamthitta,Female,Mental,52
+32,12,Urban,50-59,KERALA,Pathanamthitta,Female,Mental,31
+32,12,Urban,60-69,KERALA,Pathanamthitta,Female,Mental,23
+32,12,Urban,70-79,KERALA,Pathanamthitta,Female,Mental,8
+32,12,Urban,80-89,KERALA,Pathanamthitta,Female,Mental,9
+32,12,Urban,90+,KERALA,Pathanamthitta,Female,Mental,0
+32,12,Urban,Age Not Stated,KERALA,Pathanamthitta,Female,Mental,0
+32,13,Rural,0-4,KERALA,Kollam,Female,Mental,17
+32,13,Rural,5-9,KERALA,Kollam,Female,Mental,65
+32,13,Rural,10-19,KERALA,Kollam,Female,Mental,285
+32,13,Rural,20-29,KERALA,Kollam,Female,Mental,395
+32,13,Rural,30-39,KERALA,Kollam,Female,Mental,571
+32,13,Rural,40-49,KERALA,Kollam,Female,Mental,611
+32,13,Rural,50-59,KERALA,Kollam,Female,Mental,478
+32,13,Rural,60-69,KERALA,Kollam,Female,Mental,294
+32,13,Rural,70-79,KERALA,Kollam,Female,Mental,160
+32,13,Rural,80-89,KERALA,Kollam,Female,Mental,59
+32,13,Rural,90+,KERALA,Kollam,Female,Mental,3
+32,13,Rural,Age Not Stated,KERALA,Kollam,Female,Mental,10
+32,13,Urban,0-4,KERALA,Kollam,Female,Mental,20
+32,13,Urban,5-9,KERALA,Kollam,Female,Mental,65
+32,13,Urban,10-19,KERALA,Kollam,Female,Mental,224
+32,13,Urban,20-29,KERALA,Kollam,Female,Mental,324
+32,13,Urban,30-39,KERALA,Kollam,Female,Mental,457
+32,13,Urban,40-49,KERALA,Kollam,Female,Mental,501
+32,13,Urban,50-59,KERALA,Kollam,Female,Mental,350
+32,13,Urban,60-69,KERALA,Kollam,Female,Mental,179
+32,13,Urban,70-79,KERALA,Kollam,Female,Mental,85
+32,13,Urban,80-89,KERALA,Kollam,Female,Mental,52
+32,13,Urban,90+,KERALA,Kollam,Female,Mental,4
+32,13,Urban,Age Not Stated,KERALA,Kollam,Female,Mental,4
+32,14,Rural,0-4,KERALA,Thiruvananthapuram,Female,Mental,16
+32,14,Rural,5-9,KERALA,Thiruvananthapuram,Female,Mental,84
+32,14,Rural,10-19,KERALA,Thiruvananthapuram,Female,Mental,350
+32,14,Rural,20-29,KERALA,Thiruvananthapuram,Female,Mental,434
+32,14,Rural,30-39,KERALA,Thiruvananthapuram,Female,Mental,558
+32,14,Rural,40-49,KERALA,Thiruvananthapuram,Female,Mental,643
+32,14,Rural,50-59,KERALA,Thiruvananthapuram,Female,Mental,521
+32,14,Rural,60-69,KERALA,Thiruvananthapuram,Female,Mental,352
+32,14,Rural,70-79,KERALA,Thiruvananthapuram,Female,Mental,168
+32,14,Rural,80-89,KERALA,Thiruvananthapuram,Female,Mental,82
+32,14,Rural,90+,KERALA,Thiruvananthapuram,Female,Mental,8
+32,14,Rural,Age Not Stated,KERALA,Thiruvananthapuram,Female,Mental,7
+32,14,Urban,0-4,KERALA,Thiruvananthapuram,Female,Mental,17
+32,14,Urban,5-9,KERALA,Thiruvananthapuram,Female,Mental,61
+32,14,Urban,10-19,KERALA,Thiruvananthapuram,Female,Mental,358
+32,14,Urban,20-29,KERALA,Thiruvananthapuram,Female,Mental,417
+32,14,Urban,30-39,KERALA,Thiruvananthapuram,Female,Mental,542
+32,14,Urban,40-49,KERALA,Thiruvananthapuram,Female,Mental,611
+32,14,Urban,50-59,KERALA,Thiruvananthapuram,Female,Mental,510
+32,14,Urban,60-69,KERALA,Thiruvananthapuram,Female,Mental,324
+32,14,Urban,70-79,KERALA,Thiruvananthapuram,Female,Mental,171
+32,14,Urban,80-89,KERALA,Thiruvananthapuram,Female,Mental,49
+32,14,Urban,90+,KERALA,Thiruvananthapuram,Female,Mental,11
+32,14,Urban,Age Not Stated,KERALA,Thiruvananthapuram,Female,Mental,27

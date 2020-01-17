@@ -1,0 +1,481 @@
+State_Code,District_Code,Area_Type,Age_Group,State,City,Gender,Type,Rate
+30,1,Rural,0-4, GOA,North Goa ,Male,In seeing,40
+30,1,Rural,5-9, GOA,North Goa ,Male,In seeing,42
+30,1,Rural,10-19, GOA,North Goa ,Male,In seeing,96
+30,1,Rural,20-29, GOA,North Goa ,Male,In seeing,147
+30,1,Rural,30-39, GOA,North Goa ,Male,In seeing,129
+30,1,Rural,40-49, GOA,North Goa ,Male,In seeing,81
+30,1,Rural,50-59, GOA,North Goa ,Male,In seeing,86
+30,1,Rural,60-69, GOA,North Goa ,Male,In seeing,73
+30,1,Rural,70-79, GOA,North Goa ,Male,In seeing,40
+30,1,Rural,80-89, GOA,North Goa ,Male,In seeing,17
+30,1,Rural,90+, GOA,North Goa ,Male,In seeing,3
+30,1,Rural,Age not stated, GOA,North Goa ,Male,In seeing,0
+30,1,Urban,0-4, GOA,North Goa ,Male,In seeing,44
+30,1,Urban,5-9, GOA,North Goa ,Male,In seeing,34
+30,1,Urban,10-19, GOA,North Goa ,Male,In seeing,93
+30,1,Urban,20-29, GOA,North Goa ,Male,In seeing,91
+30,1,Urban,30-39, GOA,North Goa ,Male,In seeing,91
+30,1,Urban,40-49, GOA,North Goa ,Male,In seeing,69
+30,1,Urban,50-59, GOA,North Goa ,Male,In seeing,64
+30,1,Urban,60-69, GOA,North Goa ,Male,In seeing,53
+30,1,Urban,70-79, GOA,North Goa ,Male,In seeing,27
+30,1,Urban,80-89, GOA,North Goa ,Male,In seeing,12
+30,1,Urban,90+, GOA,North Goa ,Male,In seeing,2
+30,1,Urban,Age not stated, GOA,North Goa ,Male,In seeing,0
+30,2,Rural,0-4, GOA,South Goa ,Male,In seeing,24
+30,2,Rural,5-9, GOA,South Goa ,Male,In seeing,24
+30,2,Rural,10-19, GOA,South Goa ,Male,In seeing,57
+30,2,Rural,20-29, GOA,South Goa ,Male,In seeing,66
+30,2,Rural,30-39, GOA,South Goa ,Male,In seeing,50
+30,2,Rural,40-49, GOA,South Goa ,Male,In seeing,45
+30,2,Rural,50-59, GOA,South Goa ,Male,In seeing,52
+30,2,Rural,60-69, GOA,South Goa ,Male,In seeing,38
+30,2,Rural,70-79, GOA,South Goa ,Male,In seeing,24
+30,2,Rural,80-89, GOA,South Goa ,Male,In seeing,20
+30,2,Rural,90+, GOA,South Goa ,Male,In seeing,2
+30,2,Rural,Age not stated, GOA,South Goa ,Male,In seeing,1
+30,2,Urban,0-4, GOA,South Goa ,Male,In seeing,42
+30,2,Urban,5-9, GOA,South Goa ,Male,In seeing,35
+30,2,Urban,10-19, GOA,South Goa ,Male,In seeing,93
+30,2,Urban,20-29, GOA,South Goa ,Male,In seeing,110
+30,2,Urban,30-39, GOA,South Goa ,Male,In seeing,86
+30,2,Urban,40-49, GOA,South Goa ,Male,In seeing,65
+30,2,Urban,50-59, GOA,South Goa ,Male,In seeing,51
+30,2,Urban,60-69, GOA,South Goa ,Male,In seeing,53
+30,2,Urban,70-79, GOA,South Goa ,Male,In seeing,28
+30,2,Urban,80-89, GOA,South Goa ,Male,In seeing,11
+30,2,Urban,90+, GOA,South Goa ,Male,In seeing,5
+30,2,Urban,Age not stated, GOA,South Goa ,Male,In seeing,0
+30,1,Rural,0-4, GOA,North Goa ,Female,In seeing,37
+30,1,Rural,5-9, GOA,North Goa ,Female,In seeing,37
+30,1,Rural,10-19, GOA,North Goa ,Female,In seeing,94
+30,1,Rural,20-29, GOA,North Goa ,Female,In seeing,116
+30,1,Rural,30-39, GOA,North Goa ,Female,In seeing,101
+30,1,Rural,40-49, GOA,North Goa ,Female,In seeing,72
+30,1,Rural,50-59, GOA,North Goa ,Female,In seeing,71
+30,1,Rural,60-69, GOA,North Goa ,Female,In seeing,62
+30,1,Rural,70-79, GOA,North Goa ,Female,In seeing,45
+30,1,Rural,80-89, GOA,North Goa ,Female,In seeing,29
+30,1,Rural,90+, GOA,North Goa ,Female,In seeing,4
+30,1,Rural,Age not stated, GOA,North Goa ,Female,In seeing,1
+30,1,Urban,0-4, GOA,North Goa ,Female,In seeing,33
+30,1,Urban,5-9, GOA,North Goa ,Female,In seeing,18
+30,1,Urban,10-19, GOA,North Goa ,Female,In seeing,65
+30,1,Urban,20-29, GOA,North Goa ,Female,In seeing,83
+30,1,Urban,30-39, GOA,North Goa ,Female,In seeing,72
+30,1,Urban,40-49, GOA,North Goa ,Female,In seeing,65
+30,1,Urban,50-59, GOA,North Goa ,Female,In seeing,63
+30,1,Urban,60-69, GOA,North Goa ,Female,In seeing,51
+30,1,Urban,70-79, GOA,North Goa ,Female,In seeing,28
+30,1,Urban,80-89, GOA,North Goa ,Female,In seeing,12
+30,1,Urban,90+, GOA,North Goa ,Female,In seeing,9
+30,1,Urban,Age not stated, GOA,North Goa ,Female,In seeing,0
+30,2,Rural,0-4, GOA,South Goa ,Female,In seeing,21
+30,2,Rural,5-9, GOA,South Goa ,Female,In seeing,24
+30,2,Rural,10-19, GOA,South Goa ,Female,In seeing,56
+30,2,Rural,20-29, GOA,South Goa ,Female,In seeing,61
+30,2,Rural,30-39, GOA,South Goa ,Female,In seeing,52
+30,2,Rural,40-49, GOA,South Goa ,Female,In seeing,42
+30,2,Rural,50-59, GOA,South Goa ,Female,In seeing,43
+30,2,Rural,60-69, GOA,South Goa ,Female,In seeing,56
+30,2,Rural,70-79, GOA,South Goa ,Female,In seeing,43
+30,2,Rural,80-89, GOA,South Goa ,Female,In seeing,25
+30,2,Rural,90+, GOA,South Goa ,Female,In seeing,2
+30,2,Rural,Age not stated, GOA,South Goa ,Female,In seeing,0
+30,2,Urban,0-4, GOA,South Goa ,Female,In seeing,24
+30,2,Urban,5-9, GOA,South Goa ,Female,In seeing,30
+30,2,Urban,10-19, GOA,South Goa ,Female,In seeing,76
+30,2,Urban,20-29, GOA,South Goa ,Female,In seeing,72
+30,2,Urban,30-39, GOA,South Goa ,Female,In seeing,70
+30,2,Urban,40-49, GOA,South Goa ,Female,In seeing,44
+30,2,Urban,50-59, GOA,South Goa ,Female,In seeing,49
+30,2,Urban,60-69, GOA,South Goa ,Female,In seeing,57
+30,2,Urban,70-79, GOA,South Goa ,Female,In seeing,37
+30,2,Urban,80-89, GOA,South Goa ,Female,In seeing,20
+30,2,Urban,90+, GOA,South Goa ,Female,In seeing,4
+30,2,Urban,Age not stated, GOA,South Goa ,Female,In seeing,1
+30,1,Rural,0-4, GOA,North Goa ,Male,In speech,7
+30,1,Rural,5-9, GOA,North Goa ,Male,In speech,27
+30,1,Rural,10-19, GOA,North Goa ,Male,In speech,82
+30,1,Rural,20-29, GOA,North Goa ,Male,In speech,74
+30,1,Rural,30-39, GOA,North Goa ,Male,In speech,50
+30,1,Rural,40-49, GOA,North Goa ,Male,In speech,52
+30,1,Rural,50-59, GOA,North Goa ,Male,In speech,30
+30,1,Rural,60-69, GOA,North Goa ,Male,In speech,19
+30,1,Rural,70-79, GOA,North Goa ,Male,In speech,11
+30,1,Rural,80-89, GOA,North Goa ,Male,In speech,2
+30,1,Rural,90+, GOA,North Goa ,Male,In speech,1
+30,1,Rural,Age not stated, GOA,North Goa ,Male,In speech,0
+30,1,Urban,0-4, GOA,North Goa ,Male,In speech,6
+30,1,Urban,5-9, GOA,North Goa ,Male,In speech,31
+30,1,Urban,10-19, GOA,North Goa ,Male,In speech,53
+30,1,Urban,20-29, GOA,North Goa ,Male,In speech,45
+30,1,Urban,30-39, GOA,North Goa ,Male,In speech,32
+30,1,Urban,40-49, GOA,North Goa ,Male,In speech,25
+30,1,Urban,50-59, GOA,North Goa ,Male,In speech,19
+30,1,Urban,60-69, GOA,North Goa ,Male,In speech,11
+30,1,Urban,70-79, GOA,North Goa ,Male,In speech,7
+30,1,Urban,80-89, GOA,North Goa ,Male,In speech,0
+30,1,Urban,90+, GOA,North Goa ,Male,In speech,1
+30,1,Urban,Age not stated, GOA,North Goa ,Male,In speech,0
+30,2,Rural,0-4, GOA,South Goa ,Male,In speech,2
+30,2,Rural,5-9, GOA,South Goa ,Male,In speech,12
+30,2,Rural,10-19, GOA,South Goa ,Male,In speech,55
+30,2,Rural,20-29, GOA,South Goa ,Male,In speech,47
+30,2,Rural,30-39, GOA,South Goa ,Male,In speech,25
+30,2,Rural,40-49, GOA,South Goa ,Male,In speech,27
+30,2,Rural,50-59, GOA,South Goa ,Male,In speech,19
+30,2,Rural,60-69, GOA,South Goa ,Male,In speech,13
+30,2,Rural,70-79, GOA,South Goa ,Male,In speech,7
+30,2,Rural,80-89, GOA,South Goa ,Male,In speech,0
+30,2,Rural,90+, GOA,South Goa ,Male,In speech,1
+30,2,Rural,Age not stated, GOA,South Goa ,Male,In speech,0
+30,2,Urban,0-4, GOA,South Goa ,Male,In speech,5
+30,2,Urban,5-9, GOA,South Goa ,Male,In speech,27
+30,2,Urban,10-19, GOA,South Goa ,Male,In speech,63
+30,2,Urban,20-29, GOA,South Goa ,Male,In speech,54
+30,2,Urban,30-39, GOA,South Goa ,Male,In speech,35
+30,2,Urban,40-49, GOA,South Goa ,Male,In speech,24
+30,2,Urban,50-59, GOA,South Goa ,Male,In speech,19
+30,2,Urban,60-69, GOA,South Goa ,Male,In speech,11
+30,2,Urban,70-79, GOA,South Goa ,Male,In speech,3
+30,2,Urban,80-89, GOA,South Goa ,Male,In speech,2
+30,2,Urban,90+, GOA,South Goa ,Male,In speech,1
+30,2,Urban,Age not stated, GOA,South Goa ,Male,In speech,0
+30,1,Rural,0-4, GOA,North Goa ,Female,In speech,1
+30,1,Rural,5-9, GOA,North Goa ,Female,In speech,19
+30,1,Rural,10-19, GOA,North Goa ,Female,In speech,55
+30,1,Rural,20-29, GOA,North Goa ,Female,In speech,63
+30,1,Rural,30-39, GOA,North Goa ,Female,In speech,37
+30,1,Rural,40-49, GOA,North Goa ,Female,In speech,31
+30,1,Rural,50-59, GOA,North Goa ,Female,In speech,33
+30,1,Rural,60-69, GOA,North Goa ,Female,In speech,12
+30,1,Rural,70-79, GOA,North Goa ,Female,In speech,10
+30,1,Rural,80-89, GOA,North Goa ,Female,In speech,4
+30,1,Rural,90+, GOA,North Goa ,Female,In speech,2
+30,1,Rural,Age not stated, GOA,North Goa ,Female,In speech,1
+30,1,Urban,0-4, GOA,North Goa ,Female,In speech,3
+30,1,Urban,5-9, GOA,North Goa ,Female,In speech,17
+30,1,Urban,10-19, GOA,North Goa ,Female,In speech,44
+30,1,Urban,20-29, GOA,North Goa ,Female,In speech,39
+30,1,Urban,30-39, GOA,North Goa ,Female,In speech,27
+30,1,Urban,40-49, GOA,North Goa ,Female,In speech,19
+30,1,Urban,50-59, GOA,North Goa ,Female,In speech,19
+30,1,Urban,60-69, GOA,North Goa ,Female,In speech,17
+30,1,Urban,70-79, GOA,North Goa ,Female,In speech,6
+30,1,Urban,80-89, GOA,North Goa ,Female,In speech,0
+30,1,Urban,90+, GOA,North Goa ,Female,In speech,0
+30,1,Urban,Age not stated, GOA,North Goa ,Female,In speech,0
+30,2,Rural,0-4, GOA,South Goa ,Female,In speech,4
+30,2,Rural,5-9, GOA,South Goa ,Female,In speech,15
+30,2,Rural,10-19, GOA,South Goa ,Female,In speech,45
+30,2,Rural,20-29, GOA,South Goa ,Female,In speech,41
+30,2,Rural,30-39, GOA,South Goa ,Female,In speech,28
+30,2,Rural,40-49, GOA,South Goa ,Female,In speech,20
+30,2,Rural,50-59, GOA,South Goa ,Female,In speech,19
+30,2,Rural,60-69, GOA,South Goa ,Female,In speech,12
+30,2,Rural,70-79, GOA,South Goa ,Female,In speech,7
+30,2,Rural,80-89, GOA,South Goa ,Female,In speech,5
+30,2,Rural,90+, GOA,South Goa ,Female,In speech,1
+30,2,Rural,Age not stated, GOA,South Goa ,Female,In speech,0
+30,2,Urban,0-4, GOA,South Goa ,Female,In speech,3
+30,2,Urban,5-9, GOA,South Goa ,Female,In speech,17
+30,2,Urban,10-19, GOA,South Goa ,Female,In speech,47
+30,2,Urban,20-29, GOA,South Goa ,Female,In speech,49
+30,2,Urban,30-39, GOA,South Goa ,Female,In speech,23
+30,2,Urban,40-49, GOA,South Goa ,Female,In speech,14
+30,2,Urban,50-59, GOA,South Goa ,Female,In speech,12
+30,2,Urban,60-69, GOA,South Goa ,Female,In speech,8
+30,2,Urban,70-79, GOA,South Goa ,Female,In speech,2
+30,2,Urban,80-89, GOA,South Goa ,Female,In speech,0
+30,2,Urban,90+, GOA,South Goa ,Female,In speech,0
+30,2,Urban,Age not stated, GOA,South Goa ,Female,In speech,0
+30,1,Rural,0-4, GOA,North Goa ,Male,In hearing,2
+30,1,Rural,5-9, GOA,North Goa ,Male,In hearing,10
+30,1,Rural,10-19, GOA,North Goa ,Male,In hearing,35
+30,1,Rural,20-29, GOA,North Goa ,Male,In hearing,26
+30,1,Rural,30-39, GOA,North Goa ,Male,In hearing,15
+30,1,Rural,40-49, GOA,North Goa ,Male,In hearing,9
+30,1,Rural,50-59, GOA,North Goa ,Male,In hearing,19
+30,1,Rural,60-69, GOA,North Goa ,Male,In hearing,23
+30,1,Rural,70-79, GOA,North Goa ,Male,In hearing,18
+30,1,Rural,80-89, GOA,North Goa ,Male,In hearing,15
+30,1,Rural,90+, GOA,North Goa ,Male,In hearing,4
+30,1,Rural,Age not stated, GOA,North Goa ,Male,In hearing,0
+30,1,Urban,0-4, GOA,North Goa ,Male,In hearing,1
+30,1,Urban,5-9, GOA,North Goa ,Male,In hearing,2
+30,1,Urban,10-19, GOA,North Goa ,Male,In hearing,11
+30,1,Urban,20-29, GOA,North Goa ,Male,In hearing,7
+30,1,Urban,30-39, GOA,North Goa ,Male,In hearing,5
+30,1,Urban,40-49, GOA,North Goa ,Male,In hearing,8
+30,1,Urban,50-59, GOA,North Goa ,Male,In hearing,10
+30,1,Urban,60-69, GOA,North Goa ,Male,In hearing,9
+30,1,Urban,70-79, GOA,North Goa ,Male,In hearing,10
+30,1,Urban,80-89, GOA,North Goa ,Male,In hearing,10
+30,1,Urban,90+, GOA,North Goa ,Male,In hearing,3
+30,1,Urban,Age not stated, GOA,North Goa ,Male,In hearing,0
+30,2,Rural,0-4, GOA,South Goa ,Male,In hearing,2
+30,2,Rural,5-9, GOA,South Goa ,Male,In hearing,1
+30,2,Rural,10-19, GOA,South Goa ,Male,In hearing,22
+30,2,Rural,20-29, GOA,South Goa ,Male,In hearing,13
+30,2,Rural,30-39, GOA,South Goa ,Male,In hearing,10
+30,2,Rural,40-49, GOA,South Goa ,Male,In hearing,16
+30,2,Rural,50-59, GOA,South Goa ,Male,In hearing,13
+30,2,Rural,60-69, GOA,South Goa ,Male,In hearing,14
+30,2,Rural,70-79, GOA,South Goa ,Male,In hearing,18
+30,2,Rural,80-89, GOA,South Goa ,Male,In hearing,22
+30,2,Rural,90+, GOA,South Goa ,Male,In hearing,1
+30,2,Rural,Age not stated, GOA,South Goa ,Male,In hearing,0
+30,2,Urban,0-4, GOA,South Goa ,Male,In hearing,2
+30,2,Urban,5-9, GOA,South Goa ,Male,In hearing,5
+30,2,Urban,10-19, GOA,South Goa ,Male,In hearing,10
+30,2,Urban,20-29, GOA,South Goa ,Male,In hearing,12
+30,2,Urban,30-39, GOA,South Goa ,Male,In hearing,11
+30,2,Urban,40-49, GOA,South Goa ,Male,In hearing,6
+30,2,Urban,50-59, GOA,South Goa ,Male,In hearing,5
+30,2,Urban,60-69, GOA,South Goa ,Male,In hearing,7
+30,2,Urban,70-79, GOA,South Goa ,Male,In hearing,19
+30,2,Urban,80-89, GOA,South Goa ,Male,In hearing,7
+30,2,Urban,90+, GOA,South Goa ,Male,In hearing,3
+30,2,Urban,Age not stated, GOA,South Goa ,Male,In hearing,0
+30,1,Rural,0-4, GOA,North Goa ,Female,In hearing,1
+30,1,Rural,5-9, GOA,North Goa ,Female,In hearing,12
+30,1,Rural,10-19, GOA,North Goa ,Female,In hearing,26
+30,1,Rural,20-29, GOA,North Goa ,Female,In hearing,9
+30,1,Rural,30-39, GOA,North Goa ,Female,In hearing,12
+30,1,Rural,40-49, GOA,North Goa ,Female,In hearing,10
+30,1,Rural,50-59, GOA,North Goa ,Female,In hearing,26
+30,1,Rural,60-69, GOA,North Goa ,Female,In hearing,37
+30,1,Rural,70-79, GOA,North Goa ,Female,In hearing,18
+30,1,Rural,80-89, GOA,North Goa ,Female,In hearing,13
+30,1,Rural,90+, GOA,North Goa ,Female,In hearing,6
+30,1,Rural,Age not stated, GOA,North Goa ,Female,In hearing,0
+30,1,Urban,0-4, GOA,North Goa ,Female,In hearing,1
+30,1,Urban,5-9, GOA,North Goa ,Female,In hearing,5
+30,1,Urban,10-19, GOA,North Goa ,Female,In hearing,15
+30,1,Urban,20-29, GOA,North Goa ,Female,In hearing,9
+30,1,Urban,30-39, GOA,North Goa ,Female,In hearing,10
+30,1,Urban,40-49, GOA,North Goa ,Female,In hearing,9
+30,1,Urban,50-59, GOA,North Goa ,Female,In hearing,16
+30,1,Urban,60-69, GOA,North Goa ,Female,In hearing,17
+30,1,Urban,70-79, GOA,North Goa ,Female,In hearing,20
+30,1,Urban,80-89, GOA,North Goa ,Female,In hearing,11
+30,1,Urban,90+, GOA,North Goa ,Female,In hearing,4
+30,1,Urban,Age not stated, GOA,North Goa ,Female,In hearing,0
+30,2,Rural,0-4, GOA,South Goa ,Female,In hearing,1
+30,2,Rural,5-9, GOA,South Goa ,Female,In hearing,0
+30,2,Rural,10-19, GOA,South Goa ,Female,In hearing,13
+30,2,Rural,20-29, GOA,South Goa ,Female,In hearing,9
+30,2,Rural,30-39, GOA,South Goa ,Female,In hearing,18
+30,2,Rural,40-49, GOA,South Goa ,Female,In hearing,9
+30,2,Rural,50-59, GOA,South Goa ,Female,In hearing,11
+30,2,Rural,60-69, GOA,South Goa ,Female,In hearing,23
+30,2,Rural,70-79, GOA,South Goa ,Female,In hearing,30
+30,2,Rural,80-89, GOA,South Goa ,Female,In hearing,15
+30,2,Rural,90+, GOA,South Goa ,Female,In hearing,4
+30,2,Rural,Age not stated, GOA,South Goa ,Female,In hearing,0
+30,2,Urban,0-4, GOA,South Goa ,Female,In hearing,2
+30,2,Urban,5-9, GOA,South Goa ,Female,In hearing,4
+30,2,Urban,10-19, GOA,South Goa ,Female,In hearing,8
+30,2,Urban,20-29, GOA,South Goa ,Female,In hearing,7
+30,2,Urban,30-39, GOA,South Goa ,Female,In hearing,9
+30,2,Urban,40-49, GOA,South Goa ,Female,In hearing,10
+30,2,Urban,50-59, GOA,South Goa ,Female,In hearing,13
+30,2,Urban,60-69, GOA,South Goa ,Female,In hearing,22
+30,2,Urban,70-79, GOA,South Goa ,Female,In hearing,17
+30,2,Urban,80-89, GOA,South Goa ,Female,In hearing,15
+30,2,Urban,90+, GOA,South Goa ,Female,In hearing,2
+30,2,Urban,Age not stated, GOA,South Goa ,Female,In hearing,0
+30,1,Rural,0-4, GOA,North Goa ,Male,In movement,33
+30,1,Rural,5-9, GOA,North Goa ,Male,In movement,48
+30,1,Rural,10-19, GOA,North Goa ,Male,In movement,124
+30,1,Rural,20-29, GOA,North Goa ,Male,In movement,173
+30,1,Rural,30-39, GOA,North Goa ,Male,In movement,156
+30,1,Rural,40-49, GOA,North Goa ,Male,In movement,152
+30,1,Rural,50-59, GOA,North Goa ,Male,In movement,165
+30,1,Rural,60-69, GOA,North Goa ,Male,In movement,129
+30,1,Rural,70-79, GOA,North Goa ,Male,In movement,52
+30,1,Rural,80-89, GOA,North Goa ,Male,In movement,17
+30,1,Rural,90+, GOA,North Goa ,Male,In movement,3
+30,1,Rural,Age not stated, GOA,North Goa ,Male,In movement,0
+30,1,Urban,0-4, GOA,North Goa ,Male,In movement,12
+30,1,Urban,5-9, GOA,North Goa ,Male,In movement,31
+30,1,Urban,10-19, GOA,North Goa ,Male,In movement,79
+30,1,Urban,20-29, GOA,North Goa ,Male,In movement,98
+30,1,Urban,30-39, GOA,North Goa ,Male,In movement,102
+30,1,Urban,40-49, GOA,North Goa ,Male,In movement,98
+30,1,Urban,50-59, GOA,North Goa ,Male,In movement,76
+30,1,Urban,60-69, GOA,North Goa ,Male,In movement,80
+30,1,Urban,70-79, GOA,North Goa ,Male,In movement,50
+30,1,Urban,80-89, GOA,North Goa ,Male,In movement,15
+30,1,Urban,90+, GOA,North Goa ,Male,In movement,3
+30,1,Urban,Age not stated, GOA,North Goa ,Male,In movement,0
+30,2,Rural,0-4, GOA,South Goa ,Male,In movement,16
+30,2,Rural,5-9, GOA,South Goa ,Male,In movement,32
+30,2,Rural,10-19, GOA,South Goa ,Male,In movement,77
+30,2,Rural,20-29, GOA,South Goa ,Male,In movement,107
+30,2,Rural,30-39, GOA,South Goa ,Male,In movement,103
+30,2,Rural,40-49, GOA,South Goa ,Male,In movement,84
+30,2,Rural,50-59, GOA,South Goa ,Male,In movement,95
+30,2,Rural,60-69, GOA,South Goa ,Male,In movement,100
+30,2,Rural,70-79, GOA,South Goa ,Male,In movement,46
+30,2,Rural,80-89, GOA,South Goa ,Male,In movement,22
+30,2,Rural,90+, GOA,South Goa ,Male,In movement,1
+30,2,Rural,Age not stated, GOA,South Goa ,Male,In movement,0
+30,2,Urban,0-4, GOA,South Goa ,Male,In movement,22
+30,2,Urban,5-9, GOA,South Goa ,Male,In movement,43
+30,2,Urban,10-19, GOA,South Goa ,Male,In movement,109
+30,2,Urban,20-29, GOA,South Goa ,Male,In movement,111
+30,2,Urban,30-39, GOA,South Goa ,Male,In movement,95
+30,2,Urban,40-49, GOA,South Goa ,Male,In movement,99
+30,2,Urban,50-59, GOA,South Goa ,Male,In movement,82
+30,2,Urban,60-69, GOA,South Goa ,Male,In movement,84
+30,2,Urban,70-79, GOA,South Goa ,Male,In movement,36
+30,2,Urban,80-89, GOA,South Goa ,Male,In movement,20
+30,2,Urban,90+, GOA,South Goa ,Male,In movement,2
+30,2,Urban,Age not stated, GOA,South Goa ,Male,In movement,0
+30,1,Rural,0-4, GOA,North Goa ,Female,In movement,17
+30,1,Rural,5-9, GOA,North Goa ,Female,In movement,40
+30,1,Rural,10-19, GOA,North Goa ,Female,In movement,76
+30,1,Rural,20-29, GOA,North Goa ,Female,In movement,100
+30,1,Rural,30-39, GOA,North Goa ,Female,In movement,87
+30,1,Rural,40-49, GOA,North Goa ,Female,In movement,47
+30,1,Rural,50-59, GOA,North Goa ,Female,In movement,49
+30,1,Rural,60-69, GOA,North Goa ,Female,In movement,68
+30,1,Rural,70-79, GOA,North Goa ,Female,In movement,36
+30,1,Rural,80-89, GOA,North Goa ,Female,In movement,14
+30,1,Rural,90+, GOA,North Goa ,Female,In movement,8
+30,1,Rural,Age not stated, GOA,North Goa ,Female,In movement,0
+30,1,Urban,0-4, GOA,North Goa ,Female,In movement,9
+30,1,Urban,5-9, GOA,North Goa ,Female,In movement,25
+30,1,Urban,10-19, GOA,North Goa ,Female,In movement,51
+30,1,Urban,20-29, GOA,North Goa ,Female,In movement,67
+30,1,Urban,30-39, GOA,North Goa ,Female,In movement,56
+30,1,Urban,40-49, GOA,North Goa ,Female,In movement,34
+30,1,Urban,50-59, GOA,North Goa ,Female,In movement,45
+30,1,Urban,60-69, GOA,North Goa ,Female,In movement,55
+30,1,Urban,70-79, GOA,North Goa ,Female,In movement,45
+30,1,Urban,80-89, GOA,North Goa ,Female,In movement,29
+30,1,Urban,90+, GOA,North Goa ,Female,In movement,2
+30,1,Urban,Age not stated, GOA,North Goa ,Female,In movement,1
+30,2,Rural,0-4, GOA,South Goa ,Female,In movement,2
+30,2,Rural,5-9, GOA,South Goa ,Female,In movement,13
+30,2,Rural,10-19, GOA,South Goa ,Female,In movement,66
+30,2,Rural,20-29, GOA,South Goa ,Female,In movement,72
+30,2,Rural,30-39, GOA,South Goa ,Female,In movement,37
+30,2,Rural,40-49, GOA,South Goa ,Female,In movement,38
+30,2,Rural,50-59, GOA,South Goa ,Female,In movement,39
+30,2,Rural,60-69, GOA,South Goa ,Female,In movement,55
+30,2,Rural,70-79, GOA,South Goa ,Female,In movement,61
+30,2,Rural,80-89, GOA,South Goa ,Female,In movement,29
+30,2,Rural,90+, GOA,South Goa ,Female,In movement,8
+30,2,Rural,Age not stated, GOA,South Goa ,Female,In movement,0
+30,2,Urban,0-4, GOA,South Goa ,Female,In movement,15
+30,2,Urban,5-9, GOA,South Goa ,Female,In movement,27
+30,2,Urban,10-19, GOA,South Goa ,Female,In movement,46
+30,2,Urban,20-29, GOA,South Goa ,Female,In movement,75
+30,2,Urban,30-39, GOA,South Goa ,Female,In movement,56
+30,2,Urban,40-49, GOA,South Goa ,Female,In movement,43
+30,2,Urban,50-59, GOA,South Goa ,Female,In movement,48
+30,2,Urban,60-69, GOA,South Goa ,Female,In movement,54
+30,2,Urban,70-79, GOA,South Goa ,Female,In movement,46
+30,2,Urban,80-89, GOA,South Goa ,Female,In movement,31
+30,2,Urban,90+, GOA,South Goa ,Female,In movement,6
+30,2,Urban,Age not stated, GOA,South Goa ,Female,In movement,0
+30,1,Rural,0-4, GOA,North Goa ,Male,Mental,6
+30,1,Rural,5-9, GOA,North Goa ,Male,Mental,39
+30,1,Rural,10-19, GOA,North Goa ,Male,Mental,155
+30,1,Rural,20-29, GOA,North Goa ,Male,Mental,151
+30,1,Rural,30-39, GOA,North Goa ,Male,Mental,143
+30,1,Rural,40-49, GOA,North Goa ,Male,Mental,105
+30,1,Rural,50-59, GOA,North Goa ,Male,Mental,72
+30,1,Rural,60-69, GOA,North Goa ,Male,Mental,34
+30,1,Rural,70-79, GOA,North Goa ,Male,Mental,9
+30,1,Rural,80-89, GOA,North Goa ,Male,Mental,8
+30,1,Rural,90+, GOA,North Goa ,Male,Mental,1
+30,1,Rural,Age not stated, GOA,North Goa ,Male,Mental,0
+30,1,Urban,0-4, GOA,North Goa ,Male,Mental,11
+30,1,Urban,5-9, GOA,North Goa ,Male,Mental,27
+30,1,Urban,10-19, GOA,North Goa ,Male,Mental,78
+30,1,Urban,20-29, GOA,North Goa ,Male,Mental,119
+30,1,Urban,30-39, GOA,North Goa ,Male,Mental,92
+30,1,Urban,40-49, GOA,North Goa ,Male,Mental,86
+30,1,Urban,50-59, GOA,North Goa ,Male,Mental,59
+30,1,Urban,60-69, GOA,North Goa ,Male,Mental,26
+30,1,Urban,70-79, GOA,North Goa ,Male,Mental,14
+30,1,Urban,80-89, GOA,North Goa ,Male,Mental,4
+30,1,Urban,90+, GOA,North Goa ,Male,Mental,1
+30,1,Urban,Age not stated, GOA,North Goa ,Male,Mental,0
+30,2,Rural,0-4, GOA,South Goa ,Male,Mental,5
+30,2,Rural,5-9, GOA,South Goa ,Male,Mental,21
+30,2,Rural,10-19, GOA,South Goa ,Male,Mental,69
+30,2,Rural,20-29, GOA,South Goa ,Male,Mental,72
+30,2,Rural,30-39, GOA,South Goa ,Male,Mental,70
+30,2,Rural,40-49, GOA,South Goa ,Male,Mental,61
+30,2,Rural,50-59, GOA,South Goa ,Male,Mental,35
+30,2,Rural,60-69, GOA,South Goa ,Male,Mental,21
+30,2,Rural,70-79, GOA,South Goa ,Male,Mental,4
+30,2,Rural,80-89, GOA,South Goa ,Male,Mental,2
+30,2,Rural,90+, GOA,South Goa ,Male,Mental,0
+30,2,Rural,Age not stated, GOA,South Goa ,Male,Mental,0
+30,2,Urban,0-4, GOA,South Goa ,Male,Mental,6
+30,2,Urban,5-9, GOA,South Goa ,Male,Mental,28
+30,2,Urban,10-19, GOA,South Goa ,Male,Mental,69
+30,2,Urban,20-29, GOA,South Goa ,Male,Mental,99
+30,2,Urban,30-39, GOA,South Goa ,Male,Mental,80
+30,2,Urban,40-49, GOA,South Goa ,Male,Mental,45
+30,2,Urban,50-59, GOA,South Goa ,Male,Mental,31
+30,2,Urban,60-69, GOA,South Goa ,Male,Mental,19
+30,2,Urban,70-79, GOA,South Goa ,Male,Mental,5
+30,2,Urban,80-89, GOA,South Goa ,Male,Mental,1
+30,2,Urban,90+, GOA,South Goa ,Male,Mental,0
+30,2,Urban,Age not stated, GOA,South Goa ,Male,Mental,0
+30,1,Rural,0-4, GOA,North Goa ,Female,Mental,6
+30,1,Rural,5-9, GOA,North Goa ,Female,Mental,22
+30,1,Rural,10-19, GOA,North Goa ,Female,Mental,103
+30,1,Rural,20-29, GOA,North Goa ,Female,Mental,113
+30,1,Rural,30-39, GOA,North Goa ,Female,Mental,100
+30,1,Rural,40-49, GOA,North Goa ,Female,Mental,83
+30,1,Rural,50-59, GOA,North Goa ,Female,Mental,58
+30,1,Rural,60-69, GOA,North Goa ,Female,Mental,50
+30,1,Rural,70-79, GOA,North Goa ,Female,Mental,31
+30,1,Rural,80-89, GOA,North Goa ,Female,Mental,13
+30,1,Rural,90+, GOA,North Goa ,Female,Mental,1
+30,1,Rural,Age not stated, GOA,North Goa ,Female,Mental,0
+30,1,Urban,0-4, GOA,North Goa ,Female,Mental,7
+30,1,Urban,5-9, GOA,North Goa ,Female,Mental,26
+30,1,Urban,10-19, GOA,North Goa ,Female,Mental,49
+30,1,Urban,20-29, GOA,North Goa ,Female,Mental,92
+30,1,Urban,30-39, GOA,North Goa ,Female,Mental,79
+30,1,Urban,40-49, GOA,North Goa ,Female,Mental,69
+30,1,Urban,50-59, GOA,North Goa ,Female,Mental,37
+30,1,Urban,60-69, GOA,North Goa ,Female,Mental,35
+30,1,Urban,70-79, GOA,North Goa ,Female,Mental,33
+30,1,Urban,80-89, GOA,North Goa ,Female,Mental,10
+30,1,Urban,90+, GOA,North Goa ,Female,Mental,5
+30,1,Urban,Age not stated, GOA,North Goa ,Female,Mental,0
+30,2,Rural,0-4, GOA,South Goa ,Female,Mental,2
+30,2,Rural,5-9, GOA,South Goa ,Female,Mental,16
+30,2,Rural,10-19, GOA,South Goa ,Female,Mental,55
+30,2,Rural,20-29, GOA,South Goa ,Female,Mental,69
+30,2,Rural,30-39, GOA,South Goa ,Female,Mental,59
+30,2,Rural,40-49, GOA,South Goa ,Female,Mental,41
+30,2,Rural,50-59, GOA,South Goa ,Female,Mental,25
+30,2,Rural,60-69, GOA,South Goa ,Female,Mental,22
+30,2,Rural,70-79, GOA,South Goa ,Female,Mental,12
+30,2,Rural,80-89, GOA,South Goa ,Female,Mental,5
+30,2,Rural,90+, GOA,South Goa ,Female,Mental,3
+30,2,Rural,Age not stated, GOA,South Goa ,Female,Mental,0
+30,2,Urban,0-4, GOA,South Goa ,Female,Mental,4
+30,2,Urban,5-9, GOA,South Goa ,Female,Mental,16
+30,2,Urban,10-19, GOA,South Goa ,Female,Mental,48
+30,2,Urban,20-29, GOA,South Goa ,Female,Mental,56
+30,2,Urban,30-39, GOA,South Goa ,Female,Mental,51
+30,2,Urban,40-49, GOA,South Goa ,Female,Mental,31
+30,2,Urban,50-59, GOA,South Goa ,Female,Mental,28
+30,2,Urban,60-69, GOA,South Goa ,Female,Mental,15
+30,2,Urban,70-79, GOA,South Goa ,Female,Mental,8
+30,2,Urban,80-89, GOA,South Goa ,Female,Mental,5
+30,2,Urban,90+, GOA,South Goa ,Female,Mental,2
+30,2,Urban,Age not stated, GOA,South Goa ,Female,Mental,0
