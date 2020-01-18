@@ -13,10 +13,10 @@ files 2001.csv & 2011.csv are the final data we insert into the warehouse using 
 # Database Connection and project importation
 
 It's better to use this configuration below because my database configuration was like this, to import the project and to run jobs easy.
-Database connection :
+    user : root
+    password : root
+make sure to run the file (./Data Integration and ETL/Disability Warehouse Creation Script.sql) to create the data warehouse
 
-user : root
-password : root
 
 when you import the project in Tatend Studio run job that has name "all_jobs.job" , We’ve created this global job to help us organize the sequence of execution of our elementary jobs.
 
